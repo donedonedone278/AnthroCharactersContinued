@@ -1,0 +1,14 @@
+{
+
+  "Name": "Anthro Characters Continued",
+   "Author": "Gaveliere (Twitter: @Gavelly) Blanchard a.k.a sion9000 (Twitter: @NekoBlanchard) Krystedez (Twitter: @ChiefKryz)",
+   "Description": "Overwrites every NPC sprite, portrait and event sprites, effectively transforming everyone into anthropormorphic animal characters. Art by Gav!",
+   "Version": "6.0.4",
+   "UniqueID": "sion9000.AnthroCharactersContinued",
+   "ContentPackFor": {
+		"UniqueID": "Pathoschild.ContentPatcher",
+		"MinimumVersion": "1.17.1",
+	},
+   "UpdateKeys": ["Nexus:1083"],
+   
+}
