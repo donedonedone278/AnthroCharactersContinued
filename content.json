@@ -1458,64 +1458,58 @@
 			"FromFile": "assets/LooseSprites/cowPhotosWinter.png",
 		},
 		{
-			"Action": "Load",
-			"Target": "LooseSprites/Cursors.de-DE",
-			"FromFile": "assets/LooseSprites/Cursors.de-DE.png",
-		},
-		{
-			"Action": "Load",
-			"Target": "LooseSprites/Cursors.es-ES",
-			"FromFile": "assets/LooseSprites/Cursors.es-ES.png",
-		},
-		{
-			"Action": "Load",
-			"Target": "LooseSprites/Cursors.fr-FR",
-			"FromFile": "assets/LooseSprites/Cursors.fr-FR.png",
-		},
-		{
-			"Action": "Load",
-			"Target": "LooseSprites/Cursors.hu-HU",
-			"FromFile": "assets/LooseSprites/Cursors.hu-HU.png",
-		},
-		{
-			"Action": "Load",
-			"Target": "LooseSprites/Cursors.it-IT",
-			"FromFile": "assets/LooseSprites/Cursors.it-IT.png",
-		},
-		{
-			"Action": "Load",
-			"Target": "LooseSprites/Cursors.ja-JP",
-			"FromFile": "assets/LooseSprites/Cursors.ja-JP.png",
-		},
-		{
-			"Action": "Load",
-			"Target": "LooseSprites/Cursors.ko-KR",
-			"FromFile": "assets/LooseSprites/Cursors.ko-KR.png",
-		},
-		{
-			"Action": "Load",
+			"Action": "EditImage",
 			"Target": "LooseSprites/Cursors",
-			"FromFile": "assets/LooseSprites/Cursors.png",
+			"FromFile": "assets/LooseSprites/Cursors_forecast.png",
+			"ToArea": { "X": 413, "Y": 305, "Width": 126, "Height": 28 }
 		},
 		{
-			"Action": "Load",
-			"Target": "LooseSprites/Cursors.pt-BR",
-			"FromFile": "assets/LooseSprites/Cursors.pt-BR.png",
+			"Action": "EditImage",
+			"Target": "LooseSprites/Cursors",
+			"FromFile": "assets/LooseSprites/Cursors_fortune.png",
+			"ToArea": { "X": 540, "Y": 305, "Width": 126, "Height": 28 }
 		},
 		{
-			"Action": "Load",
-			"Target": "LooseSprites/Cursors.ru-RU",
-			"FromFile": "assets/LooseSprites/Cursors.ru-RU.png",
+			"Action": "EditImage",
+			"Target": "LooseSprites/Cursors",
+			"FromFile": "assets/LooseSprites/Cursors_tv_shows.png",
+			"ToArea": { "X": 517, "Y": 361, "Width": 169, "Height": 28 }
 		},
 		{
-			"Action": "Load",
-			"Target": "LooseSprites/Cursors.tr-TR",
-			"FromFile": "assets/LooseSprites/Cursors.tr-TR.png",
+			"Action": "EditImage",
+			"Target": "LooseSprites/Cursors",
+			"FromFile": "assets/LooseSprites/Cursors_joja_man.png",
+			"ToArea": { "X": 96, "Y": 1312, "Width": 32, "Height": 48 }
 		},
 		{
-			"Action": "Load",
-			"Target": "LooseSprites/Cursors.zh-CN",
-			"FromFile": "assets/LooseSprites/Cursors.zh-CN.png",
+			"Action": "EditImage",
+			"Target": "LooseSprites/Cursors",
+			"FromFile": "assets/LooseSprites/Cursors_joja_victory_and_cart.png",
+			"ToArea": { "X": 0, "Y": 1388, "Width": 288, "Height": 64 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "LooseSprites/Cursors",
+			"FromFile": "assets/LooseSprites/Cursors_construction_and_pam_bus.png",
+			"ToArea": { "X": 288, "Y": 1311, "Width": 144, "Height": 141 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "LooseSprites/Cursors",
+			"FromFile": "assets/LooseSprites/Cursors_marnie_yay.png",
+			"ToArea": { "X": 544, "Y": 1424, "Width": 80, "Height": 28 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "LooseSprites/Cursors",
+			"FromFile": "assets/LooseSprites/Cursors_prarie_king_and_random_stuff.png",
+			"ToArea": { "X": 224, "Y": 1712, "Width": 400, "Height": 272 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "LooseSprites/Cursors",
+			"FromFile": "assets/LooseSprites/Cursors_marnie_paintings.png",
+			"ToArea": { "X": 0, "Y": 1925, "Width": 50, "Height": 47 }
 		},
 		{
 			"Action": "Load",
@@ -1754,9 +1748,16 @@
 			"FromFile": "assets/Maps/stadium_tiles.png",
 		},
 		{
-			"Action": "Load",
+			"Action": "EditImage",
 			"Target": "Maps/submarine_tilesheet",
-			"FromFile": "assets/Maps/submarine_tilesheet.png",
+			"FromFile": "assets/Maps/submarine_tilesheet_guy.png",
+			"ToArea": { "X": 16, "Y": 126, "Width": 16, "Height": 32 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Maps/submarine_tilesheet",
+			"FromFile": "assets/Maps/submarine_tilesheet_faces.png",
+			"ToArea": { "X": 192, "Y": 288, "Width": 64, "Height": 16 }
 		},
 		{
 			"Action": "EditImage",
