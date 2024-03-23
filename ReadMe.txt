@@ -1,9 +1,5 @@
 Installation Instructions:
 
-For the replacer version:
-Simply copy the Contents folder to your Stardew Valley directory and overwrite all files when prompted. This will replace the sprites in your game with the ACC versions.
-
-
 For the Content Patcher version:
 If you already have Content Patcher installed, simply copy the "Anthro Characters Continued x.x" folder (which contains "manifest.json") into the "Mods" folder in the game installation folder. You're done!
 
@@ -27,6 +23,8 @@ Authors:
 - Blanchard a.k.a. sion9000 (Twitter: @NekoBlanchard)
 
 - Krystedez (Twitter: @ChiefKryz)
+
+- donedonedone (FurAffinity: donedonedone)
 
 *Our Twitters may contain NSFW furry trash.
 
