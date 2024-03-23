@@ -1,192 +1,192 @@
 {
   "Changes": [
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Abigail",
       "FromFile": "assets/Characters/Albert.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Abigail_Beach",
       "FromFile": "assets/Characters/Albert_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Abigail_Winter",
       "FromFile": "assets/Characters/Albert_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Abigail",
       "FromFile": "assets/Portraits/Albert.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Abigail_Beach",
       "FromFile": "assets/Portraits/Albert_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Abigail_Winter",
       "FromFile": "assets/Portraits/Albert_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Emily",
       "FromFile": "assets/Characters/Emil.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Emily_Beach",
       "FromFile": "assets/Characters/Emil_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Emily_Winter",
       "FromFile": "assets/Characters/Emil_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Emily",
       "FromFile": "assets/Portraits/Emil.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Emily_Beach",
       "FromFile": "assets/Portraits/Emil_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Emily_Winter",
       "FromFile": "assets/Portraits/Emil_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Haley",
       "FromFile": "assets/Characters/Hayden.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Haley_Beach",
       "FromFile": "assets/Characters/Hayden_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Haley_Winter",
       "FromFile": "assets/Characters/Hayden_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Haley",
       "FromFile": "assets/Portraits/Hayden.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Haley_Beach",
       "FromFile": "assets/Portraits/Hayden_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Haley_Winter",
       "FromFile": "assets/Portraits/Hayden_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Leah",
       "FromFile": "assets/Characters/Liam.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Leah_Beach",
       "FromFile": "assets/Characters/Liam_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Leah_Winter",
       "FromFile": "assets/Characters/Liam_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Leah",
       "FromFile": "assets/Portraits/Liam.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Leah_Beach",
       "FromFile": "assets/Portraits/Liam_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Leah_Winter",
       "FromFile": "assets/Portraits/Liam_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Maru",
       "FromFile": "assets/Characters/Marcus.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Maru_Beach",
       "FromFile": "assets/Characters/Marcus_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Maru_Winter",
       "FromFile": "assets/Characters/Marcus_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Maru_Hospital",
       "FromFile": "assets/Characters/Marcus_Hospital.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Maru",
       "FromFile": "assets/Portraits/Marcus.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Maru_Beach",
       "FromFile": "assets/Portraits/Marcus_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Maru_Hospital",
       "FromFile": "assets/Portraits/Marcus_Hospital.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Maru_Winter",
       "FromFile": "assets/Portraits/Marcus_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Penny",
       "FromFile": "assets/Characters/Perry.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Penny_Beach",
       "FromFile": "assets/Characters/Perry_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Penny_Winter",
       "FromFile": "assets/Characters/Perry_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Penny",
       "FromFile": "assets/Portraits/Perry.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Penny_Beach",
       "FromFile": "assets/Portraits/Perry_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Penny_Winter",
       "FromFile": "assets/Portraits/Perry_Winter.png"
     },

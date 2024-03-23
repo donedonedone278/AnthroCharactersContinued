@@ -2,16 +2,16 @@
   "Changes": [
     {
       "Action": "Include",
-      "FromFile": "assets/genderswap.json",
+      "FromFile": "assets/ungenderswap.json",
       "When": {
-        "Genderswaps": true
+        "Genderswaps": false
       }
     },
     {
       "Action": "Include",
-      "FromFile": "assets/ungenderswap.json",
+      "FromFile": "assets/genderswap.json",
       "When": {
-        "Genderswaps": false
+        "Genderswaps": true
       }
     },
     {
