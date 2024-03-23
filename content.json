@@ -704,21 +704,22 @@
 			"FromFile": "assets/LooseSprites/BundleSprites.png",
 		},
 		{
-			"Action": "Load",
+			"Action": "EditImage",
 			"Target": "LooseSprites/cursors2",
-			"FromFile": "assets/LooseSprites/Cursors2.png",
+			"FromFile": "assets/LooseSprites/Cursors2_island_weather.png",
+			"ToArea": { "X": 148, "Y": 62, "Width": 42, "Height": 28 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "LooseSprites/cursors2",
+			"FromFile": "assets/LooseSprites/Cursors2_broomstick.png",
+			"ToArea": { "X": 208, "Y": 256, "Width": 48, "Height": 64 }
 		},
 		//Map Sprites (New, 1.5)
 		{
 			"Action": "Load",
 			"Target": "Maps/pirates_tilesheet",
 			"FromFile": "assets/Maps/pirates_tilesheet.png",
-		},
-		//Minigames (New, 1.5)
-		{
-			"Action": "Load",
-			"Target": "Minigames/jojacorps.es-ES",
-			"FromFile": "assets/Minigames/jojacorps.es-ES.png",
 		},
 		//Beach Sprites, which include portrait and overworld
 		{
