@@ -4,14 +4,14 @@
       "Action": "Include",
       "FromFile": "assets/ungenderswap.json",
       "When": {
-        "Genderswaps": false
+        "Female-To-Male Genderswaps": false
       }
     },
     {
       "Action": "Include",
       "FromFile": "assets/genderswap.json",
       "When": {
-        "Genderswaps": true
+        "Female-To-Male Genderswaps": true
       }
     },
     {

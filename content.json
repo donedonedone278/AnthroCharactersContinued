@@ -4,13 +4,13 @@
     "Anthro Characters": {
       "AllowValues": "true, false",
       "Default": "true",
-      "Section": "Behavior",
+      "Section": "These take a few seconds to activate.",
       "Description": "Enable/Disable the mod."
     },
-    "Genderswaps": {
+    "Female-To-Male Genderswaps": {
       "AllowValues": "true, false",
       "Default": "true",
-      "Section": "Behavior",
+      "Section": "These take a few seconds to activate.",
       "Description": "Enable the men."
     }
   },
