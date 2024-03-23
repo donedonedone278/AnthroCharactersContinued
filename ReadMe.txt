@@ -1,3 +1,5 @@
+Anthro Characters Continued
+
 Installation Instructions:
 
 For the Content Patcher version:
