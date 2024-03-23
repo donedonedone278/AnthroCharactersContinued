@@ -3,162 +3,230 @@
     {
       "Action": "Load",
       "Target": "Characters/Abigail",
-      "FromFile": "assets/Characters/Albert.png"
+      "FromFile": "assets/Characters/Albert.png",
+      "Priority": "High"
     },
     {
       "Action": "Load",
       "Target": "Characters/Abigail_Beach",
-      "FromFile": "assets/Characters/Albert_Beach.png"
+      "FromFile": "assets/Characters/Albert_Beach.png",
+      "Priority": "High"
     },
     {
       "Action": "Load",
       "Target": "Characters/Abigail_Winter",
-      "FromFile": "assets/Characters/Albert_Winter.png"
+      "FromFile": "assets/Characters/Albert_Winter.png",
+      "Priority": "High"
     },
     {
       "Action": "Load",
       "Target": "Portraits/Abigail",
-      "FromFile": "assets/Portraits/Albert.png"
+      "FromFile": "assets/Portraits/Albert.png",
+      "Priority": "High"
     },
     {
       "Action": "Load",
       "Target": "Portraits/Abigail_Beach",
-      "FromFile": "assets/Portraits/Albert_Beach.png"
+      "FromFile": "assets/Portraits/Albert_Beach.png",
+      "Priority": "High"
     },
     {
       "Action": "Load",
       "Target": "Portraits/Abigail_Winter",
-      "FromFile": "assets/Portraits/Albert_Winter.png"
+      "FromFile": "assets/Portraits/Albert_Winter.png",
+      "Priority": "High"
     },
     {
       "Action": "Load",
       "Target": "Characters/Emily",
-      "FromFile": "assets/Characters/Emil.png"
+      "FromFile": "assets/Characters/Emil.png",
+      "Priority": "High"
     },
     {
       "Action": "Load",
       "Target": "Characters/Emily_Beach",
-      "FromFile": "assets/Characters/Emil_Beach.png"
+      "FromFile": "assets/Characters/Emil_Beach.png",
+      "Priority": "High"
     },
     {
       "Action": "Load",
       "Target": "Characters/Emily_Winter",
-      "FromFile": "assets/Characters/Emil_Winter.png"
+      "FromFile": "assets/Characters/Emil_Winter.png",
+      "Priority": "High"
     },
     {
       "Action": "Load",
       "Target": "Portraits/Emily",
-      "FromFile": "assets/Portraits/Emil.png"
+      "FromFile": "assets/Portraits/Emil.png",
+      "Priority": "High"
     },
     {
       "Action": "Load",
       "Target": "Portraits/Emily_Beach",
-      "FromFile": "assets/Portraits/Emil_Beach.png"
+      "FromFile": "assets/Portraits/Emil_Beach.png",
+      "Priority": "High"
     },
     {
       "Action": "Load",
       "Target": "Portraits/Emily_Winter",
-      "FromFile": "assets/Portraits/Emil_Winter.png"
+      "FromFile": "assets/Portraits/Emil_Winter.png",
+      "Priority": "High"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Haley",
+      "FromFile": "assets/Characters/Hayden.png",
+      "Priority": "Low"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Haley_Beach",
+      "FromFile": "assets/Characters/Hayden_Beach.png",
+      "Priority": "Low"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Haley_Winter",
+      "FromFile": "assets/Characters/Hayden_Winter.png",
+      "Priority": "Low"
+    },
+    {
+      "Action": "Load",
+      "Target": "Portraits/Haley",
+      "FromFile": "assets/Portraits/Hayden.png",
+      "Priority": "Low"
+    },
+    {
+      "Action": "Load",
+      "Target": "Portraits/Haley_Beach",
+      "FromFile": "assets/Portraits/Hayden_Beach.png",
+      "Priority": "Low"
+    },
+    {
+      "Action": "Load",
+      "Target": "Portraits/Haley_Winter",
+      "FromFile": "assets/Portraits/Hayden_Winter.png",
+      "Priority": "Low"
     },
     {
       "Action": "Load",
       "Target": "Characters/Leah",
-      "FromFile": "assets/Characters/Liam.png"
+      "FromFile": "assets/Characters/Liam.png",
+      "Priority": "High"
     },
     {
       "Action": "Load",
       "Target": "Characters/Leah_Beach",
-      "FromFile": "assets/Characters/Liam_Beach.png"
+      "FromFile": "assets/Characters/Liam_Beach.png",
+      "Priority": "High"
     },
     {
       "Action": "Load",
       "Target": "Characters/Leah_Winter",
-      "FromFile": "assets/Characters/Liam_Winter.png"
+      "FromFile": "assets/Characters/Liam_Winter.png",
+      "Priority": "High"
     },
     {
       "Action": "Load",
       "Target": "Portraits/Leah",
-      "FromFile": "assets/Portraits/Liam.png"
+      "FromFile": "assets/Portraits/Liam.png",
+      "Priority": "High"
     },
     {
       "Action": "Load",
       "Target": "Portraits/Leah_Beach",
-      "FromFile": "assets/Portraits/Liam_Beach.png"
+      "FromFile": "assets/Portraits/Liam_Beach.png",
+      "Priority": "High"
     },
     {
       "Action": "Load",
       "Target": "Portraits/Leah_Winter",
-      "FromFile": "assets/Portraits/Liam_Winter.png"
+      "FromFile": "assets/Portraits/Liam_Winter.png",
+      "Priority": "High"
     },
     {
       "Action": "Load",
       "Target": "Characters/Maru",
-      "FromFile": "assets/Characters/Marcus.png"
+      "FromFile": "assets/Characters/Marcus.png",
+      "Priority": "High"
     },
     {
       "Action": "Load",
       "Target": "Characters/Maru_Beach",
-      "FromFile": "assets/Characters/Marcus_Beach.png"
+      "FromFile": "assets/Characters/Marcus_Beach.png",
+      "Priority": "High"
     },
     {
       "Action": "Load",
       "Target": "Characters/Maru_Winter",
-      "FromFile": "assets/Characters/Marcus_Winter.png"
+      "FromFile": "assets/Characters/Marcus_Winter.png",
+      "Priority": "High"
     },
     {
       "Action": "Load",
       "Target": "Characters/Maru_Hospital",
-      "FromFile": "assets/Characters/Marcus_Hospital.png"
+      "FromFile": "assets/Characters/Marcus_Hospital.png",
+      "Priority": "High"
     },
     {
       "Action": "Load",
       "Target": "Portraits/Maru",
-      "FromFile": "assets/Portraits/Marcus.png"
+      "FromFile": "assets/Portraits/Marcus.png",
+      "Priority": "High"
     },
     {
       "Action": "Load",
       "Target": "Portraits/Maru_Beach",
-      "FromFile": "assets/Portraits/Marcus_Beach.png"
+      "FromFile": "assets/Portraits/Marcus_Beach.png",
+      "Priority": "High"
     },
     {
       "Action": "Load",
       "Target": "Portraits/Maru_Hospital",
-      "FromFile": "assets/Portraits/Marcus_Hospital.png"
+      "FromFile": "assets/Portraits/Marcus_Hospital.png",
+      "Priority": "High"
     },
     {
       "Action": "Load",
       "Target": "Portraits/Maru_Winter",
-      "FromFile": "assets/Portraits/Marcus_Winter.png"
+      "FromFile": "assets/Portraits/Marcus_Winter.png",
+      "Priority": "High"
     },
     {
       "Action": "Load",
-      "Target": "Characters/Perry",
-      "FromFile": "assets/Characters/Perry.png"
+      "Target": "Characters/Penny",
+      "FromFile": "assets/Characters/Perry.png",
+      "Priority": "High"
     },
     {
       "Action": "Load",
       "Target": "Characters/Penny_Beach",
-      "FromFile": "assets/Characters/Perry_Beach.png"
+      "FromFile": "assets/Characters/Perry_Beach.png",
+      "Priority": "High"
     },
     {
       "Action": "Load",
       "Target": "Characters/Penny_Winter",
-      "FromFile": "assets/Characters/Perry_Winter.png"
+      "FromFile": "assets/Characters/Perry_Winter.png",
+      "Priority": "High"
     },
     {
       "Action": "Load",
       "Target": "Portraits/Penny",
-      "FromFile": "assets/Portraits/Perry.png"
+      "FromFile": "assets/Portraits/Perry.png",
+      "Priority": "High"
     },
     {
       "Action": "Load",
       "Target": "Portraits/Penny_Beach",
-      "FromFile": "assets/Portraits/Perry_Beach.png"
+      "FromFile": "assets/Portraits/Perry_Beach.png",
+      "Priority": "High"
     },
     {
       "Action": "Load",
       "Target": "Portraits/Penny_Winter",
-      "FromFile": "assets/Portraits/Perry_Winter.png"
+      "FromFile": "assets/Portraits/Perry_Winter.png",
+      "Priority": "High"
     },
     {
       "Action": "EditImage",
