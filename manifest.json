@@ -5,8 +5,7 @@
   "Version": "7.0.0",
   "UniqueID": "sion9000.AnthroCharactersContinued",
   "ContentPackFor": {
-    "UniqueID": "Pathoschild.ContentPatcher",
-    "MinimumVersion": "2.0.0"
+    "UniqueID": "Pathoschild.ContentPatcher"
   },
   "UpdateKeys": ["Nexus:1083"]
 }
