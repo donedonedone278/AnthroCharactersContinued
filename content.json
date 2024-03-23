@@ -16,13 +16,6 @@
   },
   "Changes": [
     {
-      "Action": "Include",
-      "FromFile": "assets/genderswap.json",
-      "When": {
-        "Genderswaps": true
-      }
-    },
-    {
       "Action": "Load",
       "Target": "Characters/Abigail",
       "FromFile": "assets/Characters/Abigail.png"
@@ -1453,6 +1446,13 @@
       "Target": "TileSheets/SecretNotesImages",
       "FromFile": "assets/TileSheets/SecretNotesImages.png",
       "ToArea": { "X": 128, "Y": 64, "Width": 64, "Height": 64 }
+    },
+    {
+      "Action": "Include",
+      "FromFile": "assets/genderswap.json",
+      "When": {
+        "Genderswaps": true
+      }
     }
   ]
 }
