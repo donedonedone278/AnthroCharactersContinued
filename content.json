@@ -16,19 +16,18 @@
   },
   "Changes": [
     {
-      "Action": "Load",
-      "Target": "Characters/Abigail",
-      "FromFile": "assets/Characters/Abigail.png"
+      "Action": "Include",
+      "FromFile": "assets/genderswap.json",
+      "When": {
+        "Genderswaps": true
+      }
     },
     {
-      "Action": "Load",
-      "Target": "Characters/Abigail_Beach",
-      "FromFile": "assets/Characters/Abigail_Beach.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Characters/Abigail_Winter",
-      "FromFile": "assets/Characters/Abigail_Winter.png"
+      "Action": "Include",
+      "FromFile": "assets/ungenderswap.json",
+      "When": {
+        "Genderswaps": false
+      }
     },
     {
       "Action": "Load",
@@ -132,21 +131,6 @@
     },
     {
       "Action": "Load",
-      "Target": "Characters/Emily",
-      "FromFile": "assets/Characters/Emily.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Characters/Emily_Beach",
-      "FromFile": "assets/Characters/Emily_Beach.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Characters/Emily_Winter",
-      "FromFile": "assets/Characters/Emily_Winter.png"
-    },
-    {
-      "Action": "Load",
       "Target": "Characters/Evelyn",
       "FromFile": "assets/Characters/Evelyn.png"
     },
@@ -184,21 +168,6 @@
       "Action": "Load",
       "Target": "Characters/Gus_Winter",
       "FromFile": "assets/Characters/Gus_Winter.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Characters/Haley",
-      "FromFile": "assets/Characters/Haley.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Characters/Haley_Beach",
-      "FromFile": "assets/Characters/Haley_Beach.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Characters/Haley_Winter",
-      "FromFile": "assets/Characters/Haley_Winter.png"
     },
     {
       "Action": "Load",
@@ -272,11 +241,6 @@
     },
     {
       "Action": "Load",
-      "Target": "Characters/Leah",
-      "FromFile": "assets/Characters/Leah.png"
-    },
-    {
-      "Action": "Load",
       "Target": "Characters/LeahExFemale",
       "FromFile": "assets/Characters/LeahExFemale.png"
     },
@@ -284,16 +248,6 @@
       "Action": "Load",
       "Target": "Characters/LeahExMale",
       "FromFile": "assets/Characters/LeahExMale.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Characters/Leah_Beach",
-      "FromFile": "assets/Characters/Leah_Beach.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Characters/Leah_Winter",
-      "FromFile": "assets/Characters/Leah_Winter.png"
     },
     {
       "Action": "Load",
@@ -352,26 +306,6 @@
     },
     {
       "Action": "Load",
-      "Target": "Characters/Maru",
-      "FromFile": "assets/Characters/Maru.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Characters/Maru_Beach",
-      "FromFile": "assets/Characters/Maru_Beach.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Characters/Maru_Winter",
-      "FromFile": "assets/Characters/Maru_Winter.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Characters/Maru_Hospital",
-      "FromFile": "assets/Characters/Maru_Hospital.png"
-    },
-    {
-      "Action": "Load",
       "Target": "Characters/Morris",
       "FromFile": "assets/Characters/Morris.png"
     },
@@ -404,21 +338,6 @@
       "Action": "Load",
       "Target": "Characters/ParrotBoy_Winter",
       "FromFile": "assets/Characters/ParrotBoy_Winter.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Characters/Penny",
-      "FromFile": "assets/Characters/Penny.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Characters/Penny_Beach",
-      "FromFile": "assets/Characters/Penny_Beach.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Characters/Penny_Winter",
-      "FromFile": "assets/Characters/Penny_Winter.png"
     },
     {
       "Action": "Load",
@@ -961,21 +880,6 @@
     },
     {
       "Action": "Load",
-      "Target": "Portraits/Abigail",
-      "FromFile": "assets/Portraits/Abigail.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Portraits/Abigail_Beach",
-      "FromFile": "assets/Portraits/Abigail_Beach.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Portraits/Abigail_Winter",
-      "FromFile": "assets/Portraits/Abigail_Winter.png"
-    },
-    {
-      "Action": "Load",
       "Target": "Portraits/Alex",
       "FromFile": "assets/Portraits/Alex.png"
     },
@@ -1066,21 +970,6 @@
     },
     {
       "Action": "Load",
-      "Target": "Portraits/Emily",
-      "FromFile": "assets/Portraits/Emily.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Portraits/Emily_Beach",
-      "FromFile": "assets/Portraits/Emily_Beach.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Portraits/Emily_Winter",
-      "FromFile": "assets/Portraits/Emily_Winter.png"
-    },
-    {
-      "Action": "Load",
       "Target": "Portraits/Evelyn",
       "FromFile": "assets/Portraits/Evelyn.png"
     },
@@ -1123,21 +1012,6 @@
       "Action": "Load",
       "Target": "Portraits/Gus_Winter",
       "FromFile": "assets/Portraits/Gus_Winter.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Portraits/Haley",
-      "FromFile": "assets/Portraits/Haley.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Portraits/Haley_Beach",
-      "FromFile": "assets/Portraits/Haley_Beach.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Portraits/Haley_Winter",
-      "FromFile": "assets/Portraits/Haley_Winter.png"
     },
     {
       "Action": "Load",
@@ -1206,21 +1080,6 @@
     },
     {
       "Action": "Load",
-      "Target": "Portraits/Leah",
-      "FromFile": "assets/Portraits/Leah.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Portraits/Leah_Beach",
-      "FromFile": "assets/Portraits/Leah_Beach.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Portraits/Leah_Winter",
-      "FromFile": "assets/Portraits/Leah_Winter.png"
-    },
-    {
-      "Action": "Load",
       "Target": "Portraits/Lewis",
       "FromFile": "assets/Portraits/Lewis.png"
     },
@@ -1261,26 +1120,6 @@
     },
     {
       "Action": "Load",
-      "Target": "Portraits/Maru",
-      "FromFile": "assets/Portraits/Maru.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Portraits/Maru_Beach",
-      "FromFile": "assets/Portraits/Maru_Beach.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Portraits/Maru_Hospital",
-      "FromFile": "assets/Portraits/Maru_Hospital.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Portraits/Maru_Winter",
-      "FromFile": "assets/Portraits/Maru_Winter.png"
-    },
-    {
-      "Action": "Load",
       "Target": "Portraits/Morris",
       "FromFile": "assets/Portraits/Morris.png"
     },
@@ -1313,21 +1152,6 @@
       "Action": "Load",
       "Target": "Portraits/ParrotBoy_Winter",
       "FromFile": "assets/Portraits/ParrotBoy_Winter.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Portraits/Penny",
-      "FromFile": "assets/Portraits/Penny.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Portraits/Penny_Beach",
-      "FromFile": "assets/Portraits/Penny_Beach.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Portraits/Penny_Winter",
-      "FromFile": "assets/Portraits/Penny_Winter.png"
     },
     {
       "Action": "Load",
