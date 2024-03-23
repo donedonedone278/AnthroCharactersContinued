@@ -71,6 +71,12 @@ Other Visuals:
 
 
 # Dialogue
+Things to check (Mark/Delete when complete):
+* Characters/Dialogue
+* Characters/schedules
+* Data
+* Strings
+Other:
 * Migrate Data/NPCDispositions to 1.6
 
 
