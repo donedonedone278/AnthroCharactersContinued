@@ -13,7 +13,7 @@
     {
       "Action": "Load",
       "Target": "Characters/Abigail_Winter",
-      "FromFile": "assets/Characters/Albert.png"
+      "FromFile": "assets/Characters/Albert_Winter.png"
     },
     {
       "Action": "Load",
@@ -43,7 +43,7 @@
     {
       "Action": "Load",
       "Target": "Characters/Emily_Winter",
-      "FromFile": "assets/Characters/Emil.png"
+      "FromFile": "assets/Characters/Emil_Winter.png"
     },
     {
       "Action": "Load",
@@ -73,7 +73,7 @@
     {
       "Action": "Load",
       "Target": "Characters/Leah_Winter",
-      "FromFile": "assets/Characters/Liam.png"
+      "FromFile": "assets/Characters/Liam_Winter.png"
     },
     {
       "Action": "Load",
@@ -103,7 +103,7 @@
     {
       "Action": "Load",
       "Target": "Characters/Maru_Winter",
-      "FromFile": "assets/Characters/Marcus.png"
+      "FromFile": "assets/Characters/Marcus_Winter.png"
     },
     {
       "Action": "Load",
@@ -143,7 +143,7 @@
     {
       "Action": "Load",
       "Target": "Characters/Penny_Winter",
-      "FromFile": "assets/Characters/Perry.png"
+      "FromFile": "assets/Characters/Perry_Winter.png"
     },
     {
       "Action": "Load",
