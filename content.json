@@ -4,14 +4,14 @@
     "Anthro Characters": {
       "AllowValues": "true, false",
       "Default": "true",
-      "Section": "These take a few seconds to activate.",
-      "Description": "Enable/Disable the mod."
+      "Section": "These take a few seconds to activate",
+      "Description": "Enable/Disable the mod. Takes a few seconds to activate."
     },
     "Female-To-Male Genderswaps": {
       "AllowValues": "true, false",
       "Default": "true",
-      "Section": "These take a few seconds to activate.",
-      "Description": "Enable the men."
+      "Section": "These take a few seconds to activate",
+      "Description": "DIALOGUE CHANGES TAKE EFFECT EVERY MORNING. Visuals take a second to activate."
     }
   },
   "Changes": [
