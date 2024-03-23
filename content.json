@@ -1759,111 +1759,57 @@
 			"FromFile": "assets/Maps/submarine_tilesheet.png",
 		},
 		{
-			"Action": "Load",
-			"Target": "Maps/townInterior.de-DE",
-			"FromFile": "assets/Maps/townInterior.de-DE.png",
-		},
-		{
-			"Action": "Load",
-			"Target": "Maps/townInterior.es-ES",
-			"FromFile": "assets/Maps/townInterior.es-ES.png",
-		},
-		{
-			"Action": "Load",
-			"Target": "Maps/townInterior.fr-FR",
-			"FromFile": "assets/Maps/townInterior.fr-FR.png",
-		},
-		{
-			"Action": "Load",
-			"Target": "Maps/townInterior.hu-HU",
-			"FromFile": "assets/Maps/townInterior.hu-HU.png",
-		},
-		{
-			"Action": "Load",
-			"Target": "Maps/townInterior.it-IT",
-			"FromFile": "assets/Maps/townInterior.it-IT.png",
-		},
-		{
-			"Action": "Load",
-			"Target": "Maps/townInterior.ja-JP",
-			"FromFile": "assets/Maps/townInterior.ja-JP.png",
-		},
-		{
-			"Action": "Load",
-			"Target": "Maps/townInterior.ko-KR",
-			"FromFile": "assets/Maps/townInterior.ko-KR.png",
-		},
-		{
-			"Action": "Load",
+			"Action": "EditImage",
 			"Target": "Maps/townInterior",
-			"FromFile": "assets/Maps/townInterior.png",
+			"FromFile": "assets/Maps/townInterior_rug.png",
+			"ToArea": { "X": 464, "Y": 208, "Width": 48, "Height": 32 }
 		},
 		{
-			"Action": "Load",
-			"Target": "Maps/townInterior.pt-BR",
-			"FromFile": "assets/Maps/townInterior.pt-BR.png",
+			"Action": "EditImage",
+			"Target": "Maps/townInterior",
+			"FromFile": "assets/Maps/townInterior_hayden_vanity.png",
+			"ToArea": { "X": 368, "Y": 320, "Width": 16, "Height": 48 }
 		},
 		{
-			"Action": "Load",
-			"Target": "Maps/townInterior.ru-RU",
-			"FromFile": "assets/Maps/townInterior.ru-RU.png",
+			"Action": "EditImage",
+			"Target": "Maps/townInterior",
+			"FromFile": "assets/Maps/townInterior_hayden_stool.png",
+			"ToArea": { "X": 352, "Y": 336, "Width": 16, "Height": 32 }
 		},
 		{
-			"Action": "Load",
-			"Target": "Maps/townInterior.tr-TR",
-			"FromFile": "assets/Maps/townInterior.tr-TR.png",
+			"Action": "EditImage",
+			"Target": "Maps/townInterior",
+			"FromFile": "assets/Maps/townInterior_poster.png",
+			"ToArea": { "X": 352, "Y": 176, "Width": 16, "Height": 16 }
 		},
 		{
-			"Action": "Load",
-			"Target": "Maps/townInterior.zh-CN",
-			"FromFile": "assets/Maps/townInterior.zh-CN.png",
+			"Action": "EditImage",
+			"Target": "Maps/townInterior",
+			"FromFile": "assets/Maps/townInterior_nose.png",
+			"ToArea": { "X": 144, "Y": 432, "Width": 16, "Height": 16 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Maps/townInterior",
+			"FromFile": "assets/Maps/townInterior_gil.png",
+			"ToArea": { "X": 176, "Y": 624, "Width": 64, "Height": 64 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Maps/townInterior",
+			"FromFile": "assets/Maps/townInterior_joja_worker.png",
+			"ToArea": { "X": 352, "Y": 994, "Width": 32, "Height": 32 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Maps/townInterior",
+			"FromFile": "assets/Maps/townInterior_joja_man.png",
+			"ToArea": { "X": 368, "Y": 1008, "Width": 48, "Height": 32 }
 		},
 		//Minigames
 		{
 			"Action": "EditImage",
 			"Target": "Minigames/Intro",
-			"FromFile": "assets/Minigames/Intro.png",
-			"ToArea": { "X": 0, "Y": 0, "Width": 128, "Height": 64 }
-		},
-		{
-			"Action": "EditImage",
-			"Target": "Minigames/Intro.zh-CN",
-			"FromFile": "assets/Minigames/Intro.png",
-			"ToArea": { "X": 0, "Y": 0, "Width": 128, "Height": 64 }
-		},
-		{
-			"Action": "EditImage",
-			"Target": "Minigames/Intro.de-DE",
-			"FromFile": "assets/Minigames/Intro.png",
-			"ToArea": { "X": 0, "Y": 0, "Width": 128, "Height": 64 }
-		},
-		{
-			"Action": "EditImage",
-			"Target": "Minigames/Intro.fr-FR",
-			"FromFile": "assets/Minigames/Intro.png",
-			"ToArea": { "X": 0, "Y": 0, "Width": 128, "Height": 64 }
-		},
-		{
-			"Action": "EditImage",
-			"Target": "Minigames/Intro.hu-HU",
-			"FromFile": "assets/Minigames/Intro.png",
-			"ToArea": { "X": 0, "Y": 0, "Width": 128, "Height": 64 }
-		},
-		{
-			"Action": "EditImage",
-			"Target": "Minigames/Intro.ja-JP",
-			"FromFile": "assets/Minigames/Intro.png",
-			"ToArea": { "X": 0, "Y": 0, "Width": 128, "Height": 64 }
-		},
-		{
-			"Action": "EditImage",
-			"Target": "Minigames/Intro.ko-KR",
-			"FromFile": "assets/Minigames/Intro.png",
-			"ToArea": { "X": 0, "Y": 0, "Width": 128, "Height": 64 }
-		},
-		{
-			"Action": "EditImage",
-			"Target": "Minigames/Intro.pt-BR",
 			"FromFile": "assets/Minigames/Intro.png",
 			"ToArea": { "X": 0, "Y": 0, "Width": 128, "Height": 64 }
 		},
