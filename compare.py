@@ -1,7 +1,6 @@
 import os
 import shutil
 import subprocess
-from diffimg import diff
 
 def compare_directories(dir1, dir2, output_dir):
     # Create the output directory if it doesn't exist
@@ -23,9 +22,7 @@ def compare_directories(dir1, dir2, output_dir):
                 print(item_path1)
                 print(item_path2)
                 print(output_item_path)
-                result = subprocess.run(['convert', item_path1, '(', item_path1, item_path2, '-compose', 'difference', '-composite', ')', '-compose', 'src-over', '-composite', output_item_path], capture_output=True)
-                result = subprocess.run(['dir'], capture_output=True, text=True)
-                print(result)
+                result = subprocess.run(['convert', item_path1, item_path2, '-fuzz', '15%', '-compose', 'ChangeMask', '-composite', output_item_path], capture_output=True)
                 if result.returncode != 0:
                     print(f"Differences found in file: {item}")
                 else:
@@ -38,8 +35,10 @@ def compare_directories(dir1, dir2, output_dir):
 
 if __name__ == "__main__":
     # Replace these paths with the paths to your directories
-    directory1 = r'C:\Users\dsaf\Desktop\Changed_Content_furry'
-    directory2 = r'C:\Users\fdsa\Desktop\changed_Content_1_5'
-    output_directory = r'C:\Users\fdsafsd\Desktop\furry_vs_1_5'
+    directory1 = '/home/sorsenl/repositories/changed_content_furry'
+    directory2 = '/home/sorsenl/repositories/changed_content_1_5'
+    output_directory = '/home/sorsenl/repositories/just_furry'
 
     compare_directories(directory1, directory2, output_directory)
+
+# convert item_path1 item_path2 -fuzz 15% -compose ChangeMask -composite output_item_path

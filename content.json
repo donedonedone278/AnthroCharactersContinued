@@ -720,41 +720,6 @@
 			"Target": "Minigames/jojacorps.es-ES",
 			"FromFile": "assets/Minigames/jojacorps.es-ES.png",
 		},
-		{
-			"Action": "Load",
-			"Target": "Minigames/Intro.zh-CN",
-			"FromFile": "assets/Minigames/Intro.zh-CN.png",
-		},
-		{
-			"Action": "Load",
-			"Target": "Minigames/Intro.de-DE",
-			"FromFile": "assets/Minigames/Intro.de-DE.png",
-		},
-		{
-			"Action": "Load",
-			"Target": "Minigames/Intro.fr-FR",
-			"FromFile": "assets/Minigames/Intro.fr-FR.png",
-		},
-		{
-			"Action": "Load",
-			"Target": "Minigames/Intro.hu-HU",
-			"FromFile": "assets/Minigames/Intro.hu-HU.png",
-		},
-		{
-			"Action": "Load",
-			"Target": "Minigames/Intro.ja-JP",
-			"FromFile": "assets/Minigames/Intro.ja-JP.png",
-		},
-		{
-			"Action": "Load",
-			"Target": "Minigames/Intro.ko-KR",
-			"FromFile": "assets/Minigames/Intro.ko-KR.png",
-		},
-		{
-			"Action": "Load",
-			"Target": "Minigames/Intro.pt-BR",
-			"FromFile": "assets/Minigames/Intro.pt-BR.png",
-		},
 		//Beach Sprites, which include portrait and overworld
 		{
 			"Action": "Load",
@@ -1855,60 +1820,105 @@
 		},
 		//Minigames
 		{
-			"Action": "Load",
+			"Action": "EditImage",
 			"Target": "Minigames/Intro",
 			"FromFile": "assets/Minigames/Intro.png",
+			"ToArea": { "X": 0, "Y": 0, "Width": 128, "Height": 64 }
 		},
 		{
-			"Action": "Load",
+			"Action": "EditImage",
+			"Target": "Minigames/Intro.zh-CN",
+			"FromFile": "assets/Minigames/Intro.png",
+			"ToArea": { "X": 0, "Y": 0, "Width": 128, "Height": 64 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Minigames/Intro.de-DE",
+			"FromFile": "assets/Minigames/Intro.png",
+			"ToArea": { "X": 0, "Y": 0, "Width": 128, "Height": 64 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Minigames/Intro.fr-FR",
+			"FromFile": "assets/Minigames/Intro.png",
+			"ToArea": { "X": 0, "Y": 0, "Width": 128, "Height": 64 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Minigames/Intro.hu-HU",
+			"FromFile": "assets/Minigames/Intro.png",
+			"ToArea": { "X": 0, "Y": 0, "Width": 128, "Height": 64 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Minigames/Intro.ja-JP",
+			"FromFile": "assets/Minigames/Intro.png",
+			"ToArea": { "X": 0, "Y": 0, "Width": 128, "Height": 64 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Minigames/Intro.ko-KR",
+			"FromFile": "assets/Minigames/Intro.png",
+			"ToArea": { "X": 0, "Y": 0, "Width": 128, "Height": 64 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Minigames/Intro.pt-BR",
+			"FromFile": "assets/Minigames/Intro.png",
+			"ToArea": { "X": 0, "Y": 0, "Width": 128, "Height": 64 }
+		},
+		{
+			"Action": "EditImage",
 			"Target": "Minigames/jojacorps.es-ES",
 			"FromFile": "assets/Minigames/jojacorps.es-ES.png",
 		},
 		{
-			"Action": "Load",
+			"Action": "EditImage",
 			"Target": "Minigames/jojacorps.fr-FR",
 			"FromFile": "assets/Minigames/jojacorps.fr-FR.png",
 		},
 		{
-			"Action": "Load",
+			"Action": "EditImage",
 			"Target": "Minigames/jojacorps.hu-HU",
 			"FromFile": "assets/Minigames/jojacorps.hu-HU.png",
 		},
 		{
-			"Action": "Load",
+			"Action": "EditImage",
 			"Target": "Minigames/jojacorps.ja-JP",
 			"FromFile": "assets/Minigames/jojacorps.ja-JP.png",
 		},
 		{
-			"Action": "Load",
+			"Action": "EditImage",
 			"Target": "Minigames/jojacorps.ko-KR",
 			"FromFile": "assets/Minigames/jojacorps.ko-KR.png",
 		},
 		{
-			"Action": "Load",
+			"Action": "EditImage",
 			"Target": "Minigames/jojacorps",
 			"FromFile": "assets/Minigames/jojacorps.png",
 		},
 		{
-			"Action": "Load",
+			"Action": "EditImage",
 			"Target": "Minigames/jojacorps.pt-BR",
 			"FromFile": "assets/Minigames/jojacorps.pt-BR.png",
 		},
 		{
-			"Action": "Load",
+			"Action": "EditImage",
 			"Target": "Minigames/jojacorps.zh-CN",
 			"FromFile": "assets/Minigames/jojacorps.zh-CN.png",
 		},
 		//TileSheets
 		{
-			"Action": "Load",
+			"Action": "EditImage",
 			"Target": "TileSheets/Craftables",
 			"FromFile": "assets/TileSheets/Craftables.png",
+			"ToArea": { "X": 64, "Y": 640, "Width": 16, "Height": 32 }
 		},
 		{
-			"Action": "Load",
+			"Action": "EditImage",
 			"Target": "TileSheets/SecretNotesImages",
 			"FromFile": "assets/TileSheets/SecretNotesImages.png",
-		},
+			"ToArea": { "X": 128, "Y": 64, "Width": 64, "Height": 64 }
+		}
 	]
 }
