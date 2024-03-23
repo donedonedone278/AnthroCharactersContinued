@@ -1,5 +1,5 @@
 {
-  "Format": "2.0.0",
+  "Format": "1.25.0",
   "Changes": [
     {
       "Action": "Load",
@@ -758,7 +758,7 @@
     {
       "Action": "EditData",
       "Target": "Data/NPCDispositions",
-      "Entries": {
+      "Entries": {ghgfhf
         "Abigail": "teen/rude/outgoing/neutral/female/datable/Sebastian/Town/fall 13/Caroline 'mom' Pierre 'dad'/SeedShop 1 9/Albert",
         "Emily": "adult/polite/outgoing/positive/female/datable/null/Town/spring 27/Haley 'brother'/HaleyHouse 16 5/Emil",
         "Haley": "adult/rude/outgoing/neutral/female/datable/Alex/Town/spring 14/Emily 'brother'/HaleyHouse 8 7/Hayden",
@@ -1616,6 +1616,18 @@
       "Entries": {
         "DoorUnlock_NotFriend_Male": "You're not good enough friends with {0} to enter their bedroom.",
         "DoorUnlock_NotFriend_Female": "You're not good enough friends with {0} to enter their bedroom."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/NPCNames",
+      "Entries": {
+        "Abigail": "Albert",
+        "Emily": "Emil",
+        "Haley": "Hayden",
+        "Leah": "Liam",
+        "Maru": "Marcus",
+        "Penny": "Perry"
       }
     },
     {
