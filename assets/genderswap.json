@@ -192,6 +192,11 @@
     },
     {
       "Action": "EditImage",
+      "Target": "Characters/ClothesTherapyCharacters",
+      "FromFile": "assets/Characters/ClothesTherapyCharacters.png"
+    },
+    {
+      "Action": "EditImage",
       "Target": "Maps/townInterior",
       "FromFile": "assets/Maps/townInterior_rug.png",
       "ToArea": { "X": 464, "Y": 208, "Width": 48, "Height": 32 }

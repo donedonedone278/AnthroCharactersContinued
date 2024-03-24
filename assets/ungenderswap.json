@@ -189,6 +189,35 @@
       "Action": "EditImage",
       "Target": "Portraits/Penny_Winter",
       "FromFile": "assets/Portraits/Penny_Winter.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/JunimoNote",
+      "FromFile": "assets/LooseSprites/JunimoNote_characters_female.png",
+      "ToArea": { "X": 352, "Y": 212, "Width": 160, "Height": 32 }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/cowPhotos",
+      "FromFile": "assets/LooseSprites/cowPhotos_female.png",
+      "PatchMode": "Overlay"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/cowPhotosWinter",
+      "FromFile": "assets/LooseSprites/cowPhotosWinter_female.png",
+      "PatchMode": "Overlay"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/emojis",
+      "FromFile": "assets/LooseSprites/emojis_characters_female.png",
+      "ToArea": { "X": 0, "Y": 99, "Width": 126, "Height": 27 }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/ClothesTherapyCharacters",
+      "FromFile": "assets/Characters/ClothesTherapyCharacters_female.png"
     }
   ]
 }

@@ -66,7 +66,13 @@ Winter stuff:
 Other Visuals:
 * Characters/Assorted_Fishermen.png
 * Characters/Assorted_Fishermen_Winter.png
-* Characters/Jodi.png - Last sprite in the file is supposed to be her crouching, looking at moonlight jellies. donedonedone copied her jumping animation.
+* Characters/Demetrius.png - In a hazmat suit. donedonedone just copied the sprite from base game
+* Characters/Fizz.png - New character
+* Characters/Jodi.png - Last sprite in the file is supposed to be her crouching, looking at moonlight jellies. donedonedone copied her jumping animation as a placeholder.
+* Characters/Hayden.png - New sprite AND new animation at bottom
+* Characters/Hayley_Winter.png - New sprite
+* Characters/Hayden.png - New sprite AND new animation at bottom
+* Characters/Hayley_Winter.png - New sprite
 * LooseSprites/Cursors_1_6_book_shop_man.png
 * LooseSprites/Cursors_1_6_fortune.png
 * LooseSprites/Cursors_1_6_forecast.png

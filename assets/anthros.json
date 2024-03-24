@@ -86,11 +86,6 @@
     },
     {
       "Action": "EditImage",
-      "Target": "Characters/ClothesTherapyCharacters",
-      "FromFile": "assets/Characters/ClothesTherapyCharacters.png"
-    },
-    {
-      "Action": "EditImage",
       "Target": "Characters/Demetrius",
       "FromFile": "assets/Characters/Demetrius.png"
     },
@@ -547,12 +542,6 @@
     },
     {
       "Action": "EditImage",
-      "Target": "LooseSprites/JunimoNote",
-      "FromFile": "assets/LooseSprites/JunimoNote_characters_female.png",
-      "ToArea": { "X": 352, "Y": 212, "Width": 160, "Height": 32 }
-    },
-    {
-      "Action": "EditImage",
       "Target": "LooseSprites/Movies",
       "FromFile": "assets/LooseSprites/Movies.png",
       "PatchMode": "Overlay"
@@ -561,18 +550,6 @@
       "Action": "EditImage",
       "Target": "LooseSprites/boardGame",
       "FromFile": "assets/LooseSprites/boardGame.png",
-      "PatchMode": "Overlay"
-    },
-    {
-      "Action": "EditImage",
-      "Target": "LooseSprites/cowPhotos",
-      "FromFile": "assets/LooseSprites/cowPhotos_female.png",
-      "PatchMode": "Overlay"
-    },
-    {
-      "Action": "EditImage",
-      "Target": "LooseSprites/cowPhotosWinter",
-      "FromFile": "assets/LooseSprites/cowPhotosWinter_female.png",
       "PatchMode": "Overlay"
     },
     {
@@ -586,12 +563,6 @@
       "Target": "LooseSprites/cursors2",
       "FromFile": "assets/LooseSprites/Cursors2_broomstick.png",
       "ToArea": { "X": 208, "Y": 256, "Width": 48, "Height": 64 }
-    },
-    {
-      "Action": "EditImage",
-      "Target": "LooseSprites/emojis",
-      "FromFile": "assets/LooseSprites/emojis_characters_female.png",
-      "ToArea": { "X": 0, "Y": 99, "Width": 126, "Height": 27 }
     },
     {
       "Action": "EditImage",
