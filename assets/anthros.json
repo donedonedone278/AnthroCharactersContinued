@@ -496,6 +496,7 @@
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors",
       "FromFile": "assets/LooseSprites/Cursors_prarie_king_and_random_stuff.png",
+      "PatchMode": "Overlay",
       "ToArea": { "X": 224, "Y": 1712, "Width": 400, "Height": 272 }
     },
     {
