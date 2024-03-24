@@ -131,6 +131,11 @@
     },
     {
       "Action": "EditImage",
+      "Target": "Characters/Fizz",
+      "FromFile": "assets/Characters/Fizz.png"
+    },
+    {
+      "Action": "EditImage",
       "Target": "Characters/George",
       "FromFile": "assets/Characters/George.png"
     },
@@ -897,6 +902,11 @@
     },
     {
       "Action": "EditImage",
+      "Target": "Portraits/Fizz",
+      "FromFile": "assets/Portraits/Fizz.png"
+    },
+    {
+      "Action": "EditImage",
       "Target": "Portraits/George",
       "FromFile": "assets/Portraits/George.png"
     },
@@ -1179,7 +1189,7 @@
     {
       "Action": "EditImage",
       "Target": "TileSheets/Craftables",
-      "FromFile": "assets/TileSheets/Craftables.png",
+      "FromFile": "assets/TileSheets/Craftables_lewis.png",
       "ToArea": { "X": 64, "Y": 640, "Width": 16, "Height": 32 }
     },
     {

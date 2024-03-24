@@ -77,7 +77,40 @@ Other Visuals:
 * LooseSprites/Cursors_1_6_fortune.png
 * LooseSprites/Cursors_1_6_forecast.png
 * LooseSprites/Cursors_1_6_morris_smug.png
-
+* Portraits/Sam.png - New expression
+* Portraits/Perry.png - New expression
+* Portraits/Perry_Winter.png - New Expression
+* Portraits/Penny.png - New expression
+* Portraits/Penny_Winter.png - New Expression
+* Portraits/Kent.png - New expressions
+* Portraits/Kent_Winter.png - New expressions
+* Portraits/Haley.png - New expressions
+* Portraits/Haley_Winter.png - New expressions
+* Portraits/Hayden.png - New expressions
+* Portraits/Hayden_Winter.png - New expressions
+* Portraits/Gil.png - New expression
+* Portraits/Fizz.png - New Character
+* Portraits/Demetrius - New expression
+* Portraits/Abigail_Beach - New expressions
+* Portraits/Albert_Beach - New expressions
+* Portraits/Alex_Beach - New expressions
+* Portraits/Elliott_Beach - New expressions
+* Portraits/Emil_Beach - New expressions
+* Portraits/Emily_Beach - New expressions
+* Portraits/Hayden_Beach - New expressions
+* Portraits/Haley_Beach - New expressions
+* Portraits/Jodi_Beach - New expression
+* Portraits/Harvey_Beach - New expressions
+* Portraits/Liam_Beach.png - New expression
+* Portraits/Leah_Beach.png - New expression
+* Portraits/Marnie_Beach.png - New expression
+* Portraits/Marcus_Beach.png - New expressions
+* Portraits/Maru_Beach.png - New expressions
+* Portraits/Perry_Beach.png - New expressions
+* Portraits/Penny_Beach.png - New expressions
+* Portraits/Sam_Beach.png - New expressions
+* Portraits/Sebastian_Beach.png - New expressions
+* Portaits/Shane_Beach.png - New expressions
 
 
 
