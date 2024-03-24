@@ -453,6 +453,12 @@
     {
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors",
+      "FromFile": "assets/LooseSprites/Cursors_icons.png",
+      "ToArea": { "X": 0, "Y": 608, "Width": 96, "Height": 96 }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
       "FromFile": "assets/LooseSprites/Cursors_forecast.png",
       "ToArea": { "X": 413, "Y": 305, "Width": 126, "Height": 28 }
     },
