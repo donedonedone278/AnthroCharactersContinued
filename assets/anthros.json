@@ -15,442 +15,442 @@
       }
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Alex",
       "FromFile": "assets/Characters/Alex.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Alex_Beach",
       "FromFile": "assets/Characters/Alex_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Alex_Winter",
       "FromFile": "assets/Characters/Alex_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Assorted_Fishermen",
       "FromFile": "assets/Characters/Assorted_Fishermen.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Assorted_Fishermen_Winter",
       "FromFile": "assets/Characters/Assorted_Fishermen_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Bear",
       "FromFile": "assets/Characters/Bear.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Birdie",
       "FromFile": "assets/Characters/Birdie.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Bouncer",
       "FromFile": "assets/Characters/Bouncer.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Caroline",
       "FromFile": "assets/Characters/Caroline.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Caroline_Beach",
       "FromFile": "assets/Characters/Caroline_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Caroline_Winter",
       "FromFile": "assets/Characters/Caroline_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Clint",
       "FromFile": "assets/Characters/Clint.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Clint_Beach",
       "FromFile": "assets/Characters/Clint_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Clint_Winter",
       "FromFile": "assets/Characters/Clint_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/ClothesTherapyCharacters",
       "FromFile": "assets/Characters/ClothesTherapyCharacters.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Demetrius",
       "FromFile": "assets/Characters/Demetrius.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Demetrius_Beach",
       "FromFile": "assets/Characters/Demetrius_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Demetrius_Winter",
       "FromFile": "assets/Characters/Demetrius_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Dwarf",
       "FromFile": "assets/Characters/Dwarf.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Elliott",
       "FromFile": "assets/Characters/Elliott.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Elliott_Beach",
       "FromFile": "assets/Characters/Elliott_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Elliott_Winter",
       "FromFile": "assets/Characters/Elliott_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Evelyn",
       "FromFile": "assets/Characters/Evelyn.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Evelyn_Winter",
       "FromFile": "assets/Characters/Evelyn_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/George",
       "FromFile": "assets/Characters/George.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/George_Winter",
       "FromFile": "assets/Characters/George_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Governor",
       "FromFile": "assets/Characters/Governor.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Gunther",
       "FromFile": "assets/Characters/Gunther.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Gus",
       "FromFile": "assets/Characters/Gus.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Gus_Winter",
       "FromFile": "assets/Characters/Gus_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Harvey",
       "FromFile": "assets/Characters/Harvey.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Harvey_Beach",
       "FromFile": "assets/Characters/Harvey_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Harvey_Winter",
       "FromFile": "assets/Characters/Harvey_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Henchman",
       "FromFile": "assets/Characters/Henchman.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Jas",
       "FromFile": "assets/Characters/Jas.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Jas_Winter",
       "FromFile": "assets/Characters/Jas_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Jodi",
       "FromFile": "assets/Characters/Jodi.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Jodi_Beach",
       "FromFile": "assets/Characters/Jodi_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Jodi_Winter",
       "FromFile": "assets/Characters/Jodi_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Kent",
       "FromFile": "assets/Characters/Kent.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Kent_Winter",
       "FromFile": "assets/Characters/Kent_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Krobus",
       "FromFile": "assets/Characters/Krobus.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/KrobusRaven",
       "FromFile": "assets/Characters/KrobusRaven.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Krobus_Trenchcoat",
       "FromFile": "assets/Characters/Krobus_Trenchcoat.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/LeahExFemale",
       "FromFile": "assets/Characters/LeahExFemale.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/LeahExMale",
       "FromFile": "assets/Characters/LeahExMale.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Lewis",
       "FromFile": "assets/Characters/Lewis.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Lewis_Beach",
       "FromFile": "assets/Characters/Lewis_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Lewis_Winter",
       "FromFile": "assets/Characters/Lewis_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Linus",
       "FromFile": "assets/Characters/Linus.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Linus_Winter",
       "FromFile": "assets/Characters/Linus_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Marcello",
       "FromFile": "assets/Characters/Marcello.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Mariner",
       "FromFile": "assets/Characters/Mariner.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Marlon",
       "FromFile": "assets/Characters/Marlon.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Marnie",
       "FromFile": "assets/Characters/Marnie.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Marnie_Beach",
       "FromFile": "assets/Characters/Marnie_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Marnie_Winter",
       "FromFile": "assets/Characters/Marnie_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Morris",
       "FromFile": "assets/Characters/Morris.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/MrQi",
       "FromFile": "assets/Characters/MrQi.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Pam",
       "FromFile": "assets/Characters/Pam.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Pam_Beach",
       "FromFile": "assets/Characters/Pam_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Pam_Winter",
       "FromFile": "assets/Characters/Pam_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/ParrotBoy",
       "FromFile": "assets/Characters/ParrotBoy.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/ParrotBoy_Winter",
       "FromFile": "assets/Characters/ParrotBoy_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Pierre",
       "FromFile": "assets/Characters/Pierre.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Pierre_Beach",
       "FromFile": "assets/Characters/Pierre_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Pierre_Winter",
       "FromFile": "assets/Characters/Pierre_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Robin",
       "FromFile": "assets/Characters/Robin.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Robin_Beach",
       "FromFile": "assets/Characters/Robin_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Robin_Winter",
       "FromFile": "assets/Characters/Robin_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/SafariGuy",
       "FromFile": "assets/Characters/SafariGuy.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Sam",
       "FromFile": "assets/Characters/Sam.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Sam_Beach",
       "FromFile": "assets/Characters/Sam_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Sam_Winter",
       "FromFile": "assets/Characters/Sam_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Sandy",
       "FromFile": "assets/Characters/Sandy.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/SeaMonsterKrobus",
       "FromFile": "assets/Characters/SeaMonsterKrobus.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Sebastian",
       "FromFile": "assets/Characters/Sebastian.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Sebastian_Beach",
       "FromFile": "assets/Characters/Sebastian_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Sebastian_Winter",
       "FromFile": "assets/Characters/Sebastian_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Shane",
       "FromFile": "assets/Characters/Shane.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Shane_Beach",
       "FromFile": "assets/Characters/Shane_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Shane_JojaMart",
       "FromFile": "assets/Characters/Shane_JojaMart.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Shane_Winter",
       "FromFile": "assets/Characters/Shane_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Vincent",
       "FromFile": "assets/Characters/Vincent.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Vincent_Winter",
       "FromFile": "assets/Characters/Vincent_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Willy",
       "FromFile": "assets/Characters/Willy.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Willy_Winter",
       "FromFile": "assets/Characters/Willy_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Characters/Wizard",
       "FromFile": "assets/Characters/Wizard.png"
     },
@@ -617,122 +617,122 @@
       "ToArea": { "X": 224, "Y": 288, "Width": 32, "Height": 32 }
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Maps/Festivals",
       "FromFile": "assets/Maps/Festivals.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Maps/Festivals.es-ES",
       "FromFile": "assets/Maps/Festivals.es-ES.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Maps/Festivals.fr-FR",
       "FromFile": "assets/Maps/Festivals.fr-FR.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Maps/Festivals.hu-HU",
       "FromFile": "assets/Maps/Festivals.hu-HU.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Maps/Festivals.it-IT",
       "FromFile": "assets/Maps/Festivals.it-IT.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Maps/Festivals.ja-JP",
       "FromFile": "assets/Maps/Festivals.ja-JP.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Maps/Festivals.ko-KR",
       "FromFile": "assets/Maps/Festivals.ko-KR.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Maps/Festivals.pt-BR",
       "FromFile": "assets/Maps/Festivals.pt-BR.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Maps/Festivals.tr-TR",
       "FromFile": "assets/Maps/Festivals.tr-TR.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Maps/Festivals.zh-CN",
       "FromFile": "assets/Maps/Festivals.zh-CN.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Maps/MovieTheaterJoja_TileSheet",
       "FromFile": "assets/Maps/MovieTheaterJoja_TileSheet.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Maps/MovieTheaterJoja_TileSheet_international",
       "FromFile": "assets/Maps/MovieTheaterJoja_TileSheet_international.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Maps/MovieTheater_TileSheet",
       "FromFile": "assets/Maps/MovieTheater_TileSheet.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Maps/night_market_tilesheet_objects",
       "FromFile": "assets/Maps/night_market_tilesheet_objects.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Maps/pirates_tilesheet",
       "FromFile": "assets/Maps/pirates_tilesheet.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Maps/samshowtiles",
       "FromFile": "assets/Maps/samshowtiles.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Maps/samshowtiles.es-ES",
       "FromFile": "assets/Maps/samshowtiles.es-ES.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Maps/samshowtiles.fr-FR",
       "FromFile": "assets/Maps/samshowtiles.fr-FR.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Maps/samshowtiles.hu-HU",
       "FromFile": "assets/Maps/samshowtiles.hu-HU.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Maps/samshowtiles.ja-JP",
       "FromFile": "assets/Maps/samshowtiles.ja-JP.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Maps/samshowtiles.ko-KR",
       "FromFile": "assets/Maps/samshowtiles.ko-KR.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Maps/samshowtiles.pt-BR",
       "FromFile": "assets/Maps/samshowtiles.pt-BR.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Maps/samshowtiles.zh-CN",
       "FromFile": "assets/Maps/samshowtiles.zh-CN.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Maps/stadium_tiles",
       "FromFile": "assets/Maps/stadium_tiles.png"
     },
@@ -825,383 +825,383 @@
       "FromFile": "assets/Minigames/jojacorps.zh-CN.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Alex",
       "FromFile": "assets/Portraits/Alex.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Alex_Beach",
       "FromFile": "assets/Portraits/Alex_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Alex_Winter",
       "FromFile": "assets/Portraits/Alex_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Bear",
       "FromFile": "assets/Portraits/Bear.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Birdie",
       "FromFile": "assets/Portraits/Birdie.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Bouncer",
       "FromFile": "assets/Portraits/Bouncer.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Caroline",
       "FromFile": "assets/Portraits/Caroline.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Caroline_Beach",
       "FromFile": "assets/Portraits/Caroline_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Caroline_Winter",
       "FromFile": "assets/Portraits/Caroline_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Clint",
       "FromFile": "assets/Portraits/Clint.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Clint_Beach",
       "FromFile": "assets/Portraits/Clint_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Clint_Winter",
       "FromFile": "assets/Portraits/Clint_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Demetrius",
       "FromFile": "assets/Portraits/Demetrius.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Demetrius_Winter",
       "FromFile": "assets/Portraits/Demetrius_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Dwarf",
       "FromFile": "assets/Portraits/Dwarf.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Elliott",
       "FromFile": "assets/Portraits/Elliott.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Elliott_Beach",
       "FromFile": "assets/Portraits/Elliott_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Elliott_Winter",
       "FromFile": "assets/Portraits/Elliott_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Evelyn",
       "FromFile": "assets/Portraits/Evelyn.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Evelyn_Winter",
       "FromFile": "assets/Portraits/Evelyn_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/George",
       "FromFile": "assets/Portraits/George.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/George_Winter",
       "FromFile": "assets/Portraits/George_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Gil",
       "FromFile": "assets/Portraits/Gil.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Governor",
       "FromFile": "assets/Portraits/Governor.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Gunther",
       "FromFile": "assets/Portraits/Gunther.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Gus",
       "FromFile": "assets/Portraits/Gus.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Gus_Winter",
       "FromFile": "assets/Portraits/Gus_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Harvey",
       "FromFile": "assets/Portraits/Harvey.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Harvey_Beach",
       "FromFile": "assets/Portraits/Harvey_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Harvey_Winter",
       "FromFile": "assets/Portraits/Harvey_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Henchman",
       "FromFile": "assets/Portraits/Henchman.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Jas",
       "FromFile": "assets/Portraits/Jas.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Jas_Winter",
       "FromFile": "assets/Portraits/Jas_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Jodi",
       "FromFile": "assets/Portraits/Jodi.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Jodi_Beach",
       "FromFile": "assets/Portraits/Jodi_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Jodi_Winter",
       "FromFile": "assets/Portraits/Jodi_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Kent",
       "FromFile": "assets/Portraits/Kent.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Kent_Winter",
       "FromFile": "assets/Portraits/Kent_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Krobus",
       "FromFile": "assets/Portraits/Krobus.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Krobus_Trenchcoat",
       "FromFile": "assets/Portraits/Krobus_Trenchcoat.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Lewis",
       "FromFile": "assets/Portraits/Lewis.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Lewis_Winter",
       "FromFile": "assets/Portraits/Lewis_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Linus",
       "FromFile": "assets/Portraits/Linus.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Linus_Winter",
       "FromFile": "assets/Portraits/Linus_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Marlon",
       "FromFile": "assets/Portraits/Marlon.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Marnie",
       "FromFile": "assets/Portraits/Marnie.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Marnie_Beach",
       "FromFile": "assets/Portraits/Marnie_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Marnie_Winter",
       "FromFile": "assets/Portraits/Marnie_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Morris",
       "FromFile": "assets/Portraits/Morris.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/MrQi",
       "FromFile": "assets/Portraits/MrQi.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Pam",
       "FromFile": "assets/Portraits/Pam.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Pam_Beach",
       "FromFile": "assets/Portraits/Pam_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Pam_Winter",
       "FromFile": "assets/Portraits/Pam_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/ParrotBoy",
       "FromFile": "assets/Portraits/ParrotBoy.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/ParrotBoy_Winter",
       "FromFile": "assets/Portraits/ParrotBoy_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Pierre",
       "FromFile": "assets/Portraits/Pierre.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Pierre_Beach",
       "FromFile": "assets/Portraits/Pierre_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Pierre_Winter",
       "FromFile": "assets/Portraits/Pierre_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Robin",
       "FromFile": "assets/Portraits/Robin.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Robin_Beach",
       "FromFile": "assets/Portraits/Robin_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/SafariGuy",
       "FromFile": "assets/Portraits/SafariGuy.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Sam",
       "FromFile": "assets/Portraits/Sam.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Sam_Beach",
       "FromFile": "assets/Portraits/Sam_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Sam_Winter",
       "FromFile": "assets/Portraits/Sam_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Sandy",
       "FromFile": "assets/Portraits/Sandy.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Sebastian",
       "FromFile": "assets/Portraits/Sebastian.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Sebastian_Beach",
       "FromFile": "assets/Portraits/Sebastian_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Sebastian_Winter",
       "FromFile": "assets/Portraits/Sebastian_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Shane",
       "FromFile": "assets/Portraits/Shane.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Shane_Beach",
       "FromFile": "assets/Portraits/Shane_Beach.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Shane_Winter",
       "FromFile": "assets/Portraits/Shane_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Vincent",
       "FromFile": "assets/Portraits/Vincent.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Vincent_Winter",
       "FromFile": "assets/Portraits/Vincent_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Willy",
       "FromFile": "assets/Portraits/Willy.png"
     },
 
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Willy_Winter",
       "FromFile": "assets/Portraits/Willy_Winter.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Portraits/Wizard",
       "FromFile": "assets/Portraits/Wizard.png"
     },
