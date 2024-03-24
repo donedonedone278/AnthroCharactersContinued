@@ -642,6 +642,30 @@
       }
     },
     {
+      "Action": "EditImage",
+      "Target": "LooseSprites/cowPhotos",
+      "FromFile": "assets/LooseSprites/cowPhotos.png",
+      "PatchMode": "Overlay"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/cowPhotosWinter",
+      "FromFile": "assets/LooseSprites/cowPhotosWinter.png",
+      "PatchMode": "Overlay"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/emojis",
+      "FromFile": "assets/LooseSprites/emojis_characters.png",
+      "ToArea": { "X": 0, "Y": 99, "Width": 126, "Height": 27 }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/JunimoNote",
+      "FromFile": "assets/LooseSprites/JunimoNote_characters.png",
+      "ToArea": { "X": 352, "Y": 212, "Width": 160, "Height": 32 }
+    },
+    {
       "Action": "EditData",
       "Target": "Strings/Characters",
       "Entries": {

@@ -445,9 +445,10 @@
       "FromFile": "assets/Characters/Wizard.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "LooseSprites/BundleSprites",
-      "FromFile": "assets/LooseSprites/BundleSprites.png"
+      "FromFile": "assets/LooseSprites/BundleSprites.png",
+      "PatchMode": "Overlay"
     },
     {
       "Action": "EditImage",
@@ -528,84 +529,34 @@
       "ToArea": { "X": 192, "Y": 80, "Width": 64, "Height": 41 }
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "LooseSprites/JunimoNote",
-      "FromFile": "assets/LooseSprites/JunimoNote.png"
+      "FromFile": "assets/LooseSprites/JunimoNote_characters_female.png",
+      "ToArea": { "X": 352, "Y": 212, "Width": 160, "Height": 32 }
     },
     {
-      "Action": "Load",
-      "Target": "LooseSprites/JunimoNote.de-DE",
-      "FromFile": "assets/LooseSprites/JunimoNote.de-DE.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "LooseSprites/JunimoNote.es-ES",
-      "FromFile": "assets/LooseSprites/JunimoNote.es-ES.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "LooseSprites/JunimoNote.fr-FR",
-      "FromFile": "assets/LooseSprites/JunimoNote.fr-FR.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "LooseSprites/JunimoNote.hu-HU",
-      "FromFile": "assets/LooseSprites/JunimoNote.hu-HU.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "LooseSprites/JunimoNote.it-IT",
-      "FromFile": "assets/LooseSprites/JunimoNote.it-IT.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "LooseSprites/JunimoNote.ja-JP",
-      "FromFile": "assets/LooseSprites/JunimoNote.ja-JP.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "LooseSprites/JunimoNote.ko-KR",
-      "FromFile": "assets/LooseSprites/JunimoNote.ko-KR.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "LooseSprites/JunimoNote.pt-BR",
-      "FromFile": "assets/LooseSprites/JunimoNote.pt-BR.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "LooseSprites/JunimoNote.ru-RU",
-      "FromFile": "assets/LooseSprites/JunimoNote.ru-RU.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "LooseSprites/JunimoNote.tr-TR",
-      "FromFile": "assets/LooseSprites/JunimoNote.tr-TR.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "LooseSprites/JunimoNote.zh-CN",
-      "FromFile": "assets/LooseSprites/JunimoNote.zh-CN.png"
-    },
-    {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "LooseSprites/Movies",
-      "FromFile": "assets/LooseSprites/Movies.png"
+      "FromFile": "assets/LooseSprites/Movies.png",
+      "PatchMode": "Overlay"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "LooseSprites/boardGame",
-      "FromFile": "assets/LooseSprites/boardGame.png"
+      "FromFile": "assets/LooseSprites/boardGame.png",
+      "PatchMode": "Overlay"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "LooseSprites/cowPhotos",
-      "FromFile": "assets/LooseSprites/cowPhotos.png"
+      "FromFile": "assets/LooseSprites/cowPhotos_female.png",
+      "PatchMode": "Overlay"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "LooseSprites/cowPhotosWinter",
-      "FromFile": "assets/LooseSprites/cowPhotosWinter.png"
+      "FromFile": "assets/LooseSprites/cowPhotosWinter_female.png",
+      "PatchMode": "Overlay"
     },
     {
       "Action": "EditImage",
@@ -620,64 +571,33 @@
       "ToArea": { "X": 208, "Y": 256, "Width": 48, "Height": 64 }
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "LooseSprites/emojis",
-      "FromFile": "assets/LooseSprites/emojis.png"
+      "FromFile": "assets/LooseSprites/emojis_characters_female.png",
+      "ToArea": { "X": 0, "Y": 99, "Width": 126, "Height": 27 }
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "LooseSprites/temporary_sprites_1",
       "FromFile": "assets/LooseSprites/temporary_sprites_1.png"
     },
     {
-      "Action": "Load",
+      "Action": "EditImage",
       "Target": "Maps/DesertTiles",
-      "FromFile": "assets/Maps/DesertTiles.png"
+      "FromFile": "assets/Maps/DesertTiles_people1.png",
+      "ToArea": { "X": 96, "Y": 192, "Width": 32, "Height": 48 }
     },
     {
-      "Action": "Load",
-      "Target": "Maps/DesertTiles.es-ES",
-      "FromFile": "assets/Maps/DesertTiles.es-ES.png"
+      "Action": "EditImage",
+      "Target": "Maps/DesertTiles",
+      "FromFile": "assets/Maps/DesertTiles_people2.png",
+      "ToArea": { "X": 160, "Y": 256, "Width": 16, "Height": 16 }
     },
     {
-      "Action": "Load",
-      "Target": "Maps/DesertTiles.fr-FR",
-      "FromFile": "assets/Maps/DesertTiles.fr-FR.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/DesertTiles.hu-HU",
-      "FromFile": "assets/Maps/DesertTiles.hu-HU.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/DesertTiles.it-IT",
-      "FromFile": "assets/Maps/DesertTiles.it-IT.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/DesertTiles.ja-JP",
-      "FromFile": "assets/Maps/DesertTiles.ja-JP.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/DesertTiles.ko-KR",
-      "FromFile": "assets/Maps/DesertTiles.ko-KR.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/DesertTiles.pt-BR",
-      "FromFile": "assets/Maps/DesertTiles.pt-BR.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/DesertTiles.tr-TR",
-      "FromFile": "assets/Maps/DesertTiles.tr-TR.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/DesertTiles.zh-CN",
-      "FromFile": "assets/Maps/DesertTiles.zh-CN.png"
+      "Action": "EditImage",
+      "Target": "Maps/DesertTiles",
+      "FromFile": "assets/Maps/DesertTiles_people3.png",
+      "ToArea": { "X": 224, "Y": 288, "Width": 32, "Height": 32 }
     },
     {
       "Action": "Load",
