@@ -31,6 +31,16 @@
     },
     {
       "Action": "Load",
+      "Target": "Characters/Assorted_Fishermen",
+      "FromFile": "assets/Characters/Assorted_Fishermen.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Assorted_Fishermen_Winter",
+      "FromFile": "assets/Characters/Assorted_Fishermen_Winter.png"
+    },
+    {
+      "Action": "Load",
       "Target": "Characters/Bear",
       "FromFile": "assets/Characters/Bear.png"
     },
