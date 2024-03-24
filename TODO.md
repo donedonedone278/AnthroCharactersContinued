@@ -66,6 +66,11 @@ Winter stuff:
 Other Visuals:
 * Characters/Assorted_Fishermen.png
 * Characters/Assorted_Fishermen_Winter.png
+* Characters/Jodi.png - Last sprite in the file is supposed to be her crouching, looking at moonlight jellies. donedonedone copied her jumping animation
+* LooseSprites/Cursors_1_6_book_shop_man.png
+* LooseSprites/Cursors_1_6_fortune.png
+* LooseSprites/Cursors_1_6_forecast.png
+* LooseSprites/Cursors_1_6_morris_smug.png
 
 
 
@@ -83,6 +88,5 @@ Other:
 
 
 # Other
-* Make the genderswap a flag
 * Update content.json "Format" to 2.0.0
   * MUST WAIT FOR ALL "runtime migration" CHANGES. See: https://stardewvalleywiki.com/Modding:Migrate_to_Stardew_Valley_1.6#XNB_impact
