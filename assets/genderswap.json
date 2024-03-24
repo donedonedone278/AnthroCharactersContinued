@@ -579,11 +579,6 @@
     },
     {
       "Action": "EditData",
-      "Target": "Data/Furniture",
-      "Entries": { "1306": "Liam's Sculpture/decor/1 2/1 1/1/500" }
-    },
-    {
-      "Action": "EditData",
       "Target": "Data/NPCDispositions",
       "Entries": {
         "Abigail": "teen/rude/outgoing/neutral/female/datable/Sebastian/Town/fall 13/Caroline 'mom' Pierre 'dad'/SeedShop 1 9/Albert",
@@ -692,6 +687,19 @@
       "Target": "Strings/Events",
       "Entries": {
         "BirthMessage_SpouseMother": "During the night, the adoption agency dropped off your new baby {0}."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/Furniture",
+      "Entries": {
+        "LeahsSculpture": "Liam's Sculpture",
+        "AbigailPortrait": "Albert Portrait",
+        "EmilyPortrait": "Emil Portrait",
+        "HaleyPortrait": "Hayden Portrait",
+        "LeahPortrait": "Liam Portrait",
+        "MaruPortrait": "Marcus Portrait",
+        "PennyPortrait": "Perry Portrait"
       }
     },
     {

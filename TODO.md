@@ -66,7 +66,7 @@ Winter stuff:
 Other Visuals:
 * Characters/Assorted_Fishermen.png
 * Characters/Assorted_Fishermen_Winter.png
-* Characters/Jodi.png - Last sprite in the file is supposed to be her crouching, looking at moonlight jellies. donedonedone copied her jumping animation
+* Characters/Jodi.png - Last sprite in the file is supposed to be her crouching, looking at moonlight jellies. donedonedone copied her jumping animation.
 * LooseSprites/Cursors_1_6_book_shop_man.png
 * LooseSprites/Cursors_1_6_fortune.png
 * LooseSprites/Cursors_1_6_forecast.png
