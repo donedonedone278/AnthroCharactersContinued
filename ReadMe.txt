@@ -1,22 +1,25 @@
-Anthro Characters Continued
+Anthro Characters
 
+1.6 Mod Page: https://www.nexusmods.com/stardewvalley/mods/20873
+Normal Mod Page: https://www.nexusmods.com/stardewvalley/mods/1083
+
+==========================
 Installation Instructions:
+==========================
 
-For the Content Patcher version:
-If you already have Content Patcher installed, simply copy the "Anthro Characters Continued x.x" folder (which contains "manifest.json") into the "Mods" folder in the game installation folder. You're done!
+If you already have Content Patcher installed, simply copy the "AnthroCharacters" 
+folder (which contains "manifest.json") into the "Mods" folder in the game installation folder. You're done!
 
 If you have an unmodded vanilla game with no SMAPI or Content Patcher yet:
 [Linux/Mac Only] Install Mono. The "mono-complete" package is recommended.
 
 1. Install SMAPI: https://smapi.io
-	1. Use the installation script, OR
-	2. Follow the manual SMAPI installation instructions and copy the file/folder structure into the game installation folder, overwriting the existing files, and renaming the included StardewModdingAPI to StardewValley as needed.)
 
-2. Install Content Patcher: https://www.moddrop.com/stardew-valley/mods/470174-content-patcher
-	1.Copy the "ContentPatcher" folder (which contains "manifest.json") into the newly-created (by SMAPI) "Mods" folder in the game installation folder.
+2. Install Content Patcher: https://www.nexusmods.com/stardewvalley/mods/1915?tab=description
+  a. Copy the "ContentPatcher" folder (which contains "manifest.json") into the newly-created (by SMAPI) "Mods" folder in the game installation folder.
 
-3. Install Anthro Characters Continued Content Patcher Version.
-	1.Copy the "Anthro Characters Continued x.x" folder (which contains "manifest.json") into the newly-created (by SMAPI) "Mods" folder in the game installation folder.
+3. Install Anthro Characters Continued.
+  a. Copy the "AnthroCharacters" folder (which contains "manifest.json") into the newly-created (by SMAPI) "Mods" folder in the game installation folder.
 
 
 Authors:
@@ -32,9 +35,12 @@ Authors:
 
 
 Support:
-This mod has been a community effort, but without Gaveliere it would not exist. He has continued to support his mod throughout the years it's been around and worked very hard getting it updated for patch 1.4 and quashing the old remaining bugs we've had lying about.
+This mod has been a community effort, but without Gaveliere it would not exist. 
+He has continued to support his mod throughout the years it's been around and worked 
+very hard getting it updated for each patch and quashing the old remaining bugs we've had lying about.
 
-If you would like to support the artist who created this work, a donation would be greatly appreciated. You can help fund this mod as well as his other projects at: https://ko-fi.com/gaveliere
+If you would like to support the artist who created this work, a donation would be greatly appreciated. 
+You can help fund this mod as well as his other projects at: https://ko-fi.com/gaveliere
 
 
 Credits:
