@@ -504,6 +504,30 @@
       "ToArea": { "X": 0, "Y": 1925, "Width": 50, "Height": 47 }
     },
     {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors_1_6",
+      "FromFile": "assets/LooseSprites/Cursors_1_6_book_shop_man.png",
+      "ToArea": { "X": 31, "Y": 464, "Width": 164, "Height": 48 }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors_1_6",
+      "FromFile": "assets/LooseSprites/Cursors_1_6_forecast.png",
+      "ToArea": { "X": 213, "Y": 335, "Width": 43, "Height": 28 }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors_1_6",
+      "FromFile": "assets/LooseSprites/Cursors_1_6_fortune.png",
+      "ToArea": { "X": 424, "Y": 447, "Width": 42, "Height": 57 }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors_1_6",
+      "FromFile": "assets/LooseSprites/Cursors_1_6_morris_smug.png",
+      "ToArea": { "X": 192, "Y": 80, "Width": 64, "Height": 41 }
+    },
+    {
       "Action": "Load",
       "Target": "LooseSprites/JunimoNote",
       "FromFile": "assets/LooseSprites/JunimoNote.png"
