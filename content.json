@@ -1,5 +1,5 @@
 {
-  "Format": "1.30.4",
+  "Format": "2.0.1",
   "ConfigSchema": {
     "Anthro Characters": {
       "AllowValues": "true, false",

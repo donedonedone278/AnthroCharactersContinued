@@ -799,14 +799,6 @@
     },
     {
       "Action": "EditData",
-      "Target": "Strings/Locations",
-      "Entries": {
-        "DoorUnlock_NotFriend_Male": "You're not good enough friends with {0} to enter their bedroom.",
-        "DoorUnlock_NotFriend_Female": "You're not good enough friends with {0} to enter their bedroom."
-      }
-    },
-    {
-      "Action": "EditData",
       "Target": "Strings/NPCNames",
       "Entries": {
         "Abigail": "Albert",

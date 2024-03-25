@@ -117,12 +117,4 @@ Things to check (Mark/Delete when complete):
 * Characters/schedules
 * Data
 * Strings
-Other:
-* Migrate Data/NPCDispositions to 1.6
 
-
-
-
-# Other
-* Update content.json "Format" to 2.0.0
-  * MUST WAIT FOR ALL "runtime migration" CHANGES. See: https://stardewvalleywiki.com/Modding:Migrate_to_Stardew_Valley_1.6#XNB_impact
