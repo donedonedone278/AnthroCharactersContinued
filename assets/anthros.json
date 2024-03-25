@@ -746,7 +746,7 @@
       "Action": "EditImage",
       "Target": "Maps/townInterior",
       "FromFile": "assets/Maps/townInterior_joja_worker.png",
-      "ToArea": { "X": 352, "Y": 994, "Width": 32, "Height": 32 }
+      "ToArea": { "X": 352, "Y": 944, "Width": 32, "Height": 32 }
     },
     {
       "Action": "EditImage",
