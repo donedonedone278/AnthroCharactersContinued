@@ -1107,6 +1107,11 @@
     },
     {
       "Action": "EditImage",
+      "Target": "Portraits/Robin_Winter",
+      "FromFile": "assets/Portraits/Robin_Winter.png"
+    },
+    {
+      "Action": "EditImage",
       "Target": "Portraits/SafariGuy",
       "FromFile": "assets/Portraits/SafariGuy.png"
     },
