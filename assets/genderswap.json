@@ -217,6 +217,16 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Abigail",
       "Entries": {
+        "AcceptGift_(O)119": "This makes you wonder... Thousands of years ago, there was probably a little purple-haired cavedragon who played this flute, just like me.#$b#...I'll have to wash it before pressing it to my muzzle, though.$h",
+        "Resort_Umbrella": "My underbelly gets burnt really easily. So I'm just gonna stay under this umbrella for a while.#$e#I like it in the shade. Too much sun makes me dizzy.",
+        "dating_Abigail": "%Albert is blushing, but he looks happy.",
+        "Mon8": "$query PLAYER_NPC_RELATIONSHIP current any married roommate#I remember when you first arrived in town, I was a little sad that those old woods would be turned into farmland. But now I'm really glad you moved here!$h|...Oh, @! Hi.$h#$e#Want to hang out for a while? Here! Let me read your palm. *chuckle* $h",
+        "summer_Thu10": "Wow, you look nice today.#$e#I mean, that summer air is really good for the scales, isn't it?... heh...$l",
+        "summer_Thu4": "Ew, this heat makes me wish I lived in a cave.$s",
+        "fall_Fri6": "I wish the season lasted a little longer.$8#$e#When the wind really picks up, I almost feel like a hatchling again.",
+        "winter_7": "I'm looking forward to making a snow dragon tomorrow.",
+        "Sun_Bad": "Rude! Why would you hurt someone's feelings like that? Insensitive!$s",
+        "winter_Wed2": "Hi. If you're ever bored, you can always hang out in my room.#$e#As long as I have pants on, of course!",
         "Event_Grave3": "Oh, it's because you think I'm a momma's boy... isn't it? Ugh...$u^Why? I'm just as strong as you!$a#$b#I'm not some fragile prince charming.. I can take care of myself!$a#$b#I've lived in the valley my whole life, but I've never really done anything memorable. I want to go on an adventure!$8",
         "fall_Thu": "#$1 AbigailHAND#Last night I dreamt that my left hand had turned into a gigantic %noun. Does that mean anything?#$e#%Albert doesn't seem to be interested in talking right now.",
         "spring_23": "Well, tomorrow is the flower dance. Dancing is alright, but they make me wear this stupid blue suit...$s"
@@ -226,6 +236,11 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Alex",
       "Entries": {
+        "married_Haley": "You got Hayden to marry you, huh? I always figured he was out of your league!",
+        "Sat": "My arms are really sore, but that's the sign of progress for a dog like me.#$e#I must've done a thousand push-ups yesterday.",
+        "summer_Tue": "If my fur wasn't so popular with the ladies, I swear I'd shave it all off in a second.#$e#*sigh*... Life can be tough.",
+        "summer_Sat": "Mmmm... I smell a barbeque.#$e#Damn I wonder if they have any bones I could chew.",
+        "winter_Sat": "There's some weird people living in this town.#$e#...like that wolf Sebastian. Why does he wear black all the time?#$e#I don't get it.",
         "winter_Tue": "Hey, can you go find Hayden and tell him I said 'hi'?",
         "winter_Tue4": "Hey, @. Could you do me a favor?$l#$b#If you see Hayden, tell him I'm busy.$l#$e#Thanks.",
         "winter_Tue4_inlaw_Haley": "I'll admit... I was a little jealous when you and Hayden got married. But, hey... It's a chance for me to learn something new about myself.$9"
