@@ -432,6 +432,94 @@
     },
     {
       "Action": "EditData",
+      "Target": "Data/Characters",
+      "TargetField": [ "Abigail" ],
+      "Entries": {
+        "Gender": "Male"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Characters",
+      "TargetField": [ "Emily" ],
+      "Entries": {
+        "Gender": "Male"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Characters",
+      "TargetField": [ "Haley" ],
+      "Entries": {
+        "Gender": "Male"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Characters",
+      "TargetField": [ "Leah" ],
+      "Entries": {
+        "Gender": "Male"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Characters",
+      "TargetField": [ "Maru" ],
+      "Entries": {
+        "Gender": "Male"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Characters",
+      "TargetField": [ "Penny" ],
+      "Entries": {
+        "Gender": "Male"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Characters",
+      "TargetField": [ "Emily", "FriendsAndFamily" ],
+      "Entries": {
+        "Haley": "[LocalizedText Strings\\Characters:Relative_Brother]"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Characters",
+      "TargetField": [ "Haley", "FriendsAndFamily" ],
+      "Entries": {
+        "Emily": "[LocalizedText Strings\\Characters:Relative_Brother]"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Characters",
+      "TargetField": [ "Pierre", "FriendsAndFamily" ],
+      "Entries": {
+        "Abigail": "[LocalizedText Strings\\Characters:Relative_Son]"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Characters",
+      "TargetField": [ "Robin", "FriendsAndFamily" ],
+      "Entries": {
+        "Maru": "[LocalizedText Strings\\Characters:Relative_Son]"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Characters",
+      "TargetField": [ "Sebastian", "FriendsAndFamily" ],
+      "Entries": {
+        "Maru": "[LocalizedText Strings\\Characters:Relative_HalfBrother]"
+      }
+    },
+    {
+      "Action": "EditData",
       "Target": "Data/EngagementDialogue",
       "Entries": {
         "Maru0": "I'm really excited.$h#$b#I'm going to be your husband. Hehe.$l",
@@ -601,29 +689,13 @@
     },
     {
       "Action": "EditData",
-      "Target": "Data/NPCDispositions",
-      "Entries": {
-        "Abigail": "teen/rude/outgoing/neutral/female/datable/Sebastian/Town/fall 13/Caroline 'mom' Pierre 'dad'/SeedShop 1 9/Albert",
-        "Emily": "adult/polite/outgoing/positive/female/datable/null/Town/spring 27/Haley 'brother'/HaleyHouse 16 5/Emil",
-        "Haley": "adult/rude/outgoing/neutral/female/datable/Alex/Town/spring 14/Emily 'brother'/HaleyHouse 8 7/Hayden",
-        "Leah": "adult/polite/neutral/positive/female/datable/Elliott/Town/winter 23//LeahHouse 3 7/Liam",
-        "Maru": "teen/neutral/outgoing/positive/female/datable/Harvey/Town/summer 10/Robin 'mom' Demetrius 'dad' Sebastian 'half-brother'/ScienceHouse 2 4/Marcus",
-        "Pam": "adult/rude/outgoing/negative/female/not-datable/Gus/Town/spring 18/Penny 'little_baby-boy' Gus ''/Trailer 15 4/Pam",
-        "Penny": "teen/polite/shy/positive/female/datable/Sam/Town/fall 2/Pam 'mother'/Trailer 4 9/Perry",
-        "Pierre": "adult/neutral/outgoing/positive/male/not-datable/Caroline/Town/spring 26/Abigail 'son' Caroline 'wife'/SeedShop 4 17/Pierre",
-        "Robin": "adult/neutral/outgoing/positive/female/not-datable/Demetrius/Town/fall 21/Demetrius 'husband' Maru 'son' Sebastian 'son'/ScienceHouse 21 4/Robin",
-        "Sebastian": "teen/rude/shy/negative/male/datable/Abigail/Town/winter 10/Robin 'mom' Maru 'half-brother' Sam ''/SebastianRoom 10 9/Sebastian"
-      }
-    },
-    {
-      "Action": "EditData",
       "Target": "Data/Quests",
       "Entries": {
-        "108": "ItemDelivery/Carving Pumpkins/Caroline wants to carve a pumpkin with her son. She asked you to bring her one from the farm./Bring Caroline a pumpkin./Caroline 276/-1/500/-1/true/Oh, the pumpkin! It's a good one... Albert will be so happy when he sees this. Thanks, @!$h",
-        "110": "ItemDelivery/Clint's Attempt/Clint wants you to give Emil an amethyst. He wants you to tell him who it's from./Bring Emil an Amethyst./Emily 66/-1/0/-1/true/Oh, my favorite stone! You're so sweet!$h#$b#Huh? It's from who?$u#$b#Oh, you got it at Clint's? Well I don't care where you got it from, it's beautiful! Thank you! *smooch*$h",
-        "115": "ItemDelivery/Fresh Fruit/Emil wants a taste of spring. He's asking for a fresh apricot./Bring Emil an Apricot./Emily 634/-1/600/-1/true/Oh... You followed through! Thanks, this looks delicious!$h",
-        "126": "ItemDelivery/Errand for your Husband/Your husband asked you to bring him 200 pieces of fiber for a secret project./Bring Emil 200 fiber./Emily 771 200/-1/0/-1/false/Oh, this looks perfect... and it's sustainably sourced, too! Thanks so much, @.$h#$b#Now, I've got my work cut out for me. It'll be a few more days before it's ready...",
-        "127": "Basic/Hayden's Cake-Walk/Your husband is organizing a charity cake-walk in the town square. She asked you to bring a chocolate cake./Enter Town on a sunny morning with a chocolate cake./-1/-1/0/-1/true"
+        "108": "ItemDelivery/Carving Pumpkins/Caroline wants to carve a pumpkin with her son. She asked you to bring her one from the farm./Bring Caroline a pumpkin./Caroline (O)276/-1/500/-1/true/Oh, the pumpkin! It's a good one... Albert will be so happy when he sees this. Thanks, @!$h",
+        "110": "ItemDelivery/Clint's Attempt/Clint wants you to give Emil an amethyst. He wants you to tell him who it's from./Bring Emil an Amethyst./Emily (O)66/-1/0/-1/true/Oh, my favorite stone! You're so sweet!$h#$b#Huh? It's from who?$u#$b#Oh, you got it at Clint's? Well I don't care where you got it from, it's beautiful! Thank you! *smooch*$h",
+        "115": "ItemDelivery/Fresh Fruit/Emil wants a taste of spring. He's asking for a fresh apricot./Bring Emil an Apricot./Emily (O)634/-1/600/-1/true/Oh... You followed through! Thanks, this looks delicious!$h",
+        "126": "ItemDelivery/Errand for your Husband/Your husband asked you to bring him 200 pieces of fiber for a secret project./Bring Emil 200 fiber./Emily (O)771 200/-1/0/-1/false/Oh, this looks perfect... and it's sustainably sourced, too! Thanks so much, @.$h#$b#Now, I've got my work cut out for me. It'll be a few more days before it's ready...",
+        "127": "Basic/Hayden's Cake-Walk/Your husband is organizing a charity cake-walk in the town square. He asked you to bring a chocolate cake./Enter Town on a sunny morning with a chocolate cake./-1/-1/0/-1/true"
       }
     },
     {
@@ -686,6 +758,7 @@
       "Action": "EditData",
       "Target": "Strings/Characters",
       "Entries": {
+        "Relative_LittleBabyGirl": "big baby-boy",
         "AbigailInMineFlute": "%Albert is lost in his music...",
         "MovieTheater_AfterMovieAlone": "He is thinking silently about the film.",
         "MovieTheater_AfterMovie": "He is engaging in lively discussion about the film.",
