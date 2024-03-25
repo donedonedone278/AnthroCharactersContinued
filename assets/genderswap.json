@@ -354,6 +354,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Pam",
       "Entries": {
+        "married_Penny": "I'll really miss that guy...$s#$b#You treat my Perry good, now. You hear me?$u",
+        "divorced_Penny": "Perry came home crying... what'd you do to him?$3",
         "Trailer_Entry": "Perry! Did you make dinner?/Perry! You done your chores?/Perry! You home?/Hey! I'm home!",
         "Thu": "#$1 PamDrunk#Blahh... I had one too many caramel porters at the saloon last night... Go away.$k#$e#My house ain't pretty but at least it's by the river.#$e#Hey. Perry's my baby boy. Be nice to him or leave him alone, got it?",
         "Thu4": "Perry says I spend too much time at the saloon...$s",
