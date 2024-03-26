@@ -140,17 +140,59 @@
       }
     },
     {
+      "When": {
+        "HasMod": "krystedez.FurryFarmer",
+        "Genderswapped Dialogue": "Enabled With Flavor"
+      },
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Dwarf",
+      "Entries": {
+        "Introduction": "Hey, you're pretty good at mining, for a surface-dweller.",
+        "firstVisit_IslandNorth": "If you enter the volcano on Ginger Island, you might encounter others like me. Don't be alarmed! We're peaceful with surface-dwellers.",
+        "Fri_2": "Most surface-dwellers fear the unknown... that's why I've hidden my shop here.#$e#Your mining skills prove you're trustworthy.",
+        "mineArea_121": "You know, you're pretty good at mining, for a surface-dweller."
+      }
+    },
+    {
+      "When": {
+        "Genderswapped Dialogue": "Enabled With Flavor"
+      },
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Elliot",
+      "Entries": {
+        "Fri8": "I'll admit... it takes me several hours each morning to make my mane look this good."
+      }
+    },
+    {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Emily",
       "Entries": {
         "Mon": "Have I told you Hayden and I are brothers? Strange, isn't it?",
+        "AcceptGift_(TR)ParrotEgg": "Oh, good, it's still warm... Poor thing, where's its papa? *Whisper* ...I'll be your papa, don't worry... Poor baby.$s#$b#I'm glad you gave this to me, @. I'll take very good care of it.",
         "Mon6": "I wish Hayden would get a job or at least contribute to cooking and cleaning.$s#$e#I think he's hoping to marry someone rich.$u",
+        "married_Haley": "That was a beautiful wedding... I'm really happy for you and Hayden!$h",
+        "divorced_Haley": "Hayden is too proud to be heartbroken over the divorce... Or at least to show it.$3",
+        "dating_Emily": "%Emil has a big smile on his face.",
+        "Resort_Dance": "%Emil is lost in the music.",
+        "reject_866": "Oh, that's beautiful... I have a friend who would love that! But he lives far from here...",
+        "summer_Fri6": "You know, I'm sure Gus would understand if I wanted to leave the Saloon someday.#$b#There's so much out there, I can't stay a barman forever.$u",
         "Mon6_inlaw_Haley": "I have to say, now that Hayden's gone I've had a much easier time keeping things in order.",
         "summer_Mon": "Hayden is a picky eater. It's so hard to cook for him.",
         "summer_Mon_inlaw_Haley": "Hayden and I get along much better now that he's moved out. I look forward to his visits!",
         "winter_Wed": "Hayden and I aren't made for such a big house. It's a hassle to keep it clean.#$e#Ah well. I really shouldn't be complaining.#$e#Your farmhouse seems nice and cozy.$h",
         "winter_Sun6": "My brother and I might fight sometimes, but I would really miss him if he left.#$e#I think he'll become a very nice young man some day... Don't tell him I said that.$h#$e#So, is there anything you want to talk about?",
         "winter_Sun6_inlaw_Haley": "Say hi to my brother for me! And remind him to visit me tomorrow."
+      }
+    },
+    {
+      "When": {
+        "Genderswapped Dialogue": "Enabled With Flavor"
+      },
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Emily",
+      "Entries": {
+        "winter_Tue4": "I think my feathers are frozen solid...$s",
+        "dating_Emily": "%Emil has a big smile on his beak."
       }
     },
     {
