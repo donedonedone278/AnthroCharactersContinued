@@ -4,14 +4,20 @@
     "Anthro Characters": {
       "AllowValues": "true, false",
       "Default": "true",
-      "Section": "These take a few seconds to activate",
-      "Description": "Enable/Disable the mod. Takes a few seconds to activate."
+      "Section": "Anthro Characters",
+      "Description": "Enable/Disable the whole mod. Takes a few seconds to activate."
     },
-    "Female-To-Male Genderswaps": {
-      "AllowValues": "true, false",
-      "Default": "true",
-      "Section": "These take a few seconds to activate",
-      "Description": "DIALOGUE CHANGES TAKE EFFECT EVERY MORNING. Visuals take a second to activate."
+    "Genderswapped Visuals": {
+      "AllowValues": "Disabled, Enabled",
+      "Default": "Enabled",
+      "Section": "Female-To-Male Genderswaps",
+      "Description": "Visuals take a second to activate."
+    },
+    "Genderswapped Dialogue": {
+      "AllowValues": "Disabled, Enabled, Enabled With Flavor",
+      "Default": "Enabled",
+      "Section": "Female-To-Male Genderswaps",
+      "Description": "Dialogue changes take effect every morning. 'Enabled' is just gender-related changes, 'Flavor' means NPCs reference each others' species, mention having fur or scales, etc."
     }
   },
   "Changes": [

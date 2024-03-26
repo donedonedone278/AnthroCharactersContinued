@@ -2,16 +2,23 @@
   "Changes": [
     {
       "Action": "Include",
-      "FromFile": "assets/ungenderswap.json",
+      "FromFile": "assets/genderswap.json",
       "When": {
-        "Female-To-Male Genderswaps": false
+        "Genderswapped Visuals": "Enabled"
       }
     },
     {
       "Action": "Include",
-      "FromFile": "assets/genderswap.json",
+      "FromFile": "assets/genderswap_dialogue.json",
       "When": {
-        "Female-To-Male Genderswaps": true
+        "Genderswapped Dialogue": "Enabled, Enabled With Flavor"
+      }
+    },
+    {
+      "Action": "Include",
+      "FromFile": "assets/ungenderswap.json",
+      "When": {
+        "Genderswapped Visuals": "Disabled"
       }
     },
     {
