@@ -15,6 +15,7 @@ Instructions:
 2. Download and run [VSCode](https://code.visualstudio.com/). This is a fancy text editor developed by Microsoft.
 3. In VSCode, go to File -> Open Folder... -> then find your Content (Unpacked) folder. Select it, then hit "Select Folder" in the bottom right.
 4. You're done. To search all files, use the magnifying glass button on the left side of the screen.
+  - If you'd like to exclude non-English files from your search, click the three dots, then under "files to exclude" enter \*.\*.\*
 
 ## Seaching AnthroCharacters' Dialogue
 Problem: You want to see all the dialogue that is changed in AnthroCharacters.
