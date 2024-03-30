@@ -1,4 +1,4 @@
-Anthro Characters
+Anthro Characters Continued
 
 1.6 Mod Page: https://www.nexusmods.com/stardewvalley/mods/20873
 Normal Mod Page: https://www.nexusmods.com/stardewvalley/mods/1083
