@@ -45,7 +45,8 @@ You can help fund this mod as well as his other projects at: https://ko-fi.com/g
 
 Credits:
 A titanic, overwhelming thanks to Gaveliere for creating this mod, for creating the ACC genderswaps, and for rigorous testing.
-Blanchard(sion9000) for maintaining the mod pages, testing, and co-development.
+Blanchard(sion9000) for maintaining the mod pages, editing, testing, and co-development.
+donedonedone278 for creating and maintaining the github, editing, testing, and co-development.
 Thanks to Krystedez for Content Patcher management and co-development.
 Thanks to Krystedez and ColaWolf for additional characters.
 Thanks to Bonabopn and Roskii for keeping the thread alive and helping 
