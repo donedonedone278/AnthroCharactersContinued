@@ -27,9 +27,9 @@ Authors:
 
 - Blanchard a.k.a. sion9000 (Twitter: @NekoBlanchard)
 
-- Krystedez (Twitter: @ChiefKryz)
-
 - donedonedone (FurAffinity: donedonedone)
+
+- Krystedez (Twitter: @ChiefKryz)
 
 *Our Twitters may contain NSFW furry trash.
 
