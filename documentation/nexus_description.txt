@@ -1,0 +1,57 @@
+Note for returning users: This is the most recent iteration of [u]Anthro Characters[/u] as of 3/25/24. It has been approved by the [url=https://twitter.com/Gavelly]original mod author (@Gavelly on Twitter)[/url] but he hasn’t yet made the new 1.6 art. This patch is compatibility-only!
+
+[center][heading][b]vvvv    1.6 NEWS   vvvv[/b][/heading]
+[b]Winter art and other 1.6 art by Gavelly is coming! See his progress here:[/b]  [url=https://ko-fi.com/gaveliere]https://ko-fi.com/gaveliere[/url][b][/b]
+
+If you’d like the full [u]Anthro Characters[/u] experience for 1.6, we suggest holding off playing with this mod for now! The patch on this page is just the 1.5 content uplifted to 1.6 for those who really want to play [i]today[/i].
+
+[heading][b]^^^^    1.6 NEWS   ^^^^[/b][/heading][/center][center]
+[b][u]Anthro Characters[/u] overhauls virtually every NPC in the game, creating a wholly re-imagined Stardew Valley experience for those who enjoy anthropomorphic animal characters.[/b] And now it is compatible with Stardew 1.6!
+
+[img=center]https://i.imgur.com/iPavIpM.png[/img]
+
+[b]Optional female-to-male genderswaps for the romanceable characters (toggleable in-game. Includes dialogue changes!):[/b]
+
+[img=center]https://i.imgur.com/k8wQefs.png[/img][/center]
+[img=left]https://i.imgur.com/k0079lp.png[/img]
+(0). [url=https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB]Validate your steam game files for stardew[/url]. If you’ve EVER used a previous version of this mod, you’ll definitely want to do this!
+1. Install the most recent version of [url=https://smapi.io/]SMAPI[/url]
+2. Install the most recent version of [url=https://www.nexusmods.com/stardewvalley/mods/1915]Content Patcher[/url]
+3. Install the most recent version of [url=https://www.nexusmods.com/stardewvalley/mods/5098]Generic Mod Config Menu[/url] (Optional but recommended)
+4. Install this mod by going to [url=https://www.nexusmods.com/stardewvalley/mods/20873?tab=files]the downloads page[/url]
+5. Copy the contents of the .zip to your Mods directory.
+6. Start the game
+
+[b]To configure gender swaps:[/b]
+1. On the title screen, assuming you have Generic Mod Config Menu installed, click the gear icon.
+2. Click Anthro Characters Continued.
+3. Configure to your heart's content.
+4. Click "Save" at the bottom.
+
+[b]Issues?
+[/b]Before logging a bug, try [url=https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB]validating your steam game files for stardew[/url], especially if you've installed this same mod in the past.
+There are still a fair number of new issues with 1.6. We'd appreciate being told of any sprites that could be anthro-ified.
+[center]
+[img=center]https://i.imgur.com/RDmZTEs.png[/img]
+
+[b]If you enjoy the mod, please strongly consider sending a tip Gaveliere's way. Every little bit helps!
+His kofi: [url=https://ko-fi.com/gaveliere]https://ko-fi.com/gaveliere
+[/url][/b]
+[img=center]https://i.imgur.com/RDmZTEs.png[/img][/center]
+[url=https://community.playstarbound.com/threads/anthro-characters.109960/]Link to the original mod by Gaveliere[/url]
+
+[url=https://www.nexusmods.com/stardewvalley/mods/1083]Link to the last iteration of this mod[/url]
+
+FAQ:
+Will this break steam achievements?
+No
+
+Will this corrupt my save?
+No. Delete the mod and everything will go right back to normal!
+
+
+This is donedonedone's attempt to make this mod 1.6 compatible. Expect a few visual bugs, but generally I think I've taken care of the big stuff. 
+
+Github: [url=https://github.com/donedonedone278/AnthroCharacters]https://github.com/donedonedone278/AnthroCharacters[/url]
+
+This mod only exists because of the contributions of many people over the years. Take a moment to enjoy the "Permission and credits" tab on this page!
