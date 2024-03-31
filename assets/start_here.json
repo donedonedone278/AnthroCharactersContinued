@@ -1,0 +1,106 @@
+{
+  "Changes": [
+    {
+      "Action": "Include",
+      "FromFile": "assets/AnthroConfig/base.json"
+    },
+    {
+      "When": {
+        "Language": "en",
+        "Flavor": true
+      },
+      "Action": "Include",
+      "FromFile": "assets/AnthroConfig/flavor.json"
+    },
+    {
+      "When": {
+        "Abigail to Albert": true
+      },
+      "Action": "Include",
+      "FromFile": "assets/Genderswaps/Albert/visuals.json"
+    },
+    {
+      "When": {
+        "Abigail to Albert": true,
+        "Language": "en"
+      },
+      "Action": "Include",
+      "FromFile": "assets/Genderswaps/Albert/dialogue_changes.json"
+    },
+    {
+      "When": {
+        "Emily to Emil": true
+      },
+      "Action": "Include",
+      "FromFile": "assets/Genderswaps/Emil/visuals.json"
+    },
+    {
+      "When": {
+        "Emily to Emil": true,
+        "Language": "en"
+      },
+      "Action": "Include",
+      "FromFile": "assets/Genderswaps/Emil/dialogue_changes.json"
+    },
+    {
+      "When": {
+        "Hayley to Hayden": true
+      },
+      "Action": "Include",
+      "FromFile": "assets/Genderswaps/Hayden/config.json"
+    },
+    {
+      "When": {
+        "Hayley to Hayden": true,
+        "Language": "en"
+      },
+      "Action": "Include",
+      "FromFile": "assets/Genderswaps/Hayden/dialogue_changes.json"
+    },
+    {
+      "When": {
+        "Leah to Liam": true
+      },
+      "Action": "Include",
+      "FromFile": "assets/Genderswaps/Liam/config.json"
+    },
+    {
+      "When": {
+        "Leah to Liam": true,
+        "Language": "en"
+      },
+      "Action": "Include",
+      "FromFile": "assets/Genderswaps/Liam/dialogue_changes.json"
+    },
+    {
+      "When": {
+        "Maru to Marcus": true
+      },
+      "Action": "Include",
+      "FromFile": "assets/Genderswaps/Marcus/config.json"
+    },
+    {
+      "When": {
+        "Maru to Marcus": true,
+        "Language": "en"
+      },
+      "Action": "Include",
+      "FromFile": "assets/Genderswaps/Marcus/dialogue_changes.json"
+    },
+    {
+      "When": {
+        "Penny to Perry": true
+      },
+      "Action": "Include",
+      "FromFile": "assets/Genderswaps/Perry/config.json"
+    },
+    {
+      "When": {
+        "Penny to Perry": true,
+        "Language": "en"
+      },
+      "Action": "Include",
+      "FromFile": "assets/Genderswaps/Perry/dialogue_changes.json"
+    }
+  ]
+}

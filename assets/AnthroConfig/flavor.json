@@ -1,0 +1,84 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Abigail",
+      "Entries": {
+        "AcceptGift_(O)119": "This makes you wonder... Thousands of years ago, there was probably a young purple-haired cavedragon who played this flute, just like me.#$b#...I'll have to wash it before pressing it to my muzzle, though.$h",
+        "Resort_Umbrella": "My underbelly gets burnt really easily. So I'm just gonna stay under this umbrella for a while.#$e#I like it in the shade. Too much sun makes me dizzy.",
+        "summer_Thu10": "Wow, you look nice today.#$e#I mean, that summer air is really good for the scales, isn't it?... heh...$l",
+        "summer_Thu4": "Ew, this heat makes me wish I lived in a cave.$s",
+        "fall_Thu": "#$1 AbigailHAND#Last night I dreamt that my left claw had turned into a gigantic %noun. Does that mean anything?#$e#%Abigail doesn't seem to be interested in talking right now.",
+        "fall_Fri6": "I wish the season lasted a little longer.$8#$e#When the wind really picks up, I almost feel like a hatchling again.",
+        "winter_7": "I'm looking forward to making a snow dragon tomorrow."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Alex",
+      "Entries": {
+        "Sat": "My arms are really sore, but that's the sign of progress for a dog like me.#$e#I must've done a thousand push-ups yesterday.",
+        "summer_Tue": "If my fur wasn't so popular with the ladies, I swear I'd shave it all off in a second.#$e#*sigh*... Life can be tough.",
+        "summer_Sat": "Mmmm... I smell a barbeque.#$e#Damn I wonder if they have any bones for me.",
+        "winter_Sat": "There's some weird people living in this town.#$e#...like that wolf Sebastian. Why does he wear black all the time?#$e#I don't get it."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Caroline",
+      "Entries": {
+        "Sat6": "#$1 Caroline12#When we first moved here, I took a while to settle down... I wasn't ready for the domestic life.#$e#Pierre's a bit conventional... but he's an honest raccoon. He's ambitious, but he always puts his family first.",
+        "summer_Tue": "I've been smelling wild fruits in the forest lately.#$e#Foraging can be a fun way to earn some cash. Or you can use what you find as gifts or food.",
+        "fall_Wed6": "You know, I used to want to be a farmer myself. Well, more like a rancher.#$e#I always loved movies about the wild west when I was a kit."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Clint",
+      "Entries": {
+        "Resort_Chair": "Ow... even under my fur I'm burnt to a crisp.$s",
+        "Resort_Bar": "I want some bamboo...$s",
+        "Wed6": "Oh, hi @. Sorry if my fur is a little messy. I've been working at the furnace all morning.$h#$e#So, did you need anything, or do you just want to visit?",
+        "Fri8": "I should save up and buy a computer...#$e#Maybe I can find a boyfriend on the 'internet'...$s#$e#What? Don't judge me! Not everyone is a cool, attractive, socially-adept farmer, you know!$u#$e#What's a panda like me supposed to do? *Groan*$s",
+        "Resort_Shore": "Oh no... I forgot to trim my foot claws.$s"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Demetrius",
+      "Entries": {
+        "Fri": "Robin has a hot temper. It's better to stay on her good side. She bites...#$e#Don't tell her I said that.$h",
+        "Fri4": "Robin has a hot temper. It's better to stay on her good side. She bites...#$e#...now if I could only quantify her mood levels, perhaps I could model the fluctuations using a sinusoidal curve...$u",
+        "married_Maru": "*sigh*... @, I've come to accept that it's time for my 'kit' to become a grown rabbit. You have my blessing.$s"
+      }
+    },
+    {
+      "When": {
+        "HasMod": "krystedez.FurryFarmer"
+      },
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Dwarf",
+      "Entries": {
+        "Introduction": "Hey, you're pretty good at mining, for a surface-dweller.",
+        "firstVisit_IslandNorth": "If you enter the volcano on Ginger Island, you might encounter others like me. Don't be alarmed! We're peaceful with surface-dwellers.",
+        "Fri_2": "Most surface-dwellers fear the unknown... that's why I've hidden my shop here.#$e#Your mining skills prove you're trustworthy.",
+        "mineArea_121": "You know, you're pretty good at mining, for a surface-dweller."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Elliot",
+      "Entries": {
+        "Fri8": "I'll admit... it takes me several hours each morning to make my mane look this good."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Emily",
+      "Entries": {
+        "winter_Tue4": "I think my feathers are frozen solid...$s",
+        "dating_Emily": "%Emily has a big smile on her beak."
+      }
+    }
+  ]
+}

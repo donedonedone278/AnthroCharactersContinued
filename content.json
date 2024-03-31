@@ -7,23 +7,99 @@
       "Section": "Anthro Characters",
       "Description": "Enable/Disable the whole mod. Takes a few seconds to activate."
     },
-    "Genderswapped Visuals": {
-      "AllowValues": "Disabled, Enabled",
-      "Default": "Enabled",
-      "Section": "Female-To-Male Genderswaps",
-      "Description": "Visuals take a second to activate."
+    "Flavor": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Dialogue",
+      "Description": "If enabled, NPCs reference each others' species, mention having fur or scales, etc."
     },
-    "Genderswapped Dialogue": {
-      "AllowValues": "Disabled, Enabled, Enabled With Flavor",
-      "Default": "Enabled",
-      "Section": "Female-To-Male Genderswaps",
-      "Description": "Dialogue changes take effect every morning. 'Enabled' is just gender-related changes, 'Flavor' means NPCs reference each others' species, mention having fur or scales, etc."
+    "Abigail to Albert": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Genderswaps",
+      "Description": "Visuals take a second to activate. Dialogue changes are applied at start-of-day."
+    },
+    "Emily to Emil": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Genderswaps",
+      "Description": "Visuals take a second to activate. Dialogue changes are applied at start-of-day."
+    },
+    "Hayley to Hayden": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Genderswaps",
+      "Description": "Visuals take a second to activate. Dialogue changes are applied at start-of-day."
+    },
+    "Leah to Liam": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Genderswaps",
+      "Description": "Visuals take a second to activate. Dialogue changes are applied at start-of-day."
+    },
+    "Maru to Marcus": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Genderswaps",
+      "Description": "Visuals take a second to activate. Dialogue changes are applied at start-of-day."
+    },
+    "Penny to Perry": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Genderswaps",
+      "Description": "Visuals take a second to activate. Dialogue changes are applied at start-of-day."
     }
   },
+  "DynamicTokens": [
+    {
+       "Name": "Emily",
+       "Value": "Emily"
+    },
+    {
+       "Name": "Emily",
+       "Value": "Emil",
+       "When": {
+          "Emily to Emil": true
+       }
+    },
+    {
+       "Name": "Hayley",
+       "Value": "Hayley"
+    },
+    {
+       "Name": "Hayley_her",
+       "Value": "her"
+    },
+    {
+       "Name": "Hayley",
+       "Value": "Hayden",
+       "When": {
+          "Hayley to Hayden": true
+       }
+    },
+    {
+       "Name": "Hayley_her",
+       "Value": "him",
+       "When": {
+          "Hayley to Hayden": true
+       }
+    },
+    {
+      "Name": "Penny",
+      "Value": "Penny"
+    },
+    {
+       "Name": "Penny",
+       "Value": "Perry",
+       "When": {
+          "Penny to Perry": true
+       }
+    }
+ ],
   "Changes": [
     {
       "Action": "Include",
-      "FromFile": "assets/anthros.json",
+      "FromFile": "assets/start_here.json",
       "When": {
         "Anthro Characters": true
       }

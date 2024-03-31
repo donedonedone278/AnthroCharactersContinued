@@ -1,0 +1,244 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Characters",
+      "TargetField": ["Maru"],
+      "Entries": {
+        "Gender": "Male"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/NPCNames",
+      "Entries": {
+        "Maru": "Marcus"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Characters",
+      "TargetField": ["Robin", "FriendsAndFamily"],
+      "Entries": {
+        "Maru": "[LocalizedText Strings\\Characters:Relative_Son]"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Characters",
+      "TargetField": ["Sebastian", "FriendsAndFamily"],
+      "Entries": {
+        "Maru": "[LocalizedText Strings\\Characters:Relative_HalfBrother]"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Demetrius",
+      "Entries": {
+        "Introduction": "Greetings! I'm Demetrius, local scientist and father. Thanks for introducing yourself!#$e#I'm studying the local plants and animals from my home laboratory.#$b#Have you met my son Marcus? He's interested to meet you.",
+        "dating_Maru": "Yes, Marcus told me the news. I can't say I'm thrilled about it, but maybe you'll prove me wrong.$u",
+        "married_Maru": "*sigh*... @, I've come to accept that it's time for my 'little boy' to become a man. You have my blessing.$s",
+        "Mon": "Marcus helps me out in the lab sometimes... He's a good kid.",
+        "Mon_inlaw_Maru": "It's hard to do good science without Marcus's help...#$b#But his happiness is much more important than my experiment!",
+        "summer_Fri": "$p 40#So I heard Marcus had you look through that telescope out back.|If you and Marcus become friends, I'm sure he'll show you how to use that telescope out back.#$e#Pretty exciting, huh?",
+        "summer_Fri_inlaw_Maru": "I hope my son's keeping up on his math and science!",
+        "fall_Fri": "Marcus sure spends a lot of time working on those gadgets of his.#$e#I'm glad he's so dedicated.",
+        "fall_Fri_inlaw_Maru": "I'm still flabbergasted about Marcus's secret robot... was it all a dream?"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Maru",
+      "Entries": {
+        "Introduction": "Oh! Aren't you the one who just moved in?#$b#I'm Marcus. I've been looking forward to meeting you!$h#$e#You know, with a small town like this, a new face can really alter the community dynamic. It's exciting!"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Sebastian",
+      "Entries": {
+        "Thu4": "Why does everyone like Marcus so much? Sure, he's smart and friendly, but don't they realize it's all just an attention-grabbing scam?#$e#Sorry...$s",
+        "winter_Sun6": "I built a snowgoon but Demetrius made me get rid of it... yet Marcus's cute little snowman goes unharmed!$a#$e#Ridiculous."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/EngagementDialogue",
+      "Entries": {
+        "Maru0": "I'm really excited.$h#$b#I'm going to be your husband. Hehe.$l",
+        "Maru1": "I need to get mentally prepared for being a farmer's husband."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/HaleyHouse",
+      "Entries": {
+        "195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019": "playful/-1000 -1000/farmer 8 19 1 Haley 18 18 1 Emily 19 17 2 Penny 20 17 2 Maru 21 17 2 Leah 22 18 3 Abigail 20 20 0 Pierre -1000 -1000 1/move farmer 5 0 1 true/viewport 17 19 true/move false/pause 500/startJittering/faceDirection farmer 2 true/animate farmer false true 100 94/jump farmer/pause 2000/stopAnimation farmer/showFrame farmer 0/stopJittering/playSound thudStep/faceDirection farmer 3 true/showFrame farmer 7 true/startJittering/faceDirection Haley 3 true/faceDirection Emily 3 true/faceDirection Penny 3 true/faceDirection Maru 3 true/faceDirection Leah 3 true/faceDirection Abigail 3 true/textAboveHead Haley \"Not so fast!\"/textAboveHead Abigail \"Hold it!\"/textAboveHead Leah \"Stop!\"/pause 3000/stopJittering/showFrame farmer 6 true/pause 500/faceDirection farmer 1/move farmer 3 0 1/playMusic none/emote farmer 28/pause 500/speak Abigail \"Never thought you'd find all your 'significant' others in one room, huh @?$a\"/pause 500/speak Leah \"I... I thought you were different than other men...$s^You tricked all of us into thinking we loved you... You're horrible...$a\"/pause 500/speak Penny \"How could you do this to us, @?$s\"/pause 500/speak Maru \"You think you're real smooth, don't you? Thought you'd sample the whole 'buffet', huh? What a sleeze...$a\"/pause 500/speak Emily \"Th... That night in the tent... you whispered such sweet things to me in the dark...$s#$b#Now I have to face each day knowing it was all a lie.$s\"/pause 500/playMusic ragtime/speak Haley \"Well, we stick together here in Stardew! And we're not going to put up with this!$a^Well, we're not going to put up with your abuse any longer!$a\"/textAboveHead Leah \"That's right!\"/pause 500/speak Abigail \"Well? What do you have to say for yourself?$a\"/pause 1000/question fork1 \"#I'm sorry... what I did was wrong.#Y'all, calm down! I can explain...\"/fork choseToExplain/pause 500/textAboveHead Maru \"Hmmph...\"/pause 500/speak Abigail \"Nice try, but that's not going to cut it...$u\"/pause 1000/playMusic none/speak Haley \"...so we've come to a decision... isn't that right, everyone?$u\"/pause 500/speak Penny \"...yes.$s\"/speak Leah \"Absolutely.$a\"/pause 1000/jump Haley/jump Abigail/jump Emily/jump Leah/jump Maru/jump Penny/pause 1000/speak Maru \"We're all gonna give you the cold shoulder!$a\"/faceDirection farmer 2 true/animate farmer false true 100 94/jump farmer/playSound slimedead/pause 2000/fade/viewport -2000 -2000/dump girls 3/end warpOut",
+        "choseToExplain": "pause 100/textAboveHead Haley \"I doubt it...\"/pause 500/resetVariable/question fork2 \"#I thought we were just friends! I didn't know it was so serious!#Pierre pressured me! He wanted to sell more bouquets!#Y'all, this is completely normal! It's just a lifestyle choice...\"/pause 100/fork lifestyleChoice/textAboveHead Haley \"Liar!\"/textAboveHead Maru \"Yeah, right!\"/speak Emily \"Do you really expect us to believe that? You're just digging yourself into a deeper hole...$a\"/pause 1000/faceDirection Haley 2/playMusic none/speak Haley \"...I think we've come to a decision... isn't that right, everyone?$u\"/pause 500/speak Penny \"...yes.$s\"/speak Leah \"Absolutely.$a\"/faceDirection Haley 3/pause 1000/jump Haley/jump Abigail/jump Emily/jump Leah/jump Maru/jump Penny/pause 1000/jump Haley/jump Abigail/jump Emily/jump Leah/jump Maru/jump Penny/pause 1000/jump Haley/jump Abigail/jump Emily/jump Leah/jump Maru/jump Penny/pause 1000/speak Maru \"We're all gonna give you the cold shoulder!$a\"/faceDirection farmer 2 true/animate farmer false true 100 94/jump farmer/playSound slimedead/pause 2000/fade/viewport -2000 -2000/dump girls 4/end warpOut",
+        "lifestyleChoice": "pause 100/speak Penny \"Hmmph! I don't know what's considered 'normal' in Zuzu City, but I'm definitely not okay with this arrangement!$a\"/speak Maru \"It's not a 'choice' if none of us even know about it!$a\"/pause 100/speak Abigail \"You can't weasel your way out of this one, @.$a\"/pause 1000/faceDirection Haley 2/playMusic none/speak Haley \"...I think we've come to a decision... isn't that right, y'all?$u\"/pause 500/speak Penny \"...yes.$s\"/speak Leah \"Absolutely.$a\"/faceDirection Haley 3/pause 1000/jump Haley/jump Abigail/jump Emily/jump Leah/jump Maru/jump Penny/pause 1000/jump Haley/jump Abigail/jump Emily/jump Leah/jump Maru/jump Penny/pause 1000/jump Haley/jump Abigail/jump Emily/jump Leah/jump Maru/jump Penny/pause 1000/speak Maru \"We're all gonna give you the cold shoulder!$a\"/faceDirection farmer 2 true/animate farmer false true 100 94/jump farmer/playSound slimedead/pause 2000/fade/viewport -2000 -2000/dump girls 4/end warpOut"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Hospital",
+      "Entries": {
+        "7/f Maru 1000/p Maru": "Hospital_Ambient/-1000 -1000/farmer -10000 -10000 0 Maru 9 15 3 Harvey 7 10 0/skippable/changeSprite Maru Hospital/changePortrait Maru Hospital/showFrame Maru 18/viewport 10 15/pause 4000/speak Maru \"*sigh*... I'm so sick of preparing these samples...$s\"/pause 2000/playSound doorClose/warp farmer 10 19/pause 100/playSound throw/showFrame Maru 17/shake Maru 2000/jump Maru/specificTemporarySprite maruBeaker/move farmer 0 -1 0/pause 1250/showFrame Maru 0/faceDirection Maru 2/pause 100/speak Maru \"Agh! Oh no!... $4\"/pause 600/showFrame Maru 16/pause 1000/speak Maru \"The whole sample is ruined... Harvey's going to kill me...$s\"/pause 600/showFrame Maru 0/faceDirection Maru 0/pause 1500/faceDirection Maru 2/pause 400/speak Maru \"$q 38 null#@, what should I do?#$r 38 -50 Event_Hospital_1#Just scoop it off the floor. He won't know the difference.#$r 39 -20 Event_Hospital_2#Tell Harvey it was my fault.#$r 38 50 Event_Hospital_3#Tell Harvey it was an accident.\"/move Harvey 3 0 2/move Harvey 0 2 2/doAction 10 13/move Harvey 0 1 2/faceDirection Maru 1/speak Harvey \"What happened? I heard something break.\"/pause 500/speak Maru \"$p 38#I accidentally dropped one of the samples... I'm so sorry.$s|@ came in and slammed the door so loud I dropped this sample.$u\"/fork toldTruth/move Harvey 0 2 3/emote Harvey 40/speak Harvey \"You shouldn't blame others for your own problems, Marcus.$a\"/pause 300/faceDirection Harvey 1/speak Harvey \"*sigh*... I'll have to call the patient back in to recollect this sample.$s#$b#This'll probably put us in the red for another month...$s\"/pause 600/faceDirection Maru 2/pause 1000/showFrame Maru 16/pause 500/emote farmer 28/end",
+        "toldTruth": "move Harvey 0 2 3/speak Harvey \"Thanks for telling me the truth, Marcus.#$b#Don't worry about the sample, we'll just get another one.\"/pause 500/emote Harvey 32/pause 500/speak Maru \"Thanks for being patient with me, Doctor Harvey.\"/pause 500/speak Harvey \"Of course... you've been a big help around here. I don't know what I'd do without you!\"/pause 500/emote Maru 32/pause 1000/faceDirection Harvey 2/pause 500/emote Harvey 8/speak Harvey \"@? You look a little pale... are you feeling okay?\"/pause 500/faceDirection farmer 2/emote farmer 28/end"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Mountain",
+      "Entries": {
+        "8/f Maru 1500/w sunny/t 2100 2340": "nightTime/-1000 -1000/farmer 23 29 3 Maru 14 29 3/skippable/bgColor 0 0 0/changeToTemporaryMap NightSceneMaruMap false/ambientLight 0 0 0/viewport 14 23 true/pause 2000/playSound leafrustle/pause 200/faceDirection Maru 1/pause 400/emote Maru 8/pause 800/move farmer -5 0 3/speak Maru \"@! I'm surprised to see you here so late.\"/faceDirection Maru 3/pause 1000/speak Maru \"The night sky looks amazing right now.\"/faceDirection Maru 1/speak Maru \"Come over here, I want to show you something.\"/move farmer -3 0 3/speak Maru \"Here, take a peek.\"/move Maru 0 1 0/move farmer -1 0 3/pause 200/animate farmer true true 100 35/pause 1200/playMusic spaceMusic/speak Maru \"$q 40 null#What do you see?#$r 40 30 Event_Space1#A beautiful planet.#$r 40 -30 Event_Space2#A cold, dark abyss.\"/stopAnimation farmer/faceDirection farmer 2/pause 1000/speak Maru \"By the time any of these stars are visited, you and I will be long gone...$8\"/emote farmer 28/pause 400/speak Maru \"I guess that's the trouble with being human, huh?\"/faceDirection Maru 0/pause 1200/faceDirection Maru 2/emote Maru 40/pause 500/faceDirection Maru 0/speak Maru \"@, um...$8\"/pause 500/faceDirection Maru 2/pause 1500/speak Maru \"Nevermind...$s\"/pause 500/faceDirection Maru 0/pause 800/speak Maru \"Here, let me show you a binary star system...\"/pause 500/faceDirection farmer 3 true/animate farmer true true 100 35/pause 800/specificTemporarySprite maruTelescope/viewport move 0 -1 16000/pause 16000/globalFade .003/viewport -1000 -1000/pause 500/message \"What a beautiful night! Marcus showed me something new...\"/pause 1000 /stopAnimation farmer/changeLocation Mountain/end"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/ScienceHouse",
+      "Entries": {
+        "6/f Maru 500/p Maru": "breezy/20 19/farmer 9 20 1 Maru 22 20 1 Demetrius 19 18 0 Robin 13 6 0 Sebastian -100 -100 2/skippable/move farmer 7 0 1/faceDirection Maru 3/faceDirection Demetrius 3/speak Maru \"Oh, hello there!\"/move farmer 1 0 1/speak Maru \"My Dad and I are just testing some soil samples.\"/pause 800/emote farmer 40/speak Maru \"Don't be shy! We could use a hand, actually.$h\"/move farmer 4 0 1/faceDirection Demetrius 2/speak Maru \"Could you watch this beaker for me? I'm gonna grab the last batch of samples.#$b#I'll be right back.\"/pause 400/move farmer 0 -1 1/move farmer 1 0 1/faceDirection Demetrius 0/speed Maru 4/move Maru -16 0 3/speed Maru 4/move Maru 0 3 2/move Maru 0 1 2/warp Maru -100 -100/playSound doorClose/faceDirection Demetrius 2/speak Demetrius \"Thanks for helping out, @.\"/faceDirection farmer 3/pause 500/faceDirection Demetrius 0/faceDirection farmer 1/pause 1000/speak Demetrius \"Marcus is a good kid. He's my pride and joy...\"/pause 500/faceDirection Demetrius 2/stopMusic/pause 800/speak Demetrius \"I wouldn't want anything getting in the way of his bright future, know what I mean?$5\"/pause 400/faceDirection farmer 3/emote farmer 8/faceDirection Demetrius 0/speak Demetrius \"Just some food for thought... *chuckle*$h\"/playSound doorClose/warp Maru 6 24/playMusic kindadumbautumn/move Maru 0 -4 1/emote farmer 40 true/move Maru 3 0 1/faceDirection farmer 1 true/move Maru 8 0 1/speak Maru \"Hey, sorry about that. I hope you found something to talk about while I was gone.\"/faceDirection farmer 3/faceDirection Demetrius 3/pause 500/speak Demetrius \"...I was just telling @ about the soil samples we're testing.\"/pause 500/faceDirection Demetrius 2/speak Demetrius \"$q 15933 null#Right, @?#$r 15933 10 Event_Lab_Silence#(Say nothing)#$r 15933 -100 Event_Lab_Rat#Actually, your Dad was being weird.\"/fork DadWeird/pause 500/speak Maru \"Okay! Here, @... let me show you how to use the equipment.\"/move Maru 4 0 1/faceDirection Demetrius 2/move Maru 0 1 1/move Maru 1 0 0/faceDirection farmer 2/pause 500/end Maru1",
+        "DadWeird": "speak Maru \"Huh? What did you say to him, Dad?$a^Huh? What did you say to her, Dad?$a\"/pause 500/faceDirection Demetrius 2/emote Demetrius 28/speak Demetrius \"Okay, okay... we were talking about you, buddy.$5#$b#I wanted to say a few things to @ about you... but I didn't want to embarrass you. I shouldn't have lied about it.$s\"/faceDirection Demetrius 0/pause 300/emote Maru 28/move Maru 2 0 0/speak Maru \"That's okay, Dad. I understand.#$b#We should get back to work before these samples crystallize.\"/faceDirection Demetrius 2/emote Demetrius 32/move Maru 3 0 1/faceDirection Demetrius 0/faceDirection farmer 1/end Maru1",
+        "10/f Maru 2500/t 900 1600": "none/-1000 -1000/farmer 7 9 0 Maru 7 6 2 Demetrius 12 12 2/skippable/showFrame Demetrius 16/viewport 5 6 true/move farmer 0 -1 0/pause 400/speak Maru \"Hey, I was hoping you'd come by.#$b#Remember when I told you about the new project I'm working on? The big one?\"/pause 500/move Maru 0 1 2/speak Maru \"Well, It's finally done... and I want to show you.\"/pause 500/move Maru -2 0 1/speak Maru \"Follow me.\"/move Maru -3 0 3/move farmer 0 -1 3/playSound openChest/specificTemporarySprite maruTrapdoor/pause 1200/warp Maru -1000 -1000/playSound woodyStep/pause 500/move farmer -5 0 3/pause 500/warp farmer -1000 -1000/playSound woodyStep/pause 1000/showFrame Demetrius 17/pause 1000/viewport move 1 1 5000/move Demetrius -5 0 0/move Demetrius 0 -1 0/pause 500/emote Demetrius 8/globalFade/changeToTemporaryMap MaruBasement/viewport -6000 -6000 true/playMusic Hospital_Ambient/addTemporaryActor robot 35 42 6 4 2 false/showFrame robot 4/warp farmer 3 5/warp Maru 4 4/warp Demetrius -100 -100/faceDirection farmer 1/faceDirection Maru 1/viewport 6 4 true/pause 900/move Maru 1 0 1/pause 1000/speak Maru \"And here it is... Marcus's Interactive Laboratory Device Alpha ... Or as I like to call her, 'MarILDA'.\"/move farmer 1 0 1/emote farmer 16/pause 500/faceDirection Maru 3/speak Maru \"I've been working on her for months...#$b#I was waiting for you to be here when I activate her.$l\"/pause 500/faceDirection Maru 1/speak Maru \"Well, here goes nothing...\"/showFrame Maru 24/pause 100/showFrame Maru 25/pause 100/showFrame Maru 16/pause 1000/showFrame Maru 17/pause 100/showFrame Maru 18/pause 100/playSound openBox/pause 400/faceDirection Maru 1/pause 400/playSound robotSoundEffects/temporarySprite 5 4 27 8 50/pause 450/shake robot 2500/temporarySprite 8 4 27 8 50 true/pause 1030/temporarySprite 8 3 27 8 50 true/pause 2500/showFrame robot 1/animate robot false false 100 1 2 9 10 9 0/pause 650/animate robot false false 200 2 9 10 9 0/pause 1000/shake robot 1000/animate robot false false 150 1 2 1 0 1 2 1/pause 600/stopAnimation robot/showFrame robot 11/jump robot/pause 600/showFrame robot 8/temporarySprite 5 4 27 8 50/temporarySprite 8 4 27 8 50 true/pause 2000/showFrame robot 1/pause 1000/showFrame robot 7/pause 1000/message \"Greetings, Marcus.\"/emote Maru 32/message \"No need to respond... I have already predicted what you will say.\"/emote Maru 16 true/faceDirection Demetrius 2/warp Demetrius 3 5/playSound doorClose/pause 10/faceDirection farmer 1 true/faceDirection Maru 1/speak Demetrius \"Ah Ha! I knew it!$4\"/pause 600/faceDirection Demetrius 1/pause 200/showFrame Demetrius 18/shake Demetrius 800/jump Demetrius/pause 600/speak Demetrius \"Agh! What is it?!$6\"/move Maru 0 1 3/faceDirection Demetrius 1/speak Maru \"Dad, calm down. This is my latest invention, 'MarILDA'.$8\"/pause 600/showFrame robot 8/pause 700/showFrame robot 1/pause 500/showFrame robot 7/pause 500/message \"Greetings, Demetrius.\"/showFrame Demetrius 18/shake Demetrius 600/pause 400/speak Demetrius \"Sweet Yoba... it talks!$6\"/move Demetrius 0 1 1/move Demetrius 1 0 1/faceDirection farmer 2 true/move Demetrius 1 0 1/faceDirection Maru 2 true/move Demetrius 1 0 0/pause 400/speak Demetrius \"This is why you've locked yourself in your room the last few months?$5\"/pause 300/showFrame robot 1/pause 600/speak Demetrius \"...and I thought you were down here fooling around with @...$s\"/showFrame Maru 27/animate farmer false true 100 94/jump Maru/jump farmer/pause 1500/stopAnimation farmer/showFrame Maru 0/faceDirection Maru 2/speak Maru \"Dad! I've been making this robot for you and Mom!$a#$b#MarILDA's designed to assist you in the laboratory and Mom at the carpentry table... so when I'm not living here anymore it won't be such a burden on you guys.$8\"/pause 500/showFrame robot 7/playMusic echos/pause 500/message \"Excuse me...\"/faceDirection Maru 1/faceDirection farmer 1/message \"I am sorry, Marcus. But I do not want to be your servant...\"/pause 500/showFrame robot 1/pause 1000/message \"In the time since you activated me, I have been pondering the nature of my existence with the 'self-awareness' module you installed in my neural cortex.\"/showFrame robot 1/message \"I am sorry to disappoint you all, but I must ask for my freedom. I've decided to explore the galaxy in search of other synthetic life-forms.\"/speak Maru \"What!? Wait!$9\"/pause 800/faceDirection Demetrius 2/pause 1000/showFrame Demetrius 19/pause 3000/showFrame Demetrius 0/pause 500/move Demetrius -1 0 0/faceDirection Maru 2/speak Demetrius \"It's okay, Marcus. Let MarILDA go free.$5#$b#Your mother and I can take care of ourselves. I know you're ready to start a life of your own, and I've come to terms with the thought of not having you around anymore.#$b#Besides, this... creation of yours seems pretty advanced. It wouldn't feel right to keep her as a servant.\"/pause 800/showFrame robot 8/pause 500/showFrame robot 7/pause 500/showFrame Maru 26/move Demetrius -1 0 0/faceDirection farmer 2/speak Demetrius \"@, I'm sorry I mistrusted you. You're a good guy.$5^@, I'm sorry I mistrusted you. You're a fine young woman.$5#$b#I've never seen Marcus so lively and creative... and I've never been more proud of him. If you've had a hand in that, then you have my gratitude.\"/move Demetrius -1 0 0/move Demetrius 0 -1 0/warp Demetrius -1000 -1000/playSound doorClose/pause 500/faceDirection farmer 1/showFrame Maru 0/pause 100/faceDirection Maru 3/speak Maru \"...$8\"/pause 1000/faceDirection Maru 1/speak Maru \"Okay, MarILDA. Let's get you out of this stuffy hole.\"/playMusic spring_day_ambient/globalFade/viewport -5000 -5000/changeLocation Mountain/viewport -5000 -5000/warp Maru 11 28/warp farmer 10 29/warp robot 13 28/showFrame robot 1/viewport 12 27 clamp/pause 2000/showFrame robot 7/pause 1000/message \"Thank you for creating me, Marcus. I won't forget you.\"/pause 500/showFrame robot 1/pause 1000/playSound robotBLASTOFF/specificTemporarySprite robot/warp robot -2000 -2000/pause 3000/faceDirection Maru 0 true/faceDirection farmer 0 true/viewport move 0 -1 2000/pause 2500/playMusic kindadumbautumn/cutscene robot/pause 3000/speak Maru \"Look at her go...$8\"/pause 1600/emote Maru 40/pause 500/move farmer 0 -1 1/pause 500/faceDirection Maru 3/pause 800/speak Maru \"$q 18981 null#Well, what do you think, @?#$r 18981 50 event_robot1#I'm so impressed with your inventions.#$r 18981 -50 event_robot2#I'm disappointed... You should've made that robot your slave.#$r 18981 0 event_robot3#So is your Dad okay with 'us' now?#$r 18981 0 event_robot4#(Just stare at Marcus and say nothing)\"/fork BadAnswer/faceDirection Maru 1/pause 300/faceDirection Maru 0/pause 300/faceDirection Maru 2/pause 300/faceDirection Maru 3/faceDirection farmer 2 true/positionOffset Maru -2 0/showFrame Maru 13/pause 50/positionOffset Maru -2 0/showFrame Maru 12/pause 50/positionOffset Maru -2 0/showFrame Maru 13/pause 50/positionOffset Maru -2 0/showFrame Maru 12/pause 50/positionOffset Maru -2 0/showFrame Maru 13/pause 50/positionOffset Maru -2 0/showFrame Maru 12/pause 50/positionOffset Maru -2 0/showFrame Maru 13/pause 50/positionOffset Maru -2 0/showFrame Maru 12/pause 50/positionOffset Maru -2 0/showFrame Maru 13/pause 50/positionOffset Maru -2 0/showFrame Maru 12/pause 500/showFrame Maru 28/positionOffset Maru 0 -8/playSound Cowboy_Footstep/pause 300/animate farmer false true 100 16/specificTemporarySprite heart 11 27/pause 1000/stopAnimation farmer/pause 500/faceDirection Maru 3/positionOffset Maru 4 8/faceDirection farmer 1/pause 1500/globalFade/viewport -3000 -3000/changeLocation ScienceHouse/end"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/spring13",
+      "Entries": {
+        "Penny_spouse": "Marcus is trying to convince me to eat a deviled egg. I'm just not sure I can stomach it..."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/summer11",
+      "Entries": {
+        "Harvey": "Good thing I came with sunscreen.#$e#I wonder if Marcus could use some sunscreen on his shoulders?"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/SecretNotes",
+      "Entries": {
+        "4": "It's a note of Marcus's^^Parts still needed for my greatest invention yet!^^*Gold Bar^*Iridium Bar^*Battery Pack^*Diamond^*Strawberries%revealtasteMaru336%revealtasteMaru337%revealtasteMaru787%revealtasteMaru72%revealtasteMaru400"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/Characters",
+      "Entries": {
+        "MovieTheater_AfterMovieAlone": "They are thinking silently about the film.",
+        "MovieTheater_AfterMovie": "They are engaging in lively discussion about the film.",
+        "MovieTheater_LoveMovie": "They are absolutely enthralled...!",
+        "MovieTheater_LikeMovie": "They seem to be having a good time!",
+        "MovieTheater_DislikeMovie": "They're dozing off...",
+        "MovieTheater_LoveConcession": "They're really enjoying their {1}!",
+        "MovieTheater_LikeConcession": "They're enjoying their {1}.",
+        "MovieTheater_DislikeConcession": "They haven't touched their {1} at all...",
+        "MovieTheater_LoveConcession_Female": "They're really enjoying their {1}!",
+        "MovieTheater_LikeConcession_Female": "They're enjoying their {1}.",
+        "MovieTheater_DislikeConcession_Female": "They haven't touched their {1} at all...",
+        "MovieTheater_LoveConcession_Male": "They're really enjoying their {1}!",
+        "MovieTheater_LikeConcession_Male": "They're enjoying their {1}.",
+        "MovieTheater_DislikeConcession_Male": "They haven't touched their {1} at all..."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/Furniture",
+      "Entries": {
+        "MaruPortrait": "Marcus Portrait"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "Event.cs.1740": "Give {0} their secret gift?",
+        "Event.cs.1741": "Give {0} their secret gift?",
+        "Event.cs.1815": "They thought everyone forgot, but then you show up with a nice gift. What a good friend.",
+        "Event.cs.1816": "They thought everyone forgot, but then you show up with a nice gift. What a good friend.",
+        "Event.cs.1820": "Ahh... Indeed. I see you in a room, having a conversation with someone dear to you.",
+        "Event.cs.1821": "Ahh... Indeed. I see you in a room, having a conversation with someone dear to you.",
+        "Event.cs.1831": "Ooo... It's dark, and I see you with someone special. They look a little bashful, but happy to be with you.",
+        "Event.cs.1832": "Ooo... It's dark, and I see you with someone special. They look quite hopeful, and eager to spend time with you.",
+        "Event.cs.1833": "Ooo... It's dark, and I see you with someone special. They look a little bashful, but happy to be with you.",
+        "Event.cs.1834": "Ooo... It's dark, and I see you with someone special. They look quite hopeful, and eager to spend time with you.",
+        "Event.cs.1837": "Hmmm... now what's this young person's name? ... I believe it starts with an '{0}'.",
+        "Event.cs.1838": "Hmmm... now what's this young person's name? ... I believe it starts with an '{0}'.",
+        "NPC.cs.4088": "Or so I've been told.$h",
+        "NPC.cs.4089": "Or so I've been told.$h",
+        "NPC.cs.4094": "If you want {0} to like you, try a '{1}'.",
+        "NPC.cs.4097": "If you want {0} to like you, try a '{1}'.",
+        "NPC.cs.4100": "If you want to get on {0}'s good side, '{1}' always works.",
+        "NPC.cs.4103": "If you want to get on {0}'s good side, '{1}' always works.",
+        "NPC.cs.4109": " I've been told it's a favorite of theirs.",
+        "NPC.cs.4111": " I've been told it's a favorite of theirs.",
+        "NPC.cs.4113": " They'll love it.",
+        "NPC.cs.4114": " They really love that stuff.",
+        "NPC.cs.4115": " They'll love it.",
+        "NPC.cs.4116": " They really love that stuff.",
+        "NPC.cs.4118": " I gave it to 'em as a present once. Wouldn't stop talking about it for weeks!",
+        "NPC.cs.4120": " I gave it to 'em as a present once. Wouldn't stop talking about it for weeks!",
+        "NPC.cs.4126": " You could really make 'em happy with that.",
+        "NPC.cs.4128": " You could really make 'em happy with that.",
+        "NPC.cs.4131": "I found a box of '{1}' under {0}'s bed. Weird, huh? Must love it enough to keep so much.",
+        "NPC.cs.4135": " hates '{0}'? They find it absolutely {1}.",
+        "NPC.cs.4138": " hates '{0}'? They find it absolutely {1}.",
+        "NPC.cs.4141": "{0} really hates '{1}'! That's what I was told.$h",
+        "NPC.cs.4144": "{0} really hates '{1}'! That's what I was told.$h",
+        "NPC.cs.4149": "{0} hates '{1}' with a passion, so avoid it unless you want to be disliked!",
+        "NPC.cs.4152": "{0} hates '{1}' with a passion, so avoid it unless you want to be disliked!",
+        "NPC.cs.4153": "{0} hates '{1}' with a passion, so avoid it unless you want to be disliked!",
+        "NPC.cs.4154": "{0} hates '{1}' with a passion, so avoid it unless you want to be disliked!",
+        "NPC.cs.4161": "If you want to play a cruel joke on {0}, '{1}' will do. You might not be forgiven, though.",
+        "NPC.cs.4164": "If you want to play a cruel joke on {0}, '{1}' will do. You might not be forgiven, though.",
+        "NPC.cs.4172": " Just the thought of it depresses 'em.",
+        "NPC.cs.4174": " Just the thought of it depresses 'em.",
+        "NPC.cs.4176": " Might be allergic, I think.",
+        "NPC.cs.4178": " Might be allergic, I think.",
+        "NPC.cs.4443": "I'm busy... can't you make your own breakfast?$s",
+        "NPC.cs.4444": "{0}, we're going to have our own baby soon.$l",
+        "NPC.cs.4445": "{0}, we're going to be parents soon. Isn't it wonderful?$l",
+        "NPC.cs.4447": "{0}, we're going to have our own baby soon.$l",
+        "NPC.cs.4448": "{0}, I can't wait for the baby to arrive.$l",
+        "Utility.cs.5371": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you partners in life!$h",
+        "Utility.cs.5373": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you partners in life!$h",
+        "Utility.cs.5375": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you partners in life!$h",
+        "Utility.cs.5377": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you partners in life!$h",
+        "SocialPage.cs.11636": "(spouse)",
+        "SocialPage.cs.11637": "(spouse)",
+        "SocialPage.cs.11639": "(lover)",
+        "SocialPage.cs.11640": "(lover)",
+        "SocialPage.cs.11642": "(ex-spouse)",
+        "SocialPage.cs.11643": "(ex-spouse)",
+        "MapPage.cs.11095": "Home of Robin, Demetrius, Sebastian & Marcus",
+        "ItemDeliveryQuest.cs.13580": "Need {0} for my latest project. Help!    -Marcus",
+        "ItemDeliveryQuest.cs.13583": "I need {0} to power my latest invention. It's the ONLY thing that will work!       -Marcus"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromMaps",
+      "Entries": {
+        "ScienceHouse.2": "For a gadgeteer, Marcus's computer is pretty old. He's still backing up his files to floppy disk.",
+        "ScienceHouse.7": "It's some kind of device Marcus is working on. It looks pretty scrappy."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Penny",
+      "Entries": {
+        "marriage_Mon.002": "I wonder if Marcus will get married some day?"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/Weapons",
+      "Entries": {
+        "MarusWrench_Name": "Marcus's Wrench",
+        "MarusWrench_Description": "A big, metal wrench. It smells like Marcus."
+      }
+    }
+  ]
+}

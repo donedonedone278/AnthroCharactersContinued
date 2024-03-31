@@ -1,0 +1,46 @@
+{
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Emily",
+      "FromFile": "assets/Characters/Emil.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Emily_Beach",
+      "FromFile": "assets/Characters/Emil_Beach.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Emily_Winter",
+      "FromFile": "assets/Characters/Emil_Winter.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Emily",
+      "FromFile": "assets/Portraits/Emil.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Emily_Beach",
+      "FromFile": "assets/Portraits/Emil_Beach.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Emily_Winter",
+      "FromFile": "assets/Portraits/Emil_Winter.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/emojis",
+      "FromFile": "assets/LooseSprites/emojis_emil.png",
+      "ToArea": { "X": 45, "Y": 0, "Width": 9, "Height": 9 }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/JunimoNote",
+      "FromFile": "assets/LooseSprites/JunimoNote_characters.png",
+      "ToArea": { "X": 352, "Y": 212, "Width": 160, "Height": 32 }
+    }
+  ]
+}

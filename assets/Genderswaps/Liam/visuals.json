@@ -1,0 +1,40 @@
+{
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Leah",
+      "FromFile": "assets/Characters/Liam.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Leah_Beach",
+      "FromFile": "assets/Characters/Liam_Beach.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Leah_Winter",
+      "FromFile": "assets/Characters/Liam_Winter.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Leah",
+      "FromFile": "assets/Portraits/Liam.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Leah_Beach",
+      "FromFile": "assets/Portraits/Liam_Beach.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Leah_Winter",
+      "FromFile": "assets/Portraits/Liam_Winter.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/emojis",
+      "FromFile": "assets/LooseSprites/emojis_liam.png",
+      "ToArea": { "X": 27, "Y": 0, "Width": 9, "Height": 9 }
+    }
+  ]
+}
