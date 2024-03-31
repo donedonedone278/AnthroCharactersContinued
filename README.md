@@ -5,20 +5,17 @@ The Stardew Valley furry mod. Art by Gav!
 Nexus Mod Page: https://www.nexusmods.com/stardewvalley/mods/1083
 
 ## Installation Instructions
-
 1. Install SMAPI. Instructions here: https://smapi.io
-2. Install Content Patcher: https://www.nexusmods.com/stardewvalley/mods/1915
-   - Copy the "ContentPatcher" folder (which contains "manifest.json") into the newly-created (by SMAPI) "Mods" folder in the Stardew installation folder.
-3. Install Generic Mod Config Menu: https://www.nexusmods.com/stardewvalley/mods/5098
-   - Copy the "GenericModConfigMenu" folder (which contains "manifest.json") into the newly-created (by SMAPI) "Mods" folder in the Stardew installation folder.
-3. Install Anthro Characters Continued.
-   - Copy the "AnthroCharactersContinued" folder (which contains "manifest.json") into the newly-created (by SMAPI) "Mods" folder in the Stardew installation folder.
+2. Install Content Patcher. Instructions here: https://www.nexusmods.com/stardewvalley/mods/1915
+3. Install Generic Mod Config Menu. Instructions here: https://www.nexusmods.com/stardewvalley/mods/5098
+4. Install Anthro Characters Continued.
+   - Copy the "AnthroCharactersContinued" folder (which contains "manifest.json") into the `Stardew Valley/mods` folder, just like the previous two mods.
 
-### Troubleshooting:
-We strongly recommend validating your steam Stardew files if you have any issues: https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB
+### Troubleshooting
+We **strongly** recommend validating your steam Stardew files if you have any issues: https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB
 
 
-## Authors:
+## Authors
 - Gaveliere a.k.a. Gavelly (Twitter: @Gavelly)
 - Blanchard a.k.a. sion9000 (Twitter: @NekoBlanchard)
 - donedonedone (FurAffinity: donedonedone)
@@ -27,7 +24,7 @@ We strongly recommend validating your steam Stardew files if you have any issues
 *Our Twitters may contain NSFW furry trash.
 
 
-## Support:
+## Support
 This mod has been a community effort, but without Gaveliere it would not exist. 
 He has continued to support his mod throughout the years it's been around and worked 
 very hard getting it updated for each patch and quashing the old remaining bugs we've had lying about.
@@ -35,7 +32,7 @@ very hard getting it updated for each patch and quashing the old remaining bugs 
 If you would like to support the artist who created this work, a donation would be greatly appreciated. 
 You can help fund this mod as well as his other projects at: https://ko-fi.com/gaveliere
 
-## Credits:
+## Credits
 A titanic, overwhelming thanks to Gaveliere for creating this mod, for creating the ACC genderswaps, and for rigorous testing.
 
 Blanchard(sion9000) for maintaining the mod pages, editing, testing, and co-development.
