@@ -1,47 +1,39 @@
-Anthro Characters Continued
+# Anthro Characters Continued
 
-1.6 Mod Page: https://www.nexusmods.com/stardewvalley/mods/20873
-Normal Mod Page: https://www.nexusmods.com/stardewvalley/mods/1083
+The Stardew Valley furry mod. Art by Gav!
 
-==========================
-Installation Instructions:
-==========================
+Nexus Mod Page: https://www.nexusmods.com/stardewvalley/mods/1083
 
-If you already have Content Patcher installed, simply copy the "AnthroCharacters" 
-folder (which contains "manifest.json") into the "Mods" folder in the game installation folder. You're done!
+## Installation Instructions
 
-If you have an unmodded vanilla game with no SMAPI or Content Patcher yet:
-[Linux/Mac Only] Install Mono. The "mono-complete" package is recommended.
-
-1. Install SMAPI: https://smapi.io
-
-2. Install Content Patcher: https://www.nexusmods.com/stardewvalley/mods/1915?tab=description
-  a. Copy the "ContentPatcher" folder (which contains "manifest.json") into the newly-created (by SMAPI) "Mods" folder in the game installation folder.
-
+1. Install SMAPI. Instructions here: https://smapi.io
+2. Install Content Patcher: https://www.nexusmods.com/stardewvalley/mods/1915
+  1. Copy the "ContentPatcher" folder (which contains "manifest.json") into the newly-created (by SMAPI) "Mods" folder in the Stardew installation folder.
+3. Install Generic Mod Config Menu: https://www.nexusmods.com/stardewvalley/mods/5098
+  1. Copy the "GenericModConfigMenu" folder (which contains "manifest.json") into the newly-created (by SMAPI) "Mods" folder in the Stardew installation folder.
 3. Install Anthro Characters Continued.
-  a. Copy the "AnthroCharacters" folder (which contains "manifest.json") into the newly-created (by SMAPI) "Mods" folder in the game installation folder.
+  1. Copy the "AnthroCharactersContinued" folder (which contains "manifest.json") into the newly-created (by SMAPI) "Mods" folder in the Stardew installation folder.
+
+### Troubleshooting:
+We strongly recommend validating your steam Stardew files if you have any issues: https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB
 
 
-Authors:
+## Authors:
 - Gaveliere a.k.a. Gavelly (Twitter: @Gavelly)
-
 - Blanchard a.k.a. sion9000 (Twitter: @NekoBlanchard)
-
 - donedonedone (FurAffinity: donedonedone)
-
 - Krystedez (Twitter: @ChiefKryz)
 
 *Our Twitters may contain NSFW furry trash.
 
 
-Support:
+## Support:
 This mod has been a community effort, but without Gaveliere it would not exist. 
 He has continued to support his mod throughout the years it's been around and worked 
 very hard getting it updated for each patch and quashing the old remaining bugs we've had lying about.
 
 If you would like to support the artist who created this work, a donation would be greatly appreciated. 
 You can help fund this mod as well as his other projects at: https://ko-fi.com/gaveliere
-
 
 Credits:
 A titanic, overwhelming thanks to Gaveliere for creating this mod, for creating the ACC genderswaps, and for rigorous testing.
