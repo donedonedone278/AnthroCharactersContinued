@@ -14,6 +14,7 @@ Nexus Mod Page: https://www.nexusmods.com/stardewvalley/mods/1083
 ### Troubleshooting
 We **strongly** recommend validating your steam Stardew files if you have any issues: https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB
 
+If that doesn't work, make sure this is the only copy of AnthroCharactersContinued you have installed. The old folder name may be AnthroCharacters or ACC.
 
 ## Authors
 - Gaveliere a.k.a. Gavelly (Twitter: @Gavelly)
