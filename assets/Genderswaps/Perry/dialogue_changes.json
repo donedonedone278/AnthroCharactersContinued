@@ -24,6 +24,14 @@
     },
     {
       "Action": "EditData",
+      "Target": "Characters/Dialogue/Maru",
+      "Entries": {
+        "summer_Wed4": "Penny and I have been doing a seasonal book club.#$b#It's just the two of us, but it's still fun to discuss what we're reading!",
+        "married_Penny": "Hey, congratulations!$h#$b#I remember the first time Penny told me she had feelings for you...#$b#She was all shy about it, but I knew right away it was serious... she wouldn't say something like that if she didn't mean it!"
+      }
+    },
+    {
+      "Action": "EditData",
       "Target": "Characters/Dialogue/LeoMainland",
       "Entries": {
         "Wed": "Between Linus and Mister Perry, I'm going to learn everything there is to learn!$h#$e#Mayor Lewis says I'm on the fast track to becoming a 'well-rounded citizen'... whatever that means."
