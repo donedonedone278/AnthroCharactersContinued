@@ -65,6 +65,7 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Gus",
       "Entries": {
+        "dating_Emily_memory_oneweek": "Emil has a real pep in his step lately... I wonder why? *wink*",
         "Wed": "Emil's been working here for a while now. I don't know what I'd do without him!#$e#I would hate to have to clean all those pots by myself.$s",
         "Thu6": "Clint comes into the saloon almost every night and sits at the same table by himself.#$e#Sometimes he glances over at Emil with a nervous look. Hmmm.#$e#Maybe that's why he comes in so often. Oh well, that means more business for me."
       }
@@ -80,6 +81,10 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Hayley",
       "Entries": {
+        "married_Emily_memory_oneweek": "Is Emil settling into the farm life?#$e#You know, I was starting to wonder if Emil would ever get married...",
+        "divorced_Emily": "Things didn't work out between you and Emil, huh? Well... It happens.#$e#It *is* kind of awkward that you're both still living in this tiny town, though.",
+        "eventSeen_11_memory_oneweek": "The other day, Emil baked something called a 'squirrel loaf'...$u#$e#How'd it taste? Um... well, if my tail was a little bushier I probably would've loved it.$h",
+        "eventSeen_12_memory_twoweeks": "My parents sent another postcard... I guess they're in the middle of a cruise down the Gem Sea Coast.#$e#They said me and Emil could join them at any point, but let's be honest... who wants to go on vacation with their parents?",
         "Resort_Towel_3": "Emil's friend had this swimsuit shipped to me from all the way out in Zuzu City.#$e#City fashion is on a whole different level, isn't it?$h",
         "Sun": "My brother is so weird. Sometimes I wonder if we're actually related.$u",
         "Event_clean3": "He should take the 'high road'? What's that supposed to mean?$u#$b#You think I'm being a baby, huh?%fork$a",

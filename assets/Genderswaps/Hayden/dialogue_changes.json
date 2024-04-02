@@ -53,6 +53,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Hayley",
       "Entries": {
+        "dating_Haley_memory_oneyear": "So, what's the idea here... am I just going to be your 'boyfriend' forever...?$7",
+        "married_Emily": "Hey, I guess we're kind of like brothers now!^Well, I guess this makes you my 'sister-in-law', huh? That's funny to think about.$h",
         "Introduction": "Oh... you're that new farmer boy, aren't you?^Oh... You're that new farmer girl, or whatever. Aren't you?#$e#Huh? Oh... I'm Hayden.#$e#Hmm... If it weren't for those horrendous clothes you might actually be cute.^Hmm... If it weren't for those horrendous clothes you might actually be pretty... Actually, nevermind.$h",
         "danceRejection": "Gross... No.",
         "Fri": "%Hayden is ignoring you.",
