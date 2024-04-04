@@ -2,7 +2,7 @@
   "Name": "Anthro Characters",
   "Author": "Gaveliere (Twitter: @Gavelly) Blanchard a.k.a sion9000 (Twitter: @NekoBlanchard) Krystedez (Twitter: @ChiefKryz) donedonedone (FurAffinity: donedonedone)",
   "Description": "Overwrites every NPC sprite, portrait and event sprites, effectively transforming everyone into anthropormorphic animal characters. Art by Gav!",
-  "Version": "7.2.0",
+  "Version": "7.2.1",
   "UniqueID": "donedonedone278.AnthroCharacters",
   "ContentPackFor": {
     "UniqueID": "Pathoschild.ContentPatcher"
