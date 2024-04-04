@@ -51,8 +51,8 @@ Helpful: https://stardewvalleywiki.com/Modding:Migrate_to_Stardew_Valley_1.6#XNB
 * Characters/Hayden.png - New sprite AND new animation at bottom
 * Portraits/Hayden_Beach - New expressions
 * Portraits/Hayden_Winter.png - New expressions
-* Characters/Hayley_Winter.png - New sprite
-* Characters/Hayley_Winter.png - New sprite
+* Characters/Haley_Winter.png - New sprite
+* Characters/Haley_Winter.png - New sprite
 * Characters/Jas_Winter.png - new file
 * Portraits/Jas_Winter.png - new file
 * Characters/Jodi.png - Last sprite in the file is supposed to be her crouching, looking at moonlight jellies. donedonedone copied her jumping animation as a placeholder.

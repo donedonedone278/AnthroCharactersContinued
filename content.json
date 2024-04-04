@@ -25,7 +25,7 @@
       "Section": "Genderswaps",
       "Description": "Visuals take a second to activate. Dialogue changes are applied at start-of-day."
     },
-    "Hayley to Hayden": {
+    "Haley to Hayden": {
       "AllowValues": "true, false",
       "Default": "true",
       "Section": "Genderswaps",
@@ -63,25 +63,25 @@
        }
     },
     {
-       "Name": "Hayley",
-       "Value": "Hayley"
+       "Name": "Haley",
+       "Value": "Haley"
     },
     {
-       "Name": "Hayley_her",
+       "Name": "Haley_her",
        "Value": "her"
     },
     {
-       "Name": "Hayley",
+       "Name": "Haley",
        "Value": "Hayden",
        "When": {
-          "Hayley to Hayden": true
+          "Haley to Hayden": true
        }
     },
     {
-       "Name": "Hayley_her",
+       "Name": "Haley_her",
        "Value": "him",
        "When": {
-          "Hayley to Hayden": true
+          "Haley to Hayden": true
        }
     },
     {

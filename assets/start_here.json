@@ -44,14 +44,14 @@
     },
     {
       "When": {
-        "Hayley to Hayden": true
+        "Haley to Hayden": true
       },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Hayden/visuals.json"
     },
     {
       "When": {
-        "Hayley to Hayden": true,
+        "Haley to Hayden": true,
         "Language": "en"
       },
       "Action": "Include",
