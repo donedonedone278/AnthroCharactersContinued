@@ -71,7 +71,7 @@
     },
     {
       "Action": "EditData",
-      "Target": "Characters/Dialogue/Perry",
+      "Target": "Characters/Dialogue/Penny",
       "Entries": {
         "Introduction": "Oh... Hello! I'm Perry...",
         "Thu6": "I wish I could keep a garden, but our yard is such a mess.$u#$e#Maybe I'll live in a place where I can have a garden someday.#$e#Maybe I'll live on a farm! *chuckle*$h",
