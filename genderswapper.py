@@ -68,10 +68,18 @@ excluded_files = [
     '/Shops.json',
     '/Weddings.json',
     '/schedules/',
-    '/Characters.json',
+    'Data/Characters.json',
     '/ConcessionTastes.json',
     '/TriggerActions.json',
-    '/credits.json'
+    '/credits.json',
+    'Data/Weapons',
+    'Data/CookingRecipes',
+    'Data/Shirts',
+    'Data/LocationContexts',
+    'Data/Furniture',
+    'Data/Boots.json',
+    'Data/Objects.json',
+    'Data/SpecialOrders.json'
 ]
 
 def save(file_path, json_path, new_text):
