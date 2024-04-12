@@ -1,0 +1,94 @@
+https://www.nexusmods.com/stardewvalley/mods/5074/?tab=description&BH=0﻿This mod is the successor to Gaveliere﻿'s original Anthro Characters mod.
+This mod builds upon Gaveliere﻿'s vision, deriving a complete experience thanks
+to Gaveliere with assistance from many contributions from the community over the years. This mod overhauls every NPC in the game, creating a
+wholly re-imagined Stardew Valley experience for those who enjoy
+anthropomorphic animal characters.
+
+Gaveliere worked very hard to update the base mod for Stardew Valley patch 1.5 as fast as possible. If you've enjoyed the mod please consider buying Gav a coffee at:   ﻿https://ko-fi.com/gaveliere
+
+Thanks to the generous help of Krystedez﻿ ﻿we now have a functional Content Patcher version of the mod. Thank you to all of those who also offered support~
+
+The Female to Male Genderswaps are currently a work-in-progress and will be made compatible, CP version included, in the near future.
+
+Translation files should no longer be required for those playing ACC in a non-English language. The files are now contained within the base mod.
+
+The official Chucklefish forums thread for this mod can be found here.
+
+This mod does not affect the player-character; ACC co-author Krystedez﻿ along with LackeDragon are currently developing an anthro farmer and children mod. It can be found at https://www.nexusmods.com/stardewvalley/mods/7618
+
+Compatibility mods for others such as Longevity are not updated and as such will not likely work with the updated Stardew Valley patch 1.5. I have left them here in archival fashion, but if anyone would like to assist in creating updated patches for any other mod please feel free to do so, I will leave a link or the file itself on the Nexus and Chucklefish forums to your patch if contacted to do so.
+
+Lycanglass﻿ created a patch for Stardew Valley Expanded﻿. You can find the link below:
+﻿https://www.nexusmods.com/stardewvalley/mods/5074/?tab=description&BH=0﻿
+
+﻿NOTE: This patch was not created by Gaveliere nor myself and as such we cannot assist with issues you might have with it.
+
+
+
+﻿
+
+
+Installation Instructions:
+Extract the contents of the attached file using 7zip or a similar
+program and follow the instructions packaged within. Do not attempt to
+install via the Stardew Valley Mod Manager; install this mod manually.
+
+
+Female to Male Marriage Candidate Genderswaps:
+We now have sprites and dialogue options for the eligible female to male gender-swapped characters!
+NOW UPDATED FOR PATCH 1.5!
+
+
+
+Female to Male Genderswap Installation Instructions:
+Just download the genderswap file under Optional Files, extract it with a .zip file extractor such as 7zip, then follow the instructions packaged within.
+
+
+Note:
+If you encounter any bugs, please report them after insuring you've followed all installation instructions correctly and have no mod conflicts.
+
+
+Credits:
+Installation Instructions:
+For the replacer version simply copy the Contents folder to your Stardew Valley directory and overwrite all files when prompted. This will replace the sprites in your game with the ACC versions.
+For the Content Patcher version install normally via Content Patcher.
+Authors:
+- Gaveliere a.k.a. Gavelly (Twitter: @Gavelly)
+-Blanchard a.k.a. sion9000 (Twitter: @NekoBlanchard)
+-Krystedez (Twitter: @ChiefKryz)
+-
+*Our Twitters may contain NSFW furry trash.
+Support:
+This mod has been a community effort, but without Gaveliere it would not exist. He has continued to support his mod throughout the years it's been around and worked very hard getting it updated for patch 1.4 and quashing the old remaining bugs we've had lying about.
+If you would like to support the artist who created this work, a donation would be greatly appreciated. You can help fund this mod as well as his other projects at: https://ko-fi.com/gaveliere
+Credits:
+A titanic, overwhelming thanks to Gaveliere for creating this mod, for creating the ACC genderswaps, and for rigorous testing.
+Blanchard(sion9000) for maintaining the mod pages, testing, and co-development.
+Thanks to Krystedez for Content Patcher management and various contributions.
+Thanks to Krystedez and ColaWolf for additional characters.
+Thanks to Bonabopn and Roskii for keeping the thread alive and helping 
+with bug fixing, troubleshooting and help with various files.
+Thanks to HYODO and ninjakaami for providing additional sprite fixes.
+Big thanks to ninjakaami for making a patch to make this mod compatible with Siv's Marriage Mod.
+Many thanks to Mocha Mokat for helping to tweak 
+Cursors.xnb with several transparency fixes and adding new anthro 
+sprites for the Prairie King mini-game.
+Thanks to Arrkhal for the flavor update to the clinic and the updated townInterior.xnb file.
+Thanks to Rydel for noticing and helping fix a mistake with Emily's hands during her walk cycle, as well as portrait adjustments for Penny, 
+Haley and Emily. Much thanks to Rydel for also making a compatibility 
+patch for ACC & Longevity!
+Thanks to luna_panshiel for their help with additional Longevity patch fixes~
+Many thanks to Fyn for Content Pack and various support.
+Big thanks to lxlhunter for updating ACC for 1.3!
+Thanks to Sabs like "labs" for his work on the Content Patcher version.
+Thanks to ColaWolf for additions and fixes to 1.3.
+Thanks to MasterXYZ for more updates to Cursors.
+Big thanks to BlueSkyez for his additions to 1.3 as well as updates of old files.
+Thanks to Yogurl for the alternate Alex portraits.
+Thanks goes to Lobst for help back in 1.1 in updating Shane for 1.1 and assisting with Clint's sprites, as well as Clothing Therapy sprites.
+Big thanks to Krystedez for updating the Content Patcher version for patch 1.4+ and maintaining it!
+Thank you!
+
+
+If you come across any bugs, please report them after ensuring there is no mod conflict.
+
