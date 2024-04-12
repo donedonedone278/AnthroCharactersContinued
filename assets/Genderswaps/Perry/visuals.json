@@ -2,6 +2,12 @@
   "Changes": [
     {
       "Action": "EditImage",
+      "Target": "TileSheets/junimo_furniture",
+      "FromFile": "assets/TileSheets/junimo_furniture_perry.png",
+      "ToArea": { "X": 128, "Y": 272, "Width": 32, "Height": 32 }
+    },
+    {
+      "Action": "EditImage",
       "Target": "Characters/Penny",
       "FromFile": "assets/Characters/Perry.png"
     },

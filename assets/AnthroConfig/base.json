@@ -568,6 +568,53 @@
     },
     {
       "Action": "EditImage",
+      "Target": "LooseSprites/marnie_winter_dance",
+      "FromFile": "assets/LooseSprites/marnie_winter_dance.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/desert_festival_tilesheet",
+      "FromFile": "assets/Maps/desert_festival_tilesheet_drinker.png",
+      "ToArea": { "X": 0, "Y": 384, "Width": 48, "Height": 32 }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/desert_festival_tilesheet",
+      "FromFile": "assets/Maps/desert_festival_tilesheet_turban.png",
+      "ToArea": { "X": 432, "Y": 192, "Width": 64, "Height": 32 }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/desert_festival_tilesheet",
+      "FromFile": "assets/Maps/desert_festival_tilesheet_npcs.png",
+      "ToArea": { "X": 240, "Y": 304, "Width": 272, "Height": 96 }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/desert_festival_tilesheet",
+      "FromFile": "assets/Maps/desert_festival_tilesheet_kitchen.png",
+      "ToArea": { "X": 208, "Y": 432, "Width": 159, "Height": 64 }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/desert_festival_tilesheet",
+      "FromFile": "assets/Maps/desert_festival_tilesheet_gil_and_bucktooth.png",
+      "ToArea": { "X": 48, "Y": 297, "Width": 96, "Height": 87 }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/desert_festival_tilesheet",
+      "FromFile": "assets/Maps/desert_festival_tilesheet_marlon_shop.png",
+      "ToArea": { "X": 16, "Y": 32, "Width": 112, "Height": 80 }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/FishingDerbyTiles",
+      "FromFile": "assets/Maps/FishingDerbyTiles_shopkeepers.png",
+      "ToArea": { "X": 0, "Y": 48, "Width": 128, "Height": 32 }
+    },
+    {
+      "Action": "EditImage",
       "Target": "Maps/DesertTiles",
       "FromFile": "assets/Maps/DesertTiles_people1.png",
       "ToArea": { "X": 96, "Y": 192, "Width": 32, "Height": 48 }
@@ -1193,6 +1240,12 @@
       "Target": "TileSheets/SecretNotesImages",
       "FromFile": "assets/TileSheets/SecretNotesImages.png",
       "ToArea": { "X": 128, "Y": 64, "Width": 64, "Height": 64 }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "TileSheets/junimo_furniture",
+      "FromFile": "assets/TileSheets/junimo_furniture_portraits.png",
+      "ToArea": { "X": 0, "Y": 272, "Width": 160, "Height": 128 }
     },
     {
       "Action": "EditImage",
