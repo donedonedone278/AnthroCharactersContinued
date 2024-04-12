@@ -15,37 +15,37 @@
     },
     "Abigail to Albert": {
       "AllowValues": "true, false",
-      "Default": "true",
+      "Default": "false",
       "Section": "Genderswaps",
       "Description": "Visuals take a second to activate. Dialogue changes are applied at start-of-day."
     },
     "Emily to Emil": {
       "AllowValues": "true, false",
-      "Default": "true",
+      "Default": "false",
       "Section": "Genderswaps",
       "Description": "Visuals take a second to activate. Dialogue changes are applied at start-of-day."
     },
     "Haley to Hayden": {
       "AllowValues": "true, false",
-      "Default": "true",
+      "Default": "false",
       "Section": "Genderswaps",
       "Description": "Visuals take a second to activate. Dialogue changes are applied at start-of-day."
     },
     "Leah to Liam": {
       "AllowValues": "true, false",
-      "Default": "true",
+      "Default": "false",
       "Section": "Genderswaps",
       "Description": "Visuals take a second to activate. Dialogue changes are applied at start-of-day."
     },
     "Maru to Marcus": {
       "AllowValues": "true, false",
-      "Default": "true",
+      "Default": "false",
       "Section": "Genderswaps",
       "Description": "Visuals take a second to activate. Dialogue changes are applied at start-of-day."
     },
     "Penny to Perry": {
       "AllowValues": "true, false",
-      "Default": "true",
+      "Default": "false",
       "Section": "Genderswaps",
       "Description": "Visuals take a second to activate. Dialogue changes are applied at start-of-day."
     }
