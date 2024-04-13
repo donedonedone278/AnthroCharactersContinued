@@ -529,7 +529,7 @@
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors_1_6",
       "FromFile": "assets/LooseSprites/Cursors_1_6_morris_smug.png",
-      "ToArea": { "X": 192, "Y": 80, "Width": 64, "Height": 41 }
+      "ToArea": { "X": 198, "Y": 80, "Width": 58, "Height": 41 }
     },
     {
       "Action": "EditImage",
