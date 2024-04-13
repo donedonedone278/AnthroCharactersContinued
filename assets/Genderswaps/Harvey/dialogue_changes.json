@@ -1,4 +1,135 @@
 {
   "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/SecretNotes",
+      "Entries": {
+        "7": "It's a page from someone's diary...^^...There are only a few 'older' bachelors in town, and none of them are perfect! {{Harvey}} is really anxious and weak, but I know he would make a loyal and devoted husband. He likes coffee and pickles.^^{{Elliott}} is a bit foppish and melodramatic, but he does have a nice chin. He likes crab cakes and pomegranates.^^{{Shane}} is messy and anti-social. But I think his gruff exterior is a defense mechanism, insulating his softness from the world. He likes Beer, Pizza, and Pepper Poppers.%revealtaste:Harvey:395%revealtaste:Harvey:342%revealtaste:Elliott:732%revealtaste:Elliott:637%revealtaste:Shane:346%revealtaste:Shane:206%revealtaste:Shane:215"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/mail",
+      "Entries": {
+        "harveyBalloon": "@,^I have a surprise for you. Meet me by the railroad tracks. ^   -{{Harvey}}[#]{{Harvey}}'s Surprise",
+        "passedOut3_Billed": "@,^Someone dropped you off at the clinic last night. You'd passed out from exhaustion!^You've got to take better care of yourself and go to bed at a reasonable hour.^I've billed you {0}g to cover your medical expenses.^^-Dr. {{Harvey}}[#]From The Office Of Dr. {{Harvey}}",
+        "passedOut3_NotBilled": "@,^Someone dropped you off at the clinic last night. You'd passed out from exhaustion!^You've got to take better care of yourself and go to bed at a reasonable hour.^Since you have no money, I provided your medical care free of charge.^^-Dr. {{Harvey}}[#]{{Harvey}}'s Free Medical Service"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/JoshHouse",
+      "Entries": {
+        "56/f Harvey 500/p George": "jaunty/16 18/farmer 9 24 0 George 16 18 1 Harvey 15 18 1/skippable/move farmer 0 -4 1/move farmer 1 0 1/speak Harvey \"Okay, George. I want you take a deep breath for me.\"/pause 700/speak Harvey \"Mmhmm... turn around, please.\"/pause 300/faceDirection George 2/faceDirection George 3/speak Harvey \"George, I'll be honest with you. You need to make some changes in your lifestyle if you want to stay healthy.#$b#I'd like you to reduce your sodium intake, and try to get some moderate exercise with your arms.\"/emote George 12/speak George \"Hmmph... I know what's best for me. Who do you think you are, telling me how to live my life?\"/pause 500/speak Harvey \"I'm your doctor, George. That's who I am...#$b#And I went to school for 8 years so I could learn how to help people stay healthy.\"/move farmer 0 -1 1/move farmer 5 0 0/faceDirection Harvey 2 true/faceDirection George 2/speak Harvey \"Oh!#$b#I'm sorry, but you shouldn't be here... these check-ups are supposed to be private.\"/faceDirection farmer 3/speak George \"Not so fast! I'd like to get a second opinion from this young man.^Not so fast! I'd like to get a second opinion from this young lady.\"/faceDirection farmer 1/speak Harvey \"Very well...\"/speak Harvey \"$q 84 null#@, what do you think George should do?#$r 84 40 event_george1 friend_George_-20#George should follow Dr. {{Harvey}}'s advice.#$r 85 -40 event_george2 friend_George_40#George knows what's best for his own body.\"/faceDirection Harvey 1/faceDirection George 2/emote George 28/speak George \"Fine. I'll do what you say, doctor.\"/pause 500/faceDirection Harvey 2/speak Harvey \"$p 84#Thanks for your help, @. I appreciate it.$h|It's better not to give my patients mixed messages, @. Please remember that in the future.\"/end"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Farm",
+      "Entries": {
+        "2118991/e 3910975/t 600 800": "continue/64 15/farmer 64 16 2 Shane 64 18 0/pause 1500/skippable/speak Shane \"Hey...\"/pause 500/faceDirection Shane 1/pause 500/faceDirection Shane 0/speak Shane \"Oh man... Uh... How do I say this?$s#$b#I'm really sorry about what happened at the cliffs. That was... embarrassing...\"/pause 500/speak Shane \"$q -1 null#  #$r -1 10 event_apologize1#I'm glad I was there to help.#$r -1 -10 event_apologize2#You needed a serious wake-up call.#$r -1 10 event_apologize3#I'm just happy you're still here.\"/pause 1000/faceDirection Shane 1/pause 1000/speak Shane \"I've decided I want to see a therapist. {{Harvey}} got me in touch with a colleague of his...$s\"/pause 500/faceDirection Shane 0/speak Shane \"Anyway... I just wanted to thank you for taking care of me. And I want you to know that I'm going to take things a little more seriously from now on.#$b#I don't want to be a burden on anyone...\"/pause 1000/faceDirection Shane 1 true/pause 50/faceDirection Shane 2/pause 500/showFrame Shane 19/pause 2000/end"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Hospital",
+      "Entries": {
+        "7/f Maru 1000/p Maru": "Hospital_Ambient/-1000 -1000/farmer -10000 -10000 0 Maru 9 15 3 Harvey 7 10 0/skippable/changeSprite Maru Hospital/changePortrait Maru Hospital/showFrame Maru 18/viewport 10 15/pause 4000/speak Maru \"*sigh*... I'm so sick of preparing these samples...$s\"/pause 2000/playSound doorClose/warp farmer 10 19/pause 100/playSound throw/showFrame Maru 17/shake Maru 2000/jump Maru/specificTemporarySprite maruBeaker/move farmer 0 -1 0/pause 1250/showFrame Maru 0/faceDirection Maru 2/pause 100/speak Maru \"Agh! Oh no!... $4\"/pause 600/showFrame Maru 16/pause 1000/speak Maru \"The whole sample is ruined... {{Harvey}}'s going to kill me...$s\"/pause 600/showFrame Maru 0/faceDirection Maru 0/pause 1500/faceDirection Maru 2/pause 400/speak Maru \"$q 38 null#@, what should I do?#$r 38 -50 Event_Hospital_1#Just scoop it off the floor. He won't know the difference.#$r 39 -20 Event_Hospital_2#Tell {{Harvey}} it was my fault.#$r 38 50 Event_Hospital_3#Tell {{Harvey}} it was an accident.\"/move Harvey 3 0 2/move Harvey 0 2 2/doAction 10 13/move Harvey 0 1 2/faceDirection Maru 1/speak Harvey \"What happened? I heard something break.\"/pause 500/speak Maru \"$p 38#I accidentally dropped one of the samples... I'm so sorry.$s|@ came in and slammed the door so loud I dropped this sample.$u\"/fork toldTruth/move Harvey 0 2 3/emote Harvey 40/speak Harvey \"You shouldn't blame others for your own problems, {{Maru}}.$a\"/pause 300/faceDirection Harvey 1/speak Harvey \"*sigh*... I'll have to call the patient back in to recollect this sample.$s#$b#This'll probably put us in the red for another month...$s\"/pause 600/faceDirection Maru 2/pause 1000/showFrame Maru 16/pause 500/emote farmer 28/end",
+        "toldTruth": "move Harvey 0 2 3/speak Harvey \"Thanks for telling me the truth, {{Maru}}.#$b#Don't worry about the sample, we'll just get another one.\"/pause 500/emote Harvey 32/pause 500/speak Maru \"Thanks for being patient with me, Doctor {{Harvey}}.\"/pause 500/speak Harvey \"Of course... you've been a big help around here. I don't know what I'd do without you!\"/pause 500/emote Maru 32/pause 1000/faceDirection Harvey 2/pause 500/emote Harvey 8/speak Harvey \"@? You look a little pale... are you feeling okay?\"/pause 500/faceDirection farmer 2/emote farmer 28/end",
+        "571102/f Harvey 2000": "Hospital_Ambient/-100 -100/farmer -200 -2000 0 Harvey 4 5 0/skippable/changeLocation HarveyRoom/showFrame Harvey 23/viewport 5 6 true/pause 1000/speak Harvey \"Hello? Hello? Is anyone out there?$9\"/pause 1300/emote Harvey 40/speak Harvey \"This is Dr. H at... 52 North 43.5 East... Seeking aerial response...Anyone out there?$9\"/pause 2000/emote Harvey 40/pause 700/playSound newArtifact/message \"Copy.. Dr. H on the ground... this is Blackbird Fiver Fiver Zuzu. Anything to report?\"/showFrame Harvey 28/jump Harvey/pause 800/speak Harvey \"Someone's there!?$10#$b#Er... I mean!... Standard ground report: Wind at 3 Clicks, 36 Degrees North of West. Ground Temperature at 42 Kraggs. Humidity 53%. Dr. H out!$10\"/pause 300/playMusic kindadumbautumn/faceDirection Harvey 1 true/move Harvey 2 0 1/speak Harvey \"Yikes, my pulse is soaring...$7\"/pause 400/playSound doorClose/warp farmer 6 12/move farmer 0 -3 0/faceDirection Harvey 2/speak Harvey \"@!\"/question fork1 \"#Ask {{Harvey}} why he's all flustered.#Pretend like everything's normal.\"/fork normal/pause 500/speak Harvey \"Ah, well... You see, I was just on my radio here... and I made contact with a real pilot!\"/emote Harvey 16/speak Harvey \"As a matter of fact, we can probably see him flying overhead right now!\"/move Harvey 0 1 3/move Harvey -3 0 0/move Harvey 0 -2 0/speak Harvey \"Quick, get over here!\"/speed farmer 4/move farmer 0 -3 3/speed farmer 4/move farmer -4 0 0/speed farmer 4/move farmer 0 -2 0/speed farmer 4/speak Harvey \"Look!\"/globalFade/cutscene plane/viewport -1000 -1000/speak Harvey \"As a kid, my dream was always to be a pilot.\"/pause 1000/speak Harvey \"...But with my bad eyesight and a crippling fear of heights, that dream started to fade away.$s\"/faceDirection Harvey 3/faceDirection farmer 1/viewport 5 6 true/pause 1600/emote farmer 28/speak Harvey \"It's okay... don't be sad.#$b#I've grown to accept my station in life. Not everyone can achieve their dreams... that's just the way the world is.\"/pause 1600/speak Harvey \"Hey, let me show you my model airplanes. I just finished the new TR-Starbird deluxe set.$h\"/advancedMove Harvey false 0 2 16 0/faceDirection farmer 2/globalFade .003/viewport -1000 -1000/pause 500/end"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/summer11",
+      "Entries": {
+        "Maru_spouse": "{{Harvey}} keeps trying to talk to me, but all I want is a piece of this roast."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/Furniture",
+      "Entries": {
+        "HarveyPortrait": "{{Harvey}} Portrait"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/Weapons",
+      "Entries": {
+        "HarveysMallet_Name": "{{Harvey}}'s Mallet",
+        "HarveysMallet_Description": "It brings back memories of {{Harvey}}'s clinic."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromMaps",
+      "Entries": {
+        "HarveyRoom.3": "It's {{Harvey}}'s model airplane collection.",
+        "HarveyRoom.4": "It's {{Harvey}}'s model airplane collection.",
+        "Hospital.3": "It's probably not a good idea to stick your hands in there. It's full of used syringes, dirty swabs, and little nozzles that {{Harvey}} stuck into people's ears."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/animationDescriptions",
+      "Entries": {
+        "harvey_radio": "%{{Harvey}} looks busy right now."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/MovieReactions",
+      "Entries": {
+        "Harvey_spring_movie_1_DuringMovie_2": "{{Harvey}} is shaking!",
+        "Harvey_dislike_DuringMovie_2": "{{Harvey}}'s blood pressure is skyrocketing!"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "Event.cs.1068": "Dr. {{Harvey}} charged me {0}g for the hospital visit. ",
+        "Event.cs.1070": "I have no money, but {{Harvey}} was obligated to save my life free of charge. ",
+        "MapPage.cs.11076": "{{Harvey}}'s Clinic",
+        "ItemDeliveryQuest.cs.13446": "A paste of fresh {0} makes a wonderful tonic for {1}. If you find one, I could put it to good use.       -Dr. {{Harvey}} "
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/NPCNames",
+      "Entries": {
+        "Harvey": "{{Harvey}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Emily",
+      "Entries": {
+        "summer_Sat": "Don't overwork yourself or you might end up in {{Harvey}}'s clinic!"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Maru",
+      "Entries": {
+        "Wed": "On Tuesdays and Thursdays I work at {{Harvey}}'s clinic.#$b#He says he likes having me around in case his medical equipment goes haywire!$h#$e#Being a farmer must be pretty easy, huh?",
+        "Wed8": "I'm glad to have a job at the clinic... I feel like I'm helping people in town.#$e#Dr. {{Harvey}}? He's nice, but not really my type..."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Harvey",
+      "Entries": {
+        "Introduction": "It's a pleasure to meet you. I'm {{Harvey}}, the local doctor.#$e#I perform regular check-ups and medical procedures for all the residents of Pelican Town. It's rewarding work.#$e#I hope you'll find your own work equally rewarding, in time.$h"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialoguePenny",
+      "Entries": {
+        "Rainy_Day_1": "I wonder if {{Maru}} and Dr. {{Harvey}} will ever get together? I'm sure {{Harvey}} likes her...#$e#I think {{Maru}} will have to make the first move, though.$h"
+      }
+    }
   ]
 }

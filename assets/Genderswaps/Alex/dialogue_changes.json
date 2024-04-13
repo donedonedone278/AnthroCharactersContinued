@@ -1,4 +1,127 @@
 {
   "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/SecretNotes",
+      "Entries": {
+        "9": "{{Alex}}'s Strength Training Diet:^^*Complete Breakfast^*Salmon Dinner^^(I've learned to love this food... I can feel the protein!!)%revealtaste:Alex:201%revealtaste:Alex:212"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/mail",
+      "Entries": {
+        "joshMessage": "@,^meet me at the saloon tonight after dark. ^   -{{Alex}}[#]{{Alex}}' Invitation"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Farm",
+      "Entries": {
+        "3917587/f Alex 3500/O Alex/t 500 820/M 5000/d Sun/y 2": "continue/-10000 -1000/farmer -100 -100 2 Alex -100 -100 2/warp Alex -100 -100/warp farmer -100 -100/faceDirection Alex 2/viewport 64 15 clamp true/pause 2000/playSound doorClose/warp farmer 64 15/pause 500/move farmer 0 2 2/playSound doorClose/warp Alex 64 15/pause 300/faceDirection farmer 1 true/pause 100/faceDirection farmer 0/speak Alex \"Hey, @. Before you head out...#$b#I hate to ask this... but can I have 5,000g?#$b#It's for a secret project I'm working on... I know we have a joint bank account, but I thought I should ask anyway.\"/pause 1000/question fork0 \"Give {{Alex}} 5,000g for his secret project?#Yes#No\"/fork giveAlexMoney/playMusic none/pause 1000/emote Alex 12/speak Alex \"Really? You won't spare a measly 5,000g to make me happy?$a#$b#I didn't know you were such a cheapskate...$s\"/pause 500/faceDirection Alex 1 true/pause 100/faceDirection Alex 0/pause 500/emote Alex 28/pause 400/speak Alex \"I just wanted to have a little fun...$s\"/pause 800/playSound doorClose/warp Alex -100 -100/pause 2000/end dialogue Alex \"I don't want to talk to you right now...$s\""
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Town",
+      "Entries": {
+        "3917589/n gaveAlexMoney/O Alex/d Mon/d Tue/d Wed/d Thu/d Fri/d Sat": "continue/-1000 -1000/farmer 100 100 2/addWorldState saloonSportsRoom/addMailReceived saloonSportsRoom/message \"It's Sunday... I should swing by the saloon later and see what {{Alex}} has been up to!\"/end"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Saloon",
+      "Entries": {
+        "911526/f Alex 2500/t 1900 2200/n joshMessage": "gusviolin/-1000 -1000/farmer 5 5 1 Gus 10 6 2 Alex 9 5 3 Emily 9 17 2/skippable/showFrame 117/showFrame Alex 39/positionOffset farmer 12 8/positionOffset Alex -12 0/animate Gus false true 723 16 17/viewport 7 4 true/pause 23000/stopAnimation Gus/pause 1000/faceDirection Gus 3/speak Alex \"Thanks, Gus. That was great.\"/move Gus 0 1 1/move Gus 1 0 2/move Gus 0 1 2/doAction 11 9/move Gus 0 3 1/move Gus 12 0 3 true/speak Alex \"This is nice... I've never dined in here before.\"/pause 1000/emote Alex 40/speak Alex \"Um, anyway... I reserved this private room so we could talk...$l\"/warp Emily 11 11 true/playSound woodyStep/move Emily 0 -4 3/move Emily -4 0 0/move Emily 0 -1 0/speak Emily \"I've got a linguini with mushroom cream sauce for Mr. @.^I've got a kale and walnut salad for the lady.#$b#...and a grilled steak for {{Alex}}.^And a grilled steak for the gentleman.\"/playSound woodyHit/specificTemporarySprite joshDinner/speak Alex \"Thanks.\"/move Emily 4 0 2/move Emily 0 5 1/move Emily 11 0 1 true/speak Alex \"So, what I wanted to say was...$9\"/playMusic musicboxsong/speak Alex \"*gulp*$s\"/pause 600/speak Alex \"Well... when we first met, I was instantly drawn to you. It was confusing... I'd never felt that way about anyone.$l^When I first met you, I thought you were really cute.$l#$b#I kept telling myself 'You can't have these kinds of feelings for another guy'.$l^Normally, when I have a crush on someone, the feeling goes away pretty quick...$l\"/pause 800/speak Alex \"...But my heart was telling me something else.^...But with you, it kept growing.$l\"/pause 400/emote Alex 40/pause 600/question fork1 \"#I feel the same way.#I'm sorry... I don't feel that way about you.\"/pause 400/fork rejectJosh/speak Alex \"...$l#$b#I can't believe it took this long to say that to each other.$l\"/emote Alex 32/pause 800/animate Alex false false 400 40 41 41 40 41 41 40 41 41 40 41 41 40/pause 800/playSound eat/pause 800/playSound eat/pause 800/playSound eat/pause 800/playSound gulp/pause 400/speak Alex \"Mmm... this steak is outstanding. Can you smell that fragrant sauce?$10\"/eyes 1 -4000/animate Alex false false 400 40 41 41 40 41 41 40/pause 1000/specificTemporarySprite alexDiningDog/playSound dogWhining/pause 1000/globalFade/viewport -1000 -1000/pause 6000/end dialogue Alex \"...$l\""
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/fall16",
+      "Entries": {
+        "Haley_spouse_y2": "It's a little funny seeing {{Alex}} stuff his face. He seems to be doing well.#$e#I hope we win the grange display contest this year!$1"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/winter8",
+      "Entries": {
+        "Evelyn_y2": "You never know... this could be the last time I ever make a snowman with {{Alex}}.#$e#Life is short, dear. Make sure to treasure every moment."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/Furniture",
+      "Entries": {
+        "AlexPortrait": "{{Alex}} Portrait"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/Weapons",
+      "Entries": {
+        "AlexsBat_Name": "{{Alex}}'s Bat",
+        "AlexsBat_Description": "The sweet spot is dented from {{Alex}}'s famous Grand Slam."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromMaps",
+      "Entries": {
+        "BathHouse_MensLocker.4": "{{Alex}}'s Locker... There's a bunch of pictures of bodybuilders taped inside the door.",
+        "JoshHouse.1": "Momma-^If you're reading this, it means I've passed on. I'm so sorry you had to go through this. Know that I love you both.^Don't be too upset, I'm with Yoba now. ^My final request: take care of {{Alex}}. He needs a family, something stable. He's a good kid.^ Love, ^Clara",
+        "JoshHouse.7": "You peek into {{Alex}}'s drawer. There's clothes, hair gel, and a box of gridball trading cards.",
+        "JoshHouse.8": "You peek into {{Alex}}'s drawer. There's clothes, hair gel, and a box of gridball trading cards.",
+        "JoshHouse.9": "It's {{Alex}}'s gridball helmet. Looks like he keeps it polished."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "MapPage.cs.11093": "Home of George, Evelyn & {{Alex}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/NPCNames",
+      "Entries": {
+        "Alex": "{{Alex}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Evelyn",
+      "Entries": {
+        "GreenRain": "George, dear... Is this the end? It's been a good life, but I'd like to see {{Alex}} find his way before departing...$s%noturn",
+        "fall_Sat": "Are you friends with {{Alex}}?#$e#Sometime he worries me sick."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/George",
+      "Entries": {
+        "Wed": "{{Alex}} is my grandson. Have I told you that already?#$e#Huh? Speak up.",
+        "Wed8": "I wish my legs worked so I could play catch with {{Alex}}.$s#$e#That'll never happen.$s"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Alex",
+      "Entries": {
+        "Introduction": "Oh, hey. So you're the new guy, huh? Cool.^Hey, you're the new girl, huh? I think we're going to get along great. I'm {{Alex}}.#$e#I'll see you around.",
+        "dating_Alex": "%{{Alex}} gives your arm a squeeze, grinning."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Haley",
+      "Entries": {
+        "Event_room1": "Him? No!#$b#...Well, I guess I used to like {{Alex}}. But not anymore! He's immature.",
+        "summer_Fri": "I wonder what {{Alex}} is doing today...#$e#Huh? I didn't notice you standing there.",
+        "winter_Sun": "Will you say hi to {{Alex}} for me?#$e#Thanks.",
+        "winter_Sun6": "Um, if you see {{Alex}} could you tell him I'm busy today?#$e#Thanks."
+      }
+    }
   ]
 }

@@ -1,4 +1,175 @@
 {
   "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/SecretNotes",
+      "Entries": {
+        "2": "It's {{Sam}}'s holiday shopping list^^Everyone's favorites^^{{Sebastian}}: Frozen Tear, Sashimi^{{Penny}}: Emerald, Poppy^Vincent: Grape, Cranberry Candy^Mom: Crispy Bass, Pancakes^Dad: Risotto, Roasted Hazelnuts^Me: Cactus, Maple Bar, Pizza%revealtaste:Sebastian:84%revealtaste:Sebastian:227%revealtaste:Penny:60%revealtaste:Penny:376%revealtaste:Vincent:398%revealtaste:Vincent:612%revealtaste:Jodi:214%revealtaste:Jodi:211%revealtaste:Kent:649%revealtaste:Kent:607%revealtaste:Sam:90%revealtaste:Sam:731%revealtaste:Sam:206"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Town",
+      "Entries": {
+        "15389722/j 57": "springtown/62 93/farmer 54 94 1 Lewis 62 94 0 Robin 64 93 3/skippable/move farmer 6 0 1 true/animate Robin false true 100 24 25 26 27 27 27 27 27 27 27 27/pause 200/playSound crafting/pause 1200/playSound crafting/pause 1200/playSound crafting/pause 1200/playSound crafting/pause 500/stopAnimation Robin/faceDirection Lewis 3/speak Lewis \"Ah, hello there, @. You showed up at the perfect time.$h\"/pause 500/emote farmer 8/move farmer 1 0 0 true/faceDirection Lewis 0/pause 200/speak Lewis \"It's our new 'Special Orders' board.#$b#Robin and I built it from scratch.$h\"/pause 500/speak Robin \"Um... Lewis? All you did was hold the nails.\"/pause 300/showFrame Lewis 26/playSound slimedead/jump Lewis/shake Lewis 1000/pause 1300/showFrame Lewis 12/faceDirection farmer 1/faceDirection Lewis 3/speak Lewis \"*Ahem*... Ignore her.$5\"/pause 400/faceDirection Lewis 0/speak Lewis \"Now, let me explain...\"/showFrame Lewis 20/speak Lewis \"You see... with %farm Farm back in business, the local economy has really been picking up.#$b#As a result, some of the local townsfolk have been asking me for a way to source local ingredients for their businesses or personal projects.\"/pause 200/showFrame Lewis 8/faceDirection Lewis 0/speak Lewis \"So, Robin and I came up with the idea of a new 'Special Orders' board, where people can post bigger jobs than would make sense for the old billboard outside Pierre's.\"/faceDirection farmer 0/pause 500/faceDirection Robin 3/move Robin 0 1 3/speak Robin \"Yeah... for example, I plan on requesting some hardwood for a bed I want to make.$h#$b#I won't put you on the spot, but if you want to help me out you can just accept the job from this board.#$b#Who knows, maybe if the bed turns out well I'll start selling them in my shop!$h\"/faceDirection farmer 1/quickQuestion #I look forward to helping!#Heh... I dunno... we'll see...(break)faceDirection Lewis 3\\speak Lewis \"I thought so! I wouldn't expect anything less from you, @.\"\\emote Robin 20\\speak Robin \"So, can we say that you're... --On Board--?$4\"\\pause 400\\showFrame Lewis 27\\shake Lewis 200\\pause 400\\textAboveHead Lewis \"*groan*\"\\animate Robin false true 150 32 33\\pause 1200\\showFrame Lewis 0\\faceDirection Lewis 3\\speak Lewis \"Well, I'm sure you're busy, so we won't keep you away from your work any longer.#$b#As always, I appreciate your willingness to contribute!$h#$b#Take care, @.\"(break)faceDirection Lewis 3\\emote Lewis 28\\speak Lewis \"Huh... I wouldn't expect such a tepid response from you, @. I'm disappointed.$s\"\\pause 400\\speak Robin \"It's fine, Lewis... there's no pressure to help out.$5#$b#Maybe I can get {{Sebastian}} to help. He could use some work away from the computer.\"\\playMusic none\\pause 500\\speak Lewis \"Hmmph... Well, we're done here, Robin.$u#$b#...Wouldn't want to waste any more of @'s precious 'me' time.$u\"\\faceDirection Lewis 1(break)/pause 2000/end"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Saloon",
+      "Entries": {
+        "195099/f Shane 2500/f Sebastian 2500/f Sam 2500/f Harvey 2500/f Alex 2500/f Elliott 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 911526/e 528052/e 9581348/e 43/e 384882/e 233104/i 446/k 195013": "playful/-1000 -1000/farmer 27 19 1 Sam 36 20 1 Sebastian 37 19 2 Harvey 39 19 2 Shane 40 17 2 Elliott 41 19 2 Alex 42 20 3/animate Shane false true 200 20 20 20 20 20 20 20 20 20 20 21 22 23 24 24 24 24 23 22 21 20 20 20 20/pause 1000/message \"For some reason, you decide to place your hand in your pocket...\"/pause 500/message \"You touch the rabbit's foot, and feel a sense of relief...\"/move farmer 5 0 1 true/viewport 37 19 true/move false/pause 500/faceDirection Sam 3 true/faceDirection Elliott 3 true/faceDirection Harvey 3 true/faceDirection Alex 3 true/faceDirection Shane 3 true/faceDirection Sebastian 3 true/textAboveHead Sam \"Hey!\"/textAboveHead Alex \"What's up?\"/textAboveHead Shane \"Oh, hey\"/pause 2000/move farmer 3 0 1/emote farmer 32/pause 500/speak Harvey \"You showed up just in time for the first ever Pelican Town 8-ball tournament!\"/pause 500/speak Elliott \"Don't worry, I've never played before, either.$h\"/pause 500/speak Shane \"It's easy, you just gotta put some mustard on the cue ball...$h\"/pause 500/fade/viewport -1000 -1000/pause 1500/message \"You played a round of pool with the boys.\"/pause 1000/message \"{{Sebastian}} won, of course... but it was still a lot of fun!\"/pause 500/end"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/SamHouse",
+      "Entries": {
+        "44/f Sam 500/p Sam": "sampractice/-1000 -1000/farmer 4 15 1 Sam 17 16 2 Sebastian 18 18 0/positionOffset Sebastian 32 -31/skippable/animate Sam false true 200 20 21/showFrame Sebastian 41/viewport 17 16 true/move farmer 8 0 0/pause 500/doAction 12 14/move farmer 0 -2 1/move farmer 4 0 2/pause 9000/stopAnimation Sam/showFrame Sebastian 8/pause 1000/faceDirection Sam 0/pause 800/speak Sam \"Oh, hi @! {{Sebastian}} and I were just having a little 'jam session'.\"/move farmer 0 3 1/faceDirection Sam 3/faceDirection Sebastian 3/speak Sam \"We're trying to start a band, but we still don't know what kind of music to make. There's too many possibilities.\"/pause 500/emote Sebastian 28/faceDirection Sam 2/pause 500/emote Sam 16/faceDirection Sam 3/speak Sam \"#$q 76 null#Say, @... what kind of music do you like?#$r 76 50 Event_band1#Cheerful pop music.#$r 77 50 Event_band2#Experimental noise rock.#$r 78 50 Event_band3#Hi-Energy dance music.#$r 79 50 Event_band4#Honky-tonky country music.\"/move Sam 0 2 1/speak Sam \"What do you say, {{Sebastian}}? Should we do this?\"/pause 300/faceDirection Sebastian 0/pause 300/faceDirection Sebastian 3/speak Sebastian \"...Okay.\"/pause 500/faceDirection Sam 0/move Sam 0 -2 3/speak Sam \"Thanks for the help, @. With my guitar skills, and {{Sebastian}}'s wizardry on the synthesizer, we're gonna be a screaming success. I'm convinced of it!$h\"/faceDirection Sam 2/speak Sam \"Now I just need to find someone to play drums...$u\"/pause 500/end"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Beach",
+      "Entries": {
+        "733330/f Sam 750/w sunny/t 700 1500/z winter/y 1": "ocean/-1000 -1000/farmer 40 9 2 Sam 41 18 2 Vincent 43 22 2/skippable/animate Vincent false true 500 18 19/specificTemporarySprite beachStuff/viewport 42 19 true/move farmer 0 9 1/faceDirection Sam 3/speak Sam \"Hello @. Nice day, isn't it?\"/faceDirection farmer 2/faceDirection Sam 2/pause 800/speak Sam \"I'm just keeping an eye on my little brother. It's good for him to get some fresh air on a day like this.\"/pause 1700/speak Sam \"Our Dad used to take us to the beach on sunny days like this.$h\"/jump Vincent/stopAnimation Vincent/showFrame Vincent 0/pause 1000/move Vincent 0 -4 3/move Vincent -1 0 3/faceDirection Sam 1/faceDirection farmer 1/playMusic desolate/speak Vincent \"{{Sam}}...?$u\"/pause 900/speak Vincent \"Is Dad ever going to come home?$s\"/emote Sam 28/showFrame Sam 34/pause 800/speak Sam \"Of course, Vince. Dad's going to come back as soon as he possibly can.$7\"/pause 600/speak Vincent \"But I heard some grown-ups saying that... that all of our troops are getting shot to pieces.$s\"/showFrame Sam 35/pause 1500/speak Sam \"Don't believe everything you hear!$8\"/showFrame Sam 4/speak Sam \"Don't you remember how strong Dad is? He'd never let a pathetic Gotoro grunt get him like that! Don't you worry!$a#$b#And always remember that Mom and I are here to play with you if you ever feel lonely.\"/playMusic ocean/speak Vincent \"Okay!\"/jump Vincent/pause 1000/move Vincent 1 0 2/showFrame Sam 4 true/faceDirection Sam 2 true/move Vincent 0 4 2/animate Vincent false true 500 18 19/playSound sandyStep/pause 800/faceDirection Sam 3/pause 800/faceDirection Sam 2/faceDirection farmer 2/pause 1000/speak Sam \"To be honest, I have no idea if my old man will come back... We've all read the reports. Our soldiers are falling by the thousands.$s#$b#But what am I going to say to Vincent?$7\"/pause 1000/question null \"#It's best to be honest with kids.#You did the right thing. Kids should have hope.\"/emote Sam 40/pause 1000/splitSpeak Sam \"You think so?$7#$b#Maybe you're right... The world is a cruel place, but kids have to learn that one way or another.$s~Yeah... kids should play and have fun while they still have the chance.\"/pause 700/faceDirection Sam 3/faceDirection farmer 1/speak Sam \"Hey did I tell you the band's starting to come together?#$b#Yeah! It turns out {{Abigail}}'s a pretty good drummer. And {{Sebastian}} seemed to really want her in the band...$h\"/pause 500/globalFade/viewport -1000 -1000/end"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/SebastianRoom",
+      "Entries": {
+        "enterRobin": "pause 500/playSound mouseClick/pause 100/playSound mouseClick/pause 500/playSound Pickup_Coin15/pause 300/emote Sebastian 40/speak Sebastian \"That was an instant message from {{Sam}}... I guess he wants to hang out...#$b#Ugh, I don't really feel like going out today.$u\"/pause 500/playSound doorClose/warp Robin 1 1/move Robin 0 4 1/speak Robin \"Oh, hi @.\"/faceDirection farmer 3/move Robin 4 0 1/speak Robin \"{{Sebby}}, I know you don't like it when I come in here... but I ran into {{Abigail}} at the store and she said she was looking for you.\"/pause 200/emote Sebastian 28/speak Sebastian \"Did you tell her I'm working?\"/speak Robin \"I did... but she said she'd probably stop by anyway.\"/emote Sebastian 12/speak Sebastian \"*sigh*... No one takes my job seriously.$u#$b#No one ever bothers {{Maru}} when she's working at the clinic... does everyone think I'm just surfing the web all day?\"/faceDirection farmer 0 true/move Robin -4 0 0/move Robin 0 -4 0/warp Robin -100 -100/playSound doorClose/pause 500/faceDirection farmer 0/resetVariable/question fork1 \"#Ask him about his career goals.#Ask him why he doesn't want to see his friends.\"/fork noFriends/pause 500/speak Sebastian \"Well, I'm trying to save up so I can move out of here. Probably to the city or something.\"/emote Sebastian 40/speak Sebastian \"You know, if I'd gone to college I'd probably be making six figures right now... but I just don't want to be part of that corporate rat race, you know?#$b#Well, and I guess I just feel more comfortable hidden behind the computer than dealing with people face-to-face.$s\"/emote Sebastian 28/pause 600/playSound mouseClick/pause 100/playSound mouseClick/pause 300/speak Sebastian \"Well, I should get back to work... I need to get this module finished by tomorrow.\"/animate Sebastian false true 100 24 24 24 24 24 24 24 24 24 24 25 26 27 26 27 26 27 26 25 24 24/playSound keyboardTyping/pause 500/move farmer 0 2 3/move farmer -3 0 0/move farmer 0 -2 3/move farmer -5 0 0 true/globalFade/viewport -1000 -1000/pause 1000/end",
+        "Necromancer": "pause 500/updateMinigame 6/resetVariable/playMusic Lava_Ambient/pause 1600/message \"Xarth: Intruders? How dare you trespass in my private chambers!\"/pause 800/message \"Ah, so you've come for the Solarion Staff...\"/pause 800/message \"Hehehe... fools. You'll make a nice addition to my skeleton army!\"/pause 500/fork choseWizard finalBossWizard/fork choseWarrior finalBossWarrior/message \"Dreadlord Xarth casts shadow beam!\"/pause 500/playSound flameSpell/pause 800/playSound flameSpellHit/updateMinigame -1/pause 1000/message \"You were able to dodge the spell, but your companions are gravely injured!\"/pause 500/question fork0 \"What do you do?#Heal the Warrior ({{Sam}}).#Heal the Wizard ({{Sebastian}}).\"/pause 500/fork healedSam/playSound healSound/pause 500/speak Sebastian \"Thanks, @.$7\"/speak Sam \"...$s\"/pause 1000/playMusic none/message \"{{Sebastian}} casts 'Pure Bolt'... A beam of white light hits Xarth square in the face. The Dreadlord shrieks and crumbles into dust.\"/playSound debuffSpell/pause 500/playSound killAnimal/updateMinigame 9/updateMinigame -1/pause 800/message \"You pick up the Solarion Staff and hold it high. Order has been restored to the world.\"/addMailReceived savedFriends/pause 1000/playSound getNewSpecialItem/updateMinigame -2/switchEvent end",
+        "finalBossWizard": "pause 500/resetVariable/message \"Dreadlord Xarth is muttering an incantation...\"/pause 500/question fork0 \"What do you do?#Cast 'Pure Beam' at Xarth.#Put a 'Shield Charm' on your friends.\"/fork castBeam/pause 800/playSound debuffHit/message \"You place a 'Shield Charm' on {{Sam}} and {{Sebastian}}.\"/pause 500/playSound debuffSpell/updateMinigame -1/pause 1000/message \"Xarth sends bolts of pure dark energy flying. One of them strikes {{Sebastian}}, but your 'Shield Charm' reflects it back into Xarth's face!\"/pause 800/playSound killAnimal/updateMinigame 9/updateMinigame -1/pause 800/message \"Xarth is defeated, and the Solarion Staff glows peacefully. Order has been restored to the world.\"/pause 1000/playSound getNewSpecialItem/addMailReceived savedFriends/updateMinigame -2/switchEvent end",
+        "castBeam": "pause 500/message \"Before you have a chance to cast your spell, Xarth sends a shadow beam at your companions!\"/pause 500/playSound flameSpell/pause 500/playSound flameSpellHit/updateMinigame -1/pause 800/message \"{{Sam}} and {{Sebastian}} are fried to a crisp...\"/pause 500/playSound yoba/pause 800/message \"Your spell hits Xarth square in the face.\"/pause 500/playSound killAnimal/updateMinigame 9/updateMinigame -1/message \"He lets out a shriek and crumbles into dust. You pick up the Solarion Staff and hold it high. Peace and order have been restored to the world.\"/pause 1000/playSound getNewSpecialItem/updateMinigame -2/switchEvent end",
+        "chargeAhead": "pause 500/message \"You charge forward, but Xarth slips past you and sends a shadow beam at your companions!\"/pause 500/playSound flameSpell/pause 500/playSound flameSpellHit/updateMinigame -1/pause 800/message \"{{Sebastian}} and {{Sam}} are fried to a crisp...\"/pause 800/message \"You swing your sword again and land a solid blow. Xarth shrieks and crumbles into dust.\"/playSound swordswipe/pause 400/playSound killAnimal/updateMinigame 9/updateMinigame -1/pause 800/message \"You pick up the Solarion Staff and hold it high. Peace and order have been restored to the world.\"/pause 1000/playSound getNewSpecialItem/updateMinigame -2/switchEvent end",
+        "finalBossWarrior": "pause 500/resetVariable/message \"Dreadlord Xarth is muttering an incantation...\"/pause 500/question fork0 \"What do you do?#Charge ahead, swinging your sword.#Use your shield to defend your friends.\"/fork chargeAhead/pause 1200/message \"Xarth casts 'Shadow Bolt' at {{Sebastian}}... but you raise your shield just in time to deflect the attack!\"/pause 500/playSound debuffSpell/pause 400/playSound parry/updateMinigame -1/pause 1000/message \"As Xarth prepares another spell, you charge forward and strike him down with your sword.\"/playSound swordswipe/pause 500/playSound killAnimal/updateMinigame 9/updateMinigame -1/pause 1000/message \"The Solarion Staff glows peacefully as you hold it high. Order has been restored to the world!\"/pause 1000/playSound getNewSpecialItem/addMailReceived savedFriends/updateMinigame -2/switchEvent end"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/summer28",
+      "Entries": {
+        "Sam": "I wonder if they're poisonous?#$e#Maybe I shouldn't push {{Sebastian}} in the water after all...$h"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/fall16",
+      "Entries": {
+        "Sam_spouse": "{{Sebastian}}'s the same as always. Are you having fun at the festival?"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/Furniture",
+      "Entries": {
+        "SebastianPortrait": "{{Sebastian}} Portrait"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/Weapons",
+      "Entries": {
+        "SebsLostMace_Description": "One of {{Sebastian}}'s medieval replicas."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/MovieReactions",
+      "Entries": {
+        "Sebastian_love_DuringMovie_2": "{{Sebastian}} has a grin on his face."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "MapPage.cs.11095": "Home of Robin, Demetrius, {{Sebastian}} & {{Maru}}",
+        "ItemDeliveryQuest.cs.13324": "Feeling gloomy... {0} might cheer me up.     -{{Sebastian}}",
+        "ItemDeliveryQuest.cs.13327": "...feel like throwing {0} as hard as I can against the mountain face. Please deliver to {{Sebastian}} at 24 Mountain Road.",
+        "ItemDeliveryQuest.cs.13378": "Feeling gloomy... {0} might cheer me up.\n     -{{Sebastian}}",
+        "ItemDeliveryQuest.cs.13381": "...feel like {0} for some reason. Please bring to {{Sebastian}} at 24 Mountain Road."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/NPCNames",
+      "Entries": {
+        "Sebastian": "{{Sebastian}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSam",
+      "Entries": {
+        "Rainy_Day_1": "Do you think {{Sebastian}} and {{Abigail}} will ever hook up?#$e#Heh... now that I'm married I'm trying to get everyone else married too.",
+        "spring_12": "Are you excited for tomorrow's festival? It'll be cool to see {{Sebastian}} again."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Alex",
+      "Entries": {
+        "winter_Sat": "There's some weird people living in this town.#$e#...like that guy {{Sebastian}}. Why does he wear black all the time?#$e#I don't get it."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Abigail",
+      "Entries": {
+        "eventSeen_733330_memory_oneday": "{{Sam}} and {{Sebastian}} asked me to play drums in their band... I've never played drums before, but it's actually pretty fun.#$e#You have to learn how to move your limbs to different rhythms, at the same exact time. I feel like my brain is growing.$h",
+        "eventSeen_2_memory_oneday": "{{Sebastian}} mentioned that he heard strange music while having dinner the other night...#$e#I didn't tell him it was us! It seemed better to keep it a mystery.$h",
+        "dating_Sebastian_memory_oneday": "I heard you and {{Sebastian}} started dating... I didn't realize you guys had a thing...$6",
+        "married_Sebastian": "Congratulations on the marriage. I guess this means {{Sebastian}} won't be moving to the city like he always talked about.$6#$b#That'll be nice. I'd be kind of sad if I never saw him again. We've always been good friends.$6"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Sebastian",
+      "Entries": {
+        "winter_Wed": "%{{Sebastian}} seems lost in thought..."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueAbigail",
+      "Entries": {
+        "Bad_9": "I wonder if I could've done better... I was very good friends with {{Sebastian}} before we met. He was probably the one...$s"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Maru",
+      "Entries": {
+        "married_Sebastian": "Hey, I guess we're brother and sister now!$h^Hey, I guess we're sisters now!$h#$e#I'm glad that {{Sebastian}} found a way out of the basement...#$e#I wish you two all the best!",
+        "summer_Tue": "{{Sebastian}} is my half-brother, if you didn't know already.#$e#We look totally different.",
+        "summer_Tue4": "{{Sebastian}} hardly ever talks to me. I wonder if he even likes me at all?#$e#It's sad, I want to have a brother but he doesn't act like one."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Robin",
+      "Entries": {
+        "divorced_Sebastian": "{{Sebastian}}'s back in the basement... what happened between you two?$s",
+        "married_Sebastian": "Oh, don't worry... these are tears of joy. I know {{Sebastian}} will be very happy on %farm Farm!$h",
+        "Fri": "You've met my son {{Sebastian}}, right? He lives downstairs.#$e#He's a little shy, but I'm sure he'll warm up to you if you're nice to him.",
+        "Fri_inlaw_Sebastian": "I miss my {{Sebby}}... he was always a little misunderstood, but I believed in him.",
+        "Fri4": "#$1 RobinSeb#I found an ashtray in {{Sebastian}}'s room, and it smelled really weird. Should I be worried about this?#$e#Sometimes I worry about {{Sebastian}}... he doesn't have many friends and doesn't really seem to care about his future very much...#$e#I would talk to him about it but he never opens up to me.",
+        "Fri4_inlaw_Sebastian": "{{Sebastian}} told me he's trying to quit smoking! I'm really proud of him.",
+        "winter_Fri_inlaw_Sebastian": "I think the farm life is really healthy for {{Sebby}}."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Sam",
+      "Entries": {
+        "dating_Sebastian": "I heard you and {{Sebastian}} are going out... he better still be coming to band practice every week!",
+        "married_Sebastian": "Wow, I can't believe you and {{Sebastian}} got hitched. Times really are changing...$u#$e#Eh, it's alright, I'm sure he'll still have time to hang out.",
+        "Resort_Towel_2": "Maybe I should learn to play the ukulele.#$e#{{Abby}} on the congas and {{Sebastian}} on the steel drums... 'The Pelicans of Paradise'...$s#$e#What's the matter, you look worried.$h",
+        "Wed6": "I've been friends with {{Sebastian}} for a while. He's a pretty cool guy.#$e#If you two weren't around I wouldn't really have any friends in town."
+      }
+    }
   ]
 }

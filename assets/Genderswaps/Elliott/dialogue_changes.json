@@ -1,4 +1,100 @@
 {
   "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/SecretNotes",
+      "Entries": {
+        "7": "It's a page from someone's diary...^^...There are only a few 'older' bachelors in town, and none of them are perfect! {{Harvey}} is really anxious and weak, but I know he would make a loyal and devoted husband. He likes coffee and pickles.^^{{Elliott}} is a bit foppish and melodramatic, but he does have a nice chin. He likes crab cakes and pomegranates.^^{{Shane}} is messy and anti-social. But I think his gruff exterior is a defense mechanism, insulating his softness from the world. He likes Beer, Pizza, and Pepper Poppers.%revealtaste:Harvey:395%revealtaste:Harvey:342%revealtaste:Elliott:732%revealtaste:Elliott:637%revealtaste:Shane:346%revealtaste:Shane:206%revealtaste:Shane:215"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/mail",
+      "Entries": {
+        "elliottReading": "@,^I have great news... my novel is finished!! I'm giving a public reading this afternoon at the library. Hope to see you there! ^   -{{Elliott}}[#]{{Elliott}}'s Reading",
+        "elliottBoat": "Meet me at the docks on a sunny morning. I've got something in mind. ^   -{{Elliott}}[#]{{Elliott}}'s Note",
+        "elliottLetter1": "@, my love,^^I've just arrived in Grampleton, to start the tour. I've forgotten how hectic the city is! The streets are packed with people... they either seem in a mad hurry, or lost in a daze, unaware of their surroundings. I miss Pelican Town already!^^I begin the tour this evening, at a local bookstore. I must admit, I'm becoming a bit nervous at the thought of public speaking... my stomach feels as if it's been twisted into a soft pretzel and doused with spicy cheese dip. Wish me luck!^^-Love, {{Elliott}}^^P.S. I hope you had a peaceful night, and weren't too scared all alone in that big house! %item conversationTopic ElliottGone2 0 %%[#]Letter From My Husband",
+        "elliottLetter2": "My dear @,^^The first reading went well, though the audience was a bit smaller than I'd hoped. Still, I sold enough copies of the book to pay for my (bug-infested) hotel room!^^In a few hours, I leave for Zuzu City. If yesterday's reading was a warm-up, this next one will be a true napalm blast...^^I miss you very much. Remember to eat well! Oh, and don't forget the leftover crab cakes I put in the fridge...^-Love, {{Elliott}} %item conversationTopic ElliottGone3 0 %%[#]Letter From My Husband 2",
+        "elliottLetter3": "My sweet @,^^Last night in Zuzu City was quite the experience! It seems there's a large literary scene here... a few dozen people showed up at my reading!^^I even signed a couple of autographs... it's strange to be seen as someone important. It's all a matter of framing, a grand illusion... for truly I am no one special. Only your devoted {{Elliott}}, as always.^^Currently I'm alone, in my hotel room, 'ingesting' a Joja Value Meal...^^Should this be called 'food'?^Or 'edible matter'?^I needn't long brood^It must be the latter^^I look forward to returning home soon. Hope you enjoyed the crab cakes.^^-Love, {{Elliott}} %item conversationTopic ElliottGone4 0 %%[#]Letter From My Husband 3",
+        "elliottLetter4": "In dreams, when graced with lofty view^I gaze upon the sunlit sea^What distant shores I've traveled to^But time now clouds my memory^^There is but one eternal place^Where I shall someday pass beyond^In Valley dear, where my love waits:^Our little home beside the pond^^-{{Elliott}} %item conversationTopic ElliottGone5 0 %%[#]Letter From My Husband 4",
+        "elliottLetter5": "My dear @,^^I won't bore you with any more details about my readings. They are mostly the same.^^I'm sure your time has been much more exciting! I can't wait to return and see what progress has been made.^^On these long travels between towns, I amuse myself by closing my eyes and envisioning the farm... I see kegs pulsing with sweet wine, a furnace ablaze with precious ore, and our little kitchen with the smell of cinnamon and nutmeg. There's a lot to enjoy!^^Just don't stay out too late in the mines, my love. It's dangerous in there! If you must go... bring plenty of food.^^-Love, {{Elliott}} %item conversationTopic ElliottGone6 0 %%[#]Letter From My Husband 5",
+        "elliottLetter6": "My dear @,^^This will be my last letter before I return home. I've had a fine trip... though nothing too exciting. It's been nice to meet people who enjoy my work, but I'm eager to return home.^^I look forward to the comfort of our little house, the satisfying farm work, a home-cooked meal, and most of all, cozying into the flannel sheets with you.^^See you soon!^-Love, {{Elliott}} %item conversationTopic ElliottGone7 0 %%[#]Letter From My Husband 6"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/winter25",
+      "Entries": {
+        "Leah_spouse_y2": "{{Elliott}}'s drinking too much cider again...$7#$e#I'll come meet you at the table when I can find an exit... I'm starving!"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/Furniture",
+      "Entries": {
+        "ElliottPortrait": "{{Elliott}} Portrait"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/Weapons",
+      "Entries": {
+        "ElliottsPencil_Name": "{{Elliott}}'s Pencil",
+        "ElliottsPencil_Description": "{{Elliott}} used this to write his book. It's sharp!"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromMaps",
+      "Entries": {
+        "ElliottHouse.2": "{{Elliott}}'s work desk. It's covered in notes and crumpled papers.",
+        "ElliottHouse.4": "It looks like {{Elliott}} is trying to grow a bonsai tree. It looks cool so far!",
+        "ElliottHouse.6": "It looks like {{Elliott}} is trying to grow a bonsai tree. It looks cool so far!"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "MapPage.cs.11088": "{{Elliott}}'s Cabin",
+        "TitleMenu.cs.11726": "{{Elliott}}'s latest sentence:"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/NPCNames",
+      "Entries": {
+        "Elliott": "{{Elliott}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/Locations",
+      "Entries": {
+        "ElliottHouse_ElliottBook_Filled": "'{0}' by {{Elliott}} ... Dedicated to {1}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Leah",
+      "Entries": {
+        "married_Elliott": "{{Elliott}}'s a real romantic... I'm sure your days will be filled with poetry!$h"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Elliott",
+      "Entries": {
+        "Introduction": "Ah, the new farmer we've all been expecting... and whose arrival has sparked many a conversation!#$b#I'm {{Elliott}}... I live in the little cabin by the beach. It's a pleasure to meet you.",
+        "dating_Elliott_memory_oneday": "%{{Elliott}} whispers a sweet secret into your ear."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Shane",
+      "Entries": {
+        "event_room1": "Okay... that'll require a great script. Maybe I'll ask {{Elliott}} for advice next time I see him at the saloon.$s"
+      }
+    }
   ]
 }

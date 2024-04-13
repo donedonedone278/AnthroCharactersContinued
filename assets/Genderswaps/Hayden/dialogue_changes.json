@@ -58,7 +58,8 @@
         "Introduction": "Oh... you're that new farmer boy, aren't you?^Oh... You're that new farmer girl, or whatever. Aren't you?#$e#Huh? Oh... I'm Hayden.#$e#Hmm... If it weren't for those horrendous clothes you might actually be cute.^Hmm... If it weren't for those horrendous clothes you might actually be pretty... Actually, nevermind.$h",
         "danceRejection": "Gross... No.",
         "Fri": "%Hayden is ignoring you.",
-        "summer_Tue": "Gross, you're all dirty."
+        "summer_Tue": "Gross, you're all dirty.",
+        "eventSeen_13_memory_oneweek": "%{{Haley}} greets you with a smile. You notice that she's wearing her Great-Grandma's bracelet."
       }
     },
     {
@@ -262,6 +263,34 @@
       "Entries": {
         "HaleysIron_Name": "Hayden's Iron",
         "HaleysIron_Description": "It's searing hot and smells like Hayden's hair."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/TV/CookingChannel",
+      "Entries": {
+        "23": "Pink Cake/A viewer from Pelican Town wrote to me recently... let's see... Her name's {{Haley}}. She wrote, 'I tried your pink cake last time I was in Zuzu City and I fell in love with it. Could you share the recipe on your next episode?'. Well, why not? It's a marvelous cake. And you'll never guess the secret ingredient... melon!"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/winter25",
+      "Entries": {
+        "Emily_spouse_y2": "When {{Haley}} and I were kids, we always used to decorate cookies at this festival.#$b#We should do it sometime! You can't let good traditions die out.$h"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/Objects",
+      "Entries": {
+        "HaleysLostBracelet_Name": "{{Haley}}'s Lost Bracelet"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/1_6_Strings",
+      "Entries": {
+        "DesertFestival_Haley2": "%{{Haley}} is glistening in the sunlight."
       }
     }
   ]

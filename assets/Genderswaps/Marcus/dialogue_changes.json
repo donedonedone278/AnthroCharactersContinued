@@ -239,6 +239,68 @@
         "MarusWrench_Name": "Marcus's Wrench",
         "MarusWrench_Description": "A big, metal wrench. It smells like Marcus."
       }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/SebastianRoom",
+      "Entries": {
+        "enterRobin": "pause 500/playSound mouseClick/pause 100/playSound mouseClick/pause 500/playSound Pickup_Coin15/pause 300/emote Sebastian 40/speak Sebastian \"That was an instant message from {{Sam}}... I guess he wants to hang out...#$b#Ugh, I don't really feel like going out today.$u\"/pause 500/playSound doorClose/warp Robin 1 1/move Robin 0 4 1/speak Robin \"Oh, hi @.\"/faceDirection farmer 3/move Robin 4 0 1/speak Robin \"{{Sebby}}, I know you don't like it when I come in here... but I ran into {{Abigail}} at the store and she said she was looking for you.\"/pause 200/emote Sebastian 28/speak Sebastian \"Did you tell her I'm working?\"/speak Robin \"I did... but she said she'd probably stop by anyway.\"/emote Sebastian 12/speak Sebastian \"*sigh*... No one takes my job seriously.$u#$b#No one ever bothers {{Maru}} when she's working at the clinic... does everyone think I'm just surfing the web all day?\"/faceDirection farmer 0 true/move Robin -4 0 0/move Robin 0 -4 0/warp Robin -100 -100/playSound doorClose/pause 500/faceDirection farmer 0/resetVariable/question fork1 \"#Ask him about his career goals.#Ask him why he doesn't want to see his friends.\"/fork noFriends/pause 500/speak Sebastian \"Well, I'm trying to save up so I can move out of here. Probably to the city or something.\"/emote Sebastian 40/speak Sebastian \"You know, if I'd gone to college I'd probably be making six figures right now... but I just don't want to be part of that corporate rat race, you know?#$b#Well, and I guess I just feel more comfortable hidden behind the computer than dealing with people face-to-face.$s\"/emote Sebastian 28/pause 600/playSound mouseClick/pause 100/playSound mouseClick/pause 300/speak Sebastian \"Well, I should get back to work... I need to get this module finished by tomorrow.\"/animate Sebastian false true 100 24 24 24 24 24 24 24 24 24 24 25 26 27 26 27 26 27 26 25 24 24/playSound keyboardTyping/pause 500/move farmer 0 2 3/move farmer -3 0 0/move farmer 0 -2 3/move farmer -5 0 0 true/globalFade/viewport -1000 -1000/pause 1000/end"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/fall27",
+      "Entries": {
+        "Demetrius": "I haven't seen {{Maru}} in hours... I hope she's alright."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/MovieReactions",
+      "Entries": {
+        "Maru_spring_movie_1_DuringMovie_2": "{{Maru}}'s taking notes!"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSebastian",
+      "Entries": {
+        "Indoor_Night_2": "It's really cool to have our own place. I can do whatever I feel like and not have people nagging at me all the time.#$e#I'm sure {{Maru}}'s happy that I'm gone.",
+        "TwoKids_1": "I hope %kid1 and %kid2 are nice to each other. {{Maru}} and I always fought as kids.#$e#If I think back on it, it was mostly my fault..."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Penny",
+      "Entries": {
+        "eventSeen_36_memory_oneweek": "Oh, pardon this bandage on my hand...$s#$b#I went over to {{Maru}}'s the other day and she showed me a new gadget of hers. The darn thing charred my palm!$s",
+        "married_Maru": "That was a beautiful wedding. I know {{Maru}} will make you very happy, she's a great person.",
+        "dating_Maru_memory_oneday": "Hi, @. {{Maru}} told me the news... I'm happy for you two!$h"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Robin",
+      "Entries": {
+        "divorced_Maru": "{{Maru}} was crying through the night... We're all devastated...$s",
+        "married_Maru": "We'll all miss having {{Maru}} around the house, but I'm sure we'll still see her often!",
+        "fall_Mon": "#$1 RobinMaru#{{Maru}} likes gems. She uses them in her inventions.#$e#So how are you and {{Maru}} getting along?"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Harvey",
+      "Entries": {
+        "dating_Maru_memory_oneday": "{{Maru}}'s been unusually cheerful lately... I hear you may have something to do with that.",
+        "married_Maru": "Congratulations on your marriage, @. {{Maru}}'s already informed me that she'll continue to work at the clinic, which is a relief!"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialoguePenny",
+      "Entries": {
+        "Rainy_Day_1": "I wonder if {{Maru}} and Dr. {{Harvey}} will ever get together? I'm sure {{Harvey}} likes her...#$e#I think {{Maru}} will have to make the first move, though.$h"
+      }
     }
   ]
 }
