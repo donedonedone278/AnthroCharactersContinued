@@ -17,14 +17,6 @@
     },
     {
       "Action": "EditData",
-      "Target": "Data/Characters",
-      "TargetField": ["Emily", "FriendsAndFamily"],
-      "Entries": {
-        "Haley": "[LocalizedText Strings\\Characters:Relative_Brother]"
-      }
-    },
-    {
-      "Action": "EditData",
       "Target": "Characters/Dialogue/Alex",
       "Entries": {
         "married_Haley": "You got Hayden to marry you, huh? I always figured he was out of your league!",

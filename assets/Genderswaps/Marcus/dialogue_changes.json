@@ -17,22 +17,6 @@
     },
     {
       "Action": "EditData",
-      "Target": "Data/Characters",
-      "TargetField": ["Robin", "FriendsAndFamily"],
-      "Entries": {
-        "Maru": "[LocalizedText Strings\\Characters:Relative_Son]"
-      }
-    },
-    {
-      "Action": "EditData",
-      "Target": "Data/Characters",
-      "TargetField": ["Sebastian", "FriendsAndFamily"],
-      "Entries": {
-        "Maru": "[LocalizedText Strings\\Characters:Relative_HalfBrother]"
-      }
-    },
-    {
-      "Action": "EditData",
       "Target": "Characters/Dialogue/Demetrius",
       "Entries": {
         "Introduction": "Greetings! I'm Demetrius, local scientist and father. Thanks for introducing yourself!#$e#I'm studying the local plants and animals from my home laboratory.#$b#Have you met my son Marcus? He's interested to meet you.",

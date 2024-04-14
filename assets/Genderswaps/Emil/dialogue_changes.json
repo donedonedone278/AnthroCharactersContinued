@@ -17,14 +17,6 @@
     },
     {
       "Action": "EditData",
-      "Target": "Data/Characters",
-      "TargetField": ["Haley", "FriendsAndFamily"],
-      "Entries": {
-        "Emily": "[LocalizedText Strings\\Characters:Relative_Brother]"
-      }
-    },
-    {
-      "Action": "EditData",
       "Target": "Characters/Dialogue/Clint",
       "Entries": {
         "dating_Emily": "I... um... heard that you and Emil are together. Congratulations.$s",

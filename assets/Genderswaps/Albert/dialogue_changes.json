@@ -17,14 +17,6 @@
     },
     {
       "Action": "EditData",
-      "Target": "Data/Characters",
-      "TargetField": ["Pierre", "FriendsAndFamily"],
-      "Entries": {
-        "Abigail": "[LocalizedText Strings\\Characters:Relative_Son]"
-      }
-    },
-    {
-      "Action": "EditData",
       "Target": "Characters/Dialogue/Abigail",
       "Entries": {
         "AcceptGift_(O)119": "This makes you wonder... Thousands of years ago, there was probably a purple-haired caveman who played this flute, just like me.#$b#...I'll have to wash it before pressing it to my lips, though.$h",
