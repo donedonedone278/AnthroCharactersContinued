@@ -51,6 +51,7 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Emily",
       "Entries": {
+        "winter_Tue4": "I think my feathers are frozen solid...$s",
         "dating_Emily": "%Emil has a big smile on his beak."
       }
     },

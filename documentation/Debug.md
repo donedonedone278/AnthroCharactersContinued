@@ -6,6 +6,8 @@ debug ebi 38
 debug ebi 50
 # Hayden cows event
 debug ebi 14
+# Rock Rejuvination
+debug ebi 150938
 # Desert festival
 debug season spring
 debug day 15

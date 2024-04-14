@@ -59,7 +59,8 @@
         "danceRejection": "Gross... No.",
         "Fri": "%Hayden is ignoring you.",
         "summer_Tue": "Gross, you're all dirty.",
-        "eventSeen_13_memory_oneweek": "%{{Haley}} greets you with a smile. You notice that she's wearing her Great-Grandma's bracelet."
+        "eventSeen_13_memory_oneweek": "%{{Haley}} greets you with a smile. You notice that he's wearing his Great-Grandma's bracelet.",
+        "FlowerDance_Accept_Spouse": "*sigh*... My days of being Flower King are over... so it's a bittersweet dance for me.$s#$b#But, yes..."
       }
     },
     {
@@ -119,7 +120,9 @@
       "Action": "EditData",
       "Target": "Data/Festivals/spring24",
       "Entries": {
-        "Haley": "I'm practicing my dance moves... It needs to be perfect.#$e#I've been flower king for the past 5 years and I'm not ready to step off the throne just yet!"
+        "Haley": "I'm practicing my dance moves... It needs to be perfect.#$e#I've been flower king for the past 5 years and I'm not ready to step off the throne just yet!",
+        "Jas": "That's not fair... Why can't I be the flower king?",
+        "Vincent": "Some day, I'm going to be the flower king!"
       }
     },
     {
