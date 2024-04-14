@@ -330,6 +330,13 @@
       "Entries": {
         "Rainy_Night_2": "I hope {{Emily}} isn't too lonely all by herself. I should visit her again soon.$7"
       }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Sandy",
+      "Entries": {
+        "Sandy_Birthday_Greeting": "Oh, {{Emily}}! I was hoping you'd show up!$h#$b#I was actually feeling a little lonely this morning.#$e#But I'm glad you're here!$h"
+      }
     }
   ]
 }

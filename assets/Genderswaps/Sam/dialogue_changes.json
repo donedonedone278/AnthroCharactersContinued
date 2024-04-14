@@ -237,6 +237,14 @@
         "Resort_Towel": "%{{Sam}} is playing a jazzy tune on his guitar.",
         "Mon8": "I'll tell you a secret... my name '{{Sam}}' is short for 'Samson'.$10#$e#Most people don't know that so keep it on mute."
       }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Sebastian",
+      "Entries": {
+        "Fri.000": "Should I let {{Sam}} win for once? ...nah.$h",
+        "marriage_Fri.001": "My skills haven't declined... {{Sam}}'s still just as easy to beat.$h"
+      }
     }
   ]
 }

@@ -130,6 +130,70 @@
       "Entries": {
         "Rainy_Day_1": "I wonder if {{Maru}} and Dr. {{Harvey}} will ever get together? I'm sure {{Harvey}} likes her...#$e#I think {{Maru}} will have to make the first move, though.$h"
       }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Evelyn",
+      "Entries": {
+        "23.000": "Now now, dear... It's important that Doctor {{Harvey}} takes a good look at you. He's a nice young man! Behave yourself, for your dear old wife's sake."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Leah",
+      "Entries": {
+        "spring_16.001": "Do I look healthy, Doctor {{Harvey}}?"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Caroline",
+      "Entries": {
+        "fall_25.002": "Excuse me, I have to say some things to Doctor {{Harvey}} in private...$u"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Jas",
+      "Entries": {
+        "winter_18.001": "Can you show me how this tool works, Doctor {{Harvey}}?"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Jodi",
+      "Entries": {
+        "spring_11.002": "Doctor {{Harvey}}? I'm worried about Vincent's height. Isn't he a little short for his age?"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Marnie",
+      "Entries": {
+        "fall_18.000": "Erm... Doctor {{Harvey}}? This is completely confidential, right?",
+        "winter_18.002": "Erm... Doctor {{Harvey}}? When you give her the shots, can we have two lollipops?"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Sebastian",
+      "Entries": {
+        "summer_4.000": "Dammit... I almost forgot. I have to go see Doctor {{Harvey}} today."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Lewis",
+      "Entries": {
+        "fall_9.000": "Erm... Doctor {{Harvey}}? This is completely confidential, right?"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Demetrius",
+      "Entries": {
+        "summer_25.001": "Doctor {{Harvey}}, have you read the latest 'Biology and Medicine'? There's an article I think you'd be interested in."
+      }
     }
   ]
 }

@@ -122,6 +122,13 @@
         "winter_Sun": "Will you say hi to {{Alex}} for me?#$e#Thanks.",
         "winter_Sun6": "Um, if you see {{Alex}} could you tell him I'm busy today?#$e#Thanks."
       }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/schedules/Alex",
+      "Entries": {
+        "Sun.000": "%{{Alex}} is completely engrossed in the game. He doesn't notice your presence."
+      }
     }
   ]
 }
