@@ -6,7 +6,11 @@
       "TargetField": ["Maru"],
       "Entries": {
         "Gender": "Male"
-      }
+      },
+      "When": {
+        "Query: '{{DayEvent}}' = 'flower dance' AND '{{LocationName}}' = 'Temp'": false
+      },
+      "Update": "OnLocationChange"
     },
     {
       "Action": "EditData",

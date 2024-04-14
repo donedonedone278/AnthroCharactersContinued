@@ -45,7 +45,7 @@
     {
       "Action": "EditImage",
       "Target": "LooseSprites/JunimoNote",
-      "FromFile": "assets/LooseSprites/JunimoNote_characters.png",
+      "FromFile": "assets/LooseSprites/JunimoNote_characters_emil.png",
       "ToArea": { "X": 352, "Y": 212, "Width": 160, "Height": 32 }
     }
   ]
