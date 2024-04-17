@@ -50,7 +50,7 @@
       "Action": "EditImage",
       "Target": "LooseSprites/emojis",
       "FromFile": "assets/LooseSprites/emojis_marcus.png",
-      "ToArea": { "X": 18, "Y": 0, "Width": 9, "Height": 9 }
+      "ToArea": { "X": 18, "Y": 99, "Width": 9, "Height": 9 }
     }
   ]
 }

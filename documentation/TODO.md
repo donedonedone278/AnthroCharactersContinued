@@ -14,3 +14,10 @@ Gunther
 Gil
 Henchman
 
+# Translations
+Harvey: Hannah
+Sam: Samantha
+Sebastian: Sabrina
+Shane: Shauna
+Elliot: Ellen
+Alex: Alexis
