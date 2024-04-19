@@ -1,4 +1,11 @@
 {
   "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "placeholder",
+      "Entries": {
+        "placeholder": "placeholder"
+      }
+    }
   ]
 }
