@@ -57,7 +57,7 @@
       "Action": "EditData",
       "Target": "Strings/animationDescriptions",
       "Entries": {
-        "shane_work": "%{{Shane}}'s hard at work. He doesn't seem interested in talking."
+        "shane_work": "%{{Shane}}'s hard at work. She doesn't seem interested in talking."
       }
     },
     {
@@ -86,7 +86,7 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Leah",
       "Entries": {
-        "married_Shane": "I'm happy that {{Shane}}'s in such a good place. I've never seen him smile so much!#$e#With his love for chickens, I'm sure he'll fit right in on %farm Farm!$h"
+        "married_Shane": "I'm happy that {{Shane}}'s in such a good place. I've never seen her smile so much!#$e#With her love for chickens, I'm sure she'll fit right in on %farm Farm!$h"
       }
     },
     {
@@ -96,7 +96,7 @@
         "married_Shane": "I hope {{Shane}} will still come and see me...$s",
         "eventSeen_3910975": "...Is {{Shane}} going to be okay?$s",
         "Sun2": "{{Shane}}'s gone a lot, and Aunt Marnie is busy all the time... so I have to invent my own games.#$e#I'm thankful for all my toys.$h",
-        "Sun10": "Did you know {{Shane}}'s my godfather? He was a friend of my parents.$s#$e#...they died. *sniff*$s"
+        "Sun10": "Did you know {{Shane}}'s my godmother? She was a friend of my parents.$s#$e#...they died. *sniff*$s"
       }
     },
     {
@@ -110,7 +110,7 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Jodi",
       "Entries": {
-        "eventSeen_3910975": "*whisper* Did you hear about {{Shane}}? That's so terrible... I hope he's doing okay.$s"
+        "eventSeen_3910975": "*whisper* Did you hear about {{Shane}}? That's so terrible... I hope she's doing okay.$s"
       }
     },
     {
@@ -118,15 +118,15 @@
       "Target": "Characters/Dialogue/Marnie",
       "Entries": {
         "dating_Shane_memory_oneweek": "{{Shane}} seems a lot more positive and hopeful, lately.#$b#I'm so happy you moved here, and that you two get along so well!$h",
-        "married_Shane": "I'm glad {{Shane}}'s moving to your farm... he can keep the family tradition alive!",
-        "Tue": "$query PLAYER_NPC_RELATIONSHIP any Shane married roommate#Now that {{Shane}}'s gone, I'm going to have to teach Jas how to care for the chickens.|My nephew {{Shane}} has been staying at my place the last few months.#$e#He helps me out with the chickens, so I'm not complaining."
+        "married_Shane": "I'm glad {{Shane}}'s moving to your farm... she can keep the family tradition alive!",
+        "Tue": "$query PLAYER_NPC_RELATIONSHIP any Shane married roommate#Now that {{Shane}}'s gone, I'm going to have to teach Jas how to care for the chickens.|My niece {{Shane}} has been staying at my place the last few months.#$e#She helps me out with the chickens, so I'm not complaining."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueShane",
       "Entries": {
-        "OneKid_3": "Papa {{Shane}} reporting for duty...$6#$e#Buh... I've become corny in my old age.",
+        "OneKid_3": "Mama {{Shane}} reporting for duty...$6#$e#Buh... I've become corny in my old age.",
         "Good_2": "The name '{{Shane}}' means 'Gift from Yoba'... What a joke."
       }
     },
@@ -134,8 +134,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Shane",
       "Entries": {
-        "dumped_Guys": "%{{Shane}} has a glazed look in his eye. He won't speak to you.",
-        "JojaMart": "%{{Shane}}'s hard at work. He doesn't seem interested in talking."
+        "dumped_Guys": "%{{Shane}} has a glazed look in her eye. She won't speak to you.",
+        "JojaMart": "%{{Shane}}'s hard at work. She doesn't seem interested in talking."
       }
     }
   ]
