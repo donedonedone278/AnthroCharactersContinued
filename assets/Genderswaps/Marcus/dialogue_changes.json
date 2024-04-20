@@ -43,7 +43,7 @@
         "dating_Maru": "Yes, Marcus told me the news. I can't say I'm thrilled about it, but maybe you'll prove me wrong.$u",
         "married_Maru": "*sigh*... @, I've come to accept that it's time for my 'little boy' to become a man. You have my blessing.$s",
         "Mon": "Marcus helps me out in the lab sometimes... He's a good kid.",
-        "Mon_inlaw_Maru": "It's hard to do good science without Marcus's help...#$b#But his happiness is much more important than my experiment!",
+        "Mon_inlaw_Maru": "It's hard to do good science without Marcus' help...#$b#But his happiness is much more important than my experiment!",
         "summer_Fri": "$p 40#So I heard Marcus had you look through that telescope out back.|If you and Marcus become friends, I'm sure he'll show you how to use that telescope out back.#$e#Pretty exciting, huh?",
         "summer_Fri_inlaw_Maru": "I hope my son's keeping up on his math and science!",
         "fall_Fri": "Marcus sure spends a lot of time working on those gadgets of his.#$e#I'm glad he's so dedicated.",
@@ -53,7 +53,9 @@
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Maru",
+      "Priority": "Late",
       "Entries": {
+        "married_Sebastian": "Hey, I guess we're brothers now!$h^Hey, I guess we're brother and sister now!$h#$e#I'm glad that {{Sebastian}} found a way out of the basement...#$e#I wish you two all the best!",
         "Introduction": "Oh! Aren't you the one who just moved in?#$b#I'm Marcus. I've been looking forward to meeting you!$h#$e#You know, with a small town like this, a new face can really alter the community dynamic. It's exciting!"
       }
     },
@@ -86,8 +88,8 @@
       "Action": "EditData",
       "Target": "Data/Events/Hospital",
       "Entries": {
-        "7/f Maru 1000/p Maru": "Hospital_Ambient/-1000 -1000/farmer -10000 -10000 0 Maru 9 15 3 Harvey 7 10 0/skippable/changeSprite Maru Hospital/changePortrait Maru Hospital/showFrame Maru 18/viewport 10 15/pause 4000/speak Maru \"*sigh*... I'm so sick of preparing these samples...$s\"/pause 2000/playSound doorClose/warp farmer 10 19/pause 100/playSound throw/showFrame Maru 17/shake Maru 2000/jump Maru/specificTemporarySprite maruBeaker/move farmer 0 -1 0/pause 1250/showFrame Maru 0/faceDirection Maru 2/pause 100/speak Maru \"Agh! Oh no!... $4\"/pause 600/showFrame Maru 16/pause 1000/speak Maru \"The whole sample is ruined... Harvey's going to kill me...$s\"/pause 600/showFrame Maru 0/faceDirection Maru 0/pause 1500/faceDirection Maru 2/pause 400/speak Maru \"$q 38 null#@, what should I do?#$r 38 -50 Event_Hospital_1#Just scoop it off the floor. He won't know the difference.#$r 39 -20 Event_Hospital_2#Tell Harvey it was my fault.#$r 38 50 Event_Hospital_3#Tell Harvey it was an accident.\"/move Harvey 3 0 2/move Harvey 0 2 2/doAction 10 13/move Harvey 0 1 2/faceDirection Maru 1/speak Harvey \"What happened? I heard something break.\"/pause 500/speak Maru \"$p 38#I accidentally dropped one of the samples... I'm so sorry.$s|@ came in and slammed the door so loud I dropped this sample.$u\"/fork toldTruth/move Harvey 0 2 3/emote Harvey 40/speak Harvey \"You shouldn't blame others for your own problems, Marcus.$a\"/pause 300/faceDirection Harvey 1/speak Harvey \"*sigh*... I'll have to call the patient back in to recollect this sample.$s#$b#This'll probably put us in the red for another month...$s\"/pause 600/faceDirection Maru 2/pause 1000/showFrame Maru 16/pause 500/emote farmer 28/end",
-        "toldTruth": "move Harvey 0 2 3/speak Harvey \"Thanks for telling me the truth, Marcus.#$b#Don't worry about the sample, we'll just get another one.\"/pause 500/emote Harvey 32/pause 500/speak Maru \"Thanks for being patient with me, Doctor Harvey.\"/pause 500/speak Harvey \"Of course... you've been a big help around here. I don't know what I'd do without you!\"/pause 500/emote Maru 32/pause 1000/faceDirection Harvey 2/pause 500/emote Harvey 8/speak Harvey \"@? You look a little pale... are you feeling okay?\"/pause 500/faceDirection farmer 2/emote farmer 28/end"
+        "7/f Maru 1000/p Maru": "Hospital_Ambient/-1000 -1000/farmer -10000 -10000 0 Maru 9 15 3 Harvey 7 10 0/skippable/changeSprite Maru Hospital/changePortrait Maru Hospital/showFrame Maru 18/viewport 10 15/pause 4000/speak Maru \"*sigh*... I'm so sick of preparing these samples...$s\"/pause 2000/playSound doorClose/warp farmer 10 19/pause 100/playSound throw/showFrame Maru 17/shake Maru 2000/jump Maru/specificTemporarySprite maruBeaker/move farmer 0 -1 0/pause 1250/showFrame Maru 0/faceDirection Maru 2/pause 100/speak Maru \"Agh! Oh no!... $4\"/pause 600/showFrame Maru 16/pause 1000/speak Maru \"The whole sample is ruined... {{Harvey}}'s going to kill me...$s\"/pause 600/showFrame Maru 0/faceDirection Maru 0/pause 1500/faceDirection Maru 2/pause 400/speak Maru \"$q 38 null#@, what should I do?#$r 38 -50 Event_Hospital_1#Just scoop it off the floor. {{Harvey_He}} won't know the difference.#$r 39 -20 Event_Hospital_2#Tell {{Harvey}} it was my fault.#$r 38 50 Event_Hospital_3#Tell {{Harvey}} it was an accident.\"/move Harvey 3 0 2/move Harvey 0 2 2/doAction 10 13/move Harvey 0 1 2/faceDirection Maru 1/speak Harvey \"What happened? I heard something break.\"/pause 500/speak Maru \"$p 38#I accidentally dropped one of the samples... I'm so sorry.$s|@ came in and slammed the door so loud I dropped this sample.$u\"/fork toldTruth/move Harvey 0 2 3/emote Harvey 40/speak Harvey \"You shouldn't blame others for your own problems, {{Maru}}.$a\"/pause 300/faceDirection Harvey 1/speak Harvey \"*sigh*... I'll have to call the patient back in to recollect this sample.$s#$b#This'll probably put us in the red for another month...$s\"/pause 600/faceDirection Maru 2/pause 1000/showFrame Maru 16/pause 500/emote farmer 28/end",
+        "toldTruth": "move Harvey 0 2 3/speak Harvey \"Thanks for telling me the truth, {{Maru}}.#$b#Don't worry about the sample, we'll just get another one.\"/pause 500/emote Harvey 32/pause 500/speak Maru \"Thanks for being patient with me, Doctor {{Harvey}}.\"/pause 500/speak Harvey \"Of course... you've been a big help around here. I don't know what I'd do without you!\"/pause 500/emote Maru 32/pause 1000/faceDirection Harvey 2/pause 500/emote Harvey 8/speak Harvey \"@? You look a little pale... are you feeling okay?\"/pause 500/faceDirection farmer 2/emote farmer 28/end"
       }
     },
     {
@@ -122,6 +124,16 @@
     },
     {
       "Action": "EditData",
+      "Target": "Data/Festivals/summer11",
+      "When": {
+        "Flavor": true
+      },
+      "Entries": {
+        "Harvey": "Good thing I came with sunscreen.#$e#I wonder if Marcus could use some sunscreen on his whiskers?"
+      }
+    },
+    {
+      "Action": "EditData",
       "Target": "Data/SecretNotes",
       "Entries": {
         "4": "It's a note of Marcus's^^Parts still needed for my greatest invention yet!^^*Gold Bar^*Iridium Bar^*Battery Pack^*Diamond^*Strawberries%revealtaste:Maru:336%revealtaste:Maru:337%revealtaste:Maru:787%revealtaste:Maru:72%revealtaste:Maru:400"
@@ -138,7 +150,7 @@
       "Action": "EditData",
       "Target": "Strings/StringsFromCSFiles",
       "Entries": {
-        "MapPage.cs.11095": "Home of Robin, Demetrius, {{Sebastian}} & Marcus",
+        "MapPage.cs.11095": "Home of Robin, Demetrius, {{Sebastian}} & {{Maru}}",
         "ItemDeliveryQuest.cs.13580": "Need {0} for my latest project. Help!    -Marcus",
         "ItemDeliveryQuest.cs.13583": "I need {0} to power my latest invention. It's the ONLY thing that will work!       -Marcus"
       }
@@ -170,14 +182,14 @@
       "Action": "EditData",
       "Target": "Data/Events/SebastianRoom",
       "Entries": {
-        "enterRobin": "pause 500/playSound mouseClick/pause 100/playSound mouseClick/pause 500/playSound Pickup_Coin15/pause 300/emote Sebastian 40/speak Sebastian \"That was an instant message from {{Sam}}... I guess he wants to hang out...#$b#Ugh, I don't really feel like going out today.$u\"/pause 500/playSound doorClose/warp Robin 1 1/move Robin 0 4 1/speak Robin \"Oh, hi @.\"/faceDirection farmer 3/move Robin 4 0 1/speak Robin \"{{Sebby}}, I know you don't like it when I come in here... but I ran into {{Abigail}} at the store and she said she was looking for you.\"/pause 200/emote Sebastian 28/speak Sebastian \"Did you tell her I'm working?\"/speak Robin \"I did... but she said she'd probably stop by anyway.\"/emote Sebastian 12/speak Sebastian \"*sigh*... No one takes my job seriously.$u#$b#No one ever bothers {{Maru}} when she's working at the clinic... does everyone think I'm just surfing the web all day?\"/faceDirection farmer 0 true/move Robin -4 0 0/move Robin 0 -4 0/warp Robin -100 -100/playSound doorClose/pause 500/faceDirection farmer 0/resetVariable/question fork1 \"#Ask him about his career goals.#Ask him why he doesn't want to see his friends.\"/fork noFriends/pause 500/speak Sebastian \"Well, I'm trying to save up so I can move out of here. Probably to the city or something.\"/emote Sebastian 40/speak Sebastian \"You know, if I'd gone to college I'd probably be making six figures right now... but I just don't want to be part of that corporate rat race, you know?#$b#Well, and I guess I just feel more comfortable hidden behind the computer than dealing with people face-to-face.$s\"/emote Sebastian 28/pause 600/playSound mouseClick/pause 100/playSound mouseClick/pause 300/speak Sebastian \"Well, I should get back to work... I need to get this module finished by tomorrow.\"/animate Sebastian false true 100 24 24 24 24 24 24 24 24 24 24 25 26 27 26 27 26 27 26 25 24 24/playSound keyboardTyping/pause 500/move farmer 0 2 3/move farmer -3 0 0/move farmer 0 -2 3/move farmer -5 0 0 true/globalFade/viewport -1000 -1000/pause 1000/end"
+        "enterRobin": "pause 500/playSound mouseClick/pause 100/playSound mouseClick/pause 500/playSound Pickup_Coin15/pause 300/emote Sebastian 40/speak Sebastian \"That was an instant message from {{Sam}}... I guess {{Sam_he}} wants to hang out...#$b#Ugh, I don't really feel like going out today.$u\"/pause 500/playSound doorClose/warp Robin 1 1/move Robin 0 4 1/speak Robin \"Oh, hi @.\"/faceDirection farmer 3/move Robin 4 0 1/speak Robin \"{{Sebby}}, I know you don't like it when I come in here... but I ran into {{Abigail}} at the store and {{Abigail_she}} said {{Abigail_she} was looking for you.\"/pause 200/emote Sebastian 28/speak Sebastian \"Did you tell {{Abigail_her_him}} I'm working?\"/speak Robin \"I did... but {{Abigail_she}} said {{Abigail_she}}'d probably stop by anyway.\"/emote Sebastian 12/speak Sebastian \"*sigh*... No one takes my job seriously.$u#$b#No one ever bothers {{Maru}} when {{Maru_she}}'s working at the clinic... does everyone think I'm just surfing the web all day?\"/faceDirection farmer 0 true/move Robin -4 0 0/move Robin 0 -4 0/warp Robin -100 -100/playSound doorClose/pause 500/faceDirection farmer 0/resetVariable/question fork1 \"#Ask {{Sebastian_him}} about {{Sebastian_his}} career goals.#Ask {{Sebastian_him}} why {{Sebastian_he}} doesn't want to see {{Sebastian_his}} friends.\"/fork noFriends/pause 500/speak Sebastian \"Well, I'm trying to save up so I can move out of here. Probably to the city or something.\"/emote Sebastian 40/speak Sebastian \"You know, if I'd gone to college I'd probably be making six figures right now... but I just don't want to be part of that corporate rat race, you know?#$b#Well, and I guess I just feel more comfortable hidden behind the computer than dealing with people face-to-face.$s\"/emote Sebastian 28/pause 600/playSound mouseClick/pause 100/playSound mouseClick/pause 300/speak Sebastian \"Well, I should get back to work... I need to get this module finished by tomorrow.\"/animate Sebastian false true 100 24 24 24 24 24 24 24 24 24 24 25 26 27 26 27 26 27 26 25 24 24/playSound keyboardTyping/pause 500/move farmer 0 2 3/move farmer -3 0 0/move farmer 0 -2 3/move farmer -5 0 0 true/globalFade/viewport -1000 -1000/pause 1000/end"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/fall27",
       "Entries": {
-        "Demetrius": "I haven't seen {{Maru}} in hours... I hope she's alright."
+        "Demetrius": "I haven't seen {{Maru}} in hours... I hope he's alright."
       }
     },
     {
@@ -199,8 +211,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Penny",
       "Entries": {
-        "eventSeen_36_memory_oneweek": "Oh, pardon this bandage on my hand...$s#$b#I went over to {{Maru}}'s the other day and she showed me a new gadget of hers. The darn thing charred my palm!$s",
-        "married_Maru": "That was a beautiful wedding. I know {{Maru}} will make you very happy, she's a great person.",
+        "eventSeen_36_memory_oneweek": "Oh, pardon this bandage on my hand...$s#$b#I went over to {{Maru}}'s the other day and he showed me a new gadget of his. The darn thing charred my palm!$s",
+        "married_Maru": "That was a beautiful wedding. I know {{Maru}} will make you very happy, he's a great person.",
         "dating_Maru_memory_oneday": "Hi, @. {{Maru}} told me the news... I'm happy for you two!$h"
       }
     },
@@ -209,8 +221,8 @@
       "Target": "Characters/Dialogue/Robin",
       "Entries": {
         "divorced_Maru": "{{Maru}} was crying through the night... We're all devastated...$s",
-        "married_Maru": "We'll all miss having {{Maru}} around the house, but I'm sure we'll still see her often!",
-        "fall_Mon": "#$1 RobinMaru#{{Maru}} likes gems. She uses them in her inventions.#$e#So how are you and {{Maru}} getting along?"
+        "married_Maru": "We'll all miss having {{Maru}} around the house, but I'm sure we'll still see him often!",
+        "fall_Mon": "#$1 RobinMaru#{{Maru}} likes gems. He uses them in his inventions.#$e#So how are you and {{Maru}} getting along?"
       }
     },
     {
@@ -218,14 +230,14 @@
       "Target": "Characters/Dialogue/Harvey",
       "Entries": {
         "dating_Maru_memory_oneday": "{{Maru}}'s been unusually cheerful lately... I hear you may have something to do with that.",
-        "married_Maru": "Congratulations on your marriage, @. {{Maru}}'s already informed me that she'll continue to work at the clinic, which is a relief!"
+        "married_Maru": "Congratulations on your marriage, @. {{Maru}}'s already informed me that he'll continue to work at the clinic, which is a relief!"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialoguePenny",
       "Entries": {
-        "Rainy_Day_1": "I wonder if {{Maru}} and Dr. {{Harvey}} will ever get together? I'm sure {{Harvey}} likes her...#$e#I think {{Maru}} will have to make the first move, though.$h"
+        "Rainy_Day_1": "I wonder if {{Maru}} and Dr. {{Harvey}} will ever get together? I'm sure {{Harvey}} likes {{Maru_her}}...#$e#I think {{Maru}} will have to make the first move, though.$h"
       }
     }
   ]
