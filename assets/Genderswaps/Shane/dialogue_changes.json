@@ -119,7 +119,7 @@
       "Entries": {
         "dating_Shane_memory_oneweek": "{{Shane}} seems a lot more positive and hopeful, lately.#$b#I'm so happy you moved here, and that you two get along so well!$h",
         "married_Shane": "I'm glad {{Shane}}'s moving to your farm... he can keep the family tradition alive!",
-        "Tue": "$query PLAYER_NPC_RELATIONSHIP any Shane married roommate#Now that {{Shane}}'s gone, I'm going to have teach Jas how to care for the chickens.|My nephew {{Shane}} has been staying at my place the last few months.#$e#He helps me out with the chickens, so I'm not complaining."
+        "Tue": "$query PLAYER_NPC_RELATIONSHIP any Shane married roommate#Now that {{Shane}}'s gone, I'm going to have to teach Jas how to care for the chickens.|My nephew {{Shane}} has been staying at my place the last few months.#$e#He helps me out with the chickens, so I'm not complaining."
       }
     },
     {
