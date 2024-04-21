@@ -4,7 +4,12 @@
       "Action": "EditImage",
       "Target": "TileSheets/junimo_furniture",
       "FromFile": "assets/TileSheets/junimo_furniture_marcus.png",
-      "ToArea": { "X": 96, "Y": 272, "Width": 32, "Height": 32 }
+      "ToArea": {
+        "X": 96,
+        "Y": 272,
+        "Width": 32,
+        "Height": 32
+      }
     },
     {
       "Action": "EditImage",
@@ -50,7 +55,12 @@
       "Action": "EditImage",
       "Target": "LooseSprites/emojis",
       "FromFile": "assets/LooseSprites/emojis_marcus.png",
-      "ToArea": { "X": 18, "Y": 99, "Width": 9, "Height": 9 }
+      "ToArea": {
+        "X": 18,
+        "Y": 99,
+        "Width": 9,
+        "Height": 9
+      }
     }
   ]
 }

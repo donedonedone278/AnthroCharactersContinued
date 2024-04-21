@@ -3,7 +3,9 @@
     {
       "Action": "EditData",
       "Target": "Data/Characters",
-      "TargetField": ["Haley"],
+      "TargetField": [
+        "Haley"
+      ],
       "Entries": {
         "Gender": "Male"
       },
@@ -16,176 +18,179 @@
       "Action": "EditData",
       "Target": "Strings/NPCNames",
       "Entries": {
-        "Haley": "Hayden"
+        "Haley": "{{i18n:Strings/NPCNames..Haley...Hayden |default={{i18n:Strings/NPCNames..Haley..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Characters",
-      "TargetField": ["Emily", "FriendsAndFamily"],
+      "TargetField": [
+        "Emily",
+        "FriendsAndFamily"
+      ],
       "Entries": {
-        "Haley": "brother"
+        "Haley": "{{i18n:Data/Characters.Emily.FriendsAndFamily.Haley...Hayden |default={{i18n:Data/Characters.Emily.FriendsAndFamily.Haley..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Alex",
       "Entries": {
-        "married_Haley": "You got Hayden to marry you, huh? I always figured he was out of your league!",
-        "winter_Tue": "Hey, can you go find Hayden and tell him I said 'hi'?",
-        "winter_Tue4": "Hey, @. Could you do me a favor?$l#$b#If you see Hayden, tell him I'm busy.$l#$e#Thanks.",
-        "winter_Tue4_inlaw_Haley": "I'll admit... I was a little jealous when you and Hayden got married. But, hey... It's a chance for me to learn something new about myself.$9"
+        "married_Haley": "{{i18n:Characters/Dialogue/Alex..married_Haley...Hayden |default={{i18n:Characters/Dialogue/Alex..married_Haley..}}}}",
+        "winter_Tue": "{{i18n:Characters/Dialogue/Alex..winter_Tue...Hayden |default={{i18n:Characters/Dialogue/Alex..winter_Tue..}}}}",
+        "winter_Tue4": "{{i18n:Characters/Dialogue/Alex..winter_Tue4...Hayden |default={{i18n:Characters/Dialogue/Alex..winter_Tue4..}}}}",
+        "winter_Tue4_inlaw_Haley": "{{i18n:Characters/Dialogue/Alex..winter_Tue4_inlaw_Haley...Hayden |default={{i18n:Characters/Dialogue/Alex..winter_Tue4_inlaw_Haley..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Emily",
       "Entries": {
-        "Mon": "Have I told you Hayden and I are brothers? Strange, isn't it?",
-        "Mon6": "I wish Hayden would get a job or at least contribute to cooking and cleaning.$s#$e#I think he's hoping to marry someone rich.$u",
-        "married_Haley": "That was a beautiful wedding... I'm really happy for you and Hayden!$h",
-        "divorced_Haley": "Hayden is too proud to be heartbroken over the divorce... Or at least to show it.$3",
-        "Mon6_inlaw_Haley": "I have to say, now that Hayden's gone I've had a much easier time keeping things in order.",
-        "summer_Mon": "Hayden is a picky eater. It's so hard to cook for him.",
-        "summer_Mon_inlaw_Haley": "Hayden and I get along much better now that he's moved out. I look forward to his visits!",
-        "winter_Wed": "Hayden and I aren't made for such a big house. It's a hassle to keep it clean.#$e#Ah well. I really shouldn't be complaining.#$e#Your farmhouse seems nice and cozy.$h",
-        "winter_Sun6": "My brother and I might fight sometimes, but I would really miss him if he left.#$e#I think he'll become a very nice young man some day... Don't tell him I said that.$h#$e#So, is there anything you want to talk about?",
-        "winter_Sun6_inlaw_Haley": "Say hi to my brother for me! And remind him to visit me tomorrow."
+        "Mon": "{{i18n:Characters/Dialogue/Emily..Mon...Hayden |default={{i18n:Characters/Dialogue/Emily..Mon..}}}}",
+        "Mon6": "{{i18n:Characters/Dialogue/Emily..Mon6...Hayden |default={{i18n:Characters/Dialogue/Emily..Mon6..}}}}",
+        "married_Haley": "{{i18n:Characters/Dialogue/Emily..married_Haley...Hayden |default={{i18n:Characters/Dialogue/Emily..married_Haley..}}}}",
+        "divorced_Haley": "{{i18n:Characters/Dialogue/Emily..divorced_Haley...Hayden |default={{i18n:Characters/Dialogue/Emily..divorced_Haley..}}}}",
+        "Mon6_inlaw_Haley": "{{i18n:Characters/Dialogue/Emily..Mon6_inlaw_Haley...Hayden |default={{i18n:Characters/Dialogue/Emily..Mon6_inlaw_Haley..}}}}",
+        "summer_Mon": "{{i18n:Characters/Dialogue/Emily..summer_Mon...Hayden |default={{i18n:Characters/Dialogue/Emily..summer_Mon..}}}}",
+        "summer_Mon_inlaw_Haley": "{{i18n:Characters/Dialogue/Emily..summer_Mon_inlaw_Haley...Hayden |default={{i18n:Characters/Dialogue/Emily..summer_Mon_inlaw_Haley..}}}}",
+        "winter_Wed": "{{i18n:Characters/Dialogue/Emily..winter_Wed...Hayden |default={{i18n:Characters/Dialogue/Emily..winter_Wed..}}}}",
+        "winter_Sun6": "{{i18n:Characters/Dialogue/Emily..winter_Sun6...Hayden |default={{i18n:Characters/Dialogue/Emily..winter_Sun6..}}}}",
+        "winter_Sun6_inlaw_Haley": "{{i18n:Characters/Dialogue/Emily..winter_Sun6_inlaw_Haley...Hayden |default={{i18n:Characters/Dialogue/Emily..winter_Sun6_inlaw_Haley..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Haley",
       "Entries": {
-        "dating_Haley_memory_oneyear": "So, what's the idea here... am I just going to be your 'boyfriend' forever...?$7",
-        "married_Emily": "Hey, I guess we're kind of like brothers now!^Well, I guess this makes you my 'sister-in-law', huh? That's funny to think about.$h",
-        "Introduction": "Oh... you're that new farmer boy, aren't you?^Oh... You're that new farmer girl, or whatever. Aren't you?#$e#Huh? Oh... I'm Hayden.#$e#Hmm... If it weren't for those horrendous clothes you might actually be cute.^Hmm... If it weren't for those horrendous clothes you might actually be pretty... Actually, nevermind.$h",
-        "danceRejection": "Gross... No.",
-        "Fri": "%Hayden is ignoring you.",
-        "summer_Tue": "Gross, you're all dirty.",
-        "eventSeen_13_memory_oneweek": "%{{Haley}} greets you with a smile. You notice that he's wearing his Great-Grandma's bracelet.",
-        "FlowerDance_Accept_Spouse": "*sigh*... My days of being Flower King are over... so it's a bittersweet dance for me.$s#$b#But, yes..."
+        "dating_Haley_memory_oneyear": "{{i18n:Characters/Dialogue/Haley..dating_Haley_memory_oneyear...Hayden |default={{i18n:Characters/Dialogue/Haley..dating_Haley_memory_oneyear..}}}}",
+        "married_Emily": "{{i18n:Characters/Dialogue/Haley..married_Emily...Hayden |default={{i18n:Characters/Dialogue/Haley..married_Emily..}}}}",
+        "Introduction": "{{i18n:Characters/Dialogue/Haley..Introduction...Hayden |default={{i18n:Characters/Dialogue/Haley..Introduction..}}}}",
+        "danceRejection": "{{i18n:Characters/Dialogue/Haley..danceRejection...Hayden |default={{i18n:Characters/Dialogue/Haley..danceRejection..}}}}",
+        "Fri": "{{i18n:Characters/Dialogue/Haley..Fri...Hayden |default={{i18n:Characters/Dialogue/Haley..Fri..}}}}",
+        "summer_Tue": "{{i18n:Characters/Dialogue/Haley..summer_Tue...Hayden |default={{i18n:Characters/Dialogue/Haley..summer_Tue..}}}}",
+        "eventSeen_13_memory_oneweek": "{{i18n:Characters/Dialogue/Haley..eventSeen_13_memory_oneweek...Hayden |default={{i18n:Characters/Dialogue/Haley..eventSeen_13_memory_oneweek.. |Haley={{Haley}}}} |Haley={{Haley}}}}",
+        "FlowerDance_Accept_Spouse": "{{i18n:Characters/Dialogue/Haley..FlowerDance_Accept_Spouse...Hayden |default={{i18n:Characters/Dialogue/Haley..FlowerDance_Accept_Spouse..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogue",
       "Entries": {
-        "spouseRoom_Haley": "#$c .5#Go ahead and start your day, honey. I'm just sprucing up here.#$e#Have any plans for the day?"
+        "spouseRoom_Haley": "{{i18n:Characters/Dialogue/MarriageDialogue..spouseRoom_Haley...Hayden |default={{i18n:Characters/Dialogue/MarriageDialogue..spouseRoom_Haley..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Beach",
       "Entries": {
-        "13/f Haley 1500/z winter/t 1000 1600": "desolate/35 11/farmer 35 3 2 Haley 35 11 2/speed Haley 4/skippable/move Haley -2 0 3/pause 300/faceDirection Haley 2/move Haley 4 0 1/pause 300/faceDirection Haley 0/move Haley -2 0 2/emote Haley 28/move farmer 0 5 2/faceDirection Haley 0/emote Haley 16/speak Haley \"@! Come here, quick!$s\"/move farmer 0 2 2/speak Haley \"My bracelet is gone! I know I had it on when I got here... $s#$b#But now it's gone and I can't find it anywhere...$s\"/emote farmer 16/faceDirection farmer 3/faceDirection farmer 1/faceDirection farmer 2/emote farmer 8/speak Haley \"$q 48 null#I'll never find another one like it...$s#$r 48 -30 Event_beach1#Relax, I'll just buy you a new one!#$r 48 50 Event_beach2#I'm really sorry...\"/faceDirection Haley 2/move farmer 1 0 2/move farmer 0 1 3/pause 500/faceDirection farmer 2/pause 600/showFrame Haley 22/pause 500/speak Haley \"Sorry, Great-Grandma. I lost your precious bracelet. Please forgive me.$s\"/playMusic ocean/pause 1000/message \"Could he have dropped it nearby?\"/playerControl haleyBeach/globalFade .015/viewport -1000 -1000/warp farmer 36 11/faceDirection farmer 3/positionOffset farmer 0 16/faceDirection Haley 1/pause 500/viewport 35 11 true/pause 800/playMusic sadpiano/speak Haley \"Is that...?$8\"/emote Haley 16/jump Haley/pause 600/speak Haley \"You found it!$h\"/showFrame Haley 23/positionOffset Haley 2 0/pause 50/positionOffset Haley 2 0/pause 50/positionOffset Haley 2 0/pause 50/positionOffset Haley 2 0/pause 50/positionOffset Haley 2 1/pause 50/positionOffset Haley 2 1/pause 50/positionOffset Haley 2 1/pause 50/eyes 5 -5000/positionOffset Haley 2 1/pause 50/positionOffset Haley 2 0/pause 50/positionOffset Haley 2 0/pause 50/positionOffset Haley 2 0/pause 50/positionOffset Haley 2 0/pause 50/positionOffset Haley 2 0/pause 50/speak Haley \"Thank you so much, @. You're a lifesaver.\"/eyes 1 -5000/pause 3000/speak Haley \"I won't forget what you did for me here.$l\"/end dialogue Haley \"I really owe you one, @.\""
+        "13/f Haley 1500/z winter/t 1000 1600": "{{i18n:Data/Events/Beach..13/f Haley 1500/z winter/t 1000 1600...Hayden |default={{i18n:Data/Events/Beach..13/f Haley 1500/z winter/t 1000 1600..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Forest",
       "Entries": {
-        "14/f Haley 2000/z winter/t 1000 1600/w sunny": "spring_day_ambient/100 23/farmer 94 23 1 Haley 100 23 1/skippable/pause 2000/showFrame Haley 25/pause 500/playSound cameraNoise/shake Haley 50/screenFlash .5/pause 800/pause 500/faceDirection Haley 2 true/showFrame Haley 24/pause 500/playSound cameraNoise/shake Haley 50/screenFlash .5/move farmer 5 0 1 true/pause 1200/faceDirection Haley 3 true/showFrame Haley 27/pause 400/jump Haley/pause 600/showFrame Haley 12/faceDirection Haley 3/pause 300/speak Haley \"Oh! @.$8\"/pause 500/faceDirection Haley 2/pause 800/speak Haley \"The lighting is so nice right now... I had to come out and take some nature shots.\"/pause 600/faceDirection Haley 3/pause 600/faceDirection Haley 3/pause 400/speak Haley \"I've been trying to connect with the outdoors a little more...#$b#I wanna know what it's like, being a farmer. It's a way of life I've never really thought about.#$b#Well, until now...$l\"/pause 500/faceDirection Haley 0/pause 800/speak Haley \"Heh, these cows are so cute...\"/pause 600/emote Haley 16/faceDirection Haley 3/speak Haley \"Hey, I have an idea!$h\"/move Haley 0 1 2/faceDirection farmer 2/playSound sandyStep/addBigProp 100 25 106/pause 600/move Haley 0 -1 3/faceDirection farmer 1/speak Haley \"Let's take some pictures with these cows! You can show me how to approach one.$h#$b#I'll just set it to shoot on a timer.\"/move Haley 0 1 2/faceDirection farmer 2/pause 900/playSound openBox/move Haley 0 -1 3/faceDirection farmer 1/pause 700/faceDirection farmer 0/faceDirection Haley 0/playMusic 50s/globalFade/viewport -1000 -1000/cutscene haleyCows/pause 2000/speak Haley \"...geh...$9\"/pause 1000/speak Haley \"*chuckle*$10#$b#That was fun, @! ...And these photos are hilarious!$10\"/pause 500/speak Haley \"I'm gonna go home and take a shower now...$10\"/pause 1000/mail haleyGarden/end dialogue Haley \"Well, that was the dirtiest I've ever been.$h\""
+        "14/f Haley 2000/z winter/t 1000 1600/w sunny": "{{i18n:Data/Events/Forest..14/f Haley 2000/z winter/t 1000 1600/w sunny...Hayden |default={{i18n:Data/Events/Forest..14/f Haley 2000/z winter/t 1000 1600/w sunny..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/HaleyHouse",
       "Entries": {
-        "11/f Haley 500/p Haley/p Emily": "50s/6 20/farmer -10 -10 0 Haley 5 20 1 Emily 8 20 3/skippable/pause 1000/shake Haley 500/pause 500/speak Haley \"Urgghh! I always clean under the cushions! It's YOUR turn this week!$a\"/emote Emily 12/speak Emily \"You're being childish, {{Haley}}. I do the vast majority of work in this house, and you know it.$u\"/pause 200/warp farmer 2 24/playSound doorClose/pause 400/faceDirection Haley 2/faceDirection Emily 2/speak Haley \"Oh, it's that new farm boy.$7^Oh, it's that new girl from the farm.$7\"/faceDirection Emily 3/speak Emily \"He has a name, you know.$u^She has a name, you know.$u\"/move farmer 0 -1 1/move farmer 3 0 0/faceDirection Emily 2/speak Haley \"Hey, I bet you'll understand my point of view here.\"/emote farmer 8/speak Emily \"*sigh*... I'm really sorry to involve you in this, @. {{Haley}} is complaining because I asked {{Haley_her}} to clean under the cushions.$u\"/faceDirection Haley 1/speak Haley \"$q 45 null#It's only because I cleaned them last week!$a#$r 46 -50 Event_clean2#Stop whining and just clean it!#$r 45 30 Event_clean1#{{Haley}}, why not have this be your one weekly job?#$r 46 -30 Event_clean3#{{Emily}}, take the high road and do it this time.\"/fork haleyWontDoIt/stopMusic/faceDirection Haley 3/emote Haley 12/pause 400/faceDirection Haley 1/speak Haley \"Alright, you win. I guess this can be my job every week. Then there won't be any reason to argue over it.$u\"/faceDirection Haley 2/speak Emily \"Thanks, @. That was a great solution.$h\"/pause 1000/end",
-        "12/f Haley 1000/p Haley": "ragtime/-1000 -1000/farmer 16 20 1 Haley 18 16 0/skippable/showFrame Haley 20/shake Haley 500/viewport 15 16 true/pause 500/shake Haley 500/pause 500/speak Haley \"Nnnnnghhh... It's too slippery! I just can't get this jar open!$a#$b#...$s\"/pause 400/shake Haley 500/move farmer 0 -4 1/shake Haley 500/move farmer 1 0 1/pause 500/faceDirection Haley 3 true/showFrame Haley 21/emote Haley 16/speak Haley \"Oh! It's you...@, right?\"/pause 1000/speak Haley \"$q 47 null#Say... being a farmer and all, you must have good grip, right?#$r 47 30 Event_jar1#Yes#$r 47 -30 Event_jar2#No\"/faceDirection Haley 3/animate farmer false true 100 111/pause 400/playSound fishingRodBend/startJittering/pause 500/stopJittering/pause 200/playSound fishingRodBend/startJittering/pause 500/stopJittering/pause 200/playSound fishingRodBend/startJittering/pause 2000/stopJittering/playSound coin/stopAnimation farmer/animate farmer false true 100 112/jump farmer/pause 1500/pause 200/stopAnimation farmer/faceDirection farmer 1/showFrame Haley 21/speak Haley \"Hey, you did it! You're more reliable than you look!$h\"/pause 400/emote farmer 12/pause 500/emote Haley 20/pause 500/speak Haley \"Thanks!$h\"/pause 500/end",
-        "15/f Haley 2500/p Haley": "Hospital_Ambient/-1000 -1000/farmer 5 9 0 Haley -100 -100 2/skippable/specificTemporarySprite haleyRoomDark/viewport 5 4 true/pause 500/emote farmer 8/move farmer 0 -4 0/move farmer -1 0 0/move farmer 0 -1 0/pause 1000/animate farmer false false 650 15/playSound woodyStep/pause 200/playSound woodyStep/pause 200/playSound woodyStep/pause 200/pause 800/speak Haley \"Come in! Just make sure to close the door quickly behind you!\"/pause 1000/warp farmer -100 -100/playSound doorClose/globalFade/viewport -1000 -1000/changeToTemporaryMap Darkroom/viewport -1000 -1000/warp Haley 1 5/warp farmer 3 7/viewport 4 4 true/pause 800/faceDirection Haley 2/jump Haley/pause 600/speak Haley \"@, you're here!\"/move farmer 0 -1 3/move farmer -1 0 0/move farmer 0 -1 3/faceDirection Haley 1/speak Haley \"Welcome to my brand new dark room!$h\"/faceDirection farmer 2/pause 500/faceDirection farmer 1/pause 500/faceDirection farmer 0/pause 500/faceDirection farmer 3/pause 500/speak Haley \"$q -1 null#So... what do you think?#$r -1 10 Event_darkroom1#It looks great!#$r -1 0 Event_darkroom2#What does it do?#$r -1 -50 Event_darkroom3#I've seen better.\"/faceDirection Haley 0/emote Haley 40/pause 500/speak Haley \"Um... so, anyway... what do you want to do?$s\"/faceDirection Haley 0/question haleyDarkRoom \" #Offer to help decorate the dark room.#Make an excuse and leave.#Try to kiss him.\"/faceDirection Haley 1/fork leave/playMusic musicboxsong/pause 500/pause 1000/emote Haley 16/pause 400/positionOffset farmer 16 0 true/animate farmer true true 100 101/positionOffset farmer -2 0/pause 50/positionOffset farmer -2 0/pause 50/positionOffset farmer -2 0/pause 50/positionOffset farmer -2 0/pause 50/showFrame Haley 28/pause 500/positionOffset Haley 2 0/pause 50/positionOffset farmer -2 0/positionOffset Haley 2 0/pause 50/positionOffset farmer -2 0/positionOffset Haley 2 0/pause 50/positionOffset farmer -2 0/positionOffset Haley 2 0/pause 50/positionOffset farmer -2 0/positionOffset Haley 2 0/pause 50/positionOffset farmer -2 0/positionOffset Haley 2 0/pause 50/positionOffset farmer -2 0/positionOffset Haley 2 0/pause 50/positionOffset farmer -2 0/positionOffset Haley 2 0/pause 50/pause 700/playSound dwop/specificTemporarySprite heart 2 4/pause 3000/speak Haley \"Oh, @... I've been waiting so long for you to do that.$11\"/pause 2000/speak Haley \"One moment...$l\"/pause 400/showFrame Haley 4/stopAnimation farmer/faceDirection farmer 3/pause 600/showFrame Haley 29/pause 300/playSound openBox/ambientLight 255 180 180/pause 500/faceDirection Haley 1/pause 1000/showFrame Haley 28/positionOffset farmer 16 0 true/animate farmer true true 100 101/positionOffset Haley 2 0/pause 50/positionOffset Haley 2 0/pause 50/positionOffset Haley 2 0/pause 50/positionOffset Haley 2 0/pause 50/positionOffset Haley 2 0/pause 50/positionOffset Haley 2 0/pause 50/positionOffset Haley 2 0/pause 50/positionOffset Haley 2 0/pause 50/pause 4000/globalFade/viewport -1000 -1000/pause 1000/end dialogue Haley \"That was nice...$l\"",
-        "195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019": "playful/-1000 -1000/farmer 8 19 1 Haley 18 18 1 Emily 19 17 2 Penny 20 17 2 Maru 21 17 2 Leah 22 18 3 Abigail 20 20 0 Pierre -1000 -1000 1/move farmer 5 0 1 true/viewport 17 19 true/move false/pause 500/startJittering/faceDirection farmer 2 true/animate farmer false true 100 94/jump farmer/pause 2000/stopAnimation farmer/showFrame farmer 0/stopJittering/playSound thudStep/faceDirection farmer 3 true/showFrame farmer 7 true/startJittering/faceDirection Haley 3 true/faceDirection Emily 3 true/faceDirection Penny 3 true/faceDirection Maru 3 true/faceDirection Leah 3 true/faceDirection Abigail 3 true/textAboveHead Haley \"Not so fast!\"/textAboveHead Abigail \"Hold it!\"/textAboveHead Leah \"Stop!\"/pause 3000/stopJittering/showFrame farmer 6 true/pause 500/faceDirection farmer 1/move farmer 3 0 1/playMusic none/emote farmer 28/pause 500/speak Abigail \"Never thought you'd find all your 'significant' others in one room, huh @?$a\"/pause 500/speak Leah \"I... I thought you were different than other men...$s^You tricked all of us into thinking we loved you... You're horrible...$a\"/pause 500/speak Penny \"How could you do this to us, @?$s\"/pause 500/speak Maru \"You think you're real smooth, don't you? Thought you'd sample the whole 'buffet', huh? What a sleeze...$a\"/pause 500/speak Emily \"Th... That night in the tent... you whispered such sweet things to me in the dark...$s#$b#Now I have to face each day knowing it was all a lie.$s\"/pause 500/playMusic ragtime/speak Haley \"Well, we stick together here in Stardew! And we're not going to put up with this!$a^Well, we're not going to put up with your abuse any longer!$a\"/textAboveHead Leah \"That's right!\"/pause 500/speak Abigail \"Well? What do you have to say for yourself?$a\"/pause 1000/question fork1 \"#I'm sorry... what I did was wrong.#Y'all, calm down! I can explain...\"/fork choseToExplain/pause 500/textAboveHead Maru \"Hmmph...\"/pause 500/speak Abigail \"Nice try, but that's not going to cut it...$u\"/pause 1000/playMusic none/speak Haley \"...so we've come to a decision... isn't that right, everyone?$u\"/pause 500/speak Penny \"...yes.$s\"/speak Leah \"Absolutely.$a\"/pause 1000/jump Haley/jump Abigail/jump Emily/jump Leah/jump Maru/jump Penny/pause 1000/speak Maru \"We're all gonna give you the cold shoulder!$a\"/faceDirection farmer 2 true/animate farmer false true 100 94/jump farmer/playSound slimedead/pause 2000/fade/viewport -2000 -2000/dump girls 3/end warpOut",
-        "choseToExplain": "pause 100/textAboveHead Haley \"I doubt it...\"/pause 500/resetVariable/question fork2 \"#I thought we were just friends! I didn't know it was so serious!#Pierre pressured me! He wanted to sell more bouquets!#Y'all, this is completely normal! It's just a lifestyle choice...\"/pause 100/fork lifestyleChoice/textAboveHead Haley \"Liar!\"/textAboveHead Maru \"Yeah, right!\"/speak Emily \"Do you really expect us to believe that? You're just digging yourself into a deeper hole...$a\"/pause 1000/faceDirection Haley 2/playMusic none/speak Haley \"...I think we've come to a decision... isn't that right, everyone?$u\"/pause 500/speak Penny \"...yes.$s\"/speak Leah \"Absolutely.$a\"/faceDirection Haley 3/pause 1000/jump Haley/jump Abigail/jump Emily/jump Leah/jump Maru/jump Penny/pause 1000/jump Haley/jump Abigail/jump Emily/jump Leah/jump Maru/jump Penny/pause 1000/jump Haley/jump Abigail/jump Emily/jump Leah/jump Maru/jump Penny/pause 1000/speak Maru \"We're all gonna give you the cold shoulder!$a\"/faceDirection farmer 2 true/animate farmer false true 100 94/jump farmer/playSound slimedead/pause 2000/fade/viewport -2000 -2000/dump girls 4/end warpOut",
-        "lifestyleChoice": "pause 100/speak Penny \"Hmmph! I don't know what's considered 'normal' in Zuzu City, but I'm definitely not okay with this arrangement!$a\"/speak Maru \"It's not a 'choice' if none of us even know about it!$a\"/pause 100/speak Abigail \"You can't weasel your way out of this one, @.$a\"/pause 1000/faceDirection Haley 2/playMusic none/speak Haley \"...I think we've come to a decision... isn't that right, y'all?$u\"/pause 500/speak Penny \"...yes.$s\"/speak Leah \"Absolutely.$a\"/faceDirection Haley 3/pause 1000/jump Haley/jump Abigail/jump Emily/jump Leah/jump Maru/jump Penny/pause 1000/jump Haley/jump Abigail/jump Emily/jump Leah/jump Maru/jump Penny/pause 1000/jump Haley/jump Abigail/jump Emily/jump Leah/jump Maru/jump Penny/pause 1000/speak Maru \"We're all gonna give you the cold shoulder!$a\"/faceDirection farmer 2 true/animate farmer false true 100 94/jump farmer/playSound slimedead/pause 2000/fade/viewport -2000 -2000/dump girls 4/end warpOut"
+        "11/f Haley 500/p Haley/p Emily": "{{i18n:Data/Events/HaleyHouse..11/f Haley 500/p Haley/p Emily...Hayden |default={{i18n:Data/Events/HaleyHouse..11/f Haley 500/p Haley/p Emily.. |Haley={{Haley}} |Haley={{Haley}} |Haley_her={{Haley_her}} |Haley={{Haley}} |Emily={{Emily}}}} |Haley={{Haley}} |Haley={{Haley}} |Haley_her={{Haley_her}} |Haley={{Haley}} |Emily={{Emily}}}}",
+        "12/f Haley 1000/p Haley": "{{i18n:Data/Events/HaleyHouse..12/f Haley 1000/p Haley...Hayden |default={{i18n:Data/Events/HaleyHouse..12/f Haley 1000/p Haley..}}}}",
+        "15/f Haley 2500/p Haley": "{{i18n:Data/Events/HaleyHouse..15/f Haley 2500/p Haley...Hayden |default={{i18n:Data/Events/HaleyHouse..15/f Haley 2500/p Haley..}}}}",
+        "195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019": "{{i18n:Data/Events/HaleyHouse..195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019...Hayden |default={{i18n:Data/Events/HaleyHouse..195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019..}}}}",
+        "choseToExplain": "{{i18n:Data/Events/HaleyHouse..choseToExplain...Hayden |default={{i18n:Data/Events/HaleyHouse..choseToExplain..}}}}",
+        "lifestyleChoice": "{{i18n:Data/Events/HaleyHouse..lifestyleChoice...Hayden |default={{i18n:Data/Events/HaleyHouse..lifestyleChoice..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Town",
       "Entries": {
-        "6184644/e 8675611/O Haley/A haleyCakewalk2/t 600 1500/w sunny/i 220": "ragtime/-100 -100/farmer 29 60 2 Haley 27 64 2 Marnie 27 66 1 Caroline 29 66 1 Emily 31 66 2 Jodi 31 68 2 Lewis 25 68 1 Robin 25 70 1 Jas 31 70 3 Vincent 29 70 3 Pam 27 70 0 Clint 27 68 0 Penny 31 64 2 Pierre 25 66 1 Gus 35 66 3 Evelyn 23 67 1 George 24 67 1/removeQuest 127/removeItem 220/specificTemporarySprite haleyCakeWalk/beginSimultaneousCommand/advancedMove Marnie true 2 0 2 0 0 2 0 2 -2 0 -2 0 0 -2 0 -2/advancedMove Caroline true 2 0 0 2 0 2 -2 0 -2 0 0 -2 0 -2 2 0/advancedMove Emily true 0 2 0 2 -2 0 -2 0 0 -2 0 -2 2 0 2 0/advancedMove Jodi true 0 2 -2 0 -2 0 0 -2 0 -2 2 0 2 0 0 2/advancedMove Jas true -2 0 -2 0 0 -2 0 -2 2 0 2 0 0 2 0 2/advancedMove Vincent true -2 0 0 -2 0 -2 2 0 2 0 0 2 0 2 -2 0/advancedMove Pam true 0 -2 0 -2 2 0 2 0 0 2 0 2 -2 0 -2 0/advancedMove Clint true 0 -2 2 0 2 0 0 2 0 2 -2 0 -2 0 0 -2/endSimultaneousCommand/viewport 29 68 true/move farmer 0 4 3/pause 1000/addObject 28 64 220/playSound coin/faceDirection farmer 3/faceDirection Haley 1/speak Haley \"Hey! Oh, good, you brought the cake!...\"/showFrame Haley 23/playSound slimeHit/pause 400/showFrame Haley 4/pause 500/showFrame Haley 23/playSound slimeHit/pause 400/showFrame Haley 4/pause 1000/speak Haley \"Seems really moist. Thanks, @.\"/faceDirection Haley 2/faceDirection farmer 2/speak Haley \"It's a pretty good turnout, huh?\"/emote farmer 32/speak Marnie \"Um... {{Haley}}? When do we stop? M... My legs... *pant* *pant*$s\"/jump Haley/pause 500/speak Haley \"Whoops! Forgot to blow the whistle.$h\"/showFrame Haley 19/playMusic none/playSound whistle/shake Haley 500/stopAdvancedMoves next/pause 500/showFrame Haley 0/pause 1000/playMusic distantBanjo/pause 2000/speak Haley \"Alright! Everyone should be standing on a numbered square.\"/textAboveHead Emily \"I am!\"/jump Vincent/textAboveHead Marnie \"Yep\"/textAboveHead Pam \"That's right\"/faceDirection Pam 0 true/faceDirection Marnie 0 true/faceDirection Vincent 0 true/faceDirection Jas 0 true/faceDirection Marnie 0 true/faceDirection Clint 0 true/faceDirection Emily 0 true/faceDirection Caroline 0 true/faceDirection Jodi 0 true/pause 1000/speak Haley \"Your number determines which cake you win!#$b#Okay, let's see who gets what...\"/move Haley 0 -1 1/move Haley 6 0 2/move Haley 0 2 2/speak Haley \"Okay, Let's see here... #$b#Caroline, what number are you? Okay... you've won...#$b#Mayor Lewis' cave carrot loaf... with extra fiber!\"/emote Marnie 28 true/textAboveHead Caroline \"Oh, joy\"/pause 1000/speak Haley \"{{Emily}}, you've got...#$b#Pam's chocolate stout cupcakes, with aged bourbon buttercream.\"/emote Emily 32/textAboveHead Gus \"Nice!\"/pause 1000/speak Pam \"You're in for a treat, kid.$h\"/pause 500/speak Haley \"Next... Jas, you've got...#$b#Clint's wild horseradish cobbler.\"/emote Jas 28 true/pause 200/speak Clint \"It's an old family recipe. I baked it right in the smelting oven.#$b#Oh, um... I may have burnt the bottom a little, so... uh... you might have to peel off a layer of charred matter. But the rest is totally edible.\"/pause 200/emote Jas 28/pause 500/speak Haley \"Uh, Okay... Next up is Vincent. We've got...#$b# Robin's Triple syrup n' cream strawberry sugar log!\"/jump Vincent/textAboveHead Jodi \"Oh no...\"/pause 800/jump Vincent/pause 800/jump Vincent/pause 800/speak Haley \"Next up, Jodi. You're gonna take home...#$b# {{Emily}}'s organic red velvet cake... colored with beets!\"/pause 200/textAboveHead Jodi \"Yum!\"/pause 800/viewport move 0 -1 1500/move Haley 0 -2 3/move Haley -5 0 2/speak Haley \"...and last, but not least: Pam! You're the lucky winner of my husband's deluxe chocolate cake.^...and last, but not least: Pam! You're the lucky winner of my wife's deluxe chocolate cake.\"/pause 500/textAboveHead Pam \"Thanks, kid\"/pause 1000/speak Haley \"Thanks everyone for joining in. We raised over 5,000g!\"/pause 500/speak George \"What's the money for, anyway? You spoilin' yourself again?\"/pause 200/faceDirection Haley 1/speak Haley \"Actually... it's for {{Penny}}.\"/faceDirection Penny 3/faceDirection farmer 1 true/emote Penny 8/speak Haley \"{{Penny}}, the other day I overheard you talking with Jas and Vincent about their school books. It sounded like you could use some help...\"/jump Penny/pause 500/textAboveHead Penny \"New books!\"/pause 800/faceDirection Penny 2/speak Penny \"Did you hear that, kids? You're getting brand new school books!\"/emote Jas 20 true/emote Vincent 28/pause 500/faceDirection Penny 3/speak Penny \"I don't know what to say... Thank you so much.$h#$b#...to both of you!$h\"/emote farmer 32/viewport move -1 0 3000/advancedMove George false 0 -5 24 0/advancedMove Evelyn false 1 0 0 -5 24 0/move Haley 2 0 2/pause 2000/faceDirection Robin 0/faceDirection Pierre 2/speak Robin \"Hey Lewis... since we're funding education without touching the town's coffers, you'll be lowering our business tax, right?$h\"/pause 500/showFrame Lewis 26/jump Lewis/playSound Duck/positionOffset Lewis -4 0/pause 30/positionOffset Lewis -4 0/pause 30/positionOffset Lewis -4 0/pause 30/positionOffset Lewis -4 0/pause 30/positionOffset Lewis -4 0/pause 30/positionOffset Lewis -4 0/pause 30/positionOffset Lewis -4 0/pause 30/positionOffset Lewis -4 0/pause 30/positionOffset Lewis -4 0/pause 30/positionOffset Lewis -4 0/pause 30/positionOffset Lewis -4 0/pause 30/positionOffset Lewis -4 0/pause 30/positionOffset Lewis -4 0/pause 30/positionOffset Lewis -4 0/pause 30/positionOffset Lewis -4 0/pause 30/positionOffset Lewis -4 0/pause 30/positionOffset Lewis -4 0/advancedMove Robin false 0 -1 3 100/advancedMove Pierre false 0 1 3 100/pause 1500/end dialogue Haley \"It was a big success! Thanks for helping out, honey.\""
+        "6184644/e 8675611/O Haley/A haleyCakewalk2/t 600 1500/w sunny/i 220": "{{i18n:Data/Events/Town..6184644/e 8675611/O Haley/A haleyCakewalk2/t 600 1500/w sunny/i 220...Hayden |default={{i18n:Data/Events/Town..6184644/e 8675611/O Haley/A haleyCakewalk2/t 600 1500/w sunny/i 220.. |Haley={{Haley}} |Emily={{Emily}} |Emily={{Emily}} |Penny={{Penny}} |Penny={{Penny}}}} |Haley={{Haley}} |Emily={{Emily}} |Emily={{Emily}} |Penny={{Penny}} |Penny={{Penny}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/fall16",
       "Entries": {
-        "Haley": "Have you been to the fortune teller? She set up her stand in the graveyard.#$e#I already saw her... she told me something... interesting. *chuckle*$h"
+        "Haley": "{{i18n:Data/Festivals/fall16..Haley...Hayden |default={{i18n:Data/Festivals/fall16..Haley..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/spring24",
       "Entries": {
-        "Haley": "I'm practicing my dance moves... It needs to be perfect.#$e#I've been flower king for the past 5 years and I'm not ready to step off the throne just yet!",
-        "Jas": "That's not fair... Why can't I be the flower king?",
-        "Vincent": "Some day, I'm going to be the flower king!"
+        "Haley": "{{i18n:Data/Festivals/spring24..Haley...Hayden |default={{i18n:Data/Festivals/spring24..Haley..}}}}",
+        "Jas": "{{i18n:Data/Festivals/spring24..Jas...Hayden |default={{i18n:Data/Festivals/spring24..Jas..}}}}",
+        "Vincent": "{{i18n:Data/Festivals/spring24..Vincent...Hayden |default={{i18n:Data/Festivals/spring24..Vincent..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Quests",
       "Entries": {
-        "127": "Basic/Hayden's Cake-Walk/Your husband is organizing a charity cake-walk in the town square. He asked you to bring a chocolate cake./Enter Town on a sunny morning with a chocolate cake./-1/-1/0/-1/true"
+        "127": "{{i18n:Data/Quests..127...Hayden |default={{i18n:Data/Quests..127..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/SecretNotes",
       "Entries": {
-        "8": "^To {{Haley}} and {{Emily}}^^Hope you two are doing well! We've sent you your favorite gifts: Pink Cake and Sunflowers for {{Haley}}, Gemstones and Wool for {{Emily}}!^^-Love Mom and Dad%revealtasteHaley221%revealtaste:Haley:221%revealtaste:Haley:421%revealtaste:Emily:440%revealtaste:Emily:66%revealtaste:Emily:62%revealtaste:Emily:60%revealtaste:Emily:70%revealtaste:Emily:64%revealtaste:Emily:68"
+        "8": "{{i18n:Data/SecretNotes..8...Hayden |default={{i18n:Data/SecretNotes..8.. |Haley={{Haley}} |Emily={{Emily}} |Haley={{Haley}} |Emily={{Emily}}}} |Haley={{Haley}} |Emily={{Emily}} |Haley={{Haley}} |Emily={{Emily}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/mail",
       "Entries": {
-        "haleyGarden": "@,^I thought it would be fun to write you a note.^ I had so much fun with the cows yesterday... I'm starting to understand why you chose the farmer's life! Hope to see you soon.  ^   -Hayden[#]Hayden's Note"
+        "haleyGarden": "{{i18n:Data/mail..haleyGarden...Hayden |default={{i18n:Data/mail..haleyGarden..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Furniture",
       "Entries": {
-        "HaleyPortrait": "Hayden Portrait"
+        "HaleyPortrait": "{{i18n:Strings/Furniture..HaleyPortrait...Hayden |default={{i18n:Strings/Furniture..HaleyPortrait..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/StringsFromCSFiles",
       "Entries": {
-        "MapPage.cs.11074": "Home of {{Emily}} & {{Haley}}",
-        "ItemDeliveryQuest.cs.13557": "I will < you forever if you bring me {0}!     -Hayden",
-        "ItemDeliveryQuest.cs.13560": "Looking for a handsome young man to bring me {0}.       -Hayden",
-        "ItemDeliveryQuest.cs.13563": "FOR GUYS ONLY: psst... I need {0}... you know what it's for. Keep it secret, okay?      -Hayden"
+        "MapPage.cs.11074": "{{i18n:Strings/StringsFromCSFiles..MapPage.cs.11074...Hayden |default={{i18n:Strings/StringsFromCSFiles..MapPage.cs.11074.. |Emily={{Emily}} |Haley={{Haley}}}} |Emily={{Emily}} |Haley={{Haley}}}}",
+        "ItemDeliveryQuest.cs.13557": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13557...Hayden |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13557..}}}}",
+        "ItemDeliveryQuest.cs.13560": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13560...Hayden |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13560..}}}}",
+        "ItemDeliveryQuest.cs.13563": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13563...Hayden |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13563..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/StringsFromMaps",
       "Entries": {
-        "HaleyHouse.2": "You quickly peek into Hayden's private dresser. It's stuffed with clothes. ",
-        "HaleyHouse.3": "You quickly peek into Hayden's private dresser. It's stuffed with clothes. ",
-        "HaleyHouse.10": "It's a deluxe vanity. There's all kinds of beauty products dotting the surface.",
-        "HaleyHouse.11": "It's Hayden's camera.",
-        "HaleyHouse.17": "To our beloved children:^We miss you and hope that you are doing okay on your own. We just left the Fern Islands last night, after staying for two months.^It was a wonderful experience... highly recommended.^Make sure you eat healthy and don't forget to pay the electricity bill!^^Love, Mom & Dad",
-        "HaleyHouse.18": "'Men's Fashion Monthly' magazine"
+        "HaleyHouse.2": "{{i18n:Strings/StringsFromMaps..HaleyHouse.2...Hayden |default={{i18n:Strings/StringsFromMaps..HaleyHouse.2..}}}}",
+        "HaleyHouse.3": "{{i18n:Strings/StringsFromMaps..HaleyHouse.3...Hayden |default={{i18n:Strings/StringsFromMaps..HaleyHouse.3..}}}}",
+        "HaleyHouse.10": "{{i18n:Strings/StringsFromMaps..HaleyHouse.10...Hayden |default={{i18n:Strings/StringsFromMaps..HaleyHouse.10..}}}}",
+        "HaleyHouse.11": "{{i18n:Strings/StringsFromMaps..HaleyHouse.11...Hayden |default={{i18n:Strings/StringsFromMaps..HaleyHouse.11..}}}}",
+        "HaleyHouse.17": "{{i18n:Strings/StringsFromMaps..HaleyHouse.17...Hayden |default={{i18n:Strings/StringsFromMaps..HaleyHouse.17..}}}}",
+        "HaleyHouse.18": "{{i18n:Strings/StringsFromMaps..HaleyHouse.18...Hayden |default={{i18n:Strings/StringsFromMaps..HaleyHouse.18..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/animationDescriptions",
       "Entries": {
-        "haley_photo": "%Hayden's too involved with his camera to notice you."
+        "haley_photo": "{{i18n:Strings/animationDescriptions..haley_photo...Hayden |default={{i18n:Strings/animationDescriptions..haley_photo..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Weapons",
       "Entries": {
-        "HaleysIron_Name": "Hayden's Iron",
-        "HaleysIron_Description": "It's searing hot and smells like Hayden's hair."
+        "HaleysIron_Name": "{{i18n:Strings/Weapons..HaleysIron_Name...Hayden |default={{i18n:Strings/Weapons..HaleysIron_Name..}}}}",
+        "HaleysIron_Description": "{{i18n:Strings/Weapons..HaleysIron_Description...Hayden |default={{i18n:Strings/Weapons..HaleysIron_Description..}}}}"
       }
     },
     {
@@ -195,35 +200,35 @@
         "Flavor": true
       },
       "Entries": {
-        "HaleysIron_Description": "It's searing hot and smells like Hayden's feathers."
+        "HaleysIron_Description": "{{i18n:Strings/Weapons..HaleysIron_Description.Flavor..Hayden |default={{i18n:Strings/Weapons..HaleysIron_Description.Flavor.}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/TV/CookingChannel",
       "Entries": {
-        "23": "Pink Cake/A viewer from Pelican Town wrote to me recently... let's see... His name's {{Haley}}. He wrote, 'I tried your pink cake last time I was in Zuzu City and I fell in love with it. Could you share the recipe on your next episode?'. Well, why not? It's a marvelous cake. And you'll never guess the secret ingredient... melon!"
+        "23": "{{i18n:Data/TV/CookingChannel..23...Hayden |default={{i18n:Data/TV/CookingChannel..23.. |Haley={{Haley}}}} |Haley={{Haley}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/winter25",
       "Entries": {
-        "Emily_spouse_y2": "When {{Haley}} and I were kids, we always used to decorate cookies at this festival.#$b#We should do it sometime! You can't let good traditions die out.$h"
+        "Emily_spouse_y2": "{{i18n:Data/Festivals/winter25..Emily_spouse_y2...Hayden |default={{i18n:Data/Festivals/winter25..Emily_spouse_y2.. |Haley={{Haley}}}} |Haley={{Haley}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Objects",
       "Entries": {
-        "HaleysLostBracelet_Name": "{{Haley}}'s Lost Bracelet"
+        "HaleysLostBracelet_Name": "{{i18n:Strings/Objects..HaleysLostBracelet_Name...Hayden |default={{i18n:Strings/Objects..HaleysLostBracelet_Name.. |Haley={{Haley}}}} |Haley={{Haley}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/1_6_Strings",
       "Entries": {
-        "DesertFestival_Haley2": "%{{Haley}} is glistening in the sunlight."
+        "DesertFestival_Haley2": "{{i18n:Strings/1_6_Strings..DesertFestival_Haley2...Hayden |default={{i18n:Strings/1_6_Strings..DesertFestival_Haley2.. |Haley={{Haley}}}} |Haley={{Haley}}}}"
       }
     },
     {
@@ -233,7 +238,7 @@
         "Flavor": true
       },
       "Entries": {
-        "DesertFestival_Haley2": "%{{Haley}}'s feathers are radiant in the sunlight."
+        "DesertFestival_Haley2": "{{i18n:Strings/1_6_Strings..DesertFestival_Haley2.Flavor..Hayden |default={{i18n:Strings/1_6_Strings..DesertFestival_Haley2.Flavor. |Haley={{Haley}}}} |Haley={{Haley}}}}"
       }
     }
   ]

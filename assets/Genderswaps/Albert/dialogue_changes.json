@@ -3,7 +3,9 @@
     {
       "Action": "EditData",
       "Target": "Data/Characters",
-      "TargetField": ["Abigail"],
+      "TargetField": [
+        "Abigail"
+      ],
       "Entries": {
         "Gender": "Male"
       },
@@ -16,29 +18,32 @@
       "Action": "EditData",
       "Target": "Strings/NPCNames",
       "Entries": {
-        "Abigail": "Albert"
+        "Abigail": "{{i18n:Strings/NPCNames..Abigail...Albert |default={{i18n:Strings/NPCNames..Abigail..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Characters",
-      "TargetField": ["Pierre", "FriendsAndFamily"],
+      "TargetField": [
+        "Pierre",
+        "FriendsAndFamily"
+      ],
       "Entries": {
-        "Abigail": "son"
+        "Abigail": "{{i18n:Data/Characters.Pierre.FriendsAndFamily.Abigail...Albert |default={{i18n:Data/Characters.Pierre.FriendsAndFamily.Abigail..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Abigail",
       "Entries": {
-        "AcceptGift_(O)119": "This makes you wonder... Thousands of years ago, there was probably a purple-haired caveman who played this flute, just like me.#$b#...I'll have to wash it before pressing it to my lips, though.$h",
-        "dating_Abigail": "%Albert is blushing, but he looks happy.",
-        "Mon8": "$query PLAYER_NPC_RELATIONSHIP current any married roommate#I remember when you first arrived in town, I was a little sad that those old woods would be turned into farmland. But now I'm really glad you moved here!$h|...Oh, @! Hi.$h#$e#Want to hang out for a while? Here! Let me read your palm. *chuckle* $h",
-        "Sun_Bad": "Rude! Why would you hurt someone's feelings like that? Insensitive!$s",
-        "winter_Wed2": "Hi. If you're ever bored, you can always hang out in my room.#$e#As long as I have pants on, of course!",
-        "Event_Grave3": "Oh, it's because you think I'm a momma's boy... isn't it? Ugh...$u^Why? I'm just as strong as you!$a#$b#I'm not some fragile prince charming.. I can take care of myself!$a#$b#I've lived in the valley my whole life, but I've never really done anything memorable. I want to go on an adventure!$8",
-        "fall_Thu": "#$1 AbigailHAND#Last night I dreamt that my left hand had turned into a gigantic %noun. Does that mean anything?#$e#%Albert doesn't seem to be interested in talking right now.",
-        "spring_23": "Well, tomorrow is the flower dance. Dancing is alright, but they make me wear this stupid blue suit...$s"
+        "AcceptGift_(O)119": "{{i18n:Characters/Dialogue/Abigail..AcceptGift_(O)119...Albert |default={{i18n:Characters/Dialogue/Abigail..AcceptGift_(O)119..}}}}",
+        "dating_Abigail": "{{i18n:Characters/Dialogue/Abigail..dating_Abigail...Albert |default={{i18n:Characters/Dialogue/Abigail..dating_Abigail..}}}}",
+        "Mon8": "{{i18n:Characters/Dialogue/Abigail..Mon8...Albert |default={{i18n:Characters/Dialogue/Abigail..Mon8..}}}}",
+        "Sun_Bad": "{{i18n:Characters/Dialogue/Abigail..Sun_Bad...Albert |default={{i18n:Characters/Dialogue/Abigail..Sun_Bad..}}}}",
+        "winter_Wed2": "{{i18n:Characters/Dialogue/Abigail..winter_Wed2...Albert |default={{i18n:Characters/Dialogue/Abigail..winter_Wed2..}}}}",
+        "Event_Grave3": "{{i18n:Characters/Dialogue/Abigail..Event_Grave3...Albert |default={{i18n:Characters/Dialogue/Abigail..Event_Grave3..}}}}",
+        "fall_Thu": "{{i18n:Characters/Dialogue/Abigail..fall_Thu...Albert |default={{i18n:Characters/Dialogue/Abigail..fall_Thu..}}}}",
+        "spring_23": "{{i18n:Characters/Dialogue/Abigail..spring_23...Albert |default={{i18n:Characters/Dialogue/Abigail..spring_23..}}}}"
       }
     },
     {
@@ -48,28 +53,28 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Abigail",
       "Entries": {
-        "summer_Thu4": "Ew, this heat makes me wish I was a cave dragon.$s",
-        "fall_Thu": "#$1 AbigailHAND#Last night I dreamt that my left claw had turned into a gigantic %noun. Does that mean anything?#$e#%Albert doesn't seem to be interested in talking right now."
+        "summer_Thu4": "{{i18n:Characters/Dialogue/Abigail..summer_Thu4.Flavor..Albert |default={{i18n:Characters/Dialogue/Abigail..summer_Thu4.Flavor.}}}}",
+        "fall_Thu": "{{i18n:Characters/Dialogue/Abigail..fall_Thu.Flavor..Albert |default={{i18n:Characters/Dialogue/Abigail..fall_Thu.Flavor.}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Caroline",
       "Entries": {
-        "dating_Abigail_memory_oneday": "Al told me that you and him are seeing each other. That's sweet!",
-        "Introduction": "Hello! You must be @, the new farmer. I'm Caroline.#$e#My husband runs the general store here. And have you met my son, Albert? He's the pale one with the purple hair.",
-        "Mon": "I wish Al wouldn't spend so much time in his room.",
-        "Mon8": "#$1 Caroline23#When we first moved to Pelican Town I would take secret walks to the Wizard's tower. Don't tell Pierre, he has jealousy issues.#$e#Albert was born about a year after we moved to Pelican Town. I wonder if he'll ever experience life outside the valley?",
-        "Sat": "Is it just me, or does Albert have an unhealthy interest in doom and gloom?#$e#Maybe I'm just too old to understand.",
-        "Sat_inlaw_Abigail": "Dinner's been a lot quieter since Albert moved out...#$e#No, not because he used to chew with his mouth open!$h",
-        "Sat2": "Al's always had a strange interest in the occult. I'm not sure where he gets it from...",
-        "Sat4": "Al's always had a strange interest in the occult. I'm not sure where he gets it from...",
-        "summer_Sat": "Is it just me, or does Albert look a little pale?#$e#Maybe I'm just worrying about him too much.",
-        "summer_Sat_inlaw_Abigail": "How's Albert's health? He's always been such a pale boy. Hopefully the farm lifestyle puts a little color in his cheeks.",
-        "fall_Mon": "Fall is Al's favorite season, so I'm hoping he'll come out of his room more often.",
-        "fall_Mon_inlaw_Abigail": "Al was taking online classes here, but I don't think his heart was really in it...#$e#He's a free spirit, like I was before I met Pierre. He's probably having the time of his life on your farm.",
-        "fall_Sat": "Is it just me, or does Albert play too many video games?#$e#Maybe I'm a little old-fashioned.",
-        "winter_Sat": "Don't you think Al would look better with his natural hair color?#$e#He used to have light chestnut-colored hair."
+        "dating_Abigail_memory_oneday": "{{i18n:Characters/Dialogue/Caroline..dating_Abigail_memory_oneday...Albert |default={{i18n:Characters/Dialogue/Caroline..dating_Abigail_memory_oneday..}}}}",
+        "Introduction": "{{i18n:Characters/Dialogue/Caroline..Introduction...Albert |default={{i18n:Characters/Dialogue/Caroline..Introduction..}}}}",
+        "Mon": "{{i18n:Characters/Dialogue/Caroline..Mon...Albert |default={{i18n:Characters/Dialogue/Caroline..Mon..}}}}",
+        "Mon8": "{{i18n:Characters/Dialogue/Caroline..Mon8...Albert |default={{i18n:Characters/Dialogue/Caroline..Mon8..}}}}",
+        "Sat": "{{i18n:Characters/Dialogue/Caroline..Sat...Albert |default={{i18n:Characters/Dialogue/Caroline..Sat..}}}}",
+        "Sat_inlaw_Abigail": "{{i18n:Characters/Dialogue/Caroline..Sat_inlaw_Abigail...Albert |default={{i18n:Characters/Dialogue/Caroline..Sat_inlaw_Abigail..}}}}",
+        "Sat2": "{{i18n:Characters/Dialogue/Caroline..Sat2...Albert |default={{i18n:Characters/Dialogue/Caroline..Sat2..}}}}",
+        "Sat4": "{{i18n:Characters/Dialogue/Caroline..Sat4...Albert |default={{i18n:Characters/Dialogue/Caroline..Sat4..}}}}",
+        "summer_Sat": "{{i18n:Characters/Dialogue/Caroline..summer_Sat...Albert |default={{i18n:Characters/Dialogue/Caroline..summer_Sat..}}}}",
+        "summer_Sat_inlaw_Abigail": "{{i18n:Characters/Dialogue/Caroline..summer_Sat_inlaw_Abigail...Albert |default={{i18n:Characters/Dialogue/Caroline..summer_Sat_inlaw_Abigail..}}}}",
+        "fall_Mon": "{{i18n:Characters/Dialogue/Caroline..fall_Mon...Albert |default={{i18n:Characters/Dialogue/Caroline..fall_Mon..}}}}",
+        "fall_Mon_inlaw_Abigail": "{{i18n:Characters/Dialogue/Caroline..fall_Mon_inlaw_Abigail...Albert |default={{i18n:Characters/Dialogue/Caroline..fall_Mon_inlaw_Abigail..}}}}",
+        "fall_Sat": "{{i18n:Characters/Dialogue/Caroline..fall_Sat...Albert |default={{i18n:Characters/Dialogue/Caroline..fall_Sat..}}}}",
+        "winter_Sat": "{{i18n:Characters/Dialogue/Caroline..winter_Sat...Albert |default={{i18n:Characters/Dialogue/Caroline..winter_Sat..}}}}"
       }
     },
     {
@@ -79,212 +84,212 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Caroline",
       "Entries": {
-        "Introduction": "Hello! You must be @, the new farmer. I'm Caroline.#$e#My husband runs the general store here. And have you met my son, Albert? He's the dragon with the purple hair.",
-        "Sat_inlaw_Abigail": "Dinner's been a lot quieter since Albert moved out...#$e#No, not because he used to chew with his muzzle open!$h",
-        "summer_Sat": "Is it just me, or do Albert's scales look a little dull?#$e#Maybe I'm just worrying about him too much.",
-        "summer_Sat_inlaw_Abigail": "How's Albert's health? His scales have always been a bit dun. Hopefully the farm lifestyle puts a little luster in his cheeks."
+        "Introduction": "{{i18n:Characters/Dialogue/Caroline..Introduction.Flavor..Albert |default={{i18n:Characters/Dialogue/Caroline..Introduction.Flavor.}}}}",
+        "Sat_inlaw_Abigail": "{{i18n:Characters/Dialogue/Caroline..Sat_inlaw_Abigail.Flavor..Albert |default={{i18n:Characters/Dialogue/Caroline..Sat_inlaw_Abigail.Flavor.}}}}",
+        "summer_Sat": "{{i18n:Characters/Dialogue/Caroline..summer_Sat.Flavor..Albert |default={{i18n:Characters/Dialogue/Caroline..summer_Sat.Flavor.}}}}",
+        "summer_Sat_inlaw_Abigail": "{{i18n:Characters/Dialogue/Caroline..summer_Sat_inlaw_Abigail.Flavor..Albert |default={{i18n:Characters/Dialogue/Caroline..summer_Sat_inlaw_Abigail.Flavor.}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Pierre",
       "Entries": {
-        "Mon4_inlaw_Abigail": "Hi, @. How's Albert doing? The shop hasn't been the same without him...",
-        "Thu8": "#$1 pierre2#Does Albert look anything like me? Don't tell my wife, but sometimes I wonder if I'm really the father.$k$s#$e#Don't tell my wife, but I hate to cook dinner.",
-        "eventSeen_4": "{{Abigail}}'s going through a rebellious phase... I get it.#$e#She'll wise up when she has to make her first mortgage payment!$h"
+        "Mon4_inlaw_Abigail": "{{i18n:Characters/Dialogue/Pierre..Mon4_inlaw_Abigail...Albert |default={{i18n:Characters/Dialogue/Pierre..Mon4_inlaw_Abigail..}}}}",
+        "Thu8": "{{i18n:Characters/Dialogue/Pierre..Thu8...Albert |default={{i18n:Characters/Dialogue/Pierre..Thu8..}}}}",
+        "eventSeen_4": "{{i18n:Characters/Dialogue/Pierre..eventSeen_4...Albert |default={{i18n:Characters/Dialogue/Pierre..eventSeen_4.. |Abigail={{Abigail}}}} |Abigail={{Abigail}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Sam",
       "Entries": {
-        "Resort_Towel_2": "Maybe I should learn to play the ukulele.#$e#{{Abby}} on the congas and {{Sebastian}} on the steel drums... 'The Pelicans of Paradise'...$s#$e#What's the matter, you look worried.$h"
+        "Resort_Towel_2": "{{i18n:Characters/Dialogue/Sam..Resort_Towel_2...Albert |default={{i18n:Characters/Dialogue/Sam..Resort_Towel_2.. |Abby={{Abby}} |Sebastian={{Sebastian}}}} |Abby={{Abby}} |Sebastian={{Sebastian}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Sebastian",
       "Entries": {
-        "Wed2": "{{Sam}} is probably my only friend in this town.#$e#Well, {{Abby}} is nice too, but...$h#$e#Umm.. nevermind."
+        "Wed2": "{{i18n:Characters/Dialogue/Sebastian..Wed2...Albert |default={{i18n:Characters/Dialogue/Sebastian..Wed2.. |Sam={{Sam}} |Abby={{Abby}}}} |Sam={{Sam}} |Abby={{Abby}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Wizard",
       "Entries": {
-        "Thu10": "You musn't tell anyone... but I have reason to believe that one of the locals is actually my son...#$e#I could be mistaken... It's rare, but it does happen."
+        "Thu10": "{{i18n:Characters/Dialogue/Wizard..Thu10...Albert |default={{i18n:Characters/Dialogue/Wizard..Thu10..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Beach",
       "Entries": {
-        "733330/f Sam 750/w sunny/t 700 1500/z winter/y 1": "ocean/-1000 -1000/farmer 40 9 2 Sam 41 18 2 Vincent 43 22 2/skippable/animate Vincent false true 500 18 19/specificTemporarySprite beachStuff/viewport 42 19 true/move farmer 0 9 1/faceDirection Sam 3/speak Sam \"Hello @. Nice day, isn't it?\"/faceDirection farmer 2/faceDirection Sam 2/pause 800/speak Sam \"I'm just keeping an eye on my little brother. It's good for him to get some fresh air on a day like this.\"/pause 1700/speak Sam \"Our Dad used to take us to the beach on sunny days like this.$h\"/jump Vincent/stopAnimation Vincent/showFrame Vincent 0/pause 1000/move Vincent 0 -4 3/move Vincent -1 0 3/faceDirection Sam 1/faceDirection farmer 1/playMusic desolate/speak Vincent \"{{Sam}}...?$u\"/pause 900/speak Vincent \"Is Dad ever going to come home?$s\"/emote Sam 28/showFrame Sam 34/pause 800/speak Sam \"Of course, Vince. Dad's going to come back as soon as he possibly can.$7\"/pause 600/speak Vincent \"But I heard some grown-ups saying that... that all of our troops are getting shot to pieces.$s\"/showFrame Sam 35/pause 1500/speak Sam \"Don't believe everything you hear!$8\"/showFrame Sam 4/speak Sam \"Don't you remember how strong Dad is? He'd never let a pathetic Gotoro grunt get him like that! Don't you worry!$a#$b#And always remember that Mom and I are here to play with you if you ever feel lonely.\"/playMusic ocean/speak Vincent \"Okay!\"/jump Vincent/pause 1000/move Vincent 1 0 2/showFrame Sam 4 true/faceDirection Sam 2 true/move Vincent 0 4 2/animate Vincent false true 500 18 19/playSound sandyStep/pause 800/faceDirection Sam 3/pause 800/faceDirection Sam 2/faceDirection farmer 2/pause 1000/speak Sam \"To be honest, I have no idea if my old man will come back... We've all read the reports. Our soldiers are falling by the thousands.$s#$b#But what am I going to say to Vincent?$7\"/pause 1000/question null \"#It's best to be honest with kids.#You did the right thing. Kids should have hope.\"/emote Sam 40/pause 1000/splitSpeak Sam \"You think so?$7#$b#Maybe you're right... The world is a cruel place, but kids have to learn that one way or another.$s~Yeah... kids should play and have fun while they still have the chance.\"/pause 700/faceDirection Sam 3/faceDirection farmer 1/speak Sam \"Hey did I tell you the band's starting to come together?#$b#Yeah! It turns out {{Abigail}}'s a pretty good drummer. And {{Sebastian}} seemed to really want {{Abigail_her_him}} in the band...$h\"/pause 500/globalFade/viewport -1000 -1000/end"
+        "733330/f Sam 750/w sunny/t 700 1500/z winter/y 1": "{{i18n:Data/Events/Beach..733330/f Sam 750/w sunny/t 700 1500/z winter/y 1...Albert |default={{i18n:Data/Events/Beach..733330/f Sam 750/w sunny/t 700 1500/z winter/y 1.. |Sam={{Sam}} |Abigail={{Abigail}} |Sebastian={{Sebastian}} |Abigail_her_him={{Abigail_her_him}}}} |Sam={{Sam}} |Abigail={{Abigail}} |Sebastian={{Sebastian}} |Abigail_her_him={{Abigail_her_him}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/HaleyHouse",
       "Entries": {
-        "195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019": "playful/-1000 -1000/farmer 8 19 1 Haley 18 18 1 Emily 19 17 2 Penny 20 17 2 Maru 21 17 2 Leah 22 18 3 Abigail 20 20 0 Pierre -1000 -1000 1/move farmer 5 0 1 true/viewport 17 19 true/move false/pause 500/startJittering/faceDirection farmer 2 true/animate farmer false true 100 94/jump farmer/pause 2000/stopAnimation farmer/showFrame farmer 0/stopJittering/playSound thudStep/faceDirection farmer 3 true/showFrame farmer 7 true/startJittering/faceDirection Haley 3 true/faceDirection Emily 3 true/faceDirection Penny 3 true/faceDirection Maru 3 true/faceDirection Leah 3 true/faceDirection Abigail 3 true/textAboveHead Haley \"Not so fast!\"/textAboveHead Abigail \"Hold it!\"/textAboveHead Leah \"Stop!\"/pause 3000/stopJittering/showFrame farmer 6 true/pause 500/faceDirection farmer 1/move farmer 3 0 1/playMusic none/emote farmer 28/pause 500/speak Abigail \"Never thought you'd find all your 'significant' others in one room, huh @?$a\"/pause 500/speak Leah \"I... I thought you were different than other men...$s^You tricked all of us into thinking we loved you... You're horrible...$a\"/pause 500/speak Penny \"How could you do this to us, @?$s\"/pause 500/speak Maru \"You think you're real smooth, don't you? Thought you'd sample the whole 'buffet', huh? What a sleeze...$a\"/pause 500/speak Emily \"Th... That night in the tent... you whispered such sweet things to me in the dark...$s#$b#Now I have to face each day knowing it was all a lie.$s\"/pause 500/playMusic ragtime/speak Haley \"Well, we stick together here in Stardew! And we're not going to put up with this!$a^Well, we're not going to put up with your abuse any longer!$a\"/textAboveHead Leah \"That's right!\"/pause 500/speak Abigail \"Well? What do you have to say for yourself?$a\"/pause 1000/question fork1 \"#I'm sorry... what I did was wrong.#Y'all, calm down! I can explain...\"/fork choseToExplain/pause 500/textAboveHead Maru \"Hmmph...\"/pause 500/speak Abigail \"Nice try, but that's not going to cut it...$u\"/pause 1000/playMusic none/speak Haley \"...so we've come to a decision... isn't that right, everyone?$u\"/pause 500/speak Penny \"...yes.$s\"/speak Leah \"Absolutely.$a\"/pause 1000/jump Haley/jump Abigail/jump Emily/jump Leah/jump Maru/jump Penny/pause 1000/speak Maru \"We're all gonna give you the cold shoulder!$a\"/faceDirection farmer 2 true/animate farmer false true 100 94/jump farmer/playSound slimedead/pause 2000/fade/viewport -2000 -2000/dump girls 3/end warpOut",
-        "choseToExplain": "pause 100/textAboveHead Haley \"I doubt it...\"/pause 500/resetVariable/question fork2 \"#I thought we were just friends! I didn't know it was so serious!#Pierre pressured me! He wanted to sell more bouquets!#Y'all, this is completely normal! It's just a lifestyle choice...\"/pause 100/fork lifestyleChoice/textAboveHead Haley \"Liar!\"/textAboveHead Maru \"Yeah, right!\"/speak Emily \"Do you really expect us to believe that? You're just digging yourself into a deeper hole...$a\"/pause 1000/faceDirection Haley 2/playMusic none/speak Haley \"...I think we've come to a decision... isn't that right, everyone?$u\"/pause 500/speak Penny \"...yes.$s\"/speak Leah \"Absolutely.$a\"/faceDirection Haley 3/pause 1000/jump Haley/jump Abigail/jump Emily/jump Leah/jump Maru/jump Penny/pause 1000/jump Haley/jump Abigail/jump Emily/jump Leah/jump Maru/jump Penny/pause 1000/jump Haley/jump Abigail/jump Emily/jump Leah/jump Maru/jump Penny/pause 1000/speak Maru \"We're all gonna give you the cold shoulder!$a\"/faceDirection farmer 2 true/animate farmer false true 100 94/jump farmer/playSound slimedead/pause 2000/fade/viewport -2000 -2000/dump girls 4/end warpOut",
-        "lifestyleChoice": "pause 100/speak Penny \"Hmmph! I don't know what's considered 'normal' in Zuzu City, but I'm definitely not okay with this arrangement!$a\"/speak Maru \"It's not a 'choice' if none of us even know about it!$a\"/pause 100/speak Abigail \"You can't weasel your way out of this one, @.$a\"/pause 1000/faceDirection Haley 2/playMusic none/speak Haley \"...I think we've come to a decision... isn't that right, y'all?$u\"/pause 500/speak Penny \"...yes.$s\"/speak Leah \"Absolutely.$a\"/faceDirection Haley 3/pause 1000/jump Haley/jump Abigail/jump Emily/jump Leah/jump Maru/jump Penny/pause 1000/jump Haley/jump Abigail/jump Emily/jump Leah/jump Maru/jump Penny/pause 1000/jump Haley/jump Abigail/jump Emily/jump Leah/jump Maru/jump Penny/pause 1000/speak Maru \"We're all gonna give you the cold shoulder!$a\"/faceDirection farmer 2 true/animate farmer false true 100 94/jump farmer/playSound slimedead/pause 2000/fade/viewport -2000 -2000/dump girls 4/end warpOut",
-        "917409/e 463391/f Emily 1500/p Emily": "none/-1000 -1000/farmer 16 10 0 Emily 14 6 2/specificTemporarySprite EmilyBoomBox/skippable/viewport 14 6 true/move farmer 0 -2 3/move farmer -2 0 0/speak Emily \"Come in, @! I want to show you something.$h\"/pause 500/move farmer 0 -1 0/pause 500/speak Emily \"It's my secret hobby... I've been practicing for months.#$b#Now, sit back, relax, and allow yourself to be carried away to a better place... okay?\"/stopMusic/pause 600/move Emily 0 -1 0/faceDirection Emily 0/pause 500/playMusic EmilyDance/pause 1240/faceDirection Emily 2 true/pause 3220/specificTemporarySprite EmilyBoomBoxStart/animate Emily false true 430 0 27/pause 6500/animate Emily false true 440 31 39/pause 6470/doAction 14 4/pause 400/specificTemporarySprite EmilySongBackLights/animate Emily false true 220 18 19 18 19 18 19 18 19 18 19 18 19 18 19 18 19 20 21 20 21 20 21 20 21 20 21 20 21 20 21 20 21 16 17 16 17 16 17 16 17 16 17 16 17 16 17 16 17 22 23 22 23 22 23 22 23 22 23 22 23 22 23 22 23/glow 0 0 255 true/pause 1000/glow 0 255 255 false/pause 1760/glow 0 0 255 false/pause 1760/glow 255 0 255 false/pause 1760/glow 255 255 0 false/pause 1760/glow 0 255 255 false/pause 1760/glow 0 255 0 false/pause 1760/glow 255 0 0 false/pause 1760/glow 0 0 255 false/pause 1000/jump Emily/glow 255 0 255 false/pause 1760/glow 0 0 255 false/pause 1760/glow 255 0 255 false/pause 1760/glow 255 255 0 false/pause 1760/glow 0 255 255 false/pause 1760/glow 0 255 0 false/pause 1760/glow 255 0 0 false/pause 1760/glow 0 0 255 false/pause 1260/animate Emily false true 440 31 39/pause 1760/glow 255 255 0/pause 1760/glow 255 0 255/pause 1760/glow 0 255 255/pause 1760/glow 255 0 0/pause 1760/glow 0 0 255/pause 1760/glow 0 255 0/pause 1760/glow 255 0 255/pause 1760/glow 255 0 255 false/stopAnimation Emily/specificTemporarySprite EmilyBoomBoxStop/faceDirection Emily 2/emote farmer 16/pause 1000/animate Emily false true 300 50 51/pause 1600/speak Emily \"$q 213 null#So... *gasp*... what did you think?$h#$r 213 25 event_dance1#That was amazing!#$r 213 -50 event_dance2#That was embarrassing...#$r 213 25 event_dance1#(Say nothing and do a slow clap)\"/emote Emily 28/speak Emily \"Phew... that was quite a workout...$u\"/pause 500/stopAnimation Emily/showFrame Emily 0/pause 1000/animate Emily false true 100 48 49/pause 1000/speak Emily \"I haven't been this sweaty since I ordered the pepper platter at {{Abigail}}'s graduation fiesta!$h\"/pause 1000/stopAnimation Emily/speak Emily \"...Well, I'd better take a shower. Thanks for watching.\"/pause 500/faceDirection Emily 2/end dialogue Emily \"Don't tell anyone about the dance. That was for your eyes only.\""
+        "195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019": "{{i18n:Data/Events/HaleyHouse..195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019...Albert |default={{i18n:Data/Events/HaleyHouse..195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019..}}}}",
+        "choseToExplain": "{{i18n:Data/Events/HaleyHouse..choseToExplain...Albert |default={{i18n:Data/Events/HaleyHouse..choseToExplain..}}}}",
+        "lifestyleChoice": "{{i18n:Data/Events/HaleyHouse..lifestyleChoice...Albert |default={{i18n:Data/Events/HaleyHouse..lifestyleChoice..}}}}",
+        "917409/e 463391/f Emily 1500/p Emily": "{{i18n:Data/Events/HaleyHouse..917409/e 463391/f Emily 1500/p Emily...Albert |default={{i18n:Data/Events/HaleyHouse..917409/e 463391/f Emily 1500/p Emily.. |Abigail={{Abigail}}}} |Abigail={{Abigail}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/SeedShop",
       "Entries": {
-        "17/f Caroline 1500/p Caroline/p Abigail": "50s/35 9/farmer 31 13 0 Abigail 34 9 1 Caroline 35 9 3/skippable/move farmer 0 -1 0/pause 500/faceDirection farmer 0/speak Abigail \"Stop telling me how to live my life!$a\"/pause 500/speak Caroline \"Hey, cut it out! We're letting you live here free of charge until you finish school. It seems like you don't appreciate that at all!$u\"/emote Abigail 12/speak Abigail \"Stop trying to make me feel guilty.$a#$b#I appreciate that you and Dad are helping me out, but expecting me to dress the way you want is ridiculous.$a#$b#I'm not a little boy anymore, Mom.$u\"/faceDirection Caroline 1/pause 1500/faceDirection Caroline 3/speak Caroline \"...You're right. I'm sorry.$s\"/pause 500/faceDirection farmer 2/playSound woodyStep/faceDirection Abigail 2 true/faceDirection Caroline 2/speak Abigail \"Is someone there?$7\"/faceDirection farmer 0/speed farmer 4/move farmer 0 1 3/speed farmer 4/move farmer -4 0 2 true/move Abigail -3 0 2 false/emote Abigail 8/speak Abigail \"I swear, this house is haunted.\"/emote Caroline 40/pause 500/end dialogue Abigail \"Urgghh...$a#$b#Sorry... I was fighting with my Mom earlier.$s\""
+        "17/f Caroline 1500/p Caroline/p Abigail": "{{i18n:Data/Events/SeedShop..17/f Caroline 1500/p Caroline/p Abigail...Albert |default={{i18n:Data/Events/SeedShop..17/f Caroline 1500/p Caroline/p Abigail..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Town",
       "Entries": {
-        "4/f Abigail 1500/t 2100 2400/w sunny": "nightTime/-4442 39/farmer 47 95 0 Abigail 47 87 0 Pierre 52 91 3/skippable/addLantern 735 46 86 1/specificTemporarySprite abbyGraveyard/faceDirection Abigail 2/animate Abigail false true 500 24 27/viewport 47 87 true/pause 4000/move farmer 0 -4 0/pause 500/animate Abigail false false 150 24 25 24 26 0/pause 700/stopAnimation Abigail 0/pause 1500/emote farmer 8/pause 600/animate Abigail false true 100 28 29/pause 1200/stopAnimation Abigail/pause 500/playMusic echos/speak Abigail \"I guess you're wondering why I'm in the graveyard at this hour...\"/pause 500/move farmer 0 -1 0/pause 400/speak Abigail \"Well, I'm here because it's the best place in town to find some privacy.\"/pause 500/emote Abigail 40/pause 250/faceDirection Abigail 1/pause 400/speak Abigail \"And I'm all sweaty because I've been practicing my swordsmanship.$l\"/emote farmer 16/pause 400/faceDirection Abigail 2/pause 300/speak Abigail \"Hey! What... you think I'm too weak to swing a blade?$a\"/pause 300/faceDirection Abigail 3/pause 500/faceDirection Abigail 2/speak Abigail \"Sorry, I guess I'm getting a little defensive.$8#$b#You see, I want to explore the mountain caves... But I know it's too dangerous to go there unarmed.\"/move farmer 0 -2 0/speak Abigail \"$q 847951 null#You've used a sword before, haven't you?#$r 847951 10 Event_Grave1#Yes, and it's exciting!#$r 847951 10 Event_Grave2#Yes, but only in self-defense#$r 847951 -100 Event_Grave3#Yes, but it's dangerous. You should stay safe.#$r 847951 0 Event_Grave4#No\"/faceDirection Abigail 0/pause 2000/playMusic nightTime/speak Pierre \"Albert?!$4\"/pause 100/faceDirection Abigail 2 true/faceDirection farmer 2 true/emote Abigail 16/speak Abigail \"Dad?$7\"/move Pierre -3 0 0/move Pierre 0 -4 3/faceDirection Abigail 1/faceDirection farmer 1/speak Pierre \"I've been looking all over for you! Your mother wants you to come home and help with dinner!$u\"/pause 300/faceDirection Pierre 2/pause 700/faceDirection Pierre 1/pause 700/faceDirection Pierre 3/pause 500/speak Pierre \"What are you doing in the graveyard, anyway? This is no place for a gentleman!$u\"/faceDirection Abigail 3/emote Abigail 12/pause 400/faceDirection Abigail 1/speak Abigail \"Mind your own business! Just because I'm your only kid doesn't mean you can control my life forever!$a\"/speak Abigail \"You're so overbearing, Dad... $a\"/showFrame Pierre 16/textAboveHead Pierre \"...!\"/faceDirection Abigail 2/speak Abigail \"Let's get out of here, @.$a\"/showFrame Pierre 0/move Abigail -1 0 2 true/faceDirection farmer 3/move Abigail 0 2 2/faceDirection farmer 2 true/move Abigail 0 3 2 true/faceDirection Pierre 2 true/pause 1000/pause 500/faceDirection Abigail 0/speak Abigail \"Well, are you coming or not?$u\"/pause 600/faceDirection farmer 1/pause 1000/move farmer 0 8 2 true/move Abigail 0 4 1 false/move farmer 8 0 2 true/move Abigail 8 0 2 true/textAboveHead Pierre \"Come back!\"/globalFade/viewport -4000 0/pause 400/playSound grassyStep/pause 500/playSound grassyStep/pause 300/playSound leafrustle/pause 700/playSound leafrustle/pause 700/message \"Okay, my dad won't find us here...\"/speak Abigail \"*sigh*... Can you believe my parents were ever young? They don't understand my perspective at all.$8#$b#I know, I know... they're just worried and want what's best for me. It still ticks me off sometimes, okay?$u\"/pause 1000/speak Abigail \"Well, thanks for hearing me out @.#$b#Um, now could you help untangle my hair from this bush?$h\"/pause 500/playSound grassyStep/pause 300/playSound leafrustle/pause 500/playSound grassyStep/pause 200/playSound grassyStep/pause 400/playSound leafrustle/pause 300/playSound leafrustle/pause 600/end"
+        "4/f Abigail 1500/t 2100 2400/w sunny": "{{i18n:Data/Events/Town..4/f Abigail 1500/t 2100 2400/w sunny...Albert |default={{i18n:Data/Events/Town..4/f Abigail 1500/t 2100 2400/w sunny..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/spring13",
       "Entries": {
-        "AbbyWin": "pause 100/jump Abigail/faceDirection Vincent 3/pause 800/move Abigail 0 -1 0/faceDirection Vincent 0/speak Lewis \"Here's your prize, Albert. Enjoy!\"/pause 500/move Abigail 0 -1 0/playSound coin/pause 400/move Abigail 0 2 0/faceDirection Lewis 0/speak Lewis \"Well, that's it for this year's Egg Festival. Thanks for coming, everyone!\"/pause 1000/viewport move 1 -1 5000/pause 2000/globalFade/viewport -1000 -1000/waitForOtherPlayers festivalEnd/end",
-        "Caroline": "Al's always loved the egg hunt, ever since he was a little boy."
+        "AbbyWin": "{{i18n:Data/Festivals/spring13..AbbyWin...Albert |default={{i18n:Data/Festivals/spring13..AbbyWin..}}}}",
+        "Caroline": "{{i18n:Data/Festivals/spring13..Caroline...Albert |default={{i18n:Data/Festivals/spring13..Caroline..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Quests",
       "Entries": {
-        "108": "ItemDelivery/Carving Pumpkins/Caroline wants to carve a pumpkin with her son. She asked you to bring her one from the farm./Bring Caroline a pumpkin./Caroline (O)276/-1/500/-1/true/Oh, the pumpkin! It's a good one... Albert will be so happy when he sees this. Thanks, @!$h"
+        "108": "{{i18n:Data/Quests..108...Albert |default={{i18n:Data/Quests..108..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/SecretNotes",
       "Entries": {
-        "1": "It's a page from Albert's Diary^^'Things I love: the smell of carved pumpkin, keeping an amethyst under my pillow, chocolate cake, the thrill of spicy eel, and the comfort of Mom's blackberry cobbler (I like to eat!)'%revealtaste:Abigail:276%revealtaste:Abigail:66%revealtaste:Abigail:220%revealtaste:Abigail:226%revealtaste:Abigail:611"
+        "1": "{{i18n:Data/SecretNotes..1...Albert |default={{i18n:Data/SecretNotes..1..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/mail",
       "Entries": {
-        "abbySpiritBoard": "Hi @.^One of these days you should come to my room after dark... Maybe around 8pm. ^I want to show you something. ^   -Al[#]Albert's Note",
-        "fall_19_1": "@-^I'd like to buy a pumpkin from you. My son and I want to carve a jack-o-lantern for the upcoming Spirit's Eve festival. ^   -Caroline%item quest 108 %%[#]Caroline's Request"
+        "abbySpiritBoard": "{{i18n:Data/mail..abbySpiritBoard...Albert |default={{i18n:Data/mail..abbySpiritBoard..}}}}",
+        "fall_19_1": "{{i18n:Data/mail..fall_19_1...Albert |default={{i18n:Data/mail..fall_19_1..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Characters",
       "Entries": {
-        "AbigailInMineFlute": "%Albert is lost in his music...",
-        "Phone_Pierre_Open_Rare": "Albert! Your guinea pig is loose again! Come here *right now* and take care of this! $3#$b#Oh! Uh... Hello? Thank you for calling. Y... Yes, we're open until 5PM. Goodbye. *click*$4"
+        "AbigailInMineFlute": "{{i18n:Strings/Characters..AbigailInMineFlute...Albert |default={{i18n:Strings/Characters..AbigailInMineFlute..}}}}",
+        "Phone_Pierre_Open_Rare": "{{i18n:Strings/Characters..Phone_Pierre_Open_Rare...Albert |default={{i18n:Strings/Characters..Phone_Pierre_Open_Rare..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Furniture",
       "Entries": {
-        "AbigailPortrait": "Albert Portrait"
+        "AbigailPortrait": "{{i18n:Strings/Furniture..AbigailPortrait...Albert |default={{i18n:Strings/Furniture..AbigailPortrait..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/StringsFromCSFiles",
       "Entries": {
-        "Event.cs.1862": "Albert!",
-        "MapPage.cs.11079": "Home of Pierre, Caroline & Albert ",
-        "ItemDeliveryQuest.cs.13590": "Bored... could someone bring me {0}?    -Al",
-        "ItemDeliveryQuest.cs.13593": "I want to pull a prank on my Dad. I'll need {0}. Keep it secret :)      -Albert"
+        "Event.cs.1862": "{{i18n:Strings/StringsFromCSFiles..Event.cs.1862...Albert |default={{i18n:Strings/StringsFromCSFiles..Event.cs.1862..}}}}",
+        "MapPage.cs.11079": "{{i18n:Strings/StringsFromCSFiles..MapPage.cs.11079...Albert |default={{i18n:Strings/StringsFromCSFiles..MapPage.cs.11079..}}}}",
+        "ItemDeliveryQuest.cs.13590": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13590...Albert |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13590..}}}}",
+        "ItemDeliveryQuest.cs.13593": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13593...Albert |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13593..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/StringsFromMaps",
       "Entries": {
-        "BathHouse_WomensLocker.3": "It's Pam's locker. It stinks pretty bad."
+        "BathHouse_WomensLocker.3": "{{i18n:Strings/StringsFromMaps..BathHouse_WomensLocker.3...Albert |default={{i18n:Strings/StringsFromMaps..BathHouse_WomensLocker.3..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/schedules/Abigail",
       "Entries": {
-        "spring_4.001": "I'm just here for my annual check-up! Don't worry, there's nothing wrong with my p... I mean, I'm not sick! Heh.$9"
+        "spring_4.001": "{{i18n:Strings/schedules/Abigail..spring_4.001...Albert |default={{i18n:Strings/schedules/Abigail..spring_4.001..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Weapons",
       "Entries": {
-        "AbbysPlanchette_Name": "Al's Planchette",
-        "AbbysPlanchette_Description": "It's made from fine marblewood."
+        "AbbysPlanchette_Name": "{{i18n:Strings/Weapons..AbbysPlanchette_Name...Albert |default={{i18n:Strings/Weapons..AbbysPlanchette_Name..}}}}",
+        "AbbysPlanchette_Description": "{{i18n:Strings/Weapons..AbbysPlanchette_Description...Albert |default={{i18n:Strings/Weapons..AbbysPlanchette_Description..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/hats",
       "Entries": {
-        "AbigailsBow": "{{Abigail}}'s Bow/It's just like {{Abby}}'s./true/false//{{Abigail}}'s Bow/94"
+        "AbigailsBow": "{{i18n:Data/hats..AbigailsBow...Albert |default={{i18n:Data/hats..AbigailsBow.. |Abigail={{Abigail}} |Abby={{Abby}} |Abigail={{Abigail}}}} |Abigail={{Abigail}} |Abby={{Abby}} |Abigail={{Abigail}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/ExtraDialogue",
       "Entries": {
-        "PurchasedItem_Pierre_QualityHigh": "Hey, remember that {2} you sold me the other day? I ended up serving it to the family for a special dinner.#$b#My wife loved it! ...And {{Abby}} even started going to town on it after I smothered the thing in hoisin sauce. $h#$b#... well,... back to business, huh?"
+        "PurchasedItem_Pierre_QualityHigh": "{{i18n:Data/ExtraDialogue..PurchasedItem_Pierre_QualityHigh...Albert |default={{i18n:Data/ExtraDialogue..PurchasedItem_Pierre_QualityHigh.. |Abby={{Abby}}}} |Abby={{Abby}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/SebastianRoom",
       "Entries": {
-        "enterRobin": "pause 500/playSound mouseClick/pause 100/playSound mouseClick/pause 500/playSound Pickup_Coin15/pause 300/emote Sebastian 40/speak Sebastian \"That was an instant message from {{Sam}}... I guess {{Sam_he}} wants to hang out...#$b#Ugh, I don't really feel like going out today.$u\"/pause 500/playSound doorClose/warp Robin 1 1/move Robin 0 4 1/speak Robin \"Oh, hi @.\"/faceDirection farmer 3/move Robin 4 0 1/speak Robin \"{{Sebby}}, I know you don't like it when I come in here... but I ran into {{Abigail}} at the store and {{Abigail_she}} said {{Abigail_she}} was looking for you.\"/pause 200/emote Sebastian 28/speak Sebastian \"Did you tell {{Abigail_her_him}} I'm working?\"/speak Robin \"I did... but {{Abigail_she}} said {{Abigail_she}}'d probably stop by anyway.\"/emote Sebastian 12/speak Sebastian \"*sigh*... No one takes my job seriously.$u#$b#No one ever bothers {{Maru}} when {{Maru_she}}'s working at the clinic... does everyone think I'm just surfing the web all day?\"/faceDirection farmer 0 true/move Robin -4 0 0/move Robin 0 -4 0/warp Robin -100 -100/playSound doorClose/pause 500/faceDirection farmer 0/resetVariable/question fork1 \"#Ask {{Sebastian_him}} about {{Sebastian_his}} career goals.#Ask {{Sebastian_him}} why {{Sebastian_he}} doesn't want to see {{Sebastian_his}} friends.\"/fork noFriends/pause 500/speak Sebastian \"Well, I'm trying to save up so I can move out of here. Probably to the city or something.\"/emote Sebastian 40/speak Sebastian \"You know, if I'd gone to college I'd probably be making six figures right now... but I just don't want to be part of that corporate rat race, you know?#$b#Well, and I guess I just feel more comfortable hidden behind the computer than dealing with people face-to-face.$s\"/emote Sebastian 28/pause 600/playSound mouseClick/pause 100/playSound mouseClick/pause 300/speak Sebastian \"Well, I should get back to work... I need to get this module finished by tomorrow.\"/animate Sebastian false true 100 24 24 24 24 24 24 24 24 24 24 25 26 27 26 27 26 27 26 25 24 24/playSound keyboardTyping/pause 500/move farmer 0 2 3/move farmer -3 0 0/move farmer 0 -2 3/move farmer -5 0 0 true/globalFade/viewport -1000 -1000/pause 1000/end"
+        "enterRobin": "{{i18n:Data/Events/SebastianRoom..enterRobin...Albert |default={{i18n:Data/Events/SebastianRoom..enterRobin.. |Sam={{Sam}} |Sam_he={{Sam_he}} |Sebby={{Sebby}} |Abigail={{Abigail}} |Abigail_she={{Abigail_she}} |Abigail_she={{Abigail_she}} |Abigail_her_him={{Abigail_her_him}} |Abigail_she={{Abigail_she}} |Abigail_she={{Abigail_she}} |Maru={{Maru}} |Maru_she={{Maru_she}} |Sebastian_him={{Sebastian_him}} |Sebastian_his={{Sebastian_his}} |Sebastian_him={{Sebastian_him}} |Sebastian_he={{Sebastian_he}} |Sebastian_his={{Sebastian_his}}}} |Sam={{Sam}} |Sam_he={{Sam_he}} |Sebby={{Sebby}} |Abigail={{Abigail}} |Abigail_she={{Abigail_she}} |Abigail_she={{Abigail_she}} |Abigail_her_him={{Abigail_her_him}} |Abigail_she={{Abigail_she}} |Abigail_she={{Abigail_she}} |Maru={{Maru}} |Maru_she={{Maru_she}} |Sebastian_him={{Sebastian_him}} |Sebastian_his={{Sebastian_his}} |Sebastian_him={{Sebastian_him}} |Sebastian_he={{Sebastian_he}} |Sebastian_his={{Sebastian_his}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/winter8",
       "Entries": {
-        "Pierre_y2": "Our family has matching Winter Star sweaters.#$e#Now, if only {{Abigail}} would wear his...$2"
+        "Pierre_y2": "{{i18n:Data/Festivals/winter8..Pierre_y2...Albert |default={{i18n:Data/Festivals/winter8..Pierre_y2.. |Abigail={{Abigail}}}} |Abigail={{Abigail}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/MovieReactions",
       "Entries": {
-        "Abigail_love_DuringMovie_2": "{{Abigail}} is chuckling!",
-        "Caroline_like_AfterMovie": "That wasn't bad! I'll have to ask {{Abigail}} about it when I'm home, I'm sure he's seen it.$h"
+        "Abigail_love_DuringMovie_2": "{{i18n:Strings/MovieReactions..Abigail_love_DuringMovie_2...Albert |default={{i18n:Strings/MovieReactions..Abigail_love_DuringMovie_2.. |Abigail={{Abigail}}}} |Abigail={{Abigail}}}}",
+        "Caroline_like_AfterMovie": "{{i18n:Strings/MovieReactions..Caroline_like_AfterMovie...Albert |default={{i18n:Strings/MovieReactions..Caroline_like_AfterMovie.. |Abigail={{Abigail}}}} |Abigail={{Abigail}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Locations",
       "Entries": {
-        "Backwoods_MonsterGrave": "{{Abigail}} took a life to save mine...#I'll never forget that."
+        "Backwoods_MonsterGrave": "{{i18n:Strings/Locations..Backwoods_MonsterGrave...Albert |default={{i18n:Strings/Locations..Backwoods_MonsterGrave.. |Abigail={{Abigail}}}} |Abigail={{Abigail}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueSam",
       "Entries": {
-        "Rainy_Day_1": "Do you think {{Sebastian}} and {{Abigail}} will ever hook up?#$e#Heh... now that I'm married I'm trying to get everyone else married too."
+        "Rainy_Day_1": "{{i18n:Characters/Dialogue/MarriageDialogueSam..Rainy_Day_1...Albert |default={{i18n:Characters/Dialogue/MarriageDialogueSam..Rainy_Day_1.. |Sebastian={{Sebastian}} |Abigail={{Abigail}}}} |Sebastian={{Sebastian}} |Abigail={{Abigail}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueMaru",
       "Entries": {
-        "summer_20": "I wonder if my {{Sebastian_brother}} will ever have the courage to ask {{Abigail}} out?"
+        "summer_20": "{{i18n:Characters/Dialogue/MarriageDialogueMaru..summer_20...Albert |default={{i18n:Characters/Dialogue/MarriageDialogueMaru..summer_20.. |Sebastian_brother={{Sebastian_brother}} |Abigail={{Abigail}}}} |Sebastian_brother={{Sebastian_brother}} |Abigail={{Abigail}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueAbigail",
       "Entries": {
-        "patio_Abigail": "%{{Abigail}} is lost in his music."
+        "patio_Abigail": "{{i18n:Characters/Dialogue/MarriageDialogueAbigail..patio_Abigail...Albert |default={{i18n:Characters/Dialogue/MarriageDialogueAbigail..patio_Abigail.. |Abigail={{Abigail}}}} |Abigail={{Abigail}}}}"
       }
     }
   ]

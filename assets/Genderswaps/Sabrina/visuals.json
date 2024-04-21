@@ -4,7 +4,7 @@
       "Action": "EditData",
       "Target": "placeholder",
       "Entries": {
-        "placeholder": "placeholder"
+        "placeholder": "{{i18n:placeholder..placeholder...Sabrina |default={{i18n:placeholder..placeholder..}}}}"
       }
     }
   ]

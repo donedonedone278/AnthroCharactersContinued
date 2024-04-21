@@ -4,52 +4,52 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Abigail",
       "Entries": {
-        "AcceptGift_(O)119": "This makes you wonder... Thousands of years ago, there was probably a young purple-haired cavedragon who played this flute, just like me.#$b#...I'll have to wash it before pressing it to my muzzle, though.$h",
-        "Resort_Umbrella": "My underbelly gets burnt really easily. So I'm just gonna stay under this umbrella for a while.#$e#I like it in the shade. Too much sun makes me dizzy.",
-        "summer_Thu10": "Wow, you look nice today.#$e#I mean, that summer air is really good for the scales, isn't it?... heh...$l",
-        "summer_Thu4": "Ew, this heat makes me wish I was a cave dragon.$s",
-        "fall_Thu": "#$1 AbigailHAND#Last night I dreamt that my left claw had turned into a gigantic %noun. Does that mean anything?#$e#%Abigail doesn't seem to be interested in talking right now.",
-        "fall_Fri6": "I wish the season lasted a little longer.$8#$e#When the wind really picks up, I almost feel like a hatchling again.",
-        "winter_7": "I'm looking forward to making a snow dragon tomorrow."
+        "AcceptGift_(O)119": "{{i18n:Characters/Dialogue/Abigail..AcceptGift_(O)119.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Abigail..AcceptGift_(O)119.Flavor.}}}}",
+        "Resort_Umbrella": "{{i18n:Characters/Dialogue/Abigail..Resort_Umbrella.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Abigail..Resort_Umbrella.Flavor.}}}}",
+        "summer_Thu10": "{{i18n:Characters/Dialogue/Abigail..summer_Thu10.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Abigail..summer_Thu10.Flavor.}}}}",
+        "summer_Thu4": "{{i18n:Characters/Dialogue/Abigail..summer_Thu4.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Abigail..summer_Thu4.Flavor.}}}}",
+        "fall_Thu": "{{i18n:Characters/Dialogue/Abigail..fall_Thu.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Abigail..fall_Thu.Flavor.}}}}",
+        "fall_Fri6": "{{i18n:Characters/Dialogue/Abigail..fall_Fri6.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Abigail..fall_Fri6.Flavor.}}}}",
+        "winter_7": "{{i18n:Characters/Dialogue/Abigail..winter_7.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Abigail..winter_7.Flavor.}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Alex",
       "Entries": {
-        "Sat": "My arms are really sore, but that's the sign of progress for a dog like me.#$e#I must've done a thousand push-ups yesterday.",
-        "summer_Tue": "If my fur wasn't so popular with the ladies, I swear I'd shave it all off in a second.#$e#*sigh*... Life can be tough.",
-        "summer_Sat": "Mmmm... I smell a barbeque.#$e#Damn I wonder if they have any bones for me.",
-        "winter_Sat": "There's some weird people living in this town.#$e#...like that wolf {{Sebastian}}. Why does {{Sebastian_he}} wear black all the time?#$e#I don't get it."
+        "Sat": "{{i18n:Characters/Dialogue/Alex..Sat.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Alex..Sat.Flavor.}}}}",
+        "summer_Tue": "{{i18n:Characters/Dialogue/Alex..summer_Tue.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Alex..summer_Tue.Flavor.}}}}",
+        "summer_Sat": "{{i18n:Characters/Dialogue/Alex..summer_Sat.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Alex..summer_Sat.Flavor.}}}}",
+        "winter_Sat": "{{i18n:Characters/Dialogue/Alex..winter_Sat.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Alex..winter_Sat.Flavor. |Sebastian={{Sebastian}} |Sebastian_he={{Sebastian_he}}}} |Sebastian={{Sebastian}} |Sebastian_he={{Sebastian_he}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Caroline",
       "Entries": {
-        "Sat6": "#$1 Caroline12#When we first moved here, I took a while to settle down... I wasn't ready for the domestic life.#$e#Pierre's a bit conventional... but he's an honest raccoon. He's ambitious, but he always puts his family first.",
-        "summer_Tue": "I've been smelling wild fruits in the forest lately.#$e#Foraging can be a fun way to earn some cash. Or you can use what you find as gifts or food.",
-        "fall_Wed6": "You know, I used to want to be a farmer myself. Well, more like a rancher.#$e#I always loved movies about the wild west when I was a kit."
+        "Sat6": "{{i18n:Characters/Dialogue/Caroline..Sat6.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Caroline..Sat6.Flavor.}}}}",
+        "summer_Tue": "{{i18n:Characters/Dialogue/Caroline..summer_Tue.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Caroline..summer_Tue.Flavor.}}}}",
+        "fall_Wed6": "{{i18n:Characters/Dialogue/Caroline..fall_Wed6.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Caroline..fall_Wed6.Flavor.}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Clint",
       "Entries": {
-        "Resort_Chair": "Ow... even under my fur I'm burnt to a crisp.$s",
-        "Resort_Bar": "I want some bamboo...$s",
-        "Wed6": "Oh, hi @. Sorry if my fur is a little messy. I've been working at the furnace all morning.$h#$e#So, did you need anything, or do you just want to visit?",
-        "Fri8": "I should save up and buy a computer...#$e#Maybe I can find a boyfriend on the 'internet'...$s#$e#What? Don't judge me! Not everyone is a cool, attractive, socially-adept farmer, you know!$u#$e#What's a panda like me supposed to do? *Groan*$s",
-        "Resort_Shore": "Oh no... I forgot to trim my foot claws.$s"
+        "Resort_Chair": "{{i18n:Characters/Dialogue/Clint..Resort_Chair.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Clint..Resort_Chair.Flavor.}}}}",
+        "Resort_Bar": "{{i18n:Characters/Dialogue/Clint..Resort_Bar.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Clint..Resort_Bar.Flavor.}}}}",
+        "Wed6": "{{i18n:Characters/Dialogue/Clint..Wed6.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Clint..Wed6.Flavor.}}}}",
+        "Fri8": "{{i18n:Characters/Dialogue/Clint..Fri8.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Clint..Fri8.Flavor.}}}}",
+        "Resort_Shore": "{{i18n:Characters/Dialogue/Clint..Resort_Shore.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Clint..Resort_Shore.Flavor.}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Demetrius",
       "Entries": {
-        "Fri": "Robin has a hot temper. It's better to stay on her good side. She bites...#$e#Don't tell her I said that.$h",
-        "Fri4": "Robin has a hot temper. It's better to stay on her good side. She bites...#$e#...now if I could only quantify her mood levels, perhaps I could model the fluctuations using a sinusoidal curve...$u",
-        "married_Maru": "*sigh*... @, I've come to accept that it's time for my 'kit' to become a grown rabbit. You have my blessing.$s"
+        "Fri": "{{i18n:Characters/Dialogue/Demetrius..Fri.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Demetrius..Fri.Flavor.}}}}",
+        "Fri4": "{{i18n:Characters/Dialogue/Demetrius..Fri4.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Demetrius..Fri4.Flavor.}}}}",
+        "married_Maru": "{{i18n:Characters/Dialogue/Demetrius..married_Maru.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Demetrius..married_Maru.Flavor.}}}}"
       }
     },
     {
@@ -59,24 +59,24 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Dwarf",
       "Entries": {
-        "Introduction": "Hey, you're pretty good at mining, for a surface-dweller.",
-        "firstVisit_IslandNorth": "If you enter the volcano on Ginger Island, you might encounter others like me. Don't be alarmed! We're peaceful with surface-dwellers.",
-        "Fri_2": "Most surface-dwellers fear the unknown... that's why I've hidden my shop here.#$e#Your mining skills prove you're trustworthy.",
-        "mineArea_121": "You know, you're pretty good at mining, for a surface-dweller."
+        "Introduction": "{{i18n:Characters/Dialogue/Dwarf..Introduction.FurryFarmerFlavor..AnthroConfig |default={{i18n:Characters/Dialogue/Dwarf..Introduction.FurryFarmerFlavor.}}}}",
+        "firstVisit_IslandNorth": "{{i18n:Characters/Dialogue/Dwarf..firstVisit_IslandNorth.FurryFarmerFlavor..AnthroConfig |default={{i18n:Characters/Dialogue/Dwarf..firstVisit_IslandNorth.FurryFarmerFlavor.}}}}",
+        "Fri_2": "{{i18n:Characters/Dialogue/Dwarf..Fri_2.FurryFarmerFlavor..AnthroConfig |default={{i18n:Characters/Dialogue/Dwarf..Fri_2.FurryFarmerFlavor.}}}}",
+        "mineArea_121": "{{i18n:Characters/Dialogue/Dwarf..mineArea_121.FurryFarmerFlavor..AnthroConfig |default={{i18n:Characters/Dialogue/Dwarf..mineArea_121.FurryFarmerFlavor.}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Elliot",
       "Entries": {
-        "Fri8": "I'll admit... it takes me several hours each morning to make my mane look this good."
+        "Fri8": "{{i18n:Characters/Dialogue/Elliot..Fri8.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Elliot..Fri8.Flavor.}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Emily",
       "Entries": {
-        "winter_Tue4": "I think my fur is frozen solid...$s"
+        "winter_Tue4": "{{i18n:Characters/Dialogue/Emily..winter_Tue4.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Emily..winter_Tue4.Flavor.}}}}"
       }
     }
   ]

@@ -4,7 +4,12 @@
       "Action": "EditImage",
       "Target": "TileSheets/junimo_furniture",
       "FromFile": "assets/TileSheets/junimo_furniture_perry.png",
-      "ToArea": { "X": 128, "Y": 272, "Width": 32, "Height": 32 }
+      "ToArea": {
+        "X": 128,
+        "Y": 272,
+        "Width": 32,
+        "Height": 32
+      }
     },
     {
       "Action": "EditImage",
@@ -40,7 +45,12 @@
       "Action": "EditImage",
       "Target": "LooseSprites/emojis",
       "FromFile": "assets/LooseSprites/emojis_perry.png",
-      "ToArea": { "X": 9, "Y": 99, "Width": 9, "Height": 9 }
+      "ToArea": {
+        "X": 9,
+        "Y": 99,
+        "Width": 9,
+        "Height": 9
+      }
     }
   ]
 }

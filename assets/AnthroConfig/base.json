@@ -450,92 +450,167 @@
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors",
       "FromFile": "assets/LooseSprites/Cursors_icons.png",
-      "ToArea": { "X": 0, "Y": 608, "Width": 96, "Height": 96 }
+      "ToArea": {
+        "X": 0,
+        "Y": 608,
+        "Width": 96,
+        "Height": 96
+      }
     },
     {
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors",
       "FromFile": "assets/LooseSprites/Cursors_forecast.png",
-      "ToArea": { "X": 413, "Y": 305, "Width": 126, "Height": 28 }
+      "ToArea": {
+        "X": 413,
+        "Y": 305,
+        "Width": 126,
+        "Height": 28
+      }
     },
     {
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors",
       "FromFile": "assets/LooseSprites/Cursors_fortune.png",
-      "ToArea": { "X": 540, "Y": 305, "Width": 126, "Height": 28 }
+      "ToArea": {
+        "X": 540,
+        "Y": 305,
+        "Width": 126,
+        "Height": 28
+      }
     },
     {
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors",
       "FromFile": "assets/LooseSprites/Cursors_tv_shows.png",
-      "ToArea": { "X": 517, "Y": 361, "Width": 169, "Height": 28 }
+      "ToArea": {
+        "X": 517,
+        "Y": 361,
+        "Width": 169,
+        "Height": 28
+      }
     },
     {
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors",
       "FromFile": "assets/LooseSprites/Cursors_joja_man.png",
-      "ToArea": { "X": 96, "Y": 1312, "Width": 32, "Height": 48 }
+      "ToArea": {
+        "X": 96,
+        "Y": 1312,
+        "Width": 32,
+        "Height": 48
+      }
     },
     {
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors",
       "FromFile": "assets/LooseSprites/Cursors_joja_victory_and_cart.png",
-      "ToArea": { "X": 0, "Y": 1388, "Width": 288, "Height": 64 }
+      "ToArea": {
+        "X": 0,
+        "Y": 1388,
+        "Width": 288,
+        "Height": 64
+      }
     },
     {
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors",
       "FromFile": "assets/LooseSprites/Cursors_construction_and_pam_bus.png",
-      "ToArea": { "X": 288, "Y": 1311, "Width": 144, "Height": 141 }
+      "ToArea": {
+        "X": 288,
+        "Y": 1311,
+        "Width": 144,
+        "Height": 141
+      }
     },
     {
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors",
       "FromFile": "assets/LooseSprites/Cursors_marnie_yay.png",
-      "ToArea": { "X": 544, "Y": 1424, "Width": 80, "Height": 28 }
+      "ToArea": {
+        "X": 544,
+        "Y": 1424,
+        "Width": 80,
+        "Height": 28
+      }
     },
     {
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors",
       "FromFile": "assets/LooseSprites/Cursors_prarie_king_and_random_stuff.png",
       "PatchMode": "Overlay",
-      "ToArea": { "X": 224, "Y": 1712, "Width": 400, "Height": 272 }
+      "ToArea": {
+        "X": 224,
+        "Y": 1712,
+        "Width": 400,
+        "Height": 272
+      }
     },
     {
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors",
       "FromFile": "assets/LooseSprites/Cursors_marnie_paintings.png",
-      "ToArea": { "X": 0, "Y": 1925, "Width": 50, "Height": 47 }
+      "ToArea": {
+        "X": 0,
+        "Y": 1925,
+        "Width": 50,
+        "Height": 47
+      }
     },
     {
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors_1_6",
       "FromFile": "assets/LooseSprites/Cursors_1_6_book_shop_man.png",
-      "ToArea": { "X": 31, "Y": 464, "Width": 164, "Height": 48 }
+      "ToArea": {
+        "X": 31,
+        "Y": 464,
+        "Width": 164,
+        "Height": 48
+      }
     },
     {
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors_1_6",
       "FromFile": "assets/LooseSprites/Cursors_1_6_forecast.png",
-      "ToArea": { "X": 213, "Y": 335, "Width": 43, "Height": 28 }
+      "ToArea": {
+        "X": 213,
+        "Y": 335,
+        "Width": 43,
+        "Height": 28
+      }
     },
     {
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors_1_6",
       "FromFile": "assets/LooseSprites/Cursors_1_6_fortune.png",
-      "ToArea": { "X": 424, "Y": 447, "Width": 42, "Height": 57 }
+      "ToArea": {
+        "X": 424,
+        "Y": 447,
+        "Width": 42,
+        "Height": 57
+      }
     },
     {
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors_1_6",
       "FromFile": "assets/LooseSprites/Cursors_1_6_morris_smug.png",
-      "ToArea": { "X": 198, "Y": 80, "Width": 58, "Height": 41 }
+      "ToArea": {
+        "X": 198,
+        "Y": 80,
+        "Width": 58,
+        "Height": 41
+      }
     },
     {
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors_1_6",
       "FromFile": "assets/LooseSprites/Cursors_1_6_qi_plane.png",
-      "ToArea": { "X": 113, "Y": 204, "Width": 91, "Height": 43 }
+      "ToArea": {
+        "X": 113,
+        "Y": 204,
+        "Width": 91,
+        "Height": 43
+      }
     },
     {
       "Action": "EditImage",
@@ -553,13 +628,23 @@
       "Action": "EditImage",
       "Target": "LooseSprites/cursors2",
       "FromFile": "assets/LooseSprites/Cursors2_island_weather.png",
-      "ToArea": { "X": 148, "Y": 62, "Width": 42, "Height": 28 }
+      "ToArea": {
+        "X": 148,
+        "Y": 62,
+        "Width": 42,
+        "Height": 28
+      }
     },
     {
       "Action": "EditImage",
       "Target": "LooseSprites/cursors2",
       "FromFile": "assets/LooseSprites/Cursors2_broomstick.png",
-      "ToArea": { "X": 208, "Y": 256, "Width": 48, "Height": 64 }
+      "ToArea": {
+        "X": 208,
+        "Y": 256,
+        "Width": 48,
+        "Height": 64
+      }
     },
     {
       "Action": "EditImage",
@@ -575,61 +660,111 @@
       "Action": "EditImage",
       "Target": "Maps/desert_festival_tilesheet",
       "FromFile": "assets/Maps/desert_festival_tilesheet_drinker.png",
-      "ToArea": { "X": 0, "Y": 384, "Width": 48, "Height": 32 }
+      "ToArea": {
+        "X": 0,
+        "Y": 384,
+        "Width": 48,
+        "Height": 32
+      }
     },
     {
       "Action": "EditImage",
       "Target": "Maps/desert_festival_tilesheet",
       "FromFile": "assets/Maps/desert_festival_tilesheet_turban.png",
-      "ToArea": { "X": 432, "Y": 192, "Width": 64, "Height": 32 }
+      "ToArea": {
+        "X": 432,
+        "Y": 192,
+        "Width": 64,
+        "Height": 32
+      }
     },
     {
       "Action": "EditImage",
       "Target": "Maps/desert_festival_tilesheet",
       "FromFile": "assets/Maps/desert_festival_tilesheet_npcs.png",
-      "ToArea": { "X": 240, "Y": 304, "Width": 272, "Height": 96 }
+      "ToArea": {
+        "X": 240,
+        "Y": 304,
+        "Width": 272,
+        "Height": 96
+      }
     },
     {
       "Action": "EditImage",
       "Target": "Maps/desert_festival_tilesheet",
       "FromFile": "assets/Maps/desert_festival_tilesheet_kitchen.png",
-      "ToArea": { "X": 208, "Y": 432, "Width": 159, "Height": 64 }
+      "ToArea": {
+        "X": 208,
+        "Y": 432,
+        "Width": 159,
+        "Height": 64
+      }
     },
     {
       "Action": "EditImage",
       "Target": "Maps/desert_festival_tilesheet",
       "FromFile": "assets/Maps/desert_festival_tilesheet_gil_and_bucktooth.png",
-      "ToArea": { "X": 48, "Y": 297, "Width": 96, "Height": 87 }
+      "ToArea": {
+        "X": 48,
+        "Y": 297,
+        "Width": 96,
+        "Height": 87
+      }
     },
     {
       "Action": "EditImage",
       "Target": "Maps/desert_festival_tilesheet",
       "FromFile": "assets/Maps/desert_festival_tilesheet_marlon_shop.png",
-      "ToArea": { "X": 16, "Y": 32, "Width": 112, "Height": 80 }
+      "ToArea": {
+        "X": 16,
+        "Y": 32,
+        "Width": 112,
+        "Height": 80
+      }
     },
     {
       "Action": "EditImage",
       "Target": "Maps/FishingDerbyTiles",
       "FromFile": "assets/Maps/FishingDerbyTiles_shopkeepers.png",
-      "ToArea": { "X": 0, "Y": 48, "Width": 128, "Height": 32 }
+      "ToArea": {
+        "X": 0,
+        "Y": 48,
+        "Width": 128,
+        "Height": 32
+      }
     },
     {
       "Action": "EditImage",
       "Target": "Maps/DesertTiles",
       "FromFile": "assets/Maps/DesertTiles_people1.png",
-      "ToArea": { "X": 96, "Y": 192, "Width": 32, "Height": 48 }
+      "ToArea": {
+        "X": 96,
+        "Y": 192,
+        "Width": 32,
+        "Height": 48
+      }
     },
     {
       "Action": "EditImage",
       "Target": "Maps/DesertTiles",
       "FromFile": "assets/Maps/DesertTiles_people2.png",
-      "ToArea": { "X": 160, "Y": 256, "Width": 16, "Height": 16 }
+      "ToArea": {
+        "X": 160,
+        "Y": 256,
+        "Width": 16,
+        "Height": 16
+      }
     },
     {
       "Action": "EditImage",
       "Target": "Maps/DesertTiles",
       "FromFile": "assets/Maps/DesertTiles_people3.png",
-      "ToArea": { "X": 224, "Y": 288, "Width": 32, "Height": 32 }
+      "ToArea": {
+        "X": 224,
+        "Y": 288,
+        "Width": 32,
+        "Height": 32
+      }
     },
     {
       "Action": "EditImage",
@@ -755,49 +890,89 @@
       "Action": "EditImage",
       "Target": "Maps/submarine_tilesheet",
       "FromFile": "assets/Maps/submarine_tilesheet_guy.png",
-      "ToArea": { "X": 16, "Y": 126, "Width": 16, "Height": 32 }
+      "ToArea": {
+        "X": 16,
+        "Y": 126,
+        "Width": 16,
+        "Height": 32
+      }
     },
     {
       "Action": "EditImage",
       "Target": "Maps/submarine_tilesheet",
       "FromFile": "assets/Maps/submarine_tilesheet_faces.png",
-      "ToArea": { "X": 192, "Y": 288, "Width": 64, "Height": 16 }
+      "ToArea": {
+        "X": 192,
+        "Y": 288,
+        "Width": 64,
+        "Height": 16
+      }
     },
     {
       "Action": "EditImage",
       "Target": "Maps/townInterior",
       "FromFile": "assets/Maps/townInterior_poster.png",
-      "ToArea": { "X": 352, "Y": 176, "Width": 16, "Height": 16 }
+      "ToArea": {
+        "X": 352,
+        "Y": 176,
+        "Width": 16,
+        "Height": 16
+      }
     },
     {
       "Action": "EditImage",
       "Target": "Maps/townInterior",
       "FromFile": "assets/Maps/townInterior_nose.png",
-      "ToArea": { "X": 144, "Y": 432, "Width": 16, "Height": 16 }
+      "ToArea": {
+        "X": 144,
+        "Y": 432,
+        "Width": 16,
+        "Height": 16
+      }
     },
     {
       "Action": "EditImage",
       "Target": "Maps/townInterior",
       "FromFile": "assets/Maps/townInterior_gil.png",
-      "ToArea": { "X": 176, "Y": 624, "Width": 64, "Height": 64 }
+      "ToArea": {
+        "X": 176,
+        "Y": 624,
+        "Width": 64,
+        "Height": 64
+      }
     },
     {
       "Action": "EditImage",
       "Target": "Maps/townInterior",
       "FromFile": "assets/Maps/townInterior_joja_worker.png",
-      "ToArea": { "X": 352, "Y": 944, "Width": 32, "Height": 32 }
+      "ToArea": {
+        "X": 352,
+        "Y": 944,
+        "Width": 32,
+        "Height": 32
+      }
     },
     {
       "Action": "EditImage",
       "Target": "Maps/townInterior",
       "FromFile": "assets/Maps/townInterior_joja_man.png",
-      "ToArea": { "X": 368, "Y": 1008, "Width": 48, "Height": 32 }
+      "ToArea": {
+        "X": 368,
+        "Y": 1008,
+        "Width": 48,
+        "Height": 32
+      }
     },
     {
       "Action": "EditImage",
       "Target": "Minigames/Intro",
       "FromFile": "assets/Minigames/Intro.png",
-      "ToArea": { "X": 0, "Y": 0, "Width": 128, "Height": 64 }
+      "ToArea": {
+        "X": 0,
+        "Y": 0,
+        "Width": 128,
+        "Height": 64
+      }
     },
     {
       "Action": "EditImage",
@@ -1233,19 +1408,34 @@
       "Action": "EditImage",
       "Target": "TileSheets/Craftables",
       "FromFile": "assets/TileSheets/Craftables_lewis.png",
-      "ToArea": { "X": 64, "Y": 640, "Width": 16, "Height": 32 }
+      "ToArea": {
+        "X": 64,
+        "Y": 640,
+        "Width": 16,
+        "Height": 32
+      }
     },
     {
       "Action": "EditImage",
       "Target": "TileSheets/SecretNotesImages",
       "FromFile": "assets/TileSheets/SecretNotesImages.png",
-      "ToArea": { "X": 128, "Y": 64, "Width": 64, "Height": 64 }
+      "ToArea": {
+        "X": 128,
+        "Y": 64,
+        "Width": 64,
+        "Height": 64
+      }
     },
     {
       "Action": "EditImage",
       "Target": "TileSheets/junimo_furniture",
       "FromFile": "assets/TileSheets/junimo_furniture_portraits.png",
-      "ToArea": { "X": 0, "Y": 272, "Width": 160, "Height": 128 }
+      "ToArea": {
+        "X": 0,
+        "Y": 272,
+        "Width": 160,
+        "Height": 128
+      }
     },
     {
       "Action": "EditImage",
@@ -1441,7 +1631,12 @@
       "Action": "EditImage",
       "Target": "LooseSprites/JunimoNote",
       "FromFile": "assets/LooseSprites/JunimoNote_characters.png",
-      "ToArea": { "X": 352, "Y": 212, "Width": 160, "Height": 32 }
+      "ToArea": {
+        "X": 352,
+        "Y": 212,
+        "Width": 160,
+        "Height": 32
+      }
     },
     {
       "Action": "EditImage",
@@ -1459,7 +1654,12 @@
       "Action": "EditImage",
       "Target": "LooseSprites/emojis",
       "FromFile": "assets/LooseSprites/emojis_characters.png",
-      "ToArea": { "X": 0, "Y": 99, "Width": 126, "Height": 27 }
+      "ToArea": {
+        "X": 0,
+        "Y": 99,
+        "Width": 126,
+        "Height": 27
+      }
     },
     {
       "Action": "EditImage",

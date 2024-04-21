@@ -89,385 +89,385 @@
   "DynamicTokens": [
     {
       "Name": "Emily",
-      "Value": "Emily"
+      "Value": "{{i18n:token.Emily.normal}}"
     },
     {
       "Name": "Emily",
-      "Value": "Emil",
+      "Value": "{{i18n:token.Emily.swapped}}",
       "When": {
         "Emily to Emil": true
       }
     },
     {
       "Name": "Haley",
-      "Value": "Haley"
+      "Value": "{{i18n:token.Haley.normal}}"
     },
     {
       "Name": "Haley",
-      "Value": "Hayden",
+      "Value": "{{i18n:token.Haley.swapped}}",
       "When": {
         "Haley to Hayden": true
       }
     },
     {
       "Name": "Penny",
-      "Value": "Penny"
+      "Value": "{{i18n:token.Penny.normal}}"
     },
     {
       "Name": "Penny",
-      "Value": "Perry",
+      "Value": "{{i18n:token.Penny.swapped}}",
       "When": {
         "Penny to Perry": true
       }
     },
     {
       "Name": "Leah",
-      "Value": "Leah"
+      "Value": "{{i18n:token.Leah.normal}}"
     },
     {
       "Name": "Leah",
-      "Value": "Liam",
+      "Value": "{{i18n:token.Leah.swapped}}",
       "When": {
         "Leah to Liam": true
       }
     },
     {
       "Name": "Maru",
-      "Value": "Maru"
+      "Value": "{{i18n:token.Maru.normal}}"
     },
     {
       "Name": "Maru",
-      "Value": "Marcus",
+      "Value": "{{i18n:token.Maru.swapped}}",
       "When": {
         "Maru to Marcus": true
       }
     },
     {
       "Name": "Abigail",
-      "Value": "Abigail"
+      "Value": "{{i18n:token.Abigail.normal}}"
     },
     {
       "Name": "Abigail",
-      "Value": "Albert",
+      "Value": "{{i18n:token.Abigail.swapped}}",
       "When": {
         "Abigail to Albert": true
       }
     },
     {
       "Name": "Haley_her",
-      "Value": "her"
+      "Value": "{{i18n:token.Haley_her.normal}}"
     },
     {
       "Name": "Haley_her",
-      "Value": "him",
+      "Value": "{{i18n:token.Haley_her.swapped}}",
       "When": {
         "Haley to Hayden": true
       }
     },
     {
       "Name": "Abby",
-      "Value": "Abby"
+      "Value": "{{i18n:token.Abby.normal}}"
     },
     {
       "Name": "Abby",
-      "Value": "Al",
+      "Value": "{{i18n:token.Abby.swapped}}",
       "When": {
         "Abigail to Albert": true
       }
     },
     {
       "Name": "Sam_him",
-      "Value": "him"
+      "Value": "{{i18n:token.Sam_him.normal}}"
     },
     {
       "Name": "Sam_him",
-      "Value": "her",
+      "Value": "{{i18n:token.Sam_him.swapped}}",
       "When": {
         "Sam to Samantha": true
       }
     },
     {
       "Name": "Abigail_she",
-      "Value": "she"
+      "Value": "{{i18n:token.Abigail_she.normal}}"
     },
     {
       "Name": "Abigail_she",
-      "Value": "he",
+      "Value": "{{i18n:token.Abigail_she.swapped}}",
       "When": {
         "Abigail to Albert": true
       }
     },
     {
       "Name": "Sebastian_his",
-      "Value": "his"
+      "Value": "{{i18n:token.Sebastian_his.normal}}"
     },
     {
       "Name": "Sebastian_his",
-      "Value": "hers",
+      "Value": "{{i18n:token.Sebastian_his.swapped}}",
       "When": {
         "Sebastian to Sabrina": true
       }
     },
     {
       "Name": "Sam_brother",
-      "Value": "brother"
+      "Value": "{{i18n:token.Sam_brother.normal}}"
     },
     {
       "Name": "Sam_brother",
-      "Value": "sister",
+      "Value": "{{i18n:token.Sam_brother.swapped}}",
       "When": {
         "Sam to Samantha": true
       }
     },
     {
       "Name": "Elliott_he_does_have_a_nice_chin",
-      "Value": "he does have a nice chin"
+      "Value": "{{i18n:token.Elliott_he_does_have_a_nice_chin.normal}}"
     },
     {
       "Name": "Elliott_he_does_have_a_nice_chin",
-      "Value": "she does have nice fur",
+      "Value": "{{i18n:token.Elliott_he_does_have_a_nice_chin.swapped}}",
       "When": {
         "Elliott to Ellen": true
       }
     },
     {
       "Name": "Shane",
-      "Value": "Shane"
+      "Value": "{{i18n:token.Shane.normal}}"
     },
     {
       "Name": "Shane",
-      "Value": "Shauna",
+      "Value": "{{i18n:token.Shane.swapped}}",
       "When": {
         "Shane to Shauna": true
       }
     },
     {
       "Name": "Penny_Miss",
-      "Value": "Miss"
+      "Value": "{{i18n:token.Penny_Miss.normal}}"
     },
     {
       "Name": "Penny_Miss",
-      "Value": "Mister",
+      "Value": "{{i18n:token.Penny_Miss.swapped}}",
       "When": {
         "Penny to Perry": true
       }
     },
     {
       "Name": "Sam_he",
-      "Value": "he"
+      "Value": "{{i18n:token.Sam_he.normal}}"
     },
     {
       "Name": "Sam_he",
-      "Value": "she",
+      "Value": "{{i18n:token.Sam_he.swapped}}",
       "When": {
         "Sam to Samantha": true
       }
     },
     {
       "Name": "Sam_He",
-      "Value": "He"
+      "Value": "{{i18n:token.Sam_He.normal}}"
     },
     {
       "Name": "Sam_He",
-      "Value": "She",
+      "Value": "{{i18n:token.Sam_He.swapped}}",
       "When": {
         "Sam to Samantha": true
       }
     },
     {
       "Name": "Elliott",
-      "Value": "Elliott"
+      "Value": "{{i18n:token.Elliott.normal}}"
     },
     {
       "Name": "Elliott",
-      "Value": "Ellen",
+      "Value": "{{i18n:token.Elliott.swapped}}",
       "When": {
         "Elliott to Ellen": true
       }
     },
     {
       "Name": "Sam",
-      "Value": "Sam"
+      "Value": "{{i18n:token.Sam.normal}}"
     },
     {
       "Name": "Sam",
-      "Value": "Samantha",
+      "Value": "{{i18n:token.Sam.swapped}}",
       "When": {
         "Sam to Samantha": true
       }
     },
     {
       "Name": "Harvey",
-      "Value": "Harvey"
+      "Value": "{{i18n:token.Harvey.normal}}"
     },
     {
       "Name": "Harvey",
-      "Value": "Hannah",
+      "Value": "{{i18n:token.Harvey.swapped}}",
       "When": {
         "Harvey to Hannah": true
       }
     },
     {
       "Name": "Alex",
-      "Value": "Alex"
+      "Value": "{{i18n:token.Alex.normal}}"
     },
     {
       "Name": "Alex",
-      "Value": "Alexis",
+      "Value": "{{i18n:token.Alex.swapped}}",
       "When": {
         "Alex to Alexis": true
       }
     },
     {
       "Name": "Abigail_her_him",
-      "Value": "her"
+      "Value": "{{i18n:token.Abigail_her_him.normal}}"
     },
     {
       "Name": "Abigail_her_him",
-      "Value": "him",
+      "Value": "{{i18n:token.Abigail_her_him.swapped}}",
       "When": {
         "Abigail to Albert": true
       }
     },
     {
       "Name": "Shane_his_her",
-      "Value": "his"
+      "Value": "{{i18n:token.Shane_his_her.normal}}"
     },
     {
       "Name": "Shane_his_her",
-      "Value": "her",
+      "Value": "{{i18n:token.Shane_his_her.swapped}}",
       "When": {
         "Shane to Shauna": true
       }
     },
     {
       "Name": "Harvey_husband",
-      "Value": "husband"
+      "Value": "{{i18n:token.Harvey_husband.normal}}"
     },
     {
       "Name": "Harvey_husband",
-      "Value": "wife",
+      "Value": "{{i18n:token.Harvey_husband.swapped}}",
       "When": {
         "Harvey to Hannah": true
       }
     },
     {
       "Name": "Harvey_He",
-      "Value": "He"
+      "Value": "{{i18n:token.Harvey_He.normal}}"
     },
     {
       "Name": "Harvey_He",
-      "Value": "She",
+      "Value": "{{i18n:token.Harvey_He.swapped}}",
       "When": {
         "Harvey to Hannah": true
       }
     },
     {
       "Name": "Harvey_he",
-      "Value": "he"
+      "Value": "{{i18n:token.Harvey_he.normal}}"
     },
     {
       "Name": "Harvey_he",
-      "Value": "she",
+      "Value": "{{i18n:token.Harvey_he.swapped}}",
       "When": {
         "Harvey to Hannah": true
       }
     },
     {
       "Name": "Elliott_He",
-      "Value": "He"
+      "Value": "{{i18n:token.Elliott_He.normal}}"
     },
     {
       "Name": "Elliott_He",
-      "Value": "She",
+      "Value": "{{i18n:token.Elliott_He.swapped}}",
       "When": {
         "Elliott to Ellen": true
       }
     },
     {
       "Name": "Maru_her_him",
-      "Value": "her"
+      "Value": "{{i18n:token.Maru_her_him.normal}}"
     },
     {
       "Name": "Maru_her_him",
-      "Value": "him",
+      "Value": "{{i18n:token.Maru_her_him.swapped}}",
       "When": {
         "Maru to Marcus": true
       }
     },
     {
       "Name": "Shane_He",
-      "Value": "He"
+      "Value": "{{i18n:token.Shane_He.normal}}"
     },
     {
       "Name": "Shane_He",
-      "Value": "She",
+      "Value": "{{i18n:token.Shane_He.swapped}}",
       "When": {
         "Shane to Shauna": true
       }
     },
     {
       "Name": "Maru_she",
-      "Value": "she"
+      "Value": "{{i18n:token.Maru_she.normal}}"
     },
     {
       "Name": "Maru_she",
-      "Value": "he",
+      "Value": "{{i18n:token.Maru_she.swapped}}",
       "When": {
         "Maru to Marcus": true
       }
     },
     {
       "Name": "Sebby",
-      "Value": "Sebby"
+      "Value": "{{i18n:token.Sebby.normal}}"
     },
     {
       "Name": "Sebby",
-      "Value": "Sebby",
+      "Value": "{{i18n:token.Sebby.swapped}}",
       "When": {
         "Sebastian to Sabrina": true
       }
     },
     {
       "Name": "Sebastian_he",
-      "Value": "he"
+      "Value": "{{i18n:token.Sebastian_he.normal}}"
     },
     {
       "Name": "Sebastian_he",
-      "Value": "she",
+      "Value": "{{i18n:token.Sebastian_he.swapped}}",
       "When": {
         "Sebastian to Sabrina": true
       }
     },
     {
       "Name": "Sebastian_him",
-      "Value": "him"
+      "Value": "{{i18n:token.Sebastian_him.normal}}"
     },
     {
       "Name": "Sebastian_him",
-      "Value": "her",
+      "Value": "{{i18n:token.Sebastian_him.swapped}}",
       "When": {
         "Sebastian to Sabrina": true
       }
     },
     {
       "Name": "Sebastian_brother",
-      "Value": "brother"
+      "Value": "{{i18n:token.Sebastian_brother.normal}}"
     },
     {
       "Name": "Sebastian_brother",
-      "Value": "sister",
+      "Value": "{{i18n:token.Sebastian_brother.swapped}}",
       "When": {
         "Sebastian to Sabrina": true
       }
     },
     {
       "Name": "Sebastian",
-      "Value": "Sebastian"
+      "Value": "{{i18n:token.Sebastian.normal}}"
     },
     {
       "Name": "Sebastian",
-      "Value": "Sabrina",
+      "Value": "{{i18n:token.Sebastian.swapped}}",
       "When": {
         "Sebastian to Sabrina": true
       }

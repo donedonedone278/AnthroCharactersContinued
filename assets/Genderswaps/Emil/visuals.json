@@ -4,7 +4,12 @@
       "Action": "EditImage",
       "Target": "TileSheets/junimo_furniture",
       "FromFile": "assets/TileSheets/junimo_furniture_emil.png",
-      "ToArea": { "X": 64, "Y": 272, "Width": 32, "Height": 32 }
+      "ToArea": {
+        "X": 64,
+        "Y": 272,
+        "Width": 32,
+        "Height": 32
+      }
     },
     {
       "Action": "EditImage",
@@ -40,13 +45,23 @@
       "Action": "EditImage",
       "Target": "LooseSprites/emojis",
       "FromFile": "assets/LooseSprites/emojis_emil.png",
-      "ToArea": { "X": 45, "Y": 99, "Width": 9, "Height": 9 }
+      "ToArea": {
+        "X": 45,
+        "Y": 99,
+        "Width": 9,
+        "Height": 9
+      }
     },
     {
       "Action": "EditImage",
       "Target": "LooseSprites/JunimoNote",
       "FromFile": "assets/LooseSprites/JunimoNote_characters_emil.png",
-      "ToArea": { "X": 352, "Y": 212, "Width": 160, "Height": 32 }
+      "ToArea": {
+        "X": 352,
+        "Y": 212,
+        "Width": 160,
+        "Height": 32
+      }
     }
   ]
 }

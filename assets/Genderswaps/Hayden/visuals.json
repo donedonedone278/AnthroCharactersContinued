@@ -4,7 +4,12 @@
       "Action": "EditImage",
       "Target": "TileSheets/junimo_furniture",
       "FromFile": "assets/TileSheets/junimo_furniture_hayden.png",
-      "ToArea": { "X": 32, "Y": 272, "Width": 32, "Height": 32 }
+      "ToArea": {
+        "X": 32,
+        "Y": 272,
+        "Width": 32,
+        "Height": 32
+      }
     },
     {
       "Action": "EditImage",
@@ -40,13 +45,23 @@
       "Action": "EditImage",
       "Target": "Maps/townInterior",
       "FromFile": "assets/Maps/townInterior_hayden_vanity.png",
-      "ToArea": { "X": 368, "Y": 320, "Width": 16, "Height": 48 }
+      "ToArea": {
+        "X": 368,
+        "Y": 320,
+        "Width": 16,
+        "Height": 48
+      }
     },
     {
       "Action": "EditImage",
       "Target": "Maps/townInterior",
       "FromFile": "assets/Maps/townInterior_hayden_stool.png",
-      "ToArea": { "X": 352, "Y": 336, "Width": 16, "Height": 32 }
+      "ToArea": {
+        "X": 352,
+        "Y": 336,
+        "Width": 16,
+        "Height": 32
+      }
     },
     {
       "Action": "EditImage",
@@ -64,13 +79,23 @@
       "Action": "EditImage",
       "Target": "LooseSprites/emojis",
       "FromFile": "assets/LooseSprites/emojis_hayden.png",
-      "ToArea": { "X": 36, "Y": 99, "Width": 9, "Height": 9 }
+      "ToArea": {
+        "X": 36,
+        "Y": 99,
+        "Width": 9,
+        "Height": 9
+      }
     },
     {
       "Action": "EditImage",
       "Target": "Maps/townInterior",
       "FromFile": "assets/Maps/townInterior_rug.png",
-      "ToArea": { "X": 464, "Y": 208, "Width": 48, "Height": 32 }
+      "ToArea": {
+        "X": 464,
+        "Y": 208,
+        "Width": 48,
+        "Height": 32
+      }
     }
   ]
 }

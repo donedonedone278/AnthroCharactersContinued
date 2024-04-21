@@ -4,7 +4,12 @@
       "Action": "EditImage",
       "Target": "TileSheets/junimo_furniture",
       "FromFile": "assets/TileSheets/junimo_furniture_albert.png",
-      "ToArea": { "X": 0, "Y": 272, "Width": 32, "Height": 32 }
+      "ToArea": {
+        "X": 0,
+        "Y": 272,
+        "Width": 32,
+        "Height": 32
+      }
     },
     {
       "Action": "EditImage",
@@ -40,19 +45,34 @@
       "Action": "EditImage",
       "Target": "LooseSprites/emojis",
       "FromFile": "assets/LooseSprites/emojis_albert.png",
-      "ToArea": { "X": 0, "Y": 99, "Width": 9, "Height": 9 }
+      "ToArea": {
+        "X": 0,
+        "Y": 99,
+        "Width": 9,
+        "Height": 9
+      }
     },
     {
       "Action": "EditImage",
       "Target": "Characters/ClothesTherapyCharacters",
       "FromFile": "assets/Characters/ClothesTherapyCharacters_albert_strut.png",
-      "ToArea": { "X": 0, "Y": 32, "Width": 64, "Height": 32 }
+      "ToArea": {
+        "X": 0,
+        "Y": 32,
+        "Width": 64,
+        "Height": 32
+      }
     },
     {
       "Action": "EditImage",
       "Target": "Characters/ClothesTherapyCharacters",
       "FromFile": "assets/Characters/ClothesTherapyCharacters_albert_pose.png",
-      "ToArea": { "X": 0, "Y": 160, "Width": 16, "Height": 32 }
+      "ToArea": {
+        "X": 0,
+        "Y": 160,
+        "Width": 16,
+        "Height": 32
+      }
     }
   ]
 }
