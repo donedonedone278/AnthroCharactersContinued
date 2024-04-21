@@ -7,7 +7,7 @@
         "AcceptGift_(O)119": "This makes you wonder... Thousands of years ago, there was probably a young purple-haired cavedragon who played this flute, just like me.#$b#...I'll have to wash it before pressing it to my muzzle, though.$h",
         "Resort_Umbrella": "My underbelly gets burnt really easily. So I'm just gonna stay under this umbrella for a while.#$e#I like it in the shade. Too much sun makes me dizzy.",
         "summer_Thu10": "Wow, you look nice today.#$e#I mean, that summer air is really good for the scales, isn't it?... heh...$l",
-        "summer_Thu4": "Ew, this heat makes me wish I lived in a cave.$s",
+        "summer_Thu4": "Ew, this heat makes me wish I was a cave dragon.$s",
         "fall_Thu": "#$1 AbigailHAND#Last night I dreamt that my left claw had turned into a gigantic %noun. Does that mean anything?#$e#%Abigail doesn't seem to be interested in talking right now.",
         "fall_Fri6": "I wish the season lasted a little longer.$8#$e#When the wind really picks up, I almost feel like a hatchling again.",
         "winter_7": "I'm looking forward to making a snow dragon tomorrow."
@@ -20,7 +20,7 @@
         "Sat": "My arms are really sore, but that's the sign of progress for a dog like me.#$e#I must've done a thousand push-ups yesterday.",
         "summer_Tue": "If my fur wasn't so popular with the ladies, I swear I'd shave it all off in a second.#$e#*sigh*... Life can be tough.",
         "summer_Sat": "Mmmm... I smell a barbeque.#$e#Damn I wonder if they have any bones for me.",
-        "winter_Sat": "There's some weird people living in this town.#$e#...like that wolf Sebastian. Why does he wear black all the time?#$e#I don't get it."
+        "winter_Sat": "There's some weird people living in this town.#$e#...like that wolf {{Sebastian}}. Why does {{Sebastian_he}} wear black all the time?#$e#I don't get it."
       }
     },
     {

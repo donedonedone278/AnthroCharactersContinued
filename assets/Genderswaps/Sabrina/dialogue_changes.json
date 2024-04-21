@@ -145,6 +145,16 @@
     },
     {
       "Action": "EditData",
+      "Target": "Characters/Dialogue/Alex",
+      "When": {
+        "Flavor": true
+      },
+      "Entries": {
+        "winter_Sat": "There's some weird people living in this town.#$e#...like that wolf {{Sebastian}}. Why does {{Sebastian_he}} wear black all the time?#$e#I don't get it."
+      }
+    },
+    {
+      "Action": "EditData",
       "Target": "Characters/Dialogue/Abigail",
       "Entries": {
         "eventSeen_733330_memory_oneday": "{{Sam}} and {{Sebastian}} asked me to play drums in their band... I've never played drums before, but it's actually pretty fun.#$e#You have to learn how to move your limbs to different rhythms, at the same exact time. I feel like my brain is growing.$h",
