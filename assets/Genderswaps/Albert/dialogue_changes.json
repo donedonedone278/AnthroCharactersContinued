@@ -48,7 +48,7 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Abigail",
       "Entries": {
-        "summer_Thu4": "Ew, this heat makes me wish I lived in a cave.$s",
+        "summer_Thu4": "Ew, this heat makes me wish I was a cave dragon.$s",
         "fall_Thu": "#$1 AbigailHAND#Last night I dreamt that my left claw had turned into a gigantic %noun. Does that mean anything?#$e#%Albert doesn't seem to be interested in talking right now."
       }
     },
