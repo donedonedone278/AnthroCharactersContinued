@@ -2,6 +2,33 @@
   "Changes": [
     {
       "Action": "EditData",
+      "Target": "Data/Characters",
+      "TargetField": ["Sam"],
+      "Entries": {
+        "Gender": "Female"
+      },
+      "When": {
+        "Query: '{{DayEvent}}' = 'flower dance' AND '{{LocationName}}' = 'Temp'": false
+      },
+      "Update": "OnLocationChange"
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/NPCNames",
+      "Entries": {
+        "Sam": "Samantha"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Characters",
+      "TargetField": ["Jodi", "FriendsAndFamily"],
+      "Entries": {
+        "Sam": "daughter"
+      }
+    },
+    {
+      "Action": "EditData",
       "Target": "Data/SecretNotes",
       "Entries": {
         "2": "It's {{Sam}}'s holiday shopping list^^Everyone's favorites^^{{Sebastian}}: Frozen Tear, Sashimi^{{Penny}}: Emerald, Poppy^Vincent: Grape, Cranberry Candy^Mom: Crispy Bass, Pancakes^Dad: Risotto, Roasted Hazelnuts^Me: Cactus, Maple Bar, Pizza%revealtaste:Sebastian:84%revealtaste:Sebastian:227%revealtaste:Penny:60%revealtaste:Penny:376%revealtaste:Vincent:398%revealtaste:Vincent:612%revealtaste:Jodi:214%revealtaste:Jodi:211%revealtaste:Kent:649%revealtaste:Kent:607%revealtaste:Sam:90%revealtaste:Sam:731%revealtaste:Sam:206"

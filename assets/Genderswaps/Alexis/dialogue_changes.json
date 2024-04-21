@@ -2,6 +2,41 @@
   "Changes": [
     {
       "Action": "EditData",
+      "Target": "Data/Characters",
+      "TargetField": ["Alex"],
+      "Entries": {
+        "Gender": "Female"
+      },
+      "When": {
+        "Query: '{{DayEvent}}' = 'flower dance' AND '{{LocationName}}' = 'Temp'": false
+      },
+      "Update": "OnLocationChange"
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/NPCNames",
+      "Entries": {
+        "Alex": "Alexis"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Characters",
+      "TargetField": ["Evelyn", "FriendsAndFamily"],
+      "Entries": {
+        "Alex": "granddaughter"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Characters",
+      "TargetField": ["George", "FriendsAndFamily"],
+      "Entries": {
+        "Alex": "granddaughter"
+      }
+    },
+    {
+      "Action": "EditData",
       "Target": "Data/SecretNotes",
       "Entries": {
         "9": "{{Alex}}'s Strength Training Diet:^^*Complete Breakfast^*Salmon Dinner^^(I've learned to love this food... I can feel the protein!!)%revealtaste:Alex:201%revealtaste:Alex:212"

@@ -2,6 +2,25 @@
   "Changes": [
     {
       "Action": "EditData",
+      "Target": "Data/Characters",
+      "TargetField": ["Harvey"],
+      "Entries": {
+        "Gender": "Female"
+      },
+      "When": {
+        "Query: '{{DayEvent}}' = 'flower dance' AND '{{LocationName}}' = 'Temp'": false
+      },
+      "Update": "OnLocationChange"
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/NPCNames",
+      "Entries": {
+        "Harvey": "Hannah"
+      }
+    },
+    {
+      "Action": "EditData",
       "Target": "Data/SecretNotes",
       "Entries": {
         "7": "It's a page from someone's diary...^^...There are only a few 'older' singles in town, and none of them are perfect! {{Harvey}} is really anxious and weak, but I know {{Harvey_he}} would make a loyal and devoted {{Harvey_husband}}. {{Harvey_He}} likes coffee and pickles.^^{{Elliott}} is a bit foppish and melodramatic, but {{Elliott_he_does_have_a_nice_chin}}. {{Elliott_He}} likes crab cakes and pomegranates.^^{{Shane}} is messy and anti-social. But I think {{Shane_his_her}} gruff exterior is a defense mechanism, insulating {{Shane_his_her}} softness from the world. {{Shane_He}} likes Beer, Pizza, and Pepper Poppers.%revealtaste:Harvey:395%revealtaste:Harvey:342%revealtaste:Elliott:732%revealtaste:Elliott:637%revealtaste:Shane:346%revealtaste:Shane:206%revealtaste:Shane:215"      }
