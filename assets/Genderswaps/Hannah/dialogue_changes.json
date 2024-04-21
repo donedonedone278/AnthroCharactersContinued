@@ -127,7 +127,7 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialoguePenny",
       "Entries": {
-        "Rainy_Day_1": "I wonder if {{Maru}} and Dr. {{Harvey}} will ever get together? I'm sure {{Harvey}} likes {{Maru_her}}...#$e#I think {{Maru}} will have to make the first move, though.$h"
+        "Rainy_Day_1": "I wonder if {{Maru}} and Dr. {{Harvey}} will ever get together? I'm sure {{Harvey}} likes {{Maru_her_him}}...#$e#I think {{Maru}} will have to make the first move, though.$h"
       }
     },
     {

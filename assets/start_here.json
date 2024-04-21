@@ -108,6 +108,96 @@
       },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Perry/dialogue_changes.json"
+    },
+    {
+      "When": {
+        "Shane to Shauna": true
+      },
+      "Action": "Include",
+      "FromFile": "assets/Genderswaps/Shauna/visuals.json"
+    },
+    {
+      "When": {
+        "Shane to Shauna": true,
+        "Language": "en"
+      },
+      "Action": "Include",
+      "FromFile": "assets/Genderswaps/Shauna/dialogue_changes.json"
+    },
+    {
+      "When": {
+        "Elliott to Ellen": true
+      },
+      "Action": "Include",
+      "FromFile": "assets/Genderswaps/Ellen/visuals.json"
+    },
+    {
+      "When": {
+        "Elliott to Ellen": true,
+        "Language": "en"
+      },
+      "Action": "Include",
+      "FromFile": "assets/Genderswaps/Ellen/dialogue_changes.json"
+    },
+    {
+      "When": {
+        "Sebastian to Sabrina": true
+      },
+      "Action": "Include",
+      "FromFile": "assets/Genderswaps/Sabrina/visuals.json"
+    },
+    {
+      "When": {
+        "Sebastian to Sabrina": true,
+        "Language": "en"
+      },
+      "Action": "Include",
+      "FromFile": "assets/Genderswaps/Sabrina/dialogue_changes.json"
+    },
+    {
+      "When": {
+        "Sam to Samantha": true
+      },
+      "Action": "Include",
+      "FromFile": "assets/Genderswaps/Samantha/visuals.json"
+    },
+    {
+      "When": {
+        "Sam to Samantha": true,
+        "Language": "en"
+      },
+      "Action": "Include",
+      "FromFile": "assets/Genderswaps/Samantha/dialogue_changes.json"
+    },
+    {
+      "When": {
+        "Harvey to Hannah": true
+      },
+      "Action": "Include",
+      "FromFile": "assets/Genderswaps/Hannah/visuals.json"
+    },
+    {
+      "When": {
+        "Harvey to Hannah": true,
+        "Language": "en"
+      },
+      "Action": "Include",
+      "FromFile": "assets/Genderswaps/Hannah/dialogue_changes.json"
+    },
+    {
+      "When": {
+        "Alex to Alexis": true
+      },
+      "Action": "Include",
+      "FromFile": "assets/Genderswaps/Alexis/visuals.json"
+    },
+    {
+      "When": {
+        "Alex to Alexis": true,
+        "Language": "en"
+      },
+      "Action": "Include",
+      "FromFile": "assets/Genderswaps/Alexis/dialogue_changes.json"
     }
   ]
 }
