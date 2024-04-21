@@ -254,11 +254,11 @@
     },
     {
       "Name": "Sam_he",
-      "Value": "{{i18n:token.Sam_he.normal}}"
+      "Value": "{{i18n:token.Sam_he.normal_2}}"
     },
     {
       "Name": "Sam_he",
-      "Value": "{{i18n:token.Sam_he.swapped}}",
+      "Value": "{{i18n:token.Sam_he.swapped_2}}",
       "When": {
         "Sam to Samantha": true
       }
@@ -364,11 +364,11 @@
     },
     {
       "Name": "Harvey_he",
-      "Value": "{{i18n:token.Harvey_he.normal}}"
+      "Value": "{{i18n:token.Harvey_he.normal_2}}"
     },
     {
       "Name": "Harvey_he",
-      "Value": "{{i18n:token.Harvey_he.swapped}}",
+      "Value": "{{i18n:token.Harvey_he.swapped_2}}",
       "When": {
         "Harvey to Hannah": true
       }
