@@ -48,6 +48,42 @@
       "Default": "false",
       "Section": "Genderswaps",
       "Description": "Visuals take a second to activate. Dialogue changes are applied at start-of-day."
+    },
+    "Shane to Shauna": {
+      "AllowValues": "true, false",
+      "Default": "false",
+      "Section": "WORK IN PROGRESS (NO VISUALS)",
+      "Description": "Visuals take a second to activate. Dialogue changes are applied at start-of-day."
+    },
+    "Elliott to Ellen": {
+      "AllowValues": "true, false",
+      "Default": "false",
+      "Section": "WORK IN PROGRESS (NO VISUALS)",
+      "Description": "Visuals take a second to activate. Dialogue changes are applied at start-of-day."
+    },
+    "Sebastian to Sabrina": {
+      "AllowValues": "true, false",
+      "Default": "false",
+      "Section": "WORK IN PROGRESS (NO VISUALS)",
+      "Description": "Visuals take a second to activate. Dialogue changes are applied at start-of-day."
+    },
+    "Sam to Samantha": {
+      "AllowValues": "true, false",
+      "Default": "false",
+      "Section": "WORK IN PROGRESS (NO VISUALS)",
+      "Description": "Visuals take a second to activate. Dialogue changes are applied at start-of-day."
+    },
+    "Harvey to Hannah": {
+      "AllowValues": "true, false",
+      "Default": "false",
+      "Section": "WORK IN PROGRESS (NO VISUALS)",
+      "Description": "Visuals take a second to activate. Dialogue changes are applied at start-of-day."
+    },
+    "Alex to Alexis": {
+      "AllowValues": "true, false",
+      "Default": "false",
+      "Section": "WORK IN PROGRESS (NO VISUALS)",
+      "Description": "Visuals take a second to activate. Dialogue changes are applied at start-of-day."
     }
   },
   "DynamicTokens": [
@@ -137,6 +173,303 @@
       "Value": "Al",
       "When": {
         "Abigail to Albert": true
+      }
+    },
+    {
+      "Name": "Sam_him",
+      "Value": "him"
+    },
+    {
+      "Name": "Sam_him",
+      "Value": "her",
+      "When": {
+        "Sam to Samantha": true
+      }
+    },
+    {
+      "Name": "Abigail_she",
+      "Value": "she"
+    },
+    {
+      "Name": "Abigail_she",
+      "Value": "he",
+      "When": {
+        "Abigail to Albert": true
+      }
+    },
+    {
+      "Name": "Sebastian_his",
+      "Value": "his"
+    },
+    {
+      "Name": "Sebastian_his",
+      "Value": "hers",
+      "When": {
+        "Sebastian to Sabrina": true
+      }
+    },
+    {
+      "Name": "Sam_brother",
+      "Value": "brother"
+    },
+    {
+      "Name": "Sam_brother",
+      "Value": "sister",
+      "When": {
+        "Sam to Samantha": true
+      }
+    },
+    {
+      "Name": "Elliott_he_does_have_a_nice_chin",
+      "Value": "he does have a nice chin"
+    },
+    {
+      "Name": "Elliott_he_does_have_a_nice_chin",
+      "Value": "she does have nice fur",
+      "When": {
+        "Elliott to Ellen": true
+      }
+    },
+    {
+      "Name": "Shane",
+      "Value": "Shane"
+    },
+    {
+      "Name": "Shane",
+      "Value": "Shauna",
+      "When": {
+        "Shane to Shauna": true
+      }
+    },
+    {
+      "Name": "Penny_Miss",
+      "Value": "Miss"
+    },
+    {
+      "Name": "Penny_Miss",
+      "Value": "Mister",
+      "When": {
+        "Penny to Perry": true
+      }
+    },
+    {
+      "Name": "Sam_he",
+      "Value": "he"
+    },
+    {
+      "Name": "Sam_he",
+      "Value": "she",
+      "When": {
+        "Sam to Samantha": true
+      }
+    },
+    {
+      "Name": "Sam_He",
+      "Value": "He"
+    },
+    {
+      "Name": "Sam_He",
+      "Value": "She",
+      "When": {
+        "Sam to Samantha": true
+      }
+    },
+    {
+      "Name": "Elliott",
+      "Value": "Elliott"
+    },
+    {
+      "Name": "Elliott",
+      "Value": "Ellen",
+      "When": {
+        "Elliott to Ellen": true
+      }
+    },
+    {
+      "Name": "Sam",
+      "Value": "Sam"
+    },
+    {
+      "Name": "Sam",
+      "Value": "Samantha",
+      "When": {
+        "Sam to Samantha": true
+      }
+    },
+    {
+      "Name": "Harvey",
+      "Value": "Harvey"
+    },
+    {
+      "Name": "Harvey",
+      "Value": "Hannah",
+      "When": {
+        "Harvey to Hannah": true
+      }
+    },
+    {
+      "Name": "Alex",
+      "Value": "Alex"
+    },
+    {
+      "Name": "Alex",
+      "Value": "Alexis",
+      "When": {
+        "Alex to Alexis": true
+      }
+    },
+    {
+      "Name": "Abigail_her_him",
+      "Value": "her"
+    },
+    {
+      "Name": "Abigail_her_him",
+      "Value": "him",
+      "When": {
+        "Abigail to Albert": true
+      }
+    },
+    {
+      "Name": "Shane_his_her",
+      "Value": "his"
+    },
+    {
+      "Name": "Shane_his_her",
+      "Value": "her",
+      "When": {
+        "Shane to Shauna": true
+      }
+    },
+    {
+      "Name": "Harvey_husband",
+      "Value": "husband"
+    },
+    {
+      "Name": "Harvey_husband",
+      "Value": "wife",
+      "When": {
+        "Harvey to Hannah": true
+      }
+    },
+    {
+      "Name": "Harvey_He",
+      "Value": "He"
+    },
+    {
+      "Name": "Harvey_He",
+      "Value": "She",
+      "When": {
+        "Harvey to Hannah": true
+      }
+    },
+    {
+      "Name": "Harvey_he",
+      "Value": "he"
+    },
+    {
+      "Name": "Harvey_he",
+      "Value": "she",
+      "When": {
+        "Harvey to Hannah": true
+      }
+    },
+    {
+      "Name": "Elliott_He",
+      "Value": "He"
+    },
+    {
+      "Name": "Elliott_He",
+      "Value": "She",
+      "When": {
+        "Elliott to Ellen": true
+      }
+    },
+    {
+      "Name": "Maru_her_him",
+      "Value": "her"
+    },
+    {
+      "Name": "Maru_her_him",
+      "Value": "him",
+      "When": {
+        "Maru to Marcus": true
+      }
+    },
+    {
+      "Name": "Shane_He",
+      "Value": "He"
+    },
+    {
+      "Name": "Shane_He",
+      "Value": "She",
+      "When": {
+        "Shane to Shauna": true
+      }
+    },
+    {
+      "Name": "Maru_she",
+      "Value": "she"
+    },
+    {
+      "Name": "Maru_she",
+      "Value": "he",
+      "When": {
+        "Maru to Marcus": true
+      }
+    },
+    {
+      "Name": "Sebby",
+      "Value": "Sebby"
+    },
+    {
+      "Name": "Sebby",
+      "Value": "Sebby",
+      "When": {
+        "Sebastian to Sabrina": true
+      }
+    },
+    {
+      "Name": "Sebastian_he",
+      "Value": "he"
+    },
+    {
+      "Name": "Sebastian_he",
+      "Value": "she",
+      "When": {
+        "Sebastian to Sabrina": true
+      }
+    },
+    {
+      "Name": "Sebastian_him",
+      "Value": "him"
+    },
+    {
+      "Name": "Sebastian_him",
+      "Value": "her",
+      "When": {
+        "Sebastian to Sabrina": true
+      }
+    },
+    {
+      "Name": "Sebastian_brother",
+      "Value": "brother"
+    },
+    {
+      "Name": "Sebastian_brother",
+      "Value": "sister",
+      "When": {
+        "Sebastian to Sabrina": true
+      }
+    },
+    {
+      "Name": "Sebastian",
+      "Value": "Sebastian"
+    },
+    {
+      "Name": "Sebastian",
+      "Value": "Sabrina",
+      "When": {
+        "Sebastian to Sabrina": true
       }
     }
   ],
