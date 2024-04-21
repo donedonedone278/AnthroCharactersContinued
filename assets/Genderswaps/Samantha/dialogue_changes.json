@@ -174,13 +174,6 @@
     },
     {
       "Action": "EditData",
-      "Target": "Strings/NPCNames",
-      "Entries": {
-        "Sam": "{{Sam}}"
-      }
-    },
-    {
-      "Action": "EditData",
       "Target": "Strings/Locations",
       "Entries": {
         "SamHouse_Sam_Trash": "Looks like {{Sam}} cleans her trash bin regularly."

@@ -80,13 +80,6 @@
     },
     {
       "Action": "EditData",
-      "Target": "Strings/NPCNames",
-      "Entries": {
-        "Elliott": "{{Elliott}}"
-      }
-    },
-    {
-      "Action": "EditData",
       "Target": "Strings/Locations",
       "Entries": {
         "ElliottHouse_ElliottBook_Filled": "'{0}' by {{Elliott}} ... Dedicated to {1}"

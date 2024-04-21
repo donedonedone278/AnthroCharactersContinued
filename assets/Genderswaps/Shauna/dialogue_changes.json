@@ -104,13 +104,6 @@
     },
     {
       "Action": "EditData",
-      "Target": "Strings/NPCNames",
-      "Entries": {
-        "Shane": "{{Shane}}"
-      }
-    },
-    {
-      "Action": "EditData",
       "Target": "Characters/Dialogue/Leah",
       "Entries": {
         "married_Shane": "I'm happy that {{Shane}}'s in such a good place. I've never seen her smile so much!#$e#With her love for chickens, I'm sure she'll fit right in on %farm Farm!$h"

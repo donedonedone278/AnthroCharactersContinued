@@ -130,13 +130,6 @@
     },
     {
       "Action": "EditData",
-      "Target": "Strings/NPCNames",
-      "Entries": {
-        "Sebastian": "{{Sebastian}}"
-      }
-    },
-    {
-      "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueSam",
       "Entries": {
         "Rainy_Day_1": "Do you think {{Sebastian}} and {{Abigail}} will ever hook up?#$e#Heh... now that I'm married I'm trying to get everyone else married too.",

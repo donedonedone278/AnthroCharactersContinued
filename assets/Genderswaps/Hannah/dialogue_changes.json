@@ -115,13 +115,6 @@
     },
     {
       "Action": "EditData",
-      "Target": "Strings/NPCNames",
-      "Entries": {
-        "Harvey": "{{Harvey}}"
-      }
-    },
-    {
-      "Action": "EditData",
       "Target": "Characters/Dialogue/Emily",
       "Entries": {
         "summer_Sat": "Don't overwork yourself or you might end up in {{Harvey}}'s clinic!"

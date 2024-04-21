@@ -120,13 +120,6 @@
     },
     {
       "Action": "EditData",
-      "Target": "Strings/NPCNames",
-      "Entries": {
-        "Alex": "{{Alex}}"
-      }
-    },
-    {
-      "Action": "EditData",
       "Target": "Characters/Dialogue/Evelyn",
       "Entries": {
         "GreenRain": "George, dear... Is this the end? It's been a good life, but I'd like to see {{Alex}} find her way before departing...$s%noturn",
