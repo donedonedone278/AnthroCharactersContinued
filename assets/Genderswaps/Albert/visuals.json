@@ -4,6 +4,7 @@
       "Action": "EditImage",
       "Target": "TileSheets/junimo_furniture",
       "FromFile": "assets/TileSheets/junimo_furniture_albert.png",
+      "Priority": "Late + 1",
       "ToArea": {
         "X": 0,
         "Y": 272,
@@ -44,7 +45,14 @@
     {
       "Action": "EditImage",
       "Target": "LooseSprites/emojis",
-      "FromFile": "assets/LooseSprites/emojis_albert.png",
+      "FromFile": "assets/LooseSprites/emojis_characters.png",
+      "Priority": "Late + 1",
+      "FromArea": {
+        "X": 0,
+        "Y": 27,
+        "Width": 9,
+        "Height": 9
+      },
       "ToArea": {
         "X": 0,
         "Y": 99,
