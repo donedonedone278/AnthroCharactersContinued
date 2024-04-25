@@ -20,6 +20,10 @@
       "FromFile": "assets/SVEConfig/sve.json"
     },
     {
+      "Action": "Include",
+      "FromFile": "assets/RecolourConfig/recolour.json"
+    },
+    {
       "When": {
         "Abigail to Albert": true
       },
