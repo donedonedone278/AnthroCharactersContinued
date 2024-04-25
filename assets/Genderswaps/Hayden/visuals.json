@@ -4,6 +4,7 @@
       "Action": "EditImage",
       "Target": "TileSheets/junimo_furniture",
       "FromFile": "assets/TileSheets/junimo_furniture_hayden.png",
+      "Priority": "Late + 1",
       "ToArea": {
         "X": 32,
         "Y": 272,
@@ -45,6 +46,7 @@
       "Action": "EditImage",
       "Target": "Maps/townInterior",
       "FromFile": "assets/Maps/townInterior_hayden_vanity.png",
+      "Priority": "Late + 1",
       "ToArea": {
         "X": 368,
         "Y": 320,
@@ -56,6 +58,7 @@
       "Action": "EditImage",
       "Target": "Maps/townInterior",
       "FromFile": "assets/Maps/townInterior_hayden_stool.png",
+      "Priority": "Late + 1",
       "ToArea": {
         "X": 352,
         "Y": 336,
@@ -67,18 +70,27 @@
       "Action": "EditImage",
       "Target": "LooseSprites/cowPhotos",
       "FromFile": "assets/LooseSprites/cowPhotos.png",
-      "PatchMode": "Overlay"
+      "PatchMode": "Overlay",
+      "Priority": "Late + 1"
     },
     {
       "Action": "EditImage",
       "Target": "LooseSprites/cowPhotosWinter",
       "FromFile": "assets/LooseSprites/cowPhotosWinter.png",
-      "PatchMode": "Overlay"
+      "PatchMode": "Overlay",
+      "Priority": "Late + 1"
     },
     {
       "Action": "EditImage",
       "Target": "LooseSprites/emojis",
-      "FromFile": "assets/LooseSprites/emojis_hayden.png",
+      "FromFile": "assets/LooseSprites/emojis_characters.png",
+      "Priority": "Late + 1",
+      "FromArea": {
+        "X": 36,
+        "Y": 27,
+        "Width": 9,
+        "Height": 9
+      },
       "ToArea": {
         "X": 36,
         "Y": 99,
@@ -90,6 +102,8 @@
       "Action": "EditImage",
       "Target": "Maps/townInterior",
       "FromFile": "assets/Maps/townInterior_rug.png",
+      "PatchMode": "Overlay",
+      "Priority": "Late + 1",
       "ToArea": {
         "X": 464,
         "Y": 208,
