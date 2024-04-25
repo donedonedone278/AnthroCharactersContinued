@@ -450,7 +450,7 @@
     {
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors",
-      "FromFile": "assets/LooseSprites/Cursors_icons.png",
+      "FromFile": "assets/{{Target}}/Cursors_icons.png",
       "PatchMode": "Overlay",
       "Priority": "Late + 1",
       "ToArea": {
@@ -463,7 +463,7 @@
     {
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors",
-      "FromFile": "assets/LooseSprites/Cursors_forecast.png",
+      "FromFile": "assets/{{Target}}/Cursors_forecast.png",
       "Priority": "Late + 1",
       "ToArea": {
         "X": 413,
@@ -475,7 +475,7 @@
     {
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors",
-      "FromFile": "assets/LooseSprites/Cursors_fortune.png",
+      "FromFile": "assets/{{Target}}/Cursors_fortune.png",
       "Priority": "Late + 1",
       "ToArea": {
         "X": 540,
@@ -487,7 +487,7 @@
     {
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors",
-      "FromFile": "assets/LooseSprites/Cursors_tv_shows.png",
+      "FromFile": "assets/{{Target}}/Cursors_tv_shows.png",
       "Priority": "Late + 1",
       "ToArea": {
         "X": 517,
@@ -499,7 +499,7 @@
     {
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors",
-      "FromFile": "assets/LooseSprites/Cursors_joja_man.png",
+      "FromFile": "assets/{{Target}}/Cursors_joja_man.png",
       "Priority": "Late + 1",
       "ToArea": {
         "X": 96,
@@ -511,7 +511,7 @@
     {
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors",
-      "FromFile": "assets/LooseSprites/Cursors_joja_victory_and_cart.png",
+      "FromFile": "assets/{{Target}}/Cursors_joja_victory_and_cart.png",
       "PatchMode": "Overlay",
       "Priority": "Late + 1",
       "ToArea": {
@@ -524,7 +524,7 @@
     {
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors",
-      "FromFile": "assets/LooseSprites/Cursors_joja_victory_and_cart.png",
+      "FromFile": "assets/{{Target}}/Cursors_joja_victory_and_cart.png",
       "Priority": "Late + 1",
       "FromArea": {
         "X": 93,
@@ -542,7 +542,7 @@
     {
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors",
-      "FromFile": "assets/LooseSprites/Cursors_construction_and_pam_bus.png",
+      "FromFile": "assets/{{Target}}/Cursors_construction_and_pam_bus.png",
       "PatchMode": "Overlay",
       "Priority": "Late + 1",
       "ToArea": {
@@ -555,7 +555,7 @@
     {
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors",
-      "FromFile": "assets/LooseSprites/Cursors_marnie_yay.png",
+      "FromFile": "assets/{{Target}}/Cursors_marnie_yay.png",
       "Priority": "Late + 1",
       "ToArea": {
         "X": 544,
@@ -567,7 +567,7 @@
     {
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors",
-      "FromFile": "assets/LooseSprites/Cursors_prarie_king_and_random_stuff.png",
+      "FromFile": "assets/{{Target}}/Cursors_prarie_king_and_random_stuff.png",
       "PatchMode": "Overlay",
       "Priority": "Late + 1",
       "ToArea": {
@@ -580,7 +580,7 @@
     {
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors",
-      "FromFile": "assets/LooseSprites/Cursors_prarie_king_and_random_stuff.png",
+      "FromFile": "assets/{{Target}}/Cursors_prarie_king_and_random_stuff.png",
       "Priority": "Late + 1",
       "FromArea": {
         "X": 52,
@@ -598,7 +598,7 @@
     {
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors",
-      "FromFile": "assets/LooseSprites/Cursors_prarie_king_and_random_stuff.png",
+      "FromFile": "assets/{{Target}}/Cursors_prarie_king_and_random_stuff.png",
       "Priority": "Late + 1",
       "FromArea": {
         "X": 181,
@@ -616,7 +616,7 @@
     {
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors",
-      "FromFile": "assets/LooseSprites/Cursors_prarie_king_and_random_stuff.png",
+      "FromFile": "assets/{{Target}}/Cursors_prarie_king_and_random_stuff.png",
       "Priority": "Late + 1",
       "FromArea": {
         "X": 309,
@@ -634,7 +634,7 @@
     {
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors",
-      "FromFile": "assets/LooseSprites/Cursors_marnie_paintings.png",
+      "FromFile": "assets/{{Target}}/Cursors_marnie_paintings.png",
       "Priority": "Late + 1",
       "ToArea": {
         "X": 0,
@@ -646,7 +646,7 @@
     {
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors_1_6",
-      "FromFile": "assets/LooseSprites/Cursors_1_6_book_shop_man.png",
+      "FromFile": "assets/{{Target}}/Cursors_1_6_book_shop_man.png",
       "PatchMode": "Overlay",
       "Priority": "Late + 1",
       "ToArea": {
@@ -659,7 +659,7 @@
     {
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors_1_6",
-      "FromFile": "assets/LooseSprites/Cursors_1_6_forecast.png",
+      "FromFile": "assets/{{Target}}/Cursors_1_6_forecast.png",
       "Priority": "Late + 1",
       "ToArea": {
         "X": 213,
@@ -671,7 +671,7 @@
     {
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors_1_6",
-      "FromFile": "assets/LooseSprites/Cursors_1_6_fortune.png",
+      "FromFile": "assets/{{Target}}/Cursors_1_6_fortune.png",
       "Priority": "Late + 1",
       "ToArea": {
         "X": 424,
@@ -683,7 +683,7 @@
     {
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors_1_6",
-      "FromFile": "assets/LooseSprites/Cursors_1_6_morris_smug.png",
+      "FromFile": "assets/{{Target}}/Cursors_1_6_morris_smug.png",
       "Priority": "Late + 1",
       "ToArea": {
         "X": 198,
@@ -695,7 +695,7 @@
     {
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors_1_6",
-      "FromFile": "assets/LooseSprites/Cursors_1_6_qi_plane.png",
+      "FromFile": "assets/{{Target}}/Cursors_1_6_qi_plane.png",
       "PatchMode": "Overlay",
       "Priority": "Late + 1",
       "ToArea": {
@@ -708,7 +708,7 @@
     {
       "Action": "EditImage",
       "Target": "LooseSprites/Cursors_1_6",
-      "FromFile": "assets/LooseSprites/Cursors_1_6_qi_plane.png",
+      "FromFile": "assets/{{Target}}/Cursors_1_6_qi_plane.png",
       "Priority": "Late + 1",
       "FromArea": {
         "X": 0,
@@ -740,7 +740,7 @@
     {
       "Action": "EditImage",
       "Target": "LooseSprites/cursors2",
-      "FromFile": "assets/LooseSprites/Cursors2_island_weather.png",
+      "FromFile": "assets/{{Target}}/Cursors2_island_weather.png",
       "Priority": "Late + 1",
       "ToArea": {
         "X": 148,
@@ -752,7 +752,7 @@
     {
       "Action": "EditImage",
       "Target": "LooseSprites/cursors2",
-      "FromFile": "assets/LooseSprites/Cursors2_broomstick.png",
+      "FromFile": "assets/{{Target}}/Cursors2_broomstick.png",
       "Priority": "Late + 1",
       "ToArea": {
         "X": 208,
