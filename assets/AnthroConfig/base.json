@@ -1046,19 +1046,6 @@
     {
       "Action": "EditImage",
       "Target": "Maps/townInterior",
-      "FromFile": "assets/{{Target}}/townInterior_rug.png",
-			"PatchMode": "Overlay",
-      "Priority": "Late + 1",
-      "ToArea": {
-        "X": 384,
-        "Y": 112,
-        "Width": 48,
-        "Height": 32
-      }
-    },
-    {
-      "Action": "EditImage",
-      "Target": "Maps/townInterior",
       "FromFile": "assets/{{Target}}/townInterior_joja_worker.png",
       "Priority": "Late + 1",
       "ToArea": {
