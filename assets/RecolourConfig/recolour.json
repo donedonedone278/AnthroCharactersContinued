@@ -5,6 +5,7 @@
       "Target": "TileSheets/Craftables",
       "FromFile": "assets/TileSheets/recolour/VPR/Craftables_lewis.png",
       "PatchMode": "Overlay",
+      "Priority": "Late + 1",
       "ToArea": {
         "X": 64,
         "Y": 640,
@@ -18,6 +19,7 @@
       "Target": "TileSheets/Craftables",
       "FromFile": "assets/TileSheets/recolour/VPR/RPT/{{season}}_Craftables_lewis.png",
       "PatchMode": "Overlay",
+      "Priority": "Late + 1",
       "ToArea": {
         "X": 64,
         "Y": 640,
@@ -35,6 +37,7 @@
       "Target": "Minigames/Intro",
       "FromFile": "assets/Minigames/recolour/VPR/RPT/intro.png",
       "PatchMode": "Overlay",
+      "Priority": "Late + 1",
       "ToArea": {
         "X": 54,
         "Y": 28,
@@ -48,6 +51,7 @@
       "Target": "Maps/MovieTheater_TileSheet, Maps/MovieTheaterJoja_TileSheet",
       "FromFile": "assets/Maps/recolour/VPR/MovieTheater_TileSheet.png",
       "PatchMode": "Overlay",
+      "Priority": "Late + 1",
       "ToArea": { "X": 224, "Y": 208, "Width": 32, "Height": 32 },
       "When": { "Hasmod": "grapeponta.VibrantPastoralRecolor" }
     },
@@ -56,6 +60,7 @@
       "Target": "Maps/night_market_tilesheet_objects",
       "FromFile": "assets/Maps/recolour/VPR/{{TargetWithoutPath}}.png",
       "PatchMode": "Overlay",
+      "Priority": "Late + 1",
       "ToArea": { "X": 944, "Y": 48, "Width": 32, "Height": 32 },
       "When": { "Hasmod": "grapeponta.VibrantPastoralRecolor" }
     }
