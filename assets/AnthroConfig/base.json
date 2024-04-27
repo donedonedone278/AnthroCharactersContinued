@@ -765,7 +765,7 @@
       "Action": "EditImage",
       "Target": "LooseSprites/temporary_sprites_1",
       "FromFile": "assets/LooseSprites/temporary_sprites_1.png",
-			"PatchMode": "Overlay",
+      "PatchMode": "Overlay",
       "Priority": "Late + 1"
     },
     {
@@ -778,7 +778,7 @@
       "Action": "EditImage",
       "Target": "Maps/desert_festival_tilesheet",
       "FromFile": "assets/{{Target}}/desert_festival_tilesheet_drinker.png",
-			"PatchMode": "Overlay",
+      "PatchMode": "Overlay",
       "Priority": "Late + 1",
       "ToArea": {
         "X": 0,
@@ -791,7 +791,7 @@
       "Action": "EditImage",
       "Target": "Maps/desert_festival_tilesheet",
       "FromFile": "assets/{{Target}}/desert_festival_tilesheet_turban.png",
-			"PatchMode": "Overlay",
+      "PatchMode": "Overlay",
       "Priority": "Late + 1",
       "ToArea": {
         "X": 432,
@@ -804,7 +804,7 @@
       "Action": "EditImage",
       "Target": "Maps/desert_festival_tilesheet",
       "FromFile": "assets/{{Target}}/desert_festival_tilesheet_npcs.png",
-			"PatchMode": "Overlay",
+      "PatchMode": "Overlay",
       "Priority": "Late + 1",
       "ToArea": {
         "X": 240,
@@ -817,7 +817,7 @@
       "Action": "EditImage",
       "Target": "Maps/desert_festival_tilesheet",
       "FromFile": "assets/{{Target}}/desert_festival_tilesheet_kitchen.png",
-			"PatchMode": "Overlay",
+      "PatchMode": "Overlay",
       "Priority": "Late + 1",
       "ToArea": {
         "X": 209,
@@ -830,7 +830,7 @@
       "Action": "EditImage",
       "Target": "Maps/desert_festival_tilesheet",
       "FromFile": "assets/{{Target}}/desert_festival_tilesheet_gil_and_bucktooth.png",
-			"PatchMode": "Overlay",
+      "PatchMode": "Overlay",
       "Priority": "Late + 1",
       "ToArea": {
         "X": 48,
@@ -843,7 +843,7 @@
       "Action": "EditImage",
       "Target": "Maps/desert_festival_tilesheet",
       "FromFile": "assets/{{Target}}/desert_festival_tilesheet_marlon_shop.png",
-			"PatchMode": "Overlay",
+      "PatchMode": "Overlay",
       "Priority": "Late + 1",
       "ToArea": {
         "X": 49,
@@ -856,7 +856,7 @@
       "Action": "EditImage",
       "Target": "Maps/FishingDerbyTiles",
       "FromFile": "assets/Maps/FishingDerbyTiles_shopkeepers.png",
-			"PatchMode": "Overlay",
+      "PatchMode": "Overlay",
       "Priority": "Late + 1",
       "ToArea": {
         "X": 0,
@@ -869,122 +869,122 @@
       "Action": "EditImage",
       "Target": "Maps/DesertTiles, Maps/Festivals, Maps/MovieTheater_TileSheet, Maps/MovieTheaterJoja_TileSheet, Maps/night_market_tilesheet_objects, Maps/pirates_tilesheet, Maps/samshowtiles, Maps/stadium_tiles",
       "FromFile": "assets/{{Target}}.png",
-			"PatchMode": "Overlay",
+      "PatchMode": "Overlay",
       "Priority": "Late + 1"
     },
-		{
-			"Action": "EditImage",
-			"Target": "Maps/MovieTheater_TileSheet, Maps/MovieTheaterJoja_TileSheet",
-			"FromFile": "assets/Maps/{{TargetWithoutPath}}.png",
+    {
+      "Action": "EditImage",
+      "Target": "Maps/MovieTheater_TileSheet, Maps/MovieTheaterJoja_TileSheet",
+      "FromFile": "assets/Maps/{{TargetWithoutPath}}.png",
       "Priority": "Late + 1",
-			"FromArea": {
+      "FromArea": {
         "X": 0,
         "Y": 192,
         "Width": 32,
         "Height": 32
       },
-			"ToArea": {
+      "ToArea": {
         "X": 0,
         "Y": 192,
         "Width": 32,
         "Height": 32
       }
-		},
-		{
-			"Action": "EditImage",
-			"Target": "Maps/MovieTheater_TileSheet, Maps/MovieTheaterJoja_TileSheet",
-			"FromFile": "assets/Maps/{{TargetWithoutPath}}.png",
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/MovieTheater_TileSheet, Maps/MovieTheaterJoja_TileSheet",
+      "FromFile": "assets/Maps/{{TargetWithoutPath}}.png",
       "Priority": "Late + 1",
-			"FromArea": {
+      "FromArea": {
         "X": 176,
         "Y": 192,
         "Width": 32,
         "Height": 64
       },
-			"ToArea": {
+      "ToArea": {
         "X": 176,
         "Y": 192,
         "Width": 32,
         "Height": 64
       }
-		},
-		{
-			"Action": "EditImage",
-			"Target": "Maps/MovieTheaterJoja_TileSheet",
-			"FromFile": "assets/Maps/{{TargetWithoutPath}}.png",
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/MovieTheaterJoja_TileSheet",
+      "FromFile": "assets/Maps/{{TargetWithoutPath}}.png",
       "Priority": "Late + 1",
-			"FromArea": {
+      "FromArea": {
         "X": 16,
         "Y": 224,
         "Width": 16,
         "Height": 64
       },
-			"ToArea": {
+      "ToArea": {
         "X": 16,
         "Y": 224,
         "Width": 16,
         "Height": 64
       }
-		},
-		{
-			"Action": "EditImage",
-			"Target": "Maps/pirates_tilesheet",
-			"FromFile": "assets/Maps/{{TargetWithoutPath}}.png",
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/pirates_tilesheet",
+      "FromFile": "assets/Maps/{{TargetWithoutPath}}.png",
       "Priority": "Late + 1",
-			"FromArea": {
+      "FromArea": {
         "X": 144,
         "Y": 96,
         "Width": 16,
         "Height": 32
       },
-			"ToArea": {
+      "ToArea": {
         "X": 144,
         "Y": 96,
         "Width": 16,
         "Height": 32
       }
-		},
-		{
-			"Action": "EditImage",
-			"Target": "Maps/pirates_tilesheet",
-			"FromFile": "assets/Maps/{{TargetWithoutPath}}.png",
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/pirates_tilesheet",
+      "FromFile": "assets/Maps/{{TargetWithoutPath}}.png",
       "Priority": "Late + 1",
-			"FromArea": {
+      "FromArea": {
         "X": 176,
         "Y": 96,
         "Width": 16,
         "Height": 32
       },
-			"ToArea": {
+      "ToArea": {
         "X": 176,
         "Y": 96,
         "Width": 16,
         "Height": 32
       }
-		},
-		{
-			"Action": "EditImage",
-			"Target": "Maps/pirates_tilesheet",
-			"FromFile": "assets/Maps/{{TargetWithoutPath}}.png",
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Maps/pirates_tilesheet",
+      "FromFile": "assets/Maps/{{TargetWithoutPath}}.png",
       "Priority": "Late + 1",
-			"FromArea": {
+      "FromArea": {
         "X": 208,
         "Y": 96,
         "Width": 32,
         "Height": 32
       },
-			"ToArea": {
+      "ToArea": {
         "X": 208,
         "Y": 96,
         "Width": 32,
         "Height": 32
       }
-		},
+    },
     {
       "Action": "EditImage",
       "Target": "Maps/submarine_tilesheet",
       "FromFile": "assets/Maps/submarine_tilesheet_guy.png",
-			"PatchMode": "Overlay",
+      "PatchMode": "Overlay",
       "Priority": "Late + 1",
       "ToArea": {
         "X": 16,
@@ -997,7 +997,7 @@
       "Action": "EditImage",
       "Target": "Maps/submarine_tilesheet",
       "FromFile": "assets/Maps/submarine_tilesheet_faces.png",
-			"PatchMode": "Overlay",
+      "PatchMode": "Overlay",
       "Priority": "Late + 1",
       "ToArea": {
         "X": 192,
@@ -1034,7 +1034,7 @@
       "Action": "EditImage",
       "Target": "Maps/townInterior",
       "FromFile": "assets/{{Target}}/townInterior_gil.png",
-			"PatchMode": "Overlay",
+      "PatchMode": "Overlay",
       "Priority": "Late + 1",
       "ToArea": {
         "X": 176,
@@ -1059,7 +1059,7 @@
       "Action": "EditImage",
       "Target": "Maps/townInterior",
       "FromFile": "assets/{{Target}}/townInterior_joja_man.png",
-			"PatchMode": "Overlay",
+      "PatchMode": "Overlay",
       "Priority": "Late + 1",
       "ToArea": {
         "X": 368,
@@ -1071,8 +1071,8 @@
     {
       "Action": "EditImage",
       "Target": "Minigames/Intro",
-      "FromFile": "assets/Minigames/Intro.png",
-			"PatchMode": "Overlay",
+      "FromFile": "assets/Minigames/intro.png",
+      "PatchMode": "Overlay",
       "Priority": "Late + 1",
       "ToArea": {
         "X": 54,
@@ -1085,7 +1085,7 @@
       "Action": "EditImage",
       "Target": "Minigames/jojacorps",
       "FromFile": "assets/Minigames/jojacorps.png",
-			"PatchMode": "Overlay",
+      "PatchMode": "Overlay",
       "Priority": "Late + 1"
     },
     {
@@ -1506,7 +1506,7 @@
       "Action": "EditImage",
       "Target": "TileSheets/junimo_furniture",
       "FromFile": "assets/TileSheets/junimo_furniture_portraits.png",
-			"PatchMode": "Overlay",
+      "PatchMode": "Overlay",
       "Priority": "Late + 1",
       "FromArea": {
         "X": 7,
@@ -1525,7 +1525,7 @@
       "Action": "EditImage",
       "Target": "TileSheets/junimo_furniture",
       "FromFile": "assets/TileSheets/junimo_furniture_portraits.png",
-			"PatchMode": "Overlay",
+      "PatchMode": "Overlay",
       "Priority": "Late + 1",
       "FromArea": {
         "X": 55,

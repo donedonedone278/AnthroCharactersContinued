@@ -57,9 +57,15 @@
       "Target": "LooseSprites/emojis",
       "FromFile": "assets/LooseSprites/emojis_characters.png",
       "Priority": "Late + 1",
-      "ToArea": {
+      "FromArea": {
         "X": 18,
         "Y": 27,
+        "Width": 9,
+        "Height": 9
+      },
+      "ToArea": {
+        "X": 18,
+        "Y": 99,
         "Width": 9,
         "Height": 9
       }

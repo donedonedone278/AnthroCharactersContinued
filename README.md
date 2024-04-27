@@ -1,6 +1,6 @@
 # Anthro Characters Continued
 
-The Stardew Valley furry mod. Art by Gav!
+The Stardew Valley furry mod. Art by Gav! https://ko-fi.com/gaveliere
 
 Nexus Mod Page: https://www.nexusmods.com/stardewvalley/mods/1083
 
@@ -16,21 +16,17 @@ We **strongly** recommend validating your steam Stardew files if you have any is
 
 If that doesn't work, make sure this is the only copy of AnthroCharactersContinued you have installed. The old folder name may be AnthroCharacters or ACC.
 
-## Translations
-The base anthro characters mod doesn't require much translation, but the genderswap is a monster. Think about it. In a normal mod translation, all the lines that need translations will be the same across languages. In most mods if I needed to change a line about pufferchicks, that line would need to change in every language. With the genderswap that core principal does not apply. Every language handles gender differently. I can point out to you all the lines that needed to change in English, but are you really sure that those are the same lines that would need to change in your language?
-
-Nevertheless, I've set up i18n. If you think your language handles gender similarly enough to English, maybe that'll work. I (donedonedone) would be happy to help if I have time, but there is only so much I can do. 
-
-Good luck! I'll try to link translations here as they are written. Current status: no translations.
-
 ## Authors
 - Gaveliere a.k.a. Gavelly (Twitter: @Gavelly)
 - Blanchard a.k.a. sion9000 (Twitter: @NekoBlanchard)
 - donedonedone (FurAffinity: donedonedone)
 - Krystedez (Twitter: @ChiefKryz)
+- JefGrizli (Fancy)
 
 *Our Twitters may contain NSFW furry trash.
 
+## Translators
+- EMber
 
 ## Support
 This mod has been a community effort, but without Gaveliere it would not exist. 
@@ -48,6 +44,10 @@ Blanchard(sion9000) for maintaining the mod pages, editing, testing, and co-deve
 donedonedone278 for creating and maintaining the github, editing, testing, and co-development.
 
 Thanks to Krystedez for Content Patcher management and co-development.
+
+Thanks to JefGrizli for major config edits, layout improvements, and mod compatibility work.
+
+Thank you to our first-ever translator: EMber
 
 Thanks to Krystedez and ColaWolf for additional characters.
 

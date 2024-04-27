@@ -45,7 +45,7 @@
     {
       "Action": "EditImage",
       "Target": "Maps/townInterior",
-      "FromFile": "assets/Maps/townInterior_hayden_vanity.png",
+      "FromFile": "assets/Maps/townInterior/townInterior_hayden_vanity.png",
       "Priority": "Late + 1",
       "ToArea": {
         "X": 368,
@@ -57,7 +57,7 @@
     {
       "Action": "EditImage",
       "Target": "Maps/townInterior",
-      "FromFile": "assets/Maps/townInterior_hayden_stool.png",
+      "FromFile": "assets/Maps/townInterior/townInterior_hayden_stool.png",
       "Priority": "Late + 1",
       "ToArea": {
         "X": 352,
@@ -101,7 +101,7 @@
     {
       "Action": "EditImage",
       "Target": "Maps/townInterior",
-      "FromFile": "assets/Maps/townInterior_rug.png",
+      "FromFile": "assets/Maps/townInterior/townInterior_rug.png",
       "PatchMode": "Overlay",
       "Priority": "Late + 1",
       "ToArea": {
