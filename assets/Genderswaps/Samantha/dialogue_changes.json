@@ -29,7 +29,7 @@
         "FriendsAndFamily"
       ],
       "Entries": {
-        "Sam": "{{i18n:Data/Characters.Jodi.FriendsAndFamily.Sam...Samantha |default={{i18n:Data/Characters.Jodi.FriendsAndFamily.Sam..}}}}"
+        "Sam": "{{i18n:Data/Characters.Jodi/FriendsAndFamily.Sam...Samantha |default={{i18n:Data/Characters.Jodi/FriendsAndFamily.Sam..}}}}"
       }
     },
     {

@@ -29,7 +29,7 @@
         "FriendsAndFamily"
       ],
       "Entries": {
-        "Alex": "{{i18n:Data/Characters.Evelyn.FriendsAndFamily.Alex...Alexis |default={{i18n:Data/Characters.Evelyn.FriendsAndFamily.Alex..}}}}"
+        "Alex": "{{i18n:Data/Characters.Evelyn/FriendsAndFamily.Alex...Alexis |default={{i18n:Data/Characters.Evelyn/FriendsAndFamily.Alex..}}}}"
       }
     },
     {
@@ -40,7 +40,7 @@
         "FriendsAndFamily"
       ],
       "Entries": {
-        "Alex": "{{i18n:Data/Characters.George.FriendsAndFamily.Alex...Alexis |default={{i18n:Data/Characters.George.FriendsAndFamily.Alex..}}}}"
+        "Alex": "{{i18n:Data/Characters.George/FriendsAndFamily.Alex...Alexis |default={{i18n:Data/Characters.George/FriendsAndFamily.Alex..}}}}"
       }
     },
     {

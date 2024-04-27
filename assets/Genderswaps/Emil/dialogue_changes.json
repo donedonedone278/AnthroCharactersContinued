@@ -29,7 +29,7 @@
         "FriendsAndFamily"
       ],
       "Entries": {
-        "Emily": "{{i18n:Data/Characters.Haley.FriendsAndFamily.Emily...Emil |default={{i18n:Data/Characters.Haley.FriendsAndFamily.Emily..}}}}"
+        "Emily": "{{i18n:Data/Characters.Haley/FriendsAndFamily.Emily...Emil |default={{i18n:Data/Characters.Haley/FriendsAndFamily.Emily..}}}}"
       }
     },
     {

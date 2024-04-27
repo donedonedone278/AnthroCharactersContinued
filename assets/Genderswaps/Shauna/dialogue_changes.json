@@ -29,7 +29,7 @@
         "FriendsAndFamily"
       ],
       "Entries": {
-        "Shane": "{{i18n:Data/Characters.Marnie.FriendsAndFamily.Shane...Shauna |default={{i18n:Data/Characters.Marnie.FriendsAndFamily.Shane..}}}}"
+        "Shane": "{{i18n:Data/Characters.Marnie/FriendsAndFamily.Shane...Shauna |default={{i18n:Data/Characters.Marnie/FriendsAndFamily.Shane..}}}}"
       }
     },
     {

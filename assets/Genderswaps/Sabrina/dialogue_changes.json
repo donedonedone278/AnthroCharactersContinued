@@ -29,7 +29,7 @@
         "FriendsAndFamily"
       ],
       "Entries": {
-        "Sebastian": "{{i18n:Data/Characters.Maru.FriendsAndFamily.Sebastian...Sabrina |default={{i18n:Data/Characters.Maru.FriendsAndFamily.Sebastian..}}}}"
+        "Sebastian": "{{i18n:Data/Characters.Maru/FriendsAndFamily.Sebastian...Sabrina |default={{i18n:Data/Characters.Maru/FriendsAndFamily.Sebastian..}}}}"
       }
     },
     {
@@ -40,7 +40,7 @@
         "FriendsAndFamily"
       ],
       "Entries": {
-        "Sebastian": "{{i18n:Data/Characters.Robin.FriendsAndFamily.Sebastian...Sabrina |default={{i18n:Data/Characters.Robin.FriendsAndFamily.Sebastian..}}}}"
+        "Sebastian": "{{i18n:Data/Characters.Robin/FriendsAndFamily.Sebastian...Sabrina |default={{i18n:Data/Characters.Robin/FriendsAndFamily.Sebastian..}}}}"
       }
     },
     {

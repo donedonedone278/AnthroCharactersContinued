@@ -29,7 +29,7 @@
         "FriendsAndFamily"
       ],
       "Entries": {
-        "Abigail": "{{i18n:Data/Characters.Pierre.FriendsAndFamily.Abigail...Albert |default={{i18n:Data/Characters.Pierre.FriendsAndFamily.Abigail..}}}}"
+        "Abigail": "{{i18n:Data/Characters.Pierre/FriendsAndFamily.Abigail...Albert |default={{i18n:Data/Characters.Pierre/FriendsAndFamily.Abigail..}}}}"
       }
     },
     {

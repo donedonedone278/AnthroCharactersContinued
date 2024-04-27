@@ -29,7 +29,7 @@
         "FriendsAndFamily"
       ],
       "Entries": {
-        "Maru": "{{i18n:Data/Characters.Robin.FriendsAndFamily.Maru...Marcus |default={{i18n:Data/Characters.Robin.FriendsAndFamily.Maru..}}}}"
+        "Maru": "{{i18n:Data/Characters.Robin/FriendsAndFamily.Maru...Marcus |default={{i18n:Data/Characters.Robin/FriendsAndFamily.Maru..}}}}"
       }
     },
     {
@@ -40,7 +40,7 @@
         "FriendsAndFamily"
       ],
       "Entries": {
-        "Maru": "{{i18n:Data/Characters.Sebastian.FriendsAndFamily.Maru...Marcus |default={{i18n:Data/Characters.Sebastian.FriendsAndFamily.Maru..}}}}"
+        "Maru": "{{i18n:Data/Characters.Sebastian/FriendsAndFamily.Maru...Marcus |default={{i18n:Data/Characters.Sebastian/FriendsAndFamily.Maru..}}}}"
       }
     },
     {
