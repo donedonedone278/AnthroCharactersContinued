@@ -11,6 +11,14 @@ Nexus Mod Page: https://www.nexusmods.com/stardewvalley/mods/1083
 4. Install Anthro Characters Continued.
    - Copy the "AnthroCharactersContinued" folder (which contains "manifest.json") into the `Stardew Valley/mods` folder, just like the previous two mods.
 
+### Genderswaps
+To enable genderswaps:
+1. Go to the title screen
+2. Click on the gear icon in the lower left (if you don't see it, make sure you have Generic Mod Config Menu installed)
+3. Click Anthro Characters Continued
+4. Configure to your heart's content
+5. Click save
+
 ### Troubleshooting
 We **strongly** recommend validating your steam Stardew files if you have any issues: https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB
 
