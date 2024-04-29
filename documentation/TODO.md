@@ -12,7 +12,6 @@ Governor
 Marlon
 Morris
 Gunther
-Gil
 Henchman
 
 # Translations

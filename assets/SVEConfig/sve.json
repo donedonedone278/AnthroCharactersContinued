@@ -6,6 +6,100 @@
       "Entries": {
         "placeholder": "{{i18n:placeholder..placeholder...SVEConfig |default={{i18n:placeholder..placeholder..}}}}"
       }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/GilSprite",
+      "FromFile": "assets/SVEConfig/Portraits/Gil_shopkeep.png",
+      "Priority": "Late - 1"
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Shops",
+      "TargetField": [
+        "AdventureShop",
+        "Owners",
+        "FlashShifter.StardewValleyExpandedCP_AdventureShopGil_Evening"
+      ],
+      "Entries": {
+        "Portrait": "{{InternalAssetKey: assets/SVEConfig/Portraits/Gil_shopkeep.png}}"
+      },
+      "Priority": "Late - 1"
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Shops",
+      "TargetField": [
+        "AdventureShop",
+        "Owners",
+        "FlashShifter.StardewValleyExpandedCP_AdventureShopGil_Morning"
+      ],
+      "Entries": {
+        "Portrait": "{{InternalAssetKey: assets/SVEConfig/Portraits/Gil_shopkeep.png}}"
+      },
+      "Priority": "Late - 1"
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Shops",
+      "TargetField": [
+        "AdventureShop",
+        "Owners",
+        "FlashShifter.StardewValleyExpandedCP_AdventureGuildRecoveryGil_Evening"
+      ],
+      "Entries": {
+        "Portrait": "{{InternalAssetKey: assets/SVEConfig/Portraits/Gil_shopkeep.png}}"
+      },
+      "Priority": "Late - 1"
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Shops",
+      "TargetField": [
+        "AdventureShop",
+        "Owners",
+        "FlashShifter.StardewValleyExpandedCP_AdventureGuildRecoveryGil_Morning"
+      ],
+      "Entries": {
+        "Portrait": "{{InternalAssetKey: assets/SVEConfig/Portraits/Gil_shopkeep.png}}"
+      },
+      "Priority": "Late - 1"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Morris",
+      "FromFile": "assets/SVEConfig/Portraits/Morris.png",
+      "Priority": "Late - 1"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/MorrisTod",
+      "FromFile": "assets/SVEConfig/Portraits/Morris.png",
+      "Priority": "Late - 1"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/MorrisTod_Winter",
+      "FromFile": "assets/SVEConfig/Portraits/MorrisTod_Winter.png",
+      "Priority": "Late - 1"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Morris",
+      "FromFile": "assets/SVEConfig/Characters/Morris.png",
+      "Priority": "Late - 1"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/MorrisTod",
+      "FromFile": "assets/SVEConfig/Characters/Morris.png",
+      "Priority": "Late - 1"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/MorrisTod_Winter",
+      "FromFile": "assets/SVEConfig/Characters/MorrisTod_Winter.png",
+      "Priority": "Late - 1"
     }
   ]
 }

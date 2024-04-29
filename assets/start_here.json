@@ -14,7 +14,8 @@
     },
     {
       "When": {
-        "HasMod": "FlashShifter.StardewValleyExpandedCP"
+        "HasMod": "FlashShifter.StardewValleyExpandedCP",
+        "HasProfession": "FakeProfession"
       },
       "Action": "Include",
       "FromFile": "assets/SVEConfig/sve.json"
