@@ -67,9 +67,9 @@
     },
     {
       "Action": "EditData",
-      "Target": "Characters/Dialogue/Elliot",
+      "Target": "Characters/Dialogue/Elliott",
       "Entries": {
-        "Fri8": "{{i18n:Characters/Dialogue/Elliot..Fri8.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Elliot..Fri8.Flavor.}}}}"
+        "Fri8": "{{i18n:Characters/Dialogue/Elliott..Fri8.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Elliott..Fri8.Flavor.}}}}"
       }
     },
     {
