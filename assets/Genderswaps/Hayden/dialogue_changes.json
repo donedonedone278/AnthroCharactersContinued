@@ -3,9 +3,7 @@
     {
       "Action": "EditData",
       "Target": "Data/Characters",
-      "TargetField": [
-        "Haley"
-      ],
+      "TargetField": ["Haley"],
       "Entries": {
         "Gender": "Male"
       },
@@ -24,10 +22,7 @@
     {
       "Action": "EditData",
       "Target": "Data/Characters",
-      "TargetField": [
-        "Emily",
-        "FriendsAndFamily"
-      ],
+      "TargetField": ["Emily", "FriendsAndFamily"],
       "Entries": {
         "Haley": "{{i18n:Data/Characters.Emily/FriendsAndFamily.Haley...Hayden |default={{i18n:Data/Characters.Emily/FriendsAndFamily.Haley..}}}}"
       }
@@ -162,8 +157,7 @@
       "Entries": {
         "MapPage.cs.11074": "{{i18n:Strings/StringsFromCSFiles..MapPage.cs.11074...Hayden |default={{i18n:Strings/StringsFromCSFiles..MapPage.cs.11074.. |Emily={{Emily}} |Haley={{Haley}}}} |Emily={{Emily}} |Haley={{Haley}}}}",
         "ItemDeliveryQuest.cs.13557": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13557...Hayden |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13557..}}}}",
-        "ItemDeliveryQuest.cs.13560": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13560...Hayden |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13560..}}}}",
-        "ItemDeliveryQuest.cs.13563": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13563...Hayden |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13563..}}}}"
+        "ItemDeliveryQuest.cs.13560": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13560...Hayden |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13560..}}}}"
       }
     },
     {
