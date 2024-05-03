@@ -12,7 +12,9 @@
         "Width": 16,
         "Height": 32
       },
-      "When": { "Hasmod": "grapeponta.VibrantPastoralRecolor" }
+      "When": {
+        "Hasmod": "grapeponta.VibrantPastoralRecolor"
+      }
     },
     {
       "Action": "EditImage",
@@ -44,7 +46,9 @@
         "Width": 72,
         "Height": 19
       },
-      "When": { "HasMod": "JefGrizli.RedrawPelicanTown" }
+      "When": {
+        "HasMod": "JefGrizli.RedrawPelicanTown"
+      }
     },
     {
       "Action": "EditImage",
@@ -52,8 +56,15 @@
       "FromFile": "assets/Maps/recolour/VPR/MovieTheater_TileSheet.png",
       "PatchMode": "Overlay",
       "Priority": "Late + 1",
-      "ToArea": { "X": 224, "Y": 208, "Width": 32, "Height": 32 },
-      "When": { "Hasmod": "grapeponta.VibrantPastoralRecolor" }
+      "ToArea": {
+        "X": 224,
+        "Y": 208,
+        "Width": 32,
+        "Height": 32
+      },
+      "When": {
+        "Hasmod": "grapeponta.VibrantPastoralRecolor"
+      }
     },
     {
       "Action": "EditImage",
@@ -61,8 +72,15 @@
       "FromFile": "assets/Maps/recolour/VPR/{{TargetWithoutPath}}.png",
       "PatchMode": "Overlay",
       "Priority": "Late + 1",
-      "ToArea": { "X": 944, "Y": 48, "Width": 32, "Height": 32 },
-      "When": { "Hasmod": "grapeponta.VibrantPastoralRecolor" }
+      "ToArea": {
+        "X": 944,
+        "Y": 48,
+        "Width": 32,
+        "Height": 32
+      },
+      "When": {
+        "Hasmod": "grapeponta.VibrantPastoralRecolor"
+      }
     }
   ]
 }
