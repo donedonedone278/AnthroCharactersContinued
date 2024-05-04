@@ -129,6 +129,16 @@
       }
     },
     {
+      "When": {
+        "Flavor": true
+      },
+      "Action": "EditData",
+      "Target": "Data/Festivals/winter8",
+      "Entries": {
+        "Haley_spouse": "Brr... my talons are freezing from making this snowman.$l"
+      }
+    },
+    {
       "Action": "EditData",
       "Target": "Data/Quests",
       "Entries": {

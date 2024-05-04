@@ -54,7 +54,8 @@
       "Target": "Characters/Dialogue/Abigail",
       "Entries": {
         "summer_Thu4": "{{i18n:Characters/Dialogue/Abigail..summer_Thu4.Flavor..Albert |default={{i18n:Characters/Dialogue/Abigail..summer_Thu4.Flavor.}}}}",
-        "fall_Thu": "{{i18n:Characters/Dialogue/Abigail..fall_Thu.Flavor..Albert |default={{i18n:Characters/Dialogue/Abigail..fall_Thu.Flavor.}}}}"
+        "fall_Thu": "{{i18n:Characters/Dialogue/Abigail..fall_Thu.Flavor..Albert |default={{i18n:Characters/Dialogue/Abigail..fall_Thu.Flavor.}}}}",
+        "AcceptGift_(O)119": "{{i18n:Characters/Dialogue/Abigail..AcceptGift_(O)119.Flavor..Albert |default={{i18n:Characters/Dialogue/Abigail..AcceptGift_(O)119.Flavor.}}}}"
       }
     },
     {
