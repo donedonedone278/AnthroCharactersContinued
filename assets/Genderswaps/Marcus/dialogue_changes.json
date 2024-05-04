@@ -158,24 +158,24 @@
       "Action": "EditData",
       "Target": "Strings/StringsFromCSFiles",
       "Entries": {
-        "MapPage.cs.11095": "{{i18n:Strings/StringsFromCSFiles..MapPage.cs.11095...Marcus |default={{i18n:Strings/StringsFromCSFiles..MapPage.cs.11095.. |Sebastian={{Sebastian}} |Maru={{Maru}}}} |Sebastian={{Sebastian}} |Maru={{Maru}}}}",
-        "ItemDeliveryQuest.cs.13580": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13580...Marcus |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13580..}}}}",
-        "ItemDeliveryQuest.cs.13583": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13583...Marcus |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13583..}}}}"
+        "MapPage.cs.11095": "{{i18n:Strings/StringsFromCSFiles..MapPage=cs=11095...Marcus |default={{i18n:Strings/StringsFromCSFiles..MapPage=cs=11095.. |Sebastian={{Sebastian}} |Maru={{Maru}}}} |Sebastian={{Sebastian}} |Maru={{Maru}}}}",
+        "ItemDeliveryQuest.cs.13580": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13580...Marcus |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13580..}}}}",
+        "ItemDeliveryQuest.cs.13583": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13583...Marcus |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13583..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/StringsFromMaps",
       "Entries": {
-        "ScienceHouse.2": "{{i18n:Strings/StringsFromMaps..ScienceHouse.2...Marcus |default={{i18n:Strings/StringsFromMaps..ScienceHouse.2..}}}}",
-        "ScienceHouse.7": "{{i18n:Strings/StringsFromMaps..ScienceHouse.7...Marcus |default={{i18n:Strings/StringsFromMaps..ScienceHouse.7..}}}}"
+        "ScienceHouse.2": "{{i18n:Strings/StringsFromMaps..ScienceHouse=2...Marcus |default={{i18n:Strings/StringsFromMaps..ScienceHouse=2..}}}}",
+        "ScienceHouse.7": "{{i18n:Strings/StringsFromMaps..ScienceHouse=7...Marcus |default={{i18n:Strings/StringsFromMaps..ScienceHouse=7..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/schedules/Penny",
       "Entries": {
-        "marriage_Mon.002": "{{i18n:Strings/schedules/Penny..marriage_Mon.002...Marcus |default={{i18n:Strings/schedules/Penny..marriage_Mon.002..}}}}"
+        "marriage_Mon.002": "{{i18n:Strings/schedules/Penny..marriage_Mon=002...Marcus |default={{i18n:Strings/schedules/Penny..marriage_Mon=002..}}}}"
       }
     },
     {

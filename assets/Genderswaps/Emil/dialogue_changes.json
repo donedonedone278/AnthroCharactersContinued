@@ -210,26 +210,26 @@
       "Action": "EditData",
       "Target": "Strings/StringsFromCSFiles",
       "Entries": {
-        "Utility.cs.5864_5": "{{i18n:Strings/StringsFromCSFiles..Utility.cs.5864_5...Emil |default={{i18n:Strings/StringsFromCSFiles..Utility.cs.5864_5..}}}}",
-        "MapPage.cs.11074": "{{i18n:Strings/StringsFromCSFiles..MapPage.cs.11074...Emil |default={{i18n:Strings/StringsFromCSFiles..MapPage.cs.11074.. |Emily={{Emily}} |Haley={{Haley}}}} |Emily={{Emily}} |Haley={{Haley}}}}",
-        "ItemDeliveryQuest.cs.13473": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13473...Emil |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13473..}}}}",
-        "ItemDeliveryQuest.cs.13476": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13476...Emil |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13476..}}}}",
-        "SocializeQuest.cs.13786": "{{i18n:Strings/StringsFromCSFiles..SocializeQuest.cs.13786...Emil |default={{i18n:Strings/StringsFromCSFiles..SocializeQuest.cs.13786..}}}}"
+        "Utility.cs.5864_5": "{{i18n:Strings/StringsFromCSFiles..Utility=cs=5864_5...Emil |default={{i18n:Strings/StringsFromCSFiles..Utility=cs=5864_5..}}}}",
+        "MapPage.cs.11074": "{{i18n:Strings/StringsFromCSFiles..MapPage=cs=11074...Emil |default={{i18n:Strings/StringsFromCSFiles..MapPage=cs=11074.. |Emily={{Emily}} |Haley={{Haley}}}} |Emily={{Emily}} |Haley={{Haley}}}}",
+        "ItemDeliveryQuest.cs.13473": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13473...Emil |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13473..}}}}",
+        "ItemDeliveryQuest.cs.13476": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13476...Emil |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13476..}}}}",
+        "SocializeQuest.cs.13786": "{{i18n:Strings/StringsFromCSFiles..SocializeQuest=cs=13786...Emil |default={{i18n:Strings/StringsFromCSFiles..SocializeQuest=cs=13786..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/StringsFromMaps",
       "Entries": {
-        "Blacksmith.4": "{{i18n:Strings/StringsFromMaps..Blacksmith.4...Emil |default={{i18n:Strings/StringsFromMaps..Blacksmith.4..}}}}",
-        "HaleyHouse.8": "{{i18n:Strings/StringsFromMaps..HaleyHouse.8...Emil |default={{i18n:Strings/StringsFromMaps..HaleyHouse.8..}}}}"
+        "Blacksmith.4": "{{i18n:Strings/StringsFromMaps..Blacksmith=4...Emil |default={{i18n:Strings/StringsFromMaps..Blacksmith=4..}}}}",
+        "HaleyHouse.8": "{{i18n:Strings/StringsFromMaps..HaleyHouse=8...Emil |default={{i18n:Strings/StringsFromMaps..HaleyHouse=8..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/schedules/Haley",
       "Entries": {
-        "marriage_Mon.000": "{{i18n:Strings/schedules/Haley..marriage_Mon.000...Emil |default={{i18n:Strings/schedules/Haley..marriage_Mon.000..}}}}"
+        "marriage_Mon.000": "{{i18n:Strings/schedules/Haley..marriage_Mon=000...Emil |default={{i18n:Strings/schedules/Haley..marriage_Mon=000..}}}}"
       }
     },
     {

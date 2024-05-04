@@ -142,8 +142,8 @@
       "Action": "EditData",
       "Target": "Strings/StringsFromMaps",
       "Entries": {
-        "SamHouse.9": "{{i18n:Strings/StringsFromMaps..SamHouse.9...Samantha |default={{i18n:Strings/StringsFromMaps..SamHouse.9.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "SamHouse.11": "{{i18n:Strings/StringsFromMaps..SamHouse.11...Samantha |default={{i18n:Strings/StringsFromMaps..SamHouse.11.. |Sam={{Sam}}}} |Sam={{Sam}}}}"
+        "SamHouse.9": "{{i18n:Strings/StringsFromMaps..SamHouse=9...Samantha |default={{i18n:Strings/StringsFromMaps..SamHouse=9.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "SamHouse.11": "{{i18n:Strings/StringsFromMaps..SamHouse=11...Samantha |default={{i18n:Strings/StringsFromMaps..SamHouse=11.. |Sam={{Sam}}}} |Sam={{Sam}}}}"
       }
     },
     {
@@ -167,13 +167,13 @@
       "Action": "EditData",
       "Target": "Strings/StringsFromCSFiles",
       "Entries": {
-        "Utility.cs.5792": "{{i18n:Strings/StringsFromCSFiles..Utility.cs.5792...Samantha |default={{i18n:Strings/StringsFromCSFiles..Utility.cs.5792.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "Utility.cs.5794": "{{i18n:Strings/StringsFromCSFiles..Utility.cs.5794...Samantha |default={{i18n:Strings/StringsFromCSFiles..Utility.cs.5794.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "Utility.cs.5806": "{{i18n:Strings/StringsFromCSFiles..Utility.cs.5806...Samantha |default={{i18n:Strings/StringsFromCSFiles..Utility.cs.5806.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "Utility.cs.5831": "{{i18n:Strings/StringsFromCSFiles..Utility.cs.5831...Samantha |default={{i18n:Strings/StringsFromCSFiles..Utility.cs.5831.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "MapPage.cs.11072": "{{i18n:Strings/StringsFromCSFiles..MapPage.cs.11072...Samantha |default={{i18n:Strings/StringsFromCSFiles..MapPage.cs.11072.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "ItemDeliveryQuest.cs.13568": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13568...Samantha |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13568.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "ItemDeliveryQuest.cs.13571": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13571...Samantha |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13571.. |Sam={{Sam}} |Sam={{Sam}}}} |Sam={{Sam}} |Sam={{Sam}}}}",
+        "Utility.cs.5792": "{{i18n:Strings/StringsFromCSFiles..Utility=cs=5792...Samantha |default={{i18n:Strings/StringsFromCSFiles..Utility=cs=5792.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "Utility.cs.5794": "{{i18n:Strings/StringsFromCSFiles..Utility=cs=5794...Samantha |default={{i18n:Strings/StringsFromCSFiles..Utility=cs=5794.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "Utility.cs.5806": "{{i18n:Strings/StringsFromCSFiles..Utility=cs=5806...Samantha |default={{i18n:Strings/StringsFromCSFiles..Utility=cs=5806.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "Utility.cs.5831": "{{i18n:Strings/StringsFromCSFiles..Utility=cs=5831...Samantha |default={{i18n:Strings/StringsFromCSFiles..Utility=cs=5831.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "MapPage.cs.11072": "{{i18n:Strings/StringsFromCSFiles..MapPage=cs=11072...Samantha |default={{i18n:Strings/StringsFromCSFiles..MapPage=cs=11072.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "ItemDeliveryQuest.cs.13568": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13568...Samantha |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13568.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "ItemDeliveryQuest.cs.13571": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13571...Samantha |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13571.. |Sam={{Sam}} |Sam={{Sam}}}} |Sam={{Sam}} |Sam={{Sam}}}}",
         "sam_acoustic2": "{{i18n:Strings/StringsFromCSFiles..sam_acoustic2...Samantha |default={{i18n:Strings/StringsFromCSFiles..sam_acoustic2.. |Sam={{Sam}}}} |Sam={{Sam}}}}"
       }
     },
@@ -267,8 +267,8 @@
       "Action": "EditData",
       "Target": "Strings/schedules/Sebastian",
       "Entries": {
-        "Fri.000": "{{i18n:Strings/schedules/Sebastian..Fri.000...Samantha |default={{i18n:Strings/schedules/Sebastian..Fri.000.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "marriage_Fri.001": "{{i18n:Strings/schedules/Sebastian..marriage_Fri.001...Samantha |default={{i18n:Strings/schedules/Sebastian..marriage_Fri.001.. |Sam={{Sam}}}} |Sam={{Sam}}}}"
+        "Fri.000": "{{i18n:Strings/schedules/Sebastian..Fri=000...Samantha |default={{i18n:Strings/schedules/Sebastian..Fri=000.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "marriage_Fri.001": "{{i18n:Strings/schedules/Sebastian..marriage_Fri=001...Samantha |default={{i18n:Strings/schedules/Sebastian..marriage_Fri=001.. |Sam={{Sam}}}} |Sam={{Sam}}}}"
       }
     }
   ]

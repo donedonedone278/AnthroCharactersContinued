@@ -104,7 +104,7 @@
       "Action": "EditData",
       "Target": "Strings/StringsFromCSFiles",
       "Entries": {
-        "Utility.cs.5864_3": "{{i18n:Strings/StringsFromCSFiles..Utility.cs.5864_3...Shauna |default={{i18n:Strings/StringsFromCSFiles..Utility.cs.5864_3.. |Shane={{Shane}}}} |Shane={{Shane}}}}"
+        "Utility.cs.5864_3": "{{i18n:Strings/StringsFromCSFiles..Utility=cs=5864_3...Shauna |default={{i18n:Strings/StringsFromCSFiles..Utility=cs=5864_3.. |Shane={{Shane}}}} |Shane={{Shane}}}}"
       }
     },
     {

@@ -172,15 +172,15 @@
       "Action": "EditData",
       "Target": "Strings/StringsFromCSFiles",
       "Entries": {
-        "MapPage.PamHouseHomeOf": "{{i18n:Strings/StringsFromCSFiles..MapPage.PamHouseHomeOf...Perry |default={{i18n:Strings/StringsFromCSFiles..MapPage.PamHouseHomeOf..}}}}"
+        "MapPage.PamHouseHomeOf": "{{i18n:Strings/StringsFromCSFiles..MapPage=PamHouseHomeOf...Perry |default={{i18n:Strings/StringsFromCSFiles..MapPage=PamHouseHomeOf..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/StringsFromMaps",
       "Entries": {
-        "BathHouse_WomensLocker.2": "{{i18n:Strings/StringsFromMaps..BathHouse_WomensLocker.2...Perry |default={{i18n:Strings/StringsFromMaps..BathHouse_WomensLocker.2..}}}}",
-        "SamHouse.10": "{{i18n:Strings/StringsFromMaps..SamHouse.10...Perry |default={{i18n:Strings/StringsFromMaps..SamHouse.10..}}}}"
+        "BathHouse_WomensLocker.2": "{{i18n:Strings/StringsFromMaps..BathHouse_WomensLocker=2...Perry |default={{i18n:Strings/StringsFromMaps..BathHouse_WomensLocker=2..}}}}",
+        "SamHouse.10": "{{i18n:Strings/StringsFromMaps..SamHouse=10...Perry |default={{i18n:Strings/StringsFromMaps..SamHouse=10..}}}}"
       }
     },
     {
@@ -194,7 +194,7 @@
       "Action": "EditData",
       "Target": "Strings/schedules/Maru",
       "Entries": {
-        "marriage_Mon.002": "{{i18n:Strings/schedules/Maru..marriage_Mon.002...Perry |default={{i18n:Strings/schedules/Maru..marriage_Mon.002..}}}}"
+        "marriage_Mon.002": "{{i18n:Strings/schedules/Maru..marriage_Mon=002...Perry |default={{i18n:Strings/schedules/Maru..marriage_Mon=002..}}}}"
       }
     },
     {

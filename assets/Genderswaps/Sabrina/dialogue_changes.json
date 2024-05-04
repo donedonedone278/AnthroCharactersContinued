@@ -129,11 +129,11 @@
       "Action": "EditData",
       "Target": "Strings/StringsFromCSFiles",
       "Entries": {
-        "MapPage.cs.11095": "{{i18n:Strings/StringsFromCSFiles..MapPage.cs.11095...Sabrina |default={{i18n:Strings/StringsFromCSFiles..MapPage.cs.11095.. |Sebastian={{Sebastian}} |Maru={{Maru}}}} |Sebastian={{Sebastian}} |Maru={{Maru}}}}",
-        "ItemDeliveryQuest.cs.13324": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13324...Sabrina |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13324.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
-        "ItemDeliveryQuest.cs.13327": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13327...Sabrina |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13327.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
-        "ItemDeliveryQuest.cs.13378": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13378...Sabrina |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13378.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
-        "ItemDeliveryQuest.cs.13381": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13381...Sabrina |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13381.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}"
+        "MapPage.cs.11095": "{{i18n:Strings/StringsFromCSFiles..MapPage=cs=11095...Sabrina |default={{i18n:Strings/StringsFromCSFiles..MapPage=cs=11095.. |Sebastian={{Sebastian}} |Maru={{Maru}}}} |Sebastian={{Sebastian}} |Maru={{Maru}}}}",
+        "ItemDeliveryQuest.cs.13324": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13324...Sabrina |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13324.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
+        "ItemDeliveryQuest.cs.13327": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13327...Sabrina |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13327.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
+        "ItemDeliveryQuest.cs.13378": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13378...Sabrina |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13378.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
+        "ItemDeliveryQuest.cs.13381": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13381...Sabrina |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13381.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}"
       }
     },
     {

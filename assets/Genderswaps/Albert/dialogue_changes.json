@@ -200,24 +200,24 @@
       "Action": "EditData",
       "Target": "Strings/StringsFromCSFiles",
       "Entries": {
-        "Event.cs.1862": "{{i18n:Strings/StringsFromCSFiles..Event.cs.1862...Albert |default={{i18n:Strings/StringsFromCSFiles..Event.cs.1862..}}}}",
-        "MapPage.cs.11079": "{{i18n:Strings/StringsFromCSFiles..MapPage.cs.11079...Albert |default={{i18n:Strings/StringsFromCSFiles..MapPage.cs.11079..}}}}",
-        "ItemDeliveryQuest.cs.13590": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13590...Albert |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13590..}}}}",
-        "ItemDeliveryQuest.cs.13593": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13593...Albert |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13593..}}}}"
+        "Event.cs.1862": "{{i18n:Strings/StringsFromCSFiles..Event=cs=1862...Albert |default={{i18n:Strings/StringsFromCSFiles..Event=cs=1862..}}}}",
+        "MapPage.cs.11079": "{{i18n:Strings/StringsFromCSFiles..MapPage=cs=11079...Albert |default={{i18n:Strings/StringsFromCSFiles..MapPage=cs=11079..}}}}",
+        "ItemDeliveryQuest.cs.13590": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13590...Albert |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13590..}}}}",
+        "ItemDeliveryQuest.cs.13593": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13593...Albert |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13593..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/StringsFromMaps",
       "Entries": {
-        "BathHouse_WomensLocker.3": "{{i18n:Strings/StringsFromMaps..BathHouse_WomensLocker.3...Albert |default={{i18n:Strings/StringsFromMaps..BathHouse_WomensLocker.3..}}}}"
+        "BathHouse_WomensLocker.3": "{{i18n:Strings/StringsFromMaps..BathHouse_WomensLocker=3...Albert |default={{i18n:Strings/StringsFromMaps..BathHouse_WomensLocker=3..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/schedules/Abigail",
       "Entries": {
-        "spring_4.001": "{{i18n:Strings/schedules/Abigail..spring_4.001...Albert |default={{i18n:Strings/schedules/Abigail..spring_4.001..}}}}"
+        "spring_4.001": "{{i18n:Strings/schedules/Abigail..spring_4=001...Albert |default={{i18n:Strings/schedules/Abigail..spring_4=001..}}}}"
       }
     },
     {

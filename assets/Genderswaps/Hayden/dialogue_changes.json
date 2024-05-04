@@ -160,21 +160,21 @@
       "Action": "EditData",
       "Target": "Strings/StringsFromCSFiles",
       "Entries": {
-        "MapPage.cs.11074": "{{i18n:Strings/StringsFromCSFiles..MapPage.cs.11074...Hayden |default={{i18n:Strings/StringsFromCSFiles..MapPage.cs.11074.. |Emily={{Emily}} |Haley={{Haley}}}} |Emily={{Emily}} |Haley={{Haley}}}}",
-        "ItemDeliveryQuest.cs.13557": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13557...Hayden |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13557..}}}}",
-        "ItemDeliveryQuest.cs.13560": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13560...Hayden |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13560..}}}}"
+        "MapPage.cs.11074": "{{i18n:Strings/StringsFromCSFiles..MapPage=cs=11074...Hayden |default={{i18n:Strings/StringsFromCSFiles..MapPage=cs=11074.. |Emily={{Emily}} |Haley={{Haley}}}} |Emily={{Emily}} |Haley={{Haley}}}}",
+        "ItemDeliveryQuest.cs.13557": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13557...Hayden |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13557..}}}}",
+        "ItemDeliveryQuest.cs.13560": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13560...Hayden |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13560..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/StringsFromMaps",
       "Entries": {
-        "HaleyHouse.2": "{{i18n:Strings/StringsFromMaps..HaleyHouse.2...Hayden |default={{i18n:Strings/StringsFromMaps..HaleyHouse.2..}}}}",
-        "HaleyHouse.3": "{{i18n:Strings/StringsFromMaps..HaleyHouse.3...Hayden |default={{i18n:Strings/StringsFromMaps..HaleyHouse.3..}}}}",
-        "HaleyHouse.10": "{{i18n:Strings/StringsFromMaps..HaleyHouse.10...Hayden |default={{i18n:Strings/StringsFromMaps..HaleyHouse.10..}}}}",
-        "HaleyHouse.11": "{{i18n:Strings/StringsFromMaps..HaleyHouse.11...Hayden |default={{i18n:Strings/StringsFromMaps..HaleyHouse.11..}}}}",
-        "HaleyHouse.17": "{{i18n:Strings/StringsFromMaps..HaleyHouse.17...Hayden |default={{i18n:Strings/StringsFromMaps..HaleyHouse.17..}}}}",
-        "HaleyHouse.18": "{{i18n:Strings/StringsFromMaps..HaleyHouse.18...Hayden |default={{i18n:Strings/StringsFromMaps..HaleyHouse.18..}}}}"
+        "HaleyHouse.2": "{{i18n:Strings/StringsFromMaps..HaleyHouse=2...Hayden |default={{i18n:Strings/StringsFromMaps..HaleyHouse=2..}}}}",
+        "HaleyHouse.3": "{{i18n:Strings/StringsFromMaps..HaleyHouse=3...Hayden |default={{i18n:Strings/StringsFromMaps..HaleyHouse=3..}}}}",
+        "HaleyHouse.10": "{{i18n:Strings/StringsFromMaps..HaleyHouse=10...Hayden |default={{i18n:Strings/StringsFromMaps..HaleyHouse=10..}}}}",
+        "HaleyHouse.11": "{{i18n:Strings/StringsFromMaps..HaleyHouse=11...Hayden |default={{i18n:Strings/StringsFromMaps..HaleyHouse=11..}}}}",
+        "HaleyHouse.17": "{{i18n:Strings/StringsFromMaps..HaleyHouse=17...Hayden |default={{i18n:Strings/StringsFromMaps..HaleyHouse=17..}}}}",
+        "HaleyHouse.18": "{{i18n:Strings/StringsFromMaps..HaleyHouse=18...Hayden |default={{i18n:Strings/StringsFromMaps..HaleyHouse=18..}}}}"
       }
     },
     {

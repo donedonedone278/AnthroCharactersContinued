@@ -112,18 +112,18 @@
       "Action": "EditData",
       "Target": "Strings/StringsFromMaps",
       "Entries": {
-        "BathHouse_MensLocker.4": "{{i18n:Strings/StringsFromMaps..BathHouse_MensLocker.4...Alexis |default={{i18n:Strings/StringsFromMaps..BathHouse_MensLocker.4.. |Alex={{Alex}}}} |Alex={{Alex}}}}",
-        "JoshHouse.1": "{{i18n:Strings/StringsFromMaps..JoshHouse.1...Alexis |default={{i18n:Strings/StringsFromMaps..JoshHouse.1.. |Alex={{Alex}}}} |Alex={{Alex}}}}",
-        "JoshHouse.7": "{{i18n:Strings/StringsFromMaps..JoshHouse.7...Alexis |default={{i18n:Strings/StringsFromMaps..JoshHouse.7.. |Alex={{Alex}}}} |Alex={{Alex}}}}",
-        "JoshHouse.8": "{{i18n:Strings/StringsFromMaps..JoshHouse.8...Alexis |default={{i18n:Strings/StringsFromMaps..JoshHouse.8.. |Alex={{Alex}}}} |Alex={{Alex}}}}",
-        "JoshHouse.9": "{{i18n:Strings/StringsFromMaps..JoshHouse.9...Alexis |default={{i18n:Strings/StringsFromMaps..JoshHouse.9.. |Alex={{Alex}}}} |Alex={{Alex}}}}"
+        "BathHouse_MensLocker.4": "{{i18n:Strings/StringsFromMaps..BathHouse_MensLocker=4...Alexis |default={{i18n:Strings/StringsFromMaps..BathHouse_MensLocker=4.. |Alex={{Alex}}}} |Alex={{Alex}}}}",
+        "JoshHouse.1": "{{i18n:Strings/StringsFromMaps..JoshHouse=1...Alexis |default={{i18n:Strings/StringsFromMaps..JoshHouse=1.. |Alex={{Alex}}}} |Alex={{Alex}}}}",
+        "JoshHouse.7": "{{i18n:Strings/StringsFromMaps..JoshHouse=7...Alexis |default={{i18n:Strings/StringsFromMaps..JoshHouse=7.. |Alex={{Alex}}}} |Alex={{Alex}}}}",
+        "JoshHouse.8": "{{i18n:Strings/StringsFromMaps..JoshHouse=8...Alexis |default={{i18n:Strings/StringsFromMaps..JoshHouse=8.. |Alex={{Alex}}}} |Alex={{Alex}}}}",
+        "JoshHouse.9": "{{i18n:Strings/StringsFromMaps..JoshHouse=9...Alexis |default={{i18n:Strings/StringsFromMaps..JoshHouse=9.. |Alex={{Alex}}}} |Alex={{Alex}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/StringsFromCSFiles",
       "Entries": {
-        "MapPage.cs.11093": "{{i18n:Strings/StringsFromCSFiles..MapPage.cs.11093...Alexis |default={{i18n:Strings/StringsFromCSFiles..MapPage.cs.11093.. |Alex={{Alex}}}} |Alex={{Alex}}}}"
+        "MapPage.cs.11093": "{{i18n:Strings/StringsFromCSFiles..MapPage=cs=11093...Alexis |default={{i18n:Strings/StringsFromCSFiles..MapPage=cs=11093.. |Alex={{Alex}}}} |Alex={{Alex}}}}"
       }
     },
     {
@@ -164,7 +164,7 @@
       "Action": "EditData",
       "Target": "Strings/schedules/Alex",
       "Entries": {
-        "Sun.000": "{{i18n:Strings/schedules/Alex..Sun.000...Alexis |default={{i18n:Strings/schedules/Alex..Sun.000.. |Alex={{Alex}}}} |Alex={{Alex}}}}"
+        "Sun.000": "{{i18n:Strings/schedules/Alex..Sun=000...Alexis |default={{i18n:Strings/schedules/Alex..Sun=000.. |Alex={{Alex}}}} |Alex={{Alex}}}}"
       }
     }
   ]

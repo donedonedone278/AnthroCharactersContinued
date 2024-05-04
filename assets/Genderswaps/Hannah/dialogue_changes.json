@@ -86,9 +86,9 @@
       "Action": "EditData",
       "Target": "Strings/StringsFromMaps",
       "Entries": {
-        "HarveyRoom.3": "{{i18n:Strings/StringsFromMaps..HarveyRoom.3...Hannah |default={{i18n:Strings/StringsFromMaps..HarveyRoom.3.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
-        "HarveyRoom.4": "{{i18n:Strings/StringsFromMaps..HarveyRoom.4...Hannah |default={{i18n:Strings/StringsFromMaps..HarveyRoom.4.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
-        "Hospital.3": "{{i18n:Strings/StringsFromMaps..Hospital.3...Hannah |default={{i18n:Strings/StringsFromMaps..Hospital.3.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "HarveyRoom.3": "{{i18n:Strings/StringsFromMaps..HarveyRoom=3...Hannah |default={{i18n:Strings/StringsFromMaps..HarveyRoom=3.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
+        "HarveyRoom.4": "{{i18n:Strings/StringsFromMaps..HarveyRoom=4...Hannah |default={{i18n:Strings/StringsFromMaps..HarveyRoom=4.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
+        "Hospital.3": "{{i18n:Strings/StringsFromMaps..Hospital=3...Hannah |default={{i18n:Strings/StringsFromMaps..Hospital=3.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },
     {
@@ -110,10 +110,10 @@
       "Action": "EditData",
       "Target": "Strings/StringsFromCSFiles",
       "Entries": {
-        "Event.cs.1068": "{{i18n:Strings/StringsFromCSFiles..Event.cs.1068...Hannah |default={{i18n:Strings/StringsFromCSFiles..Event.cs.1068.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
-        "Event.cs.1070": "{{i18n:Strings/StringsFromCSFiles..Event.cs.1070...Hannah |default={{i18n:Strings/StringsFromCSFiles..Event.cs.1070.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
-        "MapPage.cs.11076": "{{i18n:Strings/StringsFromCSFiles..MapPage.cs.11076...Hannah |default={{i18n:Strings/StringsFromCSFiles..MapPage.cs.11076.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
-        "ItemDeliveryQuest.cs.13446": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13446...Hannah |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest.cs.13446.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "Event.cs.1068": "{{i18n:Strings/StringsFromCSFiles..Event=cs=1068...Hannah |default={{i18n:Strings/StringsFromCSFiles..Event=cs=1068.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
+        "Event.cs.1070": "{{i18n:Strings/StringsFromCSFiles..Event=cs=1070...Hannah |default={{i18n:Strings/StringsFromCSFiles..Event=cs=1070.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
+        "MapPage.cs.11076": "{{i18n:Strings/StringsFromCSFiles..MapPage=cs=11076...Hannah |default={{i18n:Strings/StringsFromCSFiles..MapPage=cs=11076.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
+        "ItemDeliveryQuest.cs.13446": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13446...Hannah |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13446.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },
     {
@@ -149,64 +149,64 @@
       "Action": "EditData",
       "Target": "Strings/schedules/Evelyn",
       "Entries": {
-        "23.000": "{{i18n:Strings/schedules/Evelyn..23.000...Hannah |default={{i18n:Strings/schedules/Evelyn..23.000.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "23.000": "{{i18n:Strings/schedules/Evelyn..23=000...Hannah |default={{i18n:Strings/schedules/Evelyn..23=000.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/schedules/Leah",
       "Entries": {
-        "spring_16.001": "{{i18n:Strings/schedules/Leah..spring_16.001...Hannah |default={{i18n:Strings/schedules/Leah..spring_16.001.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "spring_16.001": "{{i18n:Strings/schedules/Leah..spring_16=001...Hannah |default={{i18n:Strings/schedules/Leah..spring_16=001.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/schedules/Caroline",
       "Entries": {
-        "fall_25.002": "{{i18n:Strings/schedules/Caroline..fall_25.002...Hannah |default={{i18n:Strings/schedules/Caroline..fall_25.002.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "fall_25.002": "{{i18n:Strings/schedules/Caroline..fall_25=002...Hannah |default={{i18n:Strings/schedules/Caroline..fall_25=002.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/schedules/Jas",
       "Entries": {
-        "winter_18.001": "{{i18n:Strings/schedules/Jas..winter_18.001...Hannah |default={{i18n:Strings/schedules/Jas..winter_18.001.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "winter_18.001": "{{i18n:Strings/schedules/Jas..winter_18=001...Hannah |default={{i18n:Strings/schedules/Jas..winter_18=001.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/schedules/Jodi",
       "Entries": {
-        "spring_11.002": "{{i18n:Strings/schedules/Jodi..spring_11.002...Hannah |default={{i18n:Strings/schedules/Jodi..spring_11.002.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "spring_11.002": "{{i18n:Strings/schedules/Jodi..spring_11=002...Hannah |default={{i18n:Strings/schedules/Jodi..spring_11=002.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/schedules/Marnie",
       "Entries": {
-        "fall_18.000": "{{i18n:Strings/schedules/Marnie..fall_18.000...Hannah |default={{i18n:Strings/schedules/Marnie..fall_18.000.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
-        "winter_18.002": "{{i18n:Strings/schedules/Marnie..winter_18.002...Hannah |default={{i18n:Strings/schedules/Marnie..winter_18.002.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "fall_18.000": "{{i18n:Strings/schedules/Marnie..fall_18=000...Hannah |default={{i18n:Strings/schedules/Marnie..fall_18=000.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
+        "winter_18.002": "{{i18n:Strings/schedules/Marnie..winter_18=002...Hannah |default={{i18n:Strings/schedules/Marnie..winter_18=002.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/schedules/Sebastian",
       "Entries": {
-        "summer_4.000": "{{i18n:Strings/schedules/Sebastian..summer_4.000...Hannah |default={{i18n:Strings/schedules/Sebastian..summer_4.000.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "summer_4.000": "{{i18n:Strings/schedules/Sebastian..summer_4=000...Hannah |default={{i18n:Strings/schedules/Sebastian..summer_4=000.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/schedules/Lewis",
       "Entries": {
-        "fall_9.000": "{{i18n:Strings/schedules/Lewis..fall_9.000...Hannah |default={{i18n:Strings/schedules/Lewis..fall_9.000.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "fall_9.000": "{{i18n:Strings/schedules/Lewis..fall_9=000...Hannah |default={{i18n:Strings/schedules/Lewis..fall_9=000.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/schedules/Demetrius",
       "Entries": {
-        "summer_25.001": "{{i18n:Strings/schedules/Demetrius..summer_25.001...Hannah |default={{i18n:Strings/schedules/Demetrius..summer_25.001.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "summer_25.001": "{{i18n:Strings/schedules/Demetrius..summer_25=001...Hannah |default={{i18n:Strings/schedules/Demetrius..summer_25=001.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     }
   ]

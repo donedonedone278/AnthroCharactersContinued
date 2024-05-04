@@ -87,7 +87,7 @@
       "Action": "EditData",
       "Target": "Strings/StringsFromCSFiles",
       "Entries": {
-        "MapPage.cs.11070": "{{i18n:Strings/StringsFromCSFiles..MapPage.cs.11070...Liam |default={{i18n:Strings/StringsFromCSFiles..MapPage.cs.11070..}}}}"
+        "MapPage.cs.11070": "{{i18n:Strings/StringsFromCSFiles..MapPage=cs=11070...Liam |default={{i18n:Strings/StringsFromCSFiles..MapPage=cs=11070..}}}}"
       }
     },
     {
@@ -95,8 +95,8 @@
       "Target": "Strings/StringsFromMaps",
       "Entries": {
         "ElliottHouse.1": "{{i18n:Strings/StringsFromMaps..ElliottHouse.1...Liam |default={{i18n:Strings/StringsFromMaps..ElliottHouse.1..}}}}",
-        "LeahHouse.2": "{{i18n:Strings/StringsFromMaps..LeahHouse.2...Liam |default={{i18n:Strings/StringsFromMaps..LeahHouse.2..}}}}",
-        "LeahHouse.5": "{{i18n:Strings/StringsFromMaps..LeahHouse.5...Liam |default={{i18n:Strings/StringsFromMaps..LeahHouse.5..}}}}"
+        "LeahHouse.2": "{{i18n:Strings/StringsFromMaps..LeahHouse=2...Liam |default={{i18n:Strings/StringsFromMaps..LeahHouse=2..}}}}",
+        "LeahHouse.5": "{{i18n:Strings/StringsFromMaps..LeahHouse=5...Liam |default={{i18n:Strings/StringsFromMaps..LeahHouse=5..}}}}"
       }
     },
     {
