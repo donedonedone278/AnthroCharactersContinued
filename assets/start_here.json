@@ -6,7 +6,6 @@
     },
     {
       "When": {
-        "Visual Changes Only mode": false,
         "Flavor": true
       },
       "Action": "Include",
@@ -33,8 +32,7 @@
     },
     {
       "When": {
-        "Abigail to Albert": true,
-        "Visual Changes Only mode": false
+        "Abigail to Albert": true
       },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Albert/dialogue_changes.json"
@@ -48,8 +46,7 @@
     },
     {
       "When": {
-        "Emily to Emil": true,
-        "Visual Changes Only mode": false
+        "Emily to Emil": true
       },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Emil/dialogue_changes.json"
@@ -63,8 +60,7 @@
     },
     {
       "When": {
-        "Haley to Hayden": true,
-        "Visual Changes Only mode": false
+        "Haley to Hayden": true
       },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Hayden/dialogue_changes.json"
@@ -78,8 +74,7 @@
     },
     {
       "When": {
-        "Leah to Liam": true,
-        "Visual Changes Only mode": false
+        "Leah to Liam": true
       },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Liam/dialogue_changes.json"
@@ -93,8 +88,7 @@
     },
     {
       "When": {
-        "Maru to Marcus": true,
-        "Visual Changes Only mode": false
+        "Maru to Marcus": true
       },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Marcus/dialogue_changes.json"
@@ -108,8 +102,7 @@
     },
     {
       "When": {
-        "Penny to Perry": true,
-        "Visual Changes Only mode": false
+        "Penny to Perry": true
       },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Perry/dialogue_changes.json"
@@ -123,8 +116,7 @@
     },
     {
       "When": {
-        "Shane to Shauna": true,
-        "Visual Changes Only mode": false
+        "Shane to Shauna": true
       },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Shauna/dialogue_changes.json"
@@ -138,8 +130,7 @@
     },
     {
       "When": {
-        "Elliott to Ellen": true,
-        "Visual Changes Only mode": false
+        "Elliott to Ellen": true
       },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Ellen/dialogue_changes.json"
@@ -153,8 +144,7 @@
     },
     {
       "When": {
-        "Sebastian to Sabrina": true,
-        "Visual Changes Only mode": false
+        "Sebastian to Sabrina": true
       },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Sabrina/dialogue_changes.json"
@@ -168,8 +158,7 @@
     },
     {
       "When": {
-        "Sam to Samantha": true,
-        "Visual Changes Only mode": false
+        "Sam to Samantha": true
       },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Samantha/dialogue_changes.json"
@@ -183,8 +172,7 @@
     },
     {
       "When": {
-        "Harvey to Hannah": true,
-        "Visual Changes Only mode": false
+        "Harvey to Hannah": true
       },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Hannah/dialogue_changes.json"
@@ -198,8 +186,7 @@
     },
     {
       "When": {
-        "Alex to Alexis": true,
-        "Visual Changes Only mode": false
+        "Alex to Alexis": true
       },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Alexis/dialogue_changes.json"
