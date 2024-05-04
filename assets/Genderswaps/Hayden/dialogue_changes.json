@@ -135,7 +135,7 @@
       "Action": "EditData",
       "Target": "Data/Festivals/winter8",
       "Entries": {
-        "Haley_spouse": "Brr... my talons are freezing from making this snowman.$l"
+        "Haley_spouse": "{{i18n:Data/Festivals/winter8..Haley_spouse.Flavor..Hayden |default={{i18n:Data/Festivals/winter8..Haley_spouse.Flavor.}}}}"
       }
     },
     {

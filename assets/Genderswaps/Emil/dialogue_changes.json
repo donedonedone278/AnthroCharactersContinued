@@ -125,7 +125,7 @@
       "Action": "EditData",
       "Target": "Data/Events/FarmHouse",
       "Entries": {
-        "3917601/f Emily 3500/O Emily/n emilyFiber/A emilyFiber/t 2000 2400/p Emily": "EmilyTheme/-1000 -1000/farmer 8 14 3 Emily 7 14 1/makeInvisible 8 14/viewport -100 -100 true unfreeze/pause 3000/speak Emily \"Welcome home, @. I hope you had a nice day.\"/pause 1000/emote farmer 20/pause 1200/speak Emily \"So... I finished that secret project I was working on.\"/emote farmer 8/pause 500/speak Emily \"It's a brand new talon-made outfit for you!$h\"/pause 500/awardFestivalPrize emilyClothes/pause 500/playSound coin/message \"Received Emil's Magic Hat, Emil's Magic Boots, Emil's Magic Shirt, and a matching set of pants!\"/pause 500/speak Emily \"I've always loved sewing and making crafts... So I thought it'd be nice to make you something with my talons. I had a lot of fun!#$b#I hope it fits right... and that the fiber isn't too itchy.#$b#There's boots, a hat, a shirt, and pants! It's a complete outfit.\"/pause 800/speak Emily \"Now, when you wear those clothes, you'll think of me... and you'll know I'm here waiting for you to come home safe... okay?$l\"/pause 500/faceDirection Emily 2/pause 500/animate Emily false true 250 52 53/pause 250/playSound dwop/positionOffset Emily 4 0/pause 250/pause 250/playSound dwop/positionOffset Emily 4 0/pause 250/pause 250/playSound dwop/positionOffset Emily 4 0/pause 250/pause 250/playSound dwop/positionOffset Emily 4 0/pause 250/pause 250/playSound dwop/positionOffset Emily 4 0/pause 250/pause 250/playSound dwop/faceDirection farmer 2 true/positionOffset Emily 4 0/pause 250/pause 250/playSound dwop/positionOffset Emily 4 0/pause 250/pause 250/playSound dwop/positionOffset Emily 4 0/pause 250/stopAnimation Emily/pause 3000/showFrame Emily 55/pause 500/eyes 1 -4500/pause 3000/fade/viewport -100 -100/pause 500/end dialogue Emily \"Time for bed.\""
+        "3917601/f Emily 3500/O Emily/n emilyFiber/A emilyFiber/t 2000 2400/p Emily": "{{i18n:Data/Events/FarmHouse..3917601/f Emily 3500/O Emily/n emilyFiber/A emilyFiber/t 2000 2400/p Emily.Flavor..Emil |default={{i18n:Data/Events/FarmHouse..3917601/f Emily 3500/O Emily/n emilyFiber/A emilyFiber/t 2000 2400/p Emily.Flavor.}}}}"
       }
     },
     {
@@ -299,7 +299,7 @@
       "Action": "EditData",
       "Target": "Strings/MovieReactions",
       "Entries": {
-        "Emily_spring_movie_1_BeforeMovie": "I pecked on a few nuts to prepare for this movie... brain food!"
+        "Emily_spring_movie_1_BeforeMovie": "{{i18n:Strings/MovieReactions..Emily_spring_movie_1_BeforeMovie.Flavor..Emil |default={{i18n:Strings/MovieReactions..Emily_spring_movie_1_BeforeMovie.Flavor.}}}}"
       }
     },
     {
@@ -327,7 +327,7 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueEmily",
       "Entries": {
-        "TwoKids_1": "A big house, two kids and a parrot... I have my talons full!"
+        "TwoKids_1": "{{i18n:Characters/Dialogue/MarriageDialogueEmily..TwoKids_1.Flavor..Emil |default={{i18n:Characters/Dialogue/MarriageDialogueEmily..TwoKids_1.Flavor.}}}}"
       }
     },
     {

@@ -21,8 +21,8 @@
         "summer_Tue": "{{i18n:Characters/Dialogue/Alex..summer_Tue.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Alex..summer_Tue.Flavor.}}}}",
         "summer_Sat": "{{i18n:Characters/Dialogue/Alex..summer_Sat.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Alex..summer_Sat.Flavor.}}}}",
         "winter_Sat": "{{i18n:Characters/Dialogue/Alex..winter_Sat.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Alex..winter_Sat.Flavor. |Sebastian={{Sebastian}} |Sebastian_he={{Sebastian_he}}}} |Sebastian={{Sebastian}} |Sebastian_he={{Sebastian_he}}}}",
-        "Fri4": "Hey, @. I'm glad you stopped by.#$e#I'm not ashamed to say that I love my grandma!#$e#Now Grandpa, on the other paw...#$e#Just kidding.$h",
-        "summer_Wed8": "You know, I actually wouldn't mind being a farmer... it seems a lot like playing sports, in a way.#$e#I like being outdoors and doing things with my paws."
+        "Fri4": "{{i18n:Characters/Dialogue/Alex..Fri4.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Alex..Fri4.Flavor.}}}}",
+        "summer_Wed8": "{{i18n:Characters/Dialogue/Alex..summer_Wed8.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Alex..summer_Wed8.Flavor.}}}}"
       }
     },
     {
@@ -72,7 +72,7 @@
       "Target": "Characters/Dialogue/Elliott",
       "Entries": {
         "Fri8": "{{i18n:Characters/Dialogue/Elliott..Fri8.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Elliott..Fri8.Flavor.}}}}",
-        "fall_Wed8": "I wouldn't mind trying my paw at farming.#$e#The quiet atmosphere of a farm might be a good source of literary inspiration, don't you think?$h"
+        "fall_Wed8": "{{i18n:Characters/Dialogue/Elliott..fall_Wed8.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Elliott..fall_Wed8.Flavor.}}}}"
       }
     },
     {
@@ -86,7 +86,7 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Harvey",
       "Entries": {
-        "Wed": "Remember to cover your mouth when you sneeze.#$e#Then make sure to wash your paws. ...Or I suppose hands in your case."
+        "Wed": "{{i18n:Characters/Dialogue/Harvey..Wed.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Harvey..Wed.Flavor.}}}}"
       }
     },
     {
@@ -96,37 +96,37 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Harvey",
       "Entries": {
-        "Wed": "Remember to cover your mouth when you sneeze.#$e#Then make sure to wash your paws.", 
-        "Sun6": "Imagine having a patient's life completely in your paws, and failing to keep them alive... that's something that will haunt you forever.$s",
-        "winter_Wed": "It's flu season, so you'd better be extra careful.#$e#Make sure to wash your paws often."
+        "Wed": "{{i18n:Characters/Dialogue/Harvey..Wed.FurryFarmerFlavor..AnthroConfig |default={{i18n:Characters/Dialogue/Harvey..Wed.FurryFarmerFlavor.}}}}",
+        "Sun6": "{{i18n:Characters/Dialogue/Harvey..Sun6.FurryFarmerFlavor..AnthroConfig |default={{i18n:Characters/Dialogue/Harvey..Sun6.FurryFarmerFlavor.}}}}",
+        "winter_Wed": "{{i18n:Characters/Dialogue/Harvey..winter_Wed.FurryFarmerFlavor..AnthroConfig |default={{i18n:Characters/Dialogue/Harvey..winter_Wed.FurryFarmerFlavor.}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Jodi",
       "Entries": {
-        "Wed4": "I wish I could spend more time outside, but there's so much work to do.#$e#I started wearing rubber gloves to keep my paw fur soft.#$e#The older you get, the more work you have to do to stay healthy.$s#$e#Ok, bye!"
+        "Wed4": "{{i18n:Characters/Dialogue/Jodi..Wed4.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Jodi..Wed4.Flavor.}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Kent",
       "Entries": {
-        "Fri4": "I oughta take up fishing. It would give me something to do, keep my paws busy."
+        "Fri4": "{{i18n:Characters/Dialogue/Kent..Fri4.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Kent..Fri4.Flavor.}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogue",
       "Entries": {
-        "Indoor_Day_Leah": "Mind if I add some architectural flair to the woodwork around here? My chisel paw is itching!"
+        "Indoor_Day_Leah": "{{i18n:Characters/Dialogue/MarriageDialogue..Indoor_Day_Leah.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/MarriageDialogue..Indoor_Day_Leah.Flavor.}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueEmily",
       "Entries": {
-        "TwoKids_1": "A big house, two kids and a parrot... I have my paws full!"
+        "TwoKids_1": "{{i18n:Characters/Dialogue/MarriageDialogueEmily..TwoKids_1.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/MarriageDialogueEmily..TwoKids_1.Flavor.}}}}"
       }
     },
     {
@@ -136,7 +136,7 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueMaru",
       "Entries": {
-        "Indoor_Day_4": "How do you keep your paws so soft with all that farm work?"
+        "Indoor_Day_4": "{{i18n:Characters/Dialogue/MarriageDialogueMaru..Indoor_Day_4.FurryFarmerFlavor..AnthroConfig |default={{i18n:Characters/Dialogue/MarriageDialogueMaru..Indoor_Day_4.FurryFarmerFlavor.}}}}"
       }
     },
     {
@@ -146,7 +146,7 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueSebastian",
       "Entries": {
-        "Neutral_4": "I guess I can do the laundry today... You probably have your paws full with running the farm."
+        "Neutral_4": "{{i18n:Characters/Dialogue/MarriageDialogueSebastian..Neutral_4.FurryFarmerFlavor..AnthroConfig |default={{i18n:Characters/Dialogue/MarriageDialogueSebastian..Neutral_4.FurryFarmerFlavor.}}}}"
       }
     },
     {
@@ -156,7 +156,7 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Maru",
       "Entries": {
-        "winter_Thu10": "@, come closer. I'm cold.$l#$e#My paw pads are so dry from the winter air. I'm sorry about that.$l"
+        "winter_Thu10": "{{i18n:Characters/Dialogue/Maru..winter_Thu10.FurryFarmerFlavor..AnthroConfig |default={{i18n:Characters/Dialogue/Maru..winter_Thu10.FurryFarmerFlavor.}}}}"
       }
     },
     {
@@ -166,9 +166,9 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Maru",
       "Entries": {
-        "AcceptGift_(O)910": "Ahh! Be careful with that! Are you touching it with your bare paws?$9#$b#... Sorry... hehe... With proper handling, this will be perfect for an exotic machine I'm building.",
-        "eventSeen_9_memory_oneweek": "How's your paw feeling?#$b#Let me see it... Hey, it looks all better!$h",
-        "summer_Thu10": "How do your paws stay so soft with all that farm work?"
+        "AcceptGift_(O)910": "{{i18n:Characters/Dialogue/Maru..AcceptGift_(O)910.FurryFarmerFlavor..AnthroConfig |default={{i18n:Characters/Dialogue/Maru..AcceptGift_(O)910.FurryFarmerFlavor.}}}}",
+        "eventSeen_9_memory_oneweek": "{{i18n:Characters/Dialogue/Maru..eventSeen_9_memory_oneweek.FurryFarmerFlavor..AnthroConfig |default={{i18n:Characters/Dialogue/Maru..eventSeen_9_memory_oneweek.FurryFarmerFlavor.}}}}",
+        "summer_Thu10": "{{i18n:Characters/Dialogue/Maru..summer_Thu10.FurryFarmerFlavor..AnthroConfig |default={{i18n:Characters/Dialogue/Maru..summer_Thu10.FurryFarmerFlavor.}}}}"
       }
     },
     {
@@ -178,22 +178,22 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Pierre",
       "Entries": {
-        "Sat": "If you find any wild produce, I'll take it off your paws for a reasonable price."
+        "Sat": "{{i18n:Characters/Dialogue/Pierre..Sat.FurryFarmerFlavor..AnthroConfig |default={{i18n:Characters/Dialogue/Pierre..Sat.FurryFarmerFlavor.}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Robin",
       "Entries": {
-        "AcceptGift_(O)SkillBook_2": "Ah, 'Woodcutter's Weekly'... I was hoping to get my paws on the newest issue! They've got all the latest techniques in here!#$b#From one woodcutter to another... Thank you.$h",
-        "GreenRain": "That rabbit is insane! Why does he have to go out there? We have no idea if this rain is dangerous!$u%noturn"
+        "AcceptGift_(O)SkillBook_2": "{{i18n:Characters/Dialogue/Robin..AcceptGift_(O)SkillBook_2.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Robin..AcceptGift_(O)SkillBook_2.Flavor.}}}}",
+        "GreenRain": "{{i18n:Characters/Dialogue/Robin..GreenRain.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Robin..GreenRain.Flavor.}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Shane",
       "Entries": {
-        "Sat8": "I've really grown attached to Marnie's chickens.$h||A chicken will never let you down. People, on the other paw..."
+        "Sat8": "{{i18n:Characters/Dialogue/Shane..Sat8.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Shane..Sat8.Flavor.}}}}"
       }
     },
     {
@@ -203,14 +203,14 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Wizard",
       "Entries": {
-        "Introduction": "Ah, yes. I have predicted your arrival a long time ago, young @.#$e#However, your fate is ultimately in your own paws."
+        "Introduction": "{{i18n:Characters/Dialogue/Wizard..Introduction.FurryFarmerFlavor..AnthroConfig |default={{i18n:Characters/Dialogue/Wizard..Introduction.FurryFarmerFlavor.}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/mail",
       "Entries": {
-        "SeaAmulet": "@,^I'm going to give you this advice because I like you and I want you to stay in Pelican Town. If there comes a day that you want to ask for someone's paw in marriage, you'll need to give them a 'Mermaid's Pendant'. Don't worry, everyone in Pelican Town understands the significance of the amulet. It's an ancient tradition in this region. Good luck! ^   -Lewis[#]About Mermaid's Pendants"
+        "SeaAmulet": "{{i18n:Data/mail..SeaAmulet.Flavor..AnthroConfig |default={{i18n:Data/mail..SeaAmulet.Flavor.}}}}"
       }
     },
     {
@@ -220,22 +220,22 @@
       "Action": "EditData",
       "Target": "Data/mail",
       "Entries": {
-        "quest10": "@,^I've heard you've been lending some people your paws around town! Everyone seems really thankful. I'm awarding you this month's \"Best Neighbor\" award (with a small cash prize). Keep it up! ^   -Mayor%item money 500 501 %%[#]Best Neighbor",
-        "MSB_Pierre": "Dear @,^^I guess people didn't take to 'Pierre's Prime Produce' like I'd hoped...^^Anyways, here's my old 'Mini-Shipping Bin'.^The next time you get your paws on some produce worthy of the 'Pierre's Prime' luxury brand, maybe you could have them shipped my way?^^   -Pierre%item id (BC)248 %%[#]Pierre's Prime Produce"
+        "quest10": "{{i18n:Data/mail..quest10.FurryFarmerFlavor..AnthroConfig |default={{i18n:Data/mail..quest10.FurryFarmerFlavor.}}}}",
+        "MSB_Pierre": "{{i18n:Data/mail..MSB_Pierre.FurryFarmerFlavor..AnthroConfig |default={{i18n:Data/mail..MSB_Pierre.FurryFarmerFlavor.}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/SecretNotes",
       "Entries": {
-        "24": "It's a page from M. Jasper's book:^^...the creatures, known by some as \"Forest Spirits\" or \"Junimos\", are said to appear in abandoned buildings after they've \"gone to seed\".^^As a general rule... when people leave, and nature begins to reclaim her territory, the Junimos will undoubtedly appear.^^Folk wisdom holds that the Junimos display some kind of resonant affinity with gemstones that are placed inside their little huts...^^Also, it's said that raisins are their favorite food, but they are too shy to take them directly from the paw.^^Of course, all these claims come from dubious, unverified sources... As far as I know, even the mere existence of these creatures has never been proven!"
+        "24": "{{i18n:Data/SecretNotes..24.Flavor..AnthroConfig |default={{i18n:Data/SecretNotes..24.Flavor.}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/ArchaeologyHouse",
       "Entries": {
-        "romanceBook": "pause 400/speak Elliott \"After countless hours scribbling at my writing desk, I present to you my first novel: 'Camellia Station'... It's a romance novel about a train stewardess who falls in love with a traveling architect...\"/animate Elliott false true 1000 33 33 34/pause 500/speak Elliott \"Chapter One.#$b#'Your ticket, sir?' Ticket collector Gozman extended a gloved paw towards the young commuter. 'Ah, yes. I have it right here,' he replied, reaching into his coat pocket. Mortified, he discovered that the ticket was missing.\"/playMusic none/globalFade/viewport -100 -100/pause 1000/warp Sebastian -1000 -1000/warp Sam -1000 -1000/warp Abigail -1000 -1000/warp Jodi -1000 -1000/warp Robin -1000 -1000/warp Demetrius -1000 -1000/warp Shane -1000 -1000/warp Maru -1000 -1000/warp Pierre -1000 -1000/warp Caroline -1000 -1000/viewport 14 11 true/pause 1000/speak Elliott \"...'Clara, there's something I must tell you,' he blurted as she turned to leave. Clara turned, slowly, and saw the look of desperation in Horatio's eye. At that moment Gozman burst into the compartment, red-faced.\"/stopAnimation Elliott/showFrame Elliott 34/pause 800/speak Elliott \"Well, that concludes my reading. I'll be selling signed copies of the book by the front desk. Thanks for listening!$h\"/faceDirection Lewis 3/faceDirection Marnie 1/faceDirection Emily 2 true/faceDirection Clint 1/move Elliott 0 4 3/faceDirection farmer 1/pause 600/speak Elliott \"Well, how was it?\"/emote farmer 32/speak Elliott \"Thanks. $h#$b#You know, I got the idea for writing a romance novel from you. Do you remember?#$b#That's why I've dedicated this book to you...$l\"/move Elliott -1 0 3/emote Elliott 32/pause 1000/end"
+        "romanceBook": "{{i18n:Data/Events/ArchaeologyHouse..romanceBook.Flavor..AnthroConfig |default={{i18n:Data/Events/ArchaeologyHouse..romanceBook.Flavor.}}}}"
       }
     },
     {
@@ -245,22 +245,22 @@
       "Action": "EditData",
       "Target": "Data/Events/Beach",
       "Entries": {
-        "711130/t 600 1710/f Willy 1500": "ocean/30 34/farmer 27 35 1 Willy 30 34 2 Gus -10 -10 0/skippable/addConversationTopic willyCrabs/showFrame Willy 24/move farmer 3 0 0/showFrame Willy 0/pause 800/speak Willy \"Ah... it's a good thing you turned up, lad.^Ah... It's a good thing you turned up, miss.#$b#I've got a... a bit of a problem I could use a paw with...\"/faceDirection Willy 3/faceDirection Willy 0/pause 1000/faceDirection Willy 3 true/pause 100/faceDirection Willy 2/speak Willy \"Er... It'd be best if I just showed ya...\"/pause 600/faceDirection Willy 3 true/pause 100/faceDirection Willy 0/speak Willy \"Take a deep breath, now.\"/pause 300/playSound doorClose/warp Willy -100 -100/move farmer 0 -1 0/pause 500/playSound doorClose/warp farmer -100 -100/globalFade/viewport -1000 -1000/changeLocation FishShop/specificTemporarySprite willyCrabExperiment/warp Willy 5 7/faceDirection Willy 0/playMusic ragtime/pause 500/viewport 5 7 true/pause 5000/warp farmer 5 9/playSound doorClose/pause 100/jump farmer/pause 1000/emote farmer 16/faceDirection Willy 3 true/pause 100/faceDirection Willy 2/speak Willy \"As you can see...#$b#And smell... heh...#$b#The old girls 'ran wild' last night... heh...$h#$b#My experiment needs a little work...\"/move farmer 0 -1 0/move farmer 2 0 1/emote farmer 56/warp Gus 5 9/playSound doorClose/pause 100/jump Gus/pause 1000/speak Gus \"Hooo~... Back at it again, huh Willy?$h\"/textAboveHead Willy \"Aye...\"/move Gus 0 -1 3/move Gus -2 0 3/pause 1000/speak Gus \"They look fresh all right...\"/faceDirection Willy 3/speak Willy \"Aye... These are the finest, meatiest crabs you'll ever set yer eyes on.$h#$b#They be a little too feisty, though...$s\"/pause 1000/emote Gus 40/pause 500/jump Gus/pause 1000/speak Gus \"I'll take the whole lot!$h#$b#With a discount for the extra labor, of course...\"/pause 2000/move farmer 1 0 0 true/move Gus -1 0 0 false/move farmer 0 -1 0 true/move Gus 0 -1 0 false/faceDirection Willy 0/pause 1000/playSound slimeHit/specificTemporarySprite removeSprite 3/pause 1000/playSound slimeHit/specificTemporarySprite removeSprite 1/pause 1000/playSound fishSlap/specificTemporarySprite removeSprite 2/pause 500/globalFade/viewport -1000 -1000/pause 1500/speak Gus \"Looks like we got 'em all...\"/pause 1000/speak Willy \"Goodbye, me sweet ladies...$s\"/pause 1000/speak Gus \"Psst... @... Don't tell Willy, but I'll be doing a special on crab cakes at the saloon for the next few days...\"/pause 1000/end position 30 34"
+        "711130/t 600 1710/f Willy 1500": "{{i18n:Data/Events/Beach..711130/t 600 1710/f Willy 1500.FurryFarmerFlavor..AnthroConfig |default={{i18n:Data/Events/Beach..711130/t 600 1710/f Willy 1500.FurryFarmerFlavor.}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Beach",
       "Entries": {
-        "9348571/Hl willyBoatFixed": "ocean/6 8/farmer -1000 -1000 0 Willy -1000 -1000 0/skippable/pause 4000/warp farmer 6 12/playSound doorClose/move farmer 0 -2 0/emote farmer 8/pause 1500/warp Willy 6 12/playSound doorClose/move Willy 0 -1 0/pause 500/emote Willy 28/pause 250/move farmer 1 0 0/move Willy 0 -1 0/pause 700/speak Willy \"Aye... a sad sight, isn't she?\"/pause 500/speak Willy \"She was me father's boat... Served him well for over 50 years.#$b#But now she can barely stay afloat.$s\"/faceDirection Willy 1/faceDirection farmer 3/speak Willy \"I'd repair her myself, but I don't have the right materials, lad.^I'd repair her myself, but I don't have the right materials, miss.\"/faceDirection Willy 0/speak Willy \"Aye... 200 pieces of hardwood to patch the hull would be a good start.#$b#But we'll also need to get the ticket machine back up, and the iridium anchor repaired.\"/faceDirection farmer 0/pause 400/speak Willy \"If I could get me claws on the right materials, and repair the ol' girl... well, then I could take you to the Fern Islands.\"/faceDirection Willy 1/faceDirection farmer 3/speak Willy \"Volcanic islands full of strange parrots, they say...\"/pause 400/quickQuestion #I'd like to help#Nah, I'll pass...(break)emote Willy 32\\speak Willy \"Aye... I thought you would, lad.$h^Aye... I thought you would, miss.$h\"\\speak Willy \"I'll leave this door unlocked for ya... you can come drop off the materials whenever you like.\"(break)emote Willy 28\\speak Willy \"Alright, suit yourself...$s#$b#If you have a change of heart, you can always come back and help out. I'll leave this door unlocked, anyhow.\"/pause 2000/end"
+        "9348571/Hl willyBoatFixed": "{{i18n:Data/Events/Beach..9348571/Hl willyBoatFixed.Flavor..AnthroConfig |default={{i18n:Data/Events/Beach..9348571/Hl willyBoatFixed.Flavor.}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/FarmHouse",
       "Entries": {
-        "3917601/f Emily 3500/O Emily/n emilyFiber/A emilyFiber/t 2000 2400/p Emily": "EmilyTheme/-1000 -1000/farmer 8 14 3 Emily 7 14 1/makeInvisible 8 14/viewport -100 -100 true unfreeze/pause 3000/speak Emily \"Welcome home, @. I hope you had a nice day.\"/pause 1000/emote farmer 20/pause 1200/speak Emily \"So... I finished that secret project I was working on.\"/emote farmer 8/pause 500/speak Emily \"It's a brand new hand-made outfit for you!$h\"/pause 500/awardFestivalPrize emilyClothes/pause 500/playSound coin/message \"Received Emily's Magic Hat, Emily's Magic Boots, Emily's Magic Shirt, and a matching set of pants!\"/pause 500/speak Emily \"I've always loved sewing and making crafts... So I thought it'd be nice to make you something with my own two paws. I had a lot of fun!#$b#I hope it fits right... and that the fiber isn't too itchy.#$b#There's boots, a hat, a shirt, and pants! It's a complete outfit.\"/pause 800/speak Emily \"Now, when you wear those clothes, you'll think of me... and you'll know I'm here waiting for you to come home safe... okay?$l\"/pause 500/faceDirection Emily 2/pause 500/animate Emily false true 250 52 53/pause 250/playSound dwop/positionOffset Emily 4 0/pause 250/pause 250/playSound dwop/positionOffset Emily 4 0/pause 250/pause 250/playSound dwop/positionOffset Emily 4 0/pause 250/pause 250/playSound dwop/positionOffset Emily 4 0/pause 250/pause 250/playSound dwop/positionOffset Emily 4 0/pause 250/pause 250/playSound dwop/faceDirection farmer 2 true/positionOffset Emily 4 0/pause 250/pause 250/playSound dwop/positionOffset Emily 4 0/pause 250/pause 250/playSound dwop/positionOffset Emily 4 0/pause 250/stopAnimation Emily/pause 3000/showFrame Emily 55/pause 500/eyes 1 -4500/pause 3000/fade/viewport -100 -100/pause 500/end dialogue Emily \"Time for bed.\"",
-        "9333220/e 9333219/O Sebastian/A sebastianFrog/t 620 1900": "distantBanjo/-1000 -1000/farmer 51 25 2 Sebastian 52 25 2/addWorldState sebastianFrog/addConversationTopic sebastianFrog2 6/specificTemporarySprite sebastianFrogHouse/skippable/makeInvisible 44 16 4 4/makeInvisible 50 25 4 4/viewport -100 -100 true unfreeze/pause 3000/faceDirection farmer 1/emote farmer 8/speak Sebastian \"Our little friend's doing much better, see?\"/pause 500/faceDirection farmer 2/pause 250/showFrame farmer 4/pause 800/showFrame Sebastian 51/playSound thudStep/pause 800/speak Sebastian \"...but I don't think he can go back into the wild... he's not fast enough to avoid predators anymore.#$b#...So I set up this terrarium.#$b#He looks happy, doesn't he?$h\"/pause 400/emote farmer 32/pause 500/showFrame farmer 0/pause 400/faceDirection farmer 1/speak Sebastian \"I wonder if he'll get lonely, though...\"/pause 500/faceDirection farmer 2/pause 600/quickQuestion #Why not start a 'frog sanctuary'?#He'll be fine.(break)speak Sebastian \"...a haven for frogs and toads who can't make it on their own? Not a bad idea.\"(break)speak Sebastian \"He does look pretty tough. But still, If I find another injured frog, I think he'd be better off with a friend.\"/faceDirection farmer 1/pause 1200/quickQuestion #Why do you like frogs so much, anyway?#I don't really want this in the house#I'm glad you've found a new hobby(break)speak Sebastian \"Hmm... Well, I like going out in the rain. So I guess I encountered a lot of frogs that way.#$b#I ended up feeling a common bond with the little guys.\"\\faceDirection farmer 1 true\\emote farmer 20(break)emote Sebastian 12\\showFrame Sebastian 12\\pause 400\\speak Sebastian \"Well it's not up for debate. This is my corner of the house and I can do what I want with it.\"\\showFrame Sebastian 0(break)speak Sebastian \"Yeah, it'll be fun. I spend a lot of time on the computer, so it's nice to have some real, physical hobbies.#$b#I might even try my paw at some frog breeding!$h\"\\faceDirection farmer 1 true\\emote farmer 16\\pause 500/faceDirection farmer 2/showFrame farmer 0/pause 1000/playSound croak/specificTemporarySprite frogJump/pause 250/playSound slimeHit/pause 250/showFrame farmer 94/jump Sebastian/pause 250/playSound slimeHit/pause 500/playSound slimeHit/pause 250/fade/viewport -1000 -1000/pause 600/message \"Today our family grew a little larger...\"/pause 1000/playSound slimeHit/pause 500/playSound slimeHit/pause 500/playSound slimeHit/pause 1000/message \"...and a lot slimier!\"/pause 1000/end"
+        "3917601/f Emily 3500/O Emily/n emilyFiber/A emilyFiber/t 2000 2400/p Emily": "{{i18n:Data/Events/FarmHouse..3917601/f Emily 3500/O Emily/n emilyFiber/A emilyFiber/t 2000 2400/p Emily.Flavor..AnthroConfig |default={{i18n:Data/Events/FarmHouse..3917601/f Emily 3500/O Emily/n emilyFiber/A emilyFiber/t 2000 2400/p Emily.Flavor.}}}}",
+        "9333220/e 9333219/O Sebastian/A sebastianFrog/t 620 1900": "{{i18n:Data/Events/FarmHouse..9333220/e 9333219/O Sebastian/A sebastianFrog/t 620 1900.Flavor..AnthroConfig |default={{i18n:Data/Events/FarmHouse..9333220/e 9333219/O Sebastian/A sebastianFrog/t 620 1900.Flavor.}}}}"
       }
     },
     {
@@ -270,7 +270,7 @@
       "Action": "EditData",
       "Target": "Data/Events/FarmHouse",
       "Entries": {
-        "558291/y 3/H": "grandpas_theme/-2000 -1000/farmer 13 23 2/broadcastEvent/addTemporaryActor Grandpa 1 1 -100 -100 2 true/specificTemporarySprite grandpaSpirit/viewport -1000 -1000 true/pause 10000/speak Grandpa \"My dear boy...^My dearest grand-daughter...#$b#It's been many years since we last spoke. You were just a little boy... Do you remember?^It's been many years since we last spoke. You were just a little girl... Do you remember?#$b#Look how far you've come!#$b#Though you may have forgotten me, I've been here all along.#$b#You see... My body has departed this world, but my heart will always remain in Stardew Valley.\"/specificTemporarySprite grandpaNight/pause 4000/speak Grandpa \"You've been here two years now...\"/grandpaEvaluation/pause 3000/speak Grandpa \"The future of %farm Farm is in your paws, now.#$b#Farewell!\"/pause 1000/globalFade/removeTemporarySprites/playMusic none/pause 1000/end bed"
+        "558291/y 3/H": "{{i18n:Data/Events/FarmHouse..558291/y 3/H.FurryFarmerFlavor..AnthroConfig |default={{i18n:Data/Events/FarmHouse..558291/y 3/H.FurryFarmerFlavor.}}}}"
       }
     },
     {
@@ -280,7 +280,7 @@
       "Action": "EditData",
       "Target": "Data/Events/FishShop",
       "Entries": {
-        "16253595/j 29/X": "distantBanjo/6 6/farmer 5 9 0 Willy -100 -100 2/skippable/move farmer 0 -1 0/pause 1000/warp Willy 4 4/playsound doorClose/pause 100/textAboveHead Willy \"Ahoy!\"/pause 500/move Willy 1 0 2/speak Willy \"Come in... make yourself at home...\"/move farmer 0 -1 0/move farmer -1 0 3/pause 1000/animate farmer true true 9999 35/playSound quickSlosh/pause 800/playSound quickSlosh/pause 800/speak Willy \"Aye... that's good stuff, there. The fish go crazy for it.#$b#Just... eh... make sure to wash yer paws good after dipping them in those juices...$s\"/speak Willy \"The aroma has been known to linger for up to seven weeks, lad...^The aroma has been known to linger for up to seven weeks, miss...\"/stopAnimation farmer/startJittering/jump farmer/positionOffset farmer 4 0/pause 50/positionOffset farmer 4 0/pause 50/positionOffset farmer 4 0/pause 50/positionOffset farmer 4 0/pause 50/positionOffset farmer 4 0/pause 50/positionOffset farmer 4 0/pause 50/positionOffset farmer 4 0/pause 50/positionOffset farmer 4 0/pause 50/stopJittering/pause 1000/speak Willy \"So... you been catching a lot o' fish?\"/pause 300/stopAnimation farmer/faceDirection farmer 0/pause 500/quickQuestion #Yes#No#It's too difficult...(break)emote Willy 20\\speak Willy \"Aha! A man after me own heart...$h^Aha! A lady after me own heart...$h\"\\pause 500\\speak Willy \"You can always trust a fisherman...^You can always count on a lady who fishes...\"\\speak Willy \"That's what me ol' Pappy used to say, at least. Haha!$h#$b#Well, keep it goin'... if you can catch every fish in these waters, I've got a special prize waitin' for ye...\"(break)emote Willy 28\\speak Willy \"Not the fishin' type, eh? That's too bad...$s\"(break)emote Willy 16\\speak Willy \"Yes, it's a difficult sport... especially for a beginner.#$b#Have you tried the 'Training Rod'? I sell them right here, at a very low price.#$b#You should try using a 'Training Rod' until you get a little more experienced.\"/pause 1500/faceDirection Willy 3/emote Willy 28/quickQuestion #What's wrong?#Everything okay?(break)pause 100(break)pause 100/pause 400/speak Willy \"Aye... well, business has been tough, lately.$s#$b#It all started about the same time that old community center fell to ruin... me fish just don't sell like they used to...#$b#I've been working double-time just to make ends meet!\"/faceDirection Willy 2/pause 300/speak Willy \"No time for me own projects...$s#$b#But, if things picked back up around here, I might have the time to show ya somethin'...\"/move Willy -1 0 0/playMusic none/speak Willy \"Heh heh... yep. She's back there... an 'old friend' that's seen better days...$h\"/pause 500/emote farmer 8/pause 1000/playMusic ocean/playSound shwip/faceDirection Willy 1 true/pause 40/faceDirection Willy 2/speak Willy \"Some day, lad... you'll see what I mean.^Some day, miss... you'll see what I mean.\"/pause 2000/end"
+        "16253595/j 29/X": "{{i18n:Data/Events/FishShop..16253595/j 29/X.FurryFarmerFlavor..AnthroConfig |default={{i18n:Data/Events/FishShop..16253595/j 29/X.FurryFarmerFlavor.}}}}"
       }
     },
     {
@@ -290,7 +290,7 @@
       "Action": "EditData",
       "Target": "Data/Events/HaleyHouse",
       "Entries": {
-        "195019/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/i 446/k 195012": "playful/-1000 -1000/farmer 8 19 1 Haley 18 18 1 Emily 19 17 2 Penny 20 17 2 Maru 21 17 2 Leah 22 18 3 Abigail 20 20 0/pause 1000/message \"For some reason, you decide to place your paw in your pocket...\"/pause 500/message \"You touch the rabbit's foot, and feel a sense of relief...\"/move farmer 5 0 1 true/viewport 17 19 true/move false/pause 500/faceDirection Haley 3 true/faceDirection Emily 3 true/faceDirection Penny 3 true/faceDirection Maru 3 true/faceDirection Leah 3 true/faceDirection Abigail 3 true/textAboveHead Haley \"Hi!\"/textAboveHead Abigail \"Hey there!\"/textAboveHead Leah \"Look who it is!\"/pause 2000/move farmer 4 0 1/emote farmer 32/pause 500/speak Abigail \"We were just gossiping about Mayor Lewis and Marnie...$h\"/pause 500/speak Penny \"Personally, I don't think there's anything fishy going on between them...\"/pause 500/speak Haley \"Hah! Were you born yesterday?$h\"/jump Penny/emote Penny 12/fade/viewport -1000 -1000/pause 1500/message \"You spent a short while with the group.\"/pause 1000/message \"It was an uneventful gathering!\"/pause 500/end"
+        "195019/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/i 446/k 195012": "{{i18n:Data/Events/HaleyHouse..195019/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/i 446/k 195012.FurryFarmerFlavor..AnthroConfig |default={{i18n:Data/Events/HaleyHouse..195019/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/i 446/k 195012.FurryFarmerFlavor.}}}}"
       }
     },
     {
@@ -300,15 +300,15 @@
       "Action": "EditData",
       "Target": "Data/Events/ManorHouse",
       "Entries": {
-        "prizeTicketIntro/n completedFirstBillboardQuest": "distantBanjo/3 6/farmer -2000 -2000 0 Lewis 1 6 0/skippable/pause 2000/warp farmer 5 11/playSound doorClose/pause 400/move farmer 0 -5 0/move farmer -3 0 3/pause 400/faceDirection Lewis 1/pause 500/emote Lewis 16/speak Lewis \"Ah, hello there, @.\"/pause 500/faceDirection Lewis 0/speak Lewis \"I was just loading some more prizes into this machine here...\"/pause 300/faceDirection farmer 0/emote farmer 8/pause 500/speak Lewis \"It's a new program I've come up with, to help promote a spirit of goodwill among the townsfolk... You included!#$b#It's pretty simple... sometimes, when you help out others in town, you'll receive a 'Prize Ticket'. You can turn them in for rewards.#$b#There's some special stuff in there!$h\"/pause 500/emote farmer 56/faceDirection Lewis 1/emote Lewis 40/speak Lewis \"My only worry is that people will just go after the tickets, rather than cultivating a true compassion for their fellow man...$s\"/faceDirection farmer 3/quickQuestion #I just want to help.#Yep, I'm in it for the prizes.(break)pause 100\\emote Lewis 32\\speak Lewis \"Is that so? Well, I'm glad to hear that!$h\"(break)pause 50\\jump Lewis\\pause 500\\speak Lewis \"I see!$u#$b#Well... that's not what I hoped to hear, but I appreciate the honesty.\"/pause 500/speak Lewis \"At any rate... keep checking the 'Help Wanted' board in town. That's a good way to get your paws on more tickets.#$b#Good luck out there.\"/pause 500/end"
+        "prizeTicketIntro/n completedFirstBillboardQuest": "{{i18n:Data/Events/ManorHouse..prizeTicketIntro/n completedFirstBillboardQuest.FurryFarmerFlavor..AnthroConfig |default={{i18n:Data/Events/ManorHouse..prizeTicketIntro/n completedFirstBillboardQuest.FurryFarmerFlavor.}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Railroad",
       "Entries": {
-        "528052/f Harvey 2500/t 900 1700/n harveyBalloon": "playful/26 38/Harvey 24 41 0 farmer 24 50 0/skippable/move farmer 0 -8 0/faceDirection Harvey 2/speak Harvey \"There you are... just in time!$l\"/faceDirection Harvey 0/jump Harvey/pause 800/speak Harvey \"Look, here it comes!$8\"/emote farmer 8/move Harvey -1 0 1/move farmer -2 0 0/move farmer 0 -1 1/addTemporaryActor Marcello 16 32 25 19 2 true/positionOffset Marcello 36 558/animate Marcello false true 400 16 17/specificTemporarySprite marcelloLand/null/pause 1000/stopAnimation Marcello/pause 500/message \"Marcello's Balloon Rentals at your service!\"/pause 1000/positionOffset Marcello -4 0/pause 20/positionOffset Marcello -4 0/pause 20/positionOffset Marcello -4 0/pause 20/positionOffset Marcello -4 0/pause 20/positionOffset Marcello -4 0/pause 20/positionOffset Marcello -4 0/pause 20/positionOffset Marcello -4 0/pause 20/positionOffset Marcello -4 0/pause 20/positionOffset Marcello -4 0/pause 20/jump Marcello 12/move Marcello 0 3 3/move Marcello -2 0 0/faceDirection Harvey 2/faceDirection farmer 2/message \"Marcello: It's all yours for two hours.\"/faceDirection Marcello 3/faceDirection Marcello 2/message \"Marcello: Now... I was told there's a saloon somewhere around here?\"/move Marcello 0 9 1/warp Marcello -100 -100/faceDirection farmer 1/faceDirection Harvey 3/pause 500/speak Harvey \"I saw an ad in the paper for these balloon rides and I knew I had to surprise you with one.\"/pause 800/question fork1 \"#This looks fun! Let's ride!#...But aren't you afraid of heights?\"/fork afraid/pause 500/speak Harvey \"Okay... you first.$l\"/pause 400/move farmer 0 1 1/faceDirection Harvey 1/move farmer 3 0 0/move farmer 0 -1 0/jump farmer 14/move farmer 0 -1 2/move Harvey 0 1 1/move Harvey 3 0 0/move Harvey 0 -1 0/jump Harvey 14/move Harvey 0 -1 2/pause 1000/showFrame Harvey 29/pause 300/playSound openBox/pause 300/showFrame Harvey 0/pause 400/playSound furnace/playMusic none/cutscene balloonDepart/viewport move 0 -1 6000/pause 2000/showFrame Harvey 30/jump Harvey 5/shake Harvey 7000/pause 7000/globalFade/viewport -2000 -2000/playMusic 50s/pause 2000/cutscene clearTempSprites/changeToTemporaryMap HarveyBalloon/cutscene balloonChangeMap/viewport -2000 -2000/warp farmer 22 36/warp Harvey 22 36/positionOffset farmer 24 570/positionOffset Harvey 96 554/positionOffset farmer -8 -8/positionOffset Harvey -24 -8/showFrame Harvey 32/pause 1000/shake Harvey 19000/viewport 23 39 clamp true/viewport move 0 -1 17000/pause 18000/faceDirection farmer 1/showFrame Harvey 33/pause 1000/jump Harvey/showFrame Harvey 30/pause 800/showFrame Harvey 12/animate Harvey false true 100 12 13 14 15/positionOffset Harvey -4 2/pause 30/positionOffset Harvey -4 2/pause 30/positionOffset Harvey -4 2/pause 30/positionOffset Harvey -4 2/pause 30/positionOffset Harvey -4 2/pause 30/positionOffset Harvey -4 2/pause 30/positionOffset Harvey -4 2/pause 30/positionOffset Harvey -4 2/pause 30/stopAnimation Harvey/showFrame Harvey 31/positionOffset Harvey -4 0/playSound fishSlap/eyes 1 -2000/pause 2000/speak Harvey \"We... We're up so high... *gulp*$8\"/shake Harvey 2000/pause 800/speak Harvey \"I wanted to impress you with this... but look at me. I'm a trembling coward.$7\"/emote Harvey 28/pause 500/speak Harvey \"Well, you've got more than enough courage to make up for me, @... that's... that's part of why I like you.$11\"/pause 1000/speak Harvey \"Okay, I'm going to open my eyes and look down... don't let go of my paw.$4\"/pause 800/positionOffset Harvey 4 -2/pause 30/positionOffset Harvey 4 -2/pause 30/positionOffset Harvey 4 -2/pause 30/positionOffset Harvey 4 -2/pause 30/positionOffset Harvey 4 0/pause 30/positionOffset Harvey 4 0/pause 30/faceDirection farmer 2/showFrame Harvey 0/pause 500/showFrame Harvey 33/pause 500/shake Harvey 4000/pause 500/showFrame Harvey 30/pause 2000/showFrame Harvey 33/pause 3500/speak Harvey \"I... I think I can do it now.$8\"/specificTemporarySprite balloonBirds/faceDirection farmer 2/pause 3000/faceDirection Harvey 1/faceDirection farmer 1/emote farmer 16 true/emote Harvey 16/pause 4000/faceDirection farmer 0/faceDirection Harvey 2/pause 10000/speak Harvey \"Hey, this is incredible! I think I can see Mayor Lewis standing in the town square!$h\"/faceDirection farmer 2/pause 3000/speak Harvey \"Oh dear... our time's almost up.$s\"/pause 400/faceDirection Harvey 3/faceDirection farmer 1/playMusic none/pause 500/speak Harvey \"Um... @? We've known each other for a while now and... I... er...$11\"/playMusic musicboxsong/pause 400/faceDirection Harvey 2/pause 500/faceDirection Harvey 3/speak Harvey \"...$11\"/specificTemporarySprite balloonBirds 2/pause 1000/showFrame Harvey 31/pause 500/showFrame 101/positionOffset Harvey -1 0/pause 30/positionOffset Harvey -1 -2/pause 30/positionOffset Harvey -1 -2/pause 30/positionOffset Harvey -1 0/pause 30/positionOffset Harvey -1 0/pause 30/positionOffset Harvey -1 0/pause 30/positionOffset Harvey -1 0/pause 30/positionOffset Harvey -1 0/pause 30/pause 5000/globalFade/viewport -1000 -1000/pause 2000/speak Harvey \"Whoops... Our time was up half an hour ago. We'd better touch down.$l\"/pause 2000/end dialogue Harvey \"I haven't had such a wonderful day for as long as I can remember.$l\"",
-        "afraid": "pause 500/speak Harvey \"I am... yeah.$s#$b#But I'm determined to not let that stop me from doing what I want... and experiencing this with you.$l#$b#I'll try not to get scared.\"/pause 400/move farmer 0 1 1/faceDirection Harvey 1/move farmer 3 0 0/move farmer 0 -1 0/jump farmer 14/move farmer 0 -1 2/move Harvey 0 1 1/move Harvey 3 0 0/move Harvey 0 -1 0/jump Harvey 14/move Harvey 0 -1 2/pause 1000/showFrame Harvey 29/pause 300/playSound openBox/pause 300/showFrame Harvey 0/pause 400/playSound furnace/cutscene balloonDepart/playMusic none/viewport move 0 -1 6000/pause 2000/showFrame Harvey 30/jump Harvey 5/shake Harvey 7000/pause 7000/globalFade/viewport -2000 -2000/playMusic 50s/pause 2000/cutscene clearTempSprites/changeToTemporaryMap HarveyBalloon/cutscene balloonChangeMap/viewport -2000 -2000/warp farmer 22 36/warp Harvey 22 36/positionOffset farmer 24 570/positionOffset Harvey 96 554/positionOffset farmer -8 -8/positionOffset Harvey -24 -8/showFrame Harvey 32/pause 1000/shake Harvey 19000/viewport 23 39 clamp true/viewport move 0 -1 17000/pause 18000/faceDirection farmer 1/showFrame Harvey 33/pause 1000/jump Harvey/showFrame Harvey 30/pause 800/showFrame Harvey 12/animate Harvey false true 100 12 13 14 15/positionOffset Harvey -4 2/pause 30/positionOffset Harvey -4 2/pause 30/positionOffset Harvey -4 2/pause 30/positionOffset Harvey -4 2/pause 30/positionOffset Harvey -4 2/pause 30/positionOffset Harvey -4 2/pause 30/positionOffset Harvey -4 2/pause 30/positionOffset Harvey -4 2/pause 30/stopAnimation Harvey/showFrame Harvey 31/positionOffset Harvey -4 0/playSound fishSlap/eyes 1 -2000/pause 2000/speak Harvey \"We... We're up so high... *gulp*$8\"/shake Harvey 2000/pause 800/speak Harvey \"I wanted to impress you with this... but look at me. I'm a trembling coward.$7\"/emote Harvey 28/pause 500/speak Harvey \"Well, you've got more than enough courage to make up for me, @... that's... that's part of why I like you.$11\"/pause 1000/speak Harvey \"Okay, I'm going to open my eyes and look down... don't let go of my paw.$4\"/pause 800/positionOffset Harvey 4 -2/pause 30/positionOffset Harvey 4 -2/pause 30/positionOffset Harvey 4 -2/pause 30/positionOffset Harvey 4 -2/pause 30/positionOffset Harvey 4 0/pause 30/positionOffset Harvey 4 0/pause 30/faceDirection farmer 2/showFrame Harvey 0/pause 500/showFrame Harvey 33/pause 500/shake Harvey 4000/pause 500/showFrame Harvey 30/pause 2000/showFrame Harvey 33/pause 3500/speak Harvey \"I... I think I can do it now.$8\"/specificTemporarySprite balloonBirds/faceDirection farmer 2/pause 3000/faceDirection Harvey 1/faceDirection farmer 1/emote farmer 16 true/emote Harvey 16/pause 4000/faceDirection farmer 0/faceDirection Harvey 2/pause 10000/speak Harvey \"Hey, this is incredible! I think I can see Mayor Lewis standing in the town square!$h\"/faceDirection farmer 2/pause 3000/speak Harvey \"Oh dear... our time's almost up.$s\"/pause 400/faceDirection Harvey 3/faceDirection farmer 1/playMusic none/pause 500/speak Harvey \"Um... @? We've known each other for a while now and... I... er...$11\"/playMusic musicboxsong/pause 400/faceDirection Harvey 2/pause 500/faceDirection Harvey 3/speak Harvey \"...$11\"/specificTemporarySprite balloonBirds 2/pause 1000/showFrame Harvey 31/pause 500/showFrame 101/positionOffset Harvey -1 0/pause 30/positionOffset Harvey -1 -2/pause 30/positionOffset Harvey -1 -2/pause 30/positionOffset Harvey -1 0/pause 30/positionOffset Harvey -1 0/pause 30/positionOffset Harvey -1 0/pause 30/positionOffset Harvey -1 0/pause 30/positionOffset Harvey -1 0/pause 30/pause 5000/globalFade/viewport -1000 -1000/pause 5000/globalFade/viewport -1000 -1000/pause 2000/speak Harvey \"Whoops... Our time was up half an hour ago. We'd better touch down.$l\"/pause 2000/end dialogue Harvey \"I haven't had such a wonderful day for as long as I can remember.$l\""
+        "528052/f Harvey 2500/t 900 1700/n harveyBalloon": "{{i18n:Data/Events/Railroad..528052/f Harvey 2500/t 900 1700/n harveyBalloon.Flavor..AnthroConfig |default={{i18n:Data/Events/Railroad..528052/f Harvey 2500/t 900 1700/n harveyBalloon.Flavor.}}}}",
+        "afraid": "{{i18n:Data/Events/Railroad..afraid.Flavor..AnthroConfig |default={{i18n:Data/Events/Railroad..afraid.Flavor.}}}}"
       }
     },
     {
@@ -318,14 +318,14 @@
       "Action": "EditData",
       "Target": "Data/Events/ScienceHouse",
       "Entries": {
-        "9/f Maru 2000/p Maru": "musicboxsong/-500 -500/farmer 14 12 3 Maru 5 6 3/skippable/pause 500/animate Maru false true 130 16 16 16 16 16 17 18 19 20 21 22 23 23 23 23/viewport 5 5 true/move farmer -7 0 0/move farmer 0 -1 0/animate farmer false false 650 15/playSound woodyStep/pause 200/playSound woodyStep/pause 250/playSound woodyStep/pause 200/stopAnimation Maru/faceDirection Maru 2/pause 200/move Maru 0 1 1/move Maru 2 0 2/move Maru 0 2 2/doAction 7 10/speak Maru \"@, hi! Come in.\"/move Maru 0 -2 3/move Maru -2 0 0/move Maru 0 -1 1/move farmer 0 -5 3/speak Maru \"I've been working on a new project... something big.\"/pause 1000/speak Maru \"This is just one component... let me show you a little demonstration.\"/pause 500/speak Maru \"Just put your paw here...\"/pause 300/animate farmer true true 100 35/pause 800/speak Maru \"And now I'm going to flip this switch...\"/stopMusic/pause 500/showFrame Maru 24/pause 100/showFrame Maru 25/pause 100/showFrame Maru 16/pause 1000/showFrame Maru 17/pause 100/showFrame Maru 18/pause 100/playSound openBox/pause 800/playSound debuffHit/faceDirection farmer 2 true/animate farmer false true 100 94/specificTemporarySprite maruElectrocution/startJittering/pause 100/faceDirection Maru 1/jump Maru/pause 1600/playSound clubhit/animate farmer false true 100 5/pause 400/speak Maru \"Oh my god, are you alright?!$9\"/stopJittering/speed Maru 4/move Maru 0 1 1/speed Maru 4/move Maru 2 0 0/pause 800/speed Maru 4/move Maru 2 0 0/speed Maru 4/move Maru 0 -2 0/pause 100/playSound openBox/speed Maru 4/move Maru 0 2 3/speed Maru 4/move Maru -2 0 0/speak Maru \"Here, let me apply this burn cream.$8\"/pause 500/playSound slimeHit/pause 600/playSound Cowboy_Footstep/pause 200/playSound Cowboy_Footstep/pause 200/playSound Cowboy_Footstep/pause 200/playSound Cowboy_Footstep/pause 200/playSound Cowboy_Footstep/pause 500/pause 1000/playSound healSound/temporarySprite 7 5 4 8 80 false .99/stopAnimation farmer/faceDirection farmer 2/pause 1500/speak Maru \"$q 41 null#I'm so sorry.$8#$r 41 30 Event_Cut1#It's okay, it doesn't even hurt.#$r 41 -50 Event_Cut2#You'd better be. This hurts like crazy!\"/faceDirection Maru 2/showFrame Maru 26/pause 800/speak Maru \"That kind of ruined the moment, huh? *sigh*$s\"/faceDirection Maru 2/pause 500/move Maru -1 0 3/move farmer 0 1 3/pause 500/emote farmer 28/pause 1500/end"
+        "9/f Maru 2000/p Maru": "{{i18n:Data/Events/ScienceHouse..9/f Maru 2000/p Maru.FurryFarmerFlavor..AnthroConfig |default={{i18n:Data/Events/ScienceHouse..9/f Maru 2000/p Maru.FurryFarmerFlavor.}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/SeedShop",
       "Entries": {
-        "963113/n pierreQualityCrops": "distantBanjo/5 19/farmer 5 23 0 Pierre 5 17 2 Gus 5 19 0 Jodi 5 21 0 Marnie 10 20 0 Robin 2 24 3 Evelyn 9 26 1/hostMail MSB_Pierre/skippable/pause 3000/speak Pierre \"Gus, I have just the thing for you...\"/speak Gus \"I'm all ears.\"/speak Pierre \"It's a bundle of locally sourced, organic, heirloom veggies...#$b#These are picked and sorted by paw, to ensure only the very finest in quality and taste.#$b#This is a once-in-a-lifetime kind of offer!\"/speak Gus \"That sounds pretty good! I could use some quality veggies for the saloon. How much does it cost?\"/jump Pierre/pause 800/speak Pierre \"ONLY... *mumble* mumble*\"/emote Gus 8/speak Gus \"What was that?#$b#Hahaha... for a moment there, I thought I heard, '25,000g'.$h\"/emote Pierre 40/speak Pierre \"Heh... that's right. It really is a bargain, isn't it?\"/jump Gus/shake Gus 1000/pause 1000/speak Gus \"Pierre, are you crazy? There's no way I could afford that. I'd have to sell the saloon!$3\"/advancedMove Gus false 3 0 4 9999/move Jodi 0 -2 0 true/move farmer 0 -2 0 false/speak Jodi \"I overheard the price... that's outrageous! You should be ashamed.$3\"/move Jodi 1 0 1/speak Pierre \"Wait! How about 10,000g then!?$4\"/textAboveHead Jodi \"No way!\"/move Jodi 1 0 1/faceDirection Gus 3/pause 1000/emote Pierre 28/pause 100/proceedPosition Jodi/move farmer 0 -1 0/pause 500/speak Pierre \"It's a disaster, @... $s#$b#I thought this was a surefire business strategy.$s#$b#But it turns out, no one is willing to buy vegetables at a 10x price markup, even if I put the little 'organic' sticker on them.$s\"/pause 400/quickQuestion #You win some, you lose some#You should be less greedy#I'm offended they didn't want my veggies(break)pause 300\\speak Pierre \"You're right, you can't run a business without taking some risk.\"(break)emote Pierre 12\\speak Pierre \"Hey, I'm not forcing anyone to buy it! If they don't like the price, they can move on.$3\"\\pause 1000\\speak Pierre \"...But, I guess you have a point. If I make all my customers angry, then pretty soon I won't have any customers at all...$s\"(break)faceDirection Jodi 3\\speak Jodi \"Your veggies look great, @. It's Pierre's price that turned us away.\"\\faceDirection Jodi 1\\pause 1000/emote Pierre 40/speak Pierre \"By the way, @... you look like you could really use a veggie dinner tonight.#$b#What do you say, wanna buy these back for the low, low price of 2,501g?\"/emote farmer 12/end"
+        "963113/n pierreQualityCrops": "{{i18n:Data/Events/SeedShop..963113/n pierreQualityCrops.Flavor..AnthroConfig |default={{i18n:Data/Events/SeedShop..963113/n pierreQualityCrops.Flavor.}}}}"
       }
     },
     {
@@ -335,53 +335,53 @@
       "Action": "EditData",
       "Target": "Data/Events/SeedShop",
       "Entries": {
-        "3/f Abigail 2000/p Abigail/t 2000 2200/n abbySpiritBoard": "echos/-1000 -1000/farmer 13 6 3 Abigail 6 8 1/skippable/specificTemporarySprite abbyOuijaCandles/viewport 7 5/speak Abigail \"Hey! I was hoping you'd show up. I wanna show you something.\"/move farmer -5 0 0/move farmer 0 2 3/faceDirection Abigail 2/speak Abigail \"See this? It's called a spirit board. Have you ever used one?\"/emote farmer 8/move Abigail 0 2 1/move farmer 0 2 3/pause 500/speak Abigail \"Put your paws on the planchette with me...$l\"/showFrame Abigail 30/pause 200/animate farmer true true 9999 89/pause 600/speak Abigail \"Now the spirits will guide us toward a...$h\"/showFrame Abigail 31/pause 500/speak Abigail \"LOOK, it's moving!$7\"/emote farmer 16/speak Abigail \"The first letter is... 'I' ...\"/pause 600/speak Abigail \"Next is... '<' ...\"/pause 800/speak Abigail \"Wow, look at it go! It's spelling out... '%firstnameletter'...#$b#I < %firstnameletter...?\"/emote Abigail 16/showFrame Abigail 12/faceDirection Abigail 3/stopMusic/pause 200/stopAnimation farmer/faceDirection Abigail 1/pause 400/specificTemporarySprite abbyOuija/playSound swordswipe/pause 900/playSound seeds/pause 500/speak Abigail \"Oops, accidentally knocked over the board! Heh heh...$h#$b#It's just a silly game, it doesn't mean anything.$9\"/faceDirection Abigail 3/emote Abigail 60/faceDirection Abigail 1/speak Abigail \"I, um, have something to do. You'll have to go... Sorry.$9\"/faceDirection Abigail 2/emote farmer 28/pause 500/move farmer 0 -3 0/pause 800/faceDirection farmer 2/pause 1000/move farmer 5 0 1 true/globalFade/viewport -1000 -1000/end invisibleWarpOut Abigail"
+        "3/f Abigail 2000/p Abigail/t 2000 2200/n abbySpiritBoard": "{{i18n:Data/Events/SeedShop..3/f Abigail 2000/p Abigail/t 2000 2200/n abbySpiritBoard.FurryFarmerFlavor..AnthroConfig |default={{i18n:Data/Events/SeedShop..3/f Abigail 2000/p Abigail/t 2000 2200/n abbySpiritBoard.FurryFarmerFlavor.}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/fall16",
       "Entries": {
-        "Willy_y2": "I managed to catch several iridium-quality beauties, just in time for this year's fair!$1#$e#After our grange displays are judged I'll have to try my claw at the fishing game tent.$0"
+        "Willy_y2": "{{i18n:Data/Festivals/fall16..Willy_y2.Flavor..AnthroConfig |default={{i18n:Data/Festivals/fall16..Willy_y2.Flavor.}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/summer28",
       "Entries": {
-        "Vincent_y2": "I touched a jelly once and it stung my paw.$2"
+        "Vincent_y2": "{{i18n:Data/Festivals/summer28..Vincent_y2.Flavor..AnthroConfig |default={{i18n:Data/Festivals/summer28..Vincent_y2.Flavor.}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/winter8",
       "Entries": {
-        "Haley_spouse": "Brr... my paws are freezing from making this snowman.$l"
+        "Haley_spouse": "{{i18n:Data/Festivals/winter8..Haley_spouse.Flavor..AnthroConfig |default={{i18n:Data/Festivals/winter8..Haley_spouse.Flavor.}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/TV/CookingChannel",
       "Entries": {
-        "26": "Blackberry Cobbler/Blackberry Cobbler! This one always reminds me of Stardew Valley. There's a few days in fall where the valley is overflowing with the most delicious blackberries I've ever tasted. If you can get your paws on some, I'd highly recommend them for this simple cobbler."
+        "26": "{{i18n:Data/TV/CookingChannel..26.Flavor..AnthroConfig |default={{i18n:Data/TV/CookingChannel..26.Flavor.}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/TV/TipChannel",
       "Entries": {
-        "22": "Get your paws on a fishin' pole and sell your catch! Fishing is a great way to make a little extra cash when you have some down time. The distance your bobber lands from any dry land determines what kinds of fish you'll hook... as well as the location, season, time of day, and weather!",
-        "88": "Wondering how to get your paws on 'Refined Quartz'? Just put a regular old quartz in the furnace. You'll need a lump of coal to fuel the fire.",
-        "169": "If you managed to get your paws on a 'rare seed', now's the time to plant it. Although it's said to take all season to grow, reliable sources have told me it actually takes just 24 days. The end result is rumored to be the sweetest fruit in the entire world.",
-        "179": "Looking to get married? You're going to need a Mermaid's Pendant. Everyone this side of the Gem Sea knows what it means when you give them a Mermaid's Pendant.^Getting your paws on such a pendant can be tricky. Every region seems to have their own custom, but it always has something to do with the beach or ocean.",
-        "218": "If you've got your paws on a gold pan, keep an eye out for something sparkly in the water.^There's often good ore in there, free for the taking!   "
+        "22": "{{i18n:Data/TV/TipChannel..22.Flavor..AnthroConfig |default={{i18n:Data/TV/TipChannel..22.Flavor.}}}}",
+        "88": "{{i18n:Data/TV/TipChannel..88.Flavor..AnthroConfig |default={{i18n:Data/TV/TipChannel..88.Flavor.}}}}",
+        "169": "{{i18n:Data/TV/TipChannel..169.Flavor..AnthroConfig |default={{i18n:Data/TV/TipChannel..169.Flavor.}}}}",
+        "179": "{{i18n:Data/TV/TipChannel..179.Flavor..AnthroConfig |default={{i18n:Data/TV/TipChannel..179.Flavor.}}}}",
+        "218": "{{i18n:Data/TV/TipChannel..218.Flavor..AnthroConfig |default={{i18n:Data/TV/TipChannel..218.Flavor.}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/1_6_Strings",
       "Entries": {
-        "TrashCatalogueDescription": "Access a free supply of trash decorations. Wash paws after use."
+        "TrashCatalogueDescription": "{{i18n:Strings/1_6_Strings..TrashCatalogueDescription.Flavor..AnthroConfig |default={{i18n:Strings/1_6_Strings..TrashCatalogueDescription.Flavor.}}}}"
       }
     },
     {
@@ -391,14 +391,14 @@
       "Action": "EditData",
       "Target": "Strings/Locations",
       "Entries": {
-        "FieldOfficeFinale": "distantBanjo/-1000 -1000/farmer 4 8 0/addCraftingRecipe Ostrich Incubator/addMailReceived fieldOfficeFinale/skippable/addTemporaryActor SafariGuy 16 32 3 8 0 true character/translateName SafariGuy Strings\\NPCNames:ProfessorSnail/pause 1000/viewport 4 6 true/pause 4000/speak SafariGuy \"Wow...#$b#Look how far we've come!$h\"/faceDirection SafariGuy 1/speak SafariGuy \"The collection looks fantastic, and it's all thanks to you, @.\"/emote farmer 32/speak SafariGuy \"Here, as a way of saying 'thanks', I want to teach you something.\"/faceDirection farmer 3/pause 700/playSound reward/message \"Learned how to craft 'Ostrich Incubator'\"/pause 400/speak SafariGuy \"This device will allow you to raise ostriches back home. Just place the incubator in a barn, place an ostrich egg inside, and wait...\"/faceDirection SafariGuy 0/speak SafariGuy \"Getting your paws on an ostrich egg is a different story, though... I'll leave that up to you!\"/pause 400/faceDirection farmer 0/pause 500/speak SafariGuy \"Heh... Well... now the real work begins.#$b#I'll be studying these bones for years to come!\"/faceDirection SafariGuy 1/faceDirection farmer 3/speak SafariGuy \"Farewell, @!\"/pause 600/end"
+        "FieldOfficeFinale": "{{i18n:Strings/Locations..FieldOfficeFinale.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/Locations..FieldOfficeFinale.FurryFarmerFlavor.}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/MovieReactions",
       "Entries": {
-        "Emily_spring_movie_1_BeforeMovie": "I ate a pawful of nuts to prepare for this movie... brain food!"
+        "Emily_spring_movie_1_BeforeMovie": "{{i18n:Strings/MovieReactions..Emily_spring_movie_1_BeforeMovie.Flavor..AnthroConfig |default={{i18n:Strings/MovieReactions..Emily_spring_movie_1_BeforeMovie.Flavor.}}}}"
       }
     },
     {
@@ -408,8 +408,8 @@
       "Action": "EditData",
       "Target": "Strings/Objects",
       "Entries": {
-        "Slimejack_Description": "He's coated in a very thick layer of slime. He keeps slipping out of your paws!",
-        "WeddingRing_Description": "An old Zuzu City tradition... It's used to ask for another farmer's paw in marriage."
+        "Slimejack_Description": "{{i18n:Strings/Objects..Slimejack_Description.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/Objects..Slimejack_Description.FurryFarmerFlavor.}}}}",
+        "WeddingRing_Description": "{{i18n:Strings/Objects..WeddingRing_Description.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/Objects..WeddingRing_Description.FurryFarmerFlavor.}}}}"
       }
     },
     {
@@ -419,14 +419,15 @@
       "Action": "EditData",
       "Target": "Strings/SpecialOrderStrings",
       "Entries": {
-        "Emily_Text": "Hey! I'm going to invite some friends over to do a \"rock rejuvenation\" ceremony, but I'll need some crystals to channel the right energies. Do you think you could lend me a paw?"
+        "Emily_Text": "{{i18n:Strings/SpecialOrderStrings..Emily_Text.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/SpecialOrderStrings..Emily_Text.FurryFarmerFlavor.}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/StringsFromCSFiles",
       "Entries": {
-        "ItemDeliveryQuest.cs.13523": "Buying 1 {0} at three times the market value! Please deliver directly into my paws."
+        "ItemDeliveryQuest.cs.13523": "Buying 1 {0} at three times the market value! Please deliver directly into my paws.",
+        "ItemDeliveryQuest=cs=13523": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13523.Flavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13523.Flavor.}}}}"
       }
     },
     {
@@ -438,7 +439,9 @@
       "Entries": {
         "Event.cs.1681": "Try your paw at some fishing? You could win big.",
         "TV.cs.13200": "The spirits feel neutral today. The day is in your paws.",
-        "WateringCan_enchant": "In your paws, this can will never run out of water."
+        "WateringCan_enchant": "{{i18n:Strings/StringsFromCSFiles..WateringCan_enchant.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..WateringCan_enchant.FurryFarmerFlavor.}}}}",
+        "Event=cs=1681": "{{i18n:Strings/StringsFromCSFiles..Event=cs=1681.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..Event=cs=1681.FurryFarmerFlavor.}}}}",
+        "TV=cs=13200": "{{i18n:Strings/StringsFromCSFiles..TV=cs=13200.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..TV=cs=13200.FurryFarmerFlavor.}}}}"
       }
     },
     {
@@ -447,7 +450,9 @@
       "Entries": {
         "JojaMart.67": "Paw soap",
         "JojaMart.80": "Joja Multipurpose Detergent -- Use it for your laundry, for your dishes, to clean your paws, as a shampoo, and even as toothpaste! Mix it with JojaMeal to make a delicious icing.",
-        "Pirates5": "GRIM PIRATE: From yonder seas, a chilling tale, a nightmare sure to haunt your sleep...#'Twas midnight when I lost me paws... to a savage monster o' the deep...#Yar, 'tis true...#...#...#..............#..............................................#Alright, I'm just kidding. I actually lost them while trying to fish an eggshell out of the blender.#Alas... me famous cake batter days are over..."
+        "Pirates5": "{{i18n:Strings/StringsFromMaps..Pirates5.Flavor..AnthroConfig |default={{i18n:Strings/StringsFromMaps..Pirates5.Flavor.}}}}",
+        "JojaMart=67": "{{i18n:Strings/StringsFromMaps..JojaMart=67.Flavor..AnthroConfig |default={{i18n:Strings/StringsFromMaps..JojaMart=67.Flavor.}}}}",
+        "JojaMart=80": "{{i18n:Strings/StringsFromMaps..JojaMart=80.Flavor..AnthroConfig |default={{i18n:Strings/StringsFromMaps..JojaMart=80.Flavor.}}}}"
       }
     },
     {
@@ -458,7 +463,9 @@
       "Target": "Strings/StringsFromMaps",
       "Entries": {
         "HarveyRoom.10": "You didn't find anything, and now your paws smell bad.",
-        "Hospital.3": "It's probably not a good idea to stick your paws in there. It's full of used syringes, dirty swabs, and little nozzles that {{Harvey}} stuck into people's ears."
+        "Hospital.3": "It's probably not a good idea to stick your paws in there. It's full of used syringes, dirty swabs, and little nozzles that {{Harvey}} stuck into people's ears.",
+        "HarveyRoom=10": "{{i18n:Strings/StringsFromMaps..HarveyRoom=10.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/StringsFromMaps..HarveyRoom=10.FurryFarmerFlavor.}}}}",
+        "Hospital=3": "{{i18n:Strings/StringsFromMaps..Hospital=3.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/StringsFromMaps..Hospital=3.FurryFarmerFlavor. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     }
   ]
