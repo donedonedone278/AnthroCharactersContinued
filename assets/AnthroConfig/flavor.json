@@ -250,9 +250,9 @@
     },
     {
       "Action": "EditData",
-      "Target": "Data/Events/Beach",
+      "Target": "Data/Events/BoatTunnel",
       "Entries": {
-        "9348571/Hl willyBoatFixed": "{{i18n:Data/Events/Beach..9348571/Hl willyBoatFixed.Flavor..AnthroConfig |default={{i18n:Data/Events/Beach..9348571/Hl willyBoatFixed.Flavor.}}}}"
+        "9348571/Hl willyBoatFixed": "{{i18n:Data/Events/BoatTunnel..9348571/Hl willyBoatFixed.Flavor..AnthroConfig |default={{i18n:Data/Events/BoatTunnel..9348571/Hl willyBoatFixed.Flavor.}}}}"
       }
     },
     {
