@@ -13,12 +13,6 @@
       "Section": "Dialogue",
       "Description": "If enabled, NPCs reference each others' species, mention having fur or scales, etc."
     },
-    "Visual Changes Only mode": {
-      "AllowValues": "true, false",
-      "Default": "false",
-      "Section": "Anthro Characters",
-      "Description": "Use this if you're playing in another language and the translation isn't working."
-    },
     "Abigail to Albert": {
       "AllowValues": "true, false",
       "Default": "false",
