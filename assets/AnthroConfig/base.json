@@ -739,7 +739,7 @@
     },
     {
       "Action": "EditImage",
-      "Target": "LooseSprites/cursors2",
+      "Target": "LooseSprites/Cursors2",
       "FromFile": "assets/{{Target}}/Cursors2_island_weather.png",
       "Priority": "Late + 1",
       "ToArea": {
@@ -751,7 +751,7 @@
     },
     {
       "Action": "EditImage",
-      "Target": "LooseSprites/cursors2",
+      "Target": "LooseSprites/Cursors2",
       "FromFile": "assets/{{Target}}/Cursors2_broomstick.png",
       "Priority": "Late + 1",
       "ToArea": {
