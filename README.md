@@ -1,5 +1,4 @@
 # Anthro Characters Continued
-
 The Stardew Valley furry mod. Art by Gav! https://ko-fi.com/gaveliere
 
 Nexus Mod Page: https://www.nexusmods.com/stardewvalley/mods/1083
@@ -34,7 +33,8 @@ If that doesn't work, make sure this is the only copy of AnthroCharactersContinu
 *Our Twitters may contain NSFW furry trash.
 
 ## Translators
-- EMber
+- EMber (Chinese)
+- isma_kenji (Spanish)
 
 ## Support
 This mod has been a community effort, but without Gaveliere it would not exist. 
@@ -55,7 +55,7 @@ Thanks to Krystedez for Content Patcher management and co-development.
 
 Thanks to JefGrizli for major config edits, layout improvements, and mod compatibility work.
 
-Thank you to our first-ever translator: EMber
+Thank you to our translators: EMber and isma_kenji
 
 Thanks to Krystedez and ColaWolf for additional characters.
 
