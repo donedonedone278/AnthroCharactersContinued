@@ -1531,13 +1531,13 @@
         "X": 55,
         "Y": 103,
         "Width": 50,
-        "Height": 18
+        "Height": 50
       },
       "ToArea": {
         "X": 55,
         "Y": 375,
         "Width": 50,
-        "Height": 18
+        "Height": 50
       }
     },
     {
