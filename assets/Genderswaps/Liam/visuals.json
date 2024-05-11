@@ -3,13 +3,19 @@
     {
       "Action": "EditImage",
       "Target": "TileSheets/junimo_furniture",
-      "FromFile": "assets/TileSheets/junimo_furniture_liam.png",
+      "FromFile": "assets/TileSheets/junimo_furniture_portraits.png",
       "Priority": "Late + 1",
+      "FromArea": {
+        "X":23,
+        "Y": 103,
+        "Width": 18,
+        "Height": 18
+      },
       "ToArea": {
-        "X": 48,
-        "Y": 368,
-        "Width": 32,
-        "Height": 32
+        "X": 55,
+        "Y": 375,
+        "Width": 18,
+        "Height": 18
       }
     },
     {
