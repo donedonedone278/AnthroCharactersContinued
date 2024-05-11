@@ -26,8 +26,7 @@
         "summer_Wed8": "{{i18n:Characters/Dialogue/Alex..summer_Wed8.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Alex..summer_Wed8.Flavor.}}}}",
         "Resort_Towel": "{{i18n:Characters/Dialogue/Alex..Resort_Towel.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Alex..Resort_Towel.Flavor.}}}}",
         "Tue": "{{i18n:Characters/Dialogue/Alex..Tue.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Alex..Tue.Flavor.}}}}",
-        "fall_Wed8": "{{i18n:Characters/Dialogue/Alex..fall_Wed8.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Alex..fall_Wed8.Flavor.}}}}",
-        "TwoKids_3": "{{i18n:Characters/Dialogue/Alex..TwoKids_3.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Alex..TwoKids_3.Flavor.}}}}"
+        "fall_Wed8": "{{i18n:Characters/Dialogue/Alex..fall_Wed8.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Alex..fall_Wed8.Flavor.}}}}"
       }
     },
     {
