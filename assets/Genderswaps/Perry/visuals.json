@@ -3,13 +3,19 @@
     {
       "Action": "EditImage",
       "Target": "TileSheets/junimo_furniture",
-      "FromFile": "assets/TileSheets/junimo_furniture_perry.png",
+      "FromFile": "assets/TileSheets/junimo_furniture_portraits.png",
       "Priority": "Late + 1",
+      "FromArea": {
+        "X":135,
+        "Y": 71,
+        "Width": 18,
+        "Height": 18
+      },
       "ToArea": {
-        "X": 128,
-        "Y": 272,
-        "Width": 32,
-        "Height": 32
+        "X": 135,
+        "Y": 279,
+        "Width": 18,
+        "Height": 18
       }
     },
     {
