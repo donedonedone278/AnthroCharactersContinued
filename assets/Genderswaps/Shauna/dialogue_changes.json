@@ -152,7 +152,9 @@
       "Target": "Characters/Dialogue/MarriageDialogueShane",
       "Entries": {
         "OneKid_3": "{{i18n:Characters/Dialogue/MarriageDialogueShane..OneKid_3...Shauna |default={{i18n:Characters/Dialogue/MarriageDialogueShane..OneKid_3.. |Shane={{Shane}}}} |Shane={{Shane}}}}",
-        "Good_2": "{{i18n:Characters/Dialogue/MarriageDialogueShane..Good_2...Shauna |default={{i18n:Characters/Dialogue/MarriageDialogueShane..Good_2.. |Shane={{Shane}}}} |Shane={{Shane}}}}"
+        "Good_2": "{{i18n:Characters/Dialogue/MarriageDialogueShane..Good_2...Shauna |default={{i18n:Characters/Dialogue/MarriageDialogueShane..Good_2.. |Shane={{Shane}}}} |Shane={{Shane}}}}",
+        "Indoor_Day_4": "I may keep to myself a lot, and I may seem unhappy sometimes... but I do appreciate all the work you do. I'm a lucky lady.$6",
+        "Indoor_Night_1": "If... If only... ah, I was just thinking back on the glory days, when I played basketball on the varsity team.$6#$b#Now I'm old and weak, though..."
       }
     },
     {
@@ -160,7 +162,8 @@
       "Target": "Characters/Dialogue/Shane",
       "Entries": {
         "dumped_Guys": "{{i18n:Characters/Dialogue/Shane..dumped_Guys...Shauna |default={{i18n:Characters/Dialogue/Shane..dumped_Guys.. |Shane={{Shane}}}} |Shane={{Shane}}}}",
-        "JojaMart": "{{i18n:Characters/Dialogue/Shane..JojaMart...Shauna |default={{i18n:Characters/Dialogue/Shane..JojaMart.. |Shane={{Shane}}}} |Shane={{Shane}}}}"
+        "JojaMart": "{{i18n:Characters/Dialogue/Shane..JojaMart...Shauna |default={{i18n:Characters/Dialogue/Shane..JojaMart.. |Shane={{Shane}}}} |Shane={{Shane}}}}",
+        "Tue10": "I need to keep it together for Jas' sake. I don't want to be a bad role model for her.||I'm kind of like a mother figure to Jas. I just hope I haven't let her down too much.$s"
       }
     }
   ]

@@ -188,7 +188,16 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogue",
       "Entries": {
-        "winter_Sebastian": "{{i18n:Characters/Dialogue/MarriageDialogue..winter_Sebastian...Samantha |default={{i18n:Characters/Dialogue/MarriageDialogue..winter_Sebastian.. |Sam={{Sam}}}} |Sam={{Sam}}}}"
+        "winter_Sebastian": "{{i18n:Characters/Dialogue/MarriageDialogue..winter_Sebastian...Samantha |default={{i18n:Characters/Dialogue/MarriageDialogue..winter_Sebastian.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "winter_Sam": "I've given up on being a musician. I'm a family woman now!"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSam",
+      "Entries": {
+        "OneKid_1": "It's weird, but I really like being a mother!$h",
+        "TwoKids_3": "I never thought I'd become such a family woman, but I'm really satisfied with what we've built here. Life is going great.$h"
       }
     },
     {
@@ -196,6 +205,13 @@
       "Target": "Characters/Dialogue/Emily",
       "Entries": {
         "eventSeen_4081148": "{{i18n:Characters/Dialogue/Emily..eventSeen_4081148...Samantha |default={{i18n:Characters/Dialogue/Emily..eventSeen_4081148.. |Sam={{Sam}}}} |Sam={{Sam}}}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Vincent",
+      "Entries": {
+        "Mon": "I wanna be just like my big sister when I grow up!$h#$e#Okay! Bye!"
       }
     },
     {
@@ -240,7 +256,19 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Kent",
       "Entries": {
-        "Thu6": "{{i18n:Characters/Dialogue/Kent..Thu6...Samantha |default={{i18n:Characters/Dialogue/Kent..Thu6.. |Sam={{Sam}}}} |Sam={{Sam}}}}"
+        "Thu6": "{{i18n:Characters/Dialogue/Kent..Thu6...Samantha |default={{i18n:Characters/Dialogue/Kent..Thu6.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "married_Sam": "It makes a father proud to see his girl become a woman. You have my heartfelt blessing.$h",
+        "Thu": "Are you friends with my daughter?#$e#You probably know her better than I do...$s"
+      }
+    },
+    {
+      "When": {
+        "Flavor": true
+      },
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Kent",
+      "Entries": {
+        "married_Sam": "It makes a father proud to see his kitten become a tiger. You have my heartfelt blessing. $h"
       }
     },
     {
@@ -260,7 +288,8 @@
       "Entries": {
         "Introduction": "{{i18n:Characters/Dialogue/Sam..Introduction...Samantha |default={{i18n:Characters/Dialogue/Sam..Introduction.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
         "Resort_Towel": "{{i18n:Characters/Dialogue/Sam..Resort_Towel...Samantha |default={{i18n:Characters/Dialogue/Sam..Resort_Towel.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "Mon8": "{{i18n:Characters/Dialogue/Sam..Mon8...Samantha |default={{i18n:Characters/Dialogue/Sam..Mon8.. |Sam={{Sam}}}} |Sam={{Sam}}}}"
+        "Mon8": "{{i18n:Characters/Dialogue/Sam..Mon8...Samantha |default={{i18n:Characters/Dialogue/Sam..Mon8.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "FlowerDance_Accept_Spouse": "Aw, I gotta put on that dorky dress again? I thought now that we're married... Well, alright.$s"
       }
     },
     {

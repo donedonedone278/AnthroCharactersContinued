@@ -10,7 +10,8 @@
         "summer_Thu4": "{{i18n:Characters/Dialogue/Abigail..summer_Thu4.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Abigail..summer_Thu4.Flavor.}}}}",
         "fall_Thu": "{{i18n:Characters/Dialogue/Abigail..fall_Thu.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Abigail..fall_Thu.Flavor.}}}}",
         "fall_Fri6": "{{i18n:Characters/Dialogue/Abigail..fall_Fri6.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Abigail..fall_Fri6.Flavor.}}}}",
-        "winter_7": "{{i18n:Characters/Dialogue/Abigail..winter_7.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Abigail..winter_7.Flavor.}}}}"
+        "winter_7": "{{i18n:Characters/Dialogue/Abigail..winter_7.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Abigail..winter_7.Flavor.}}}}",
+        "fall_Mon": "I need to stretch my wings and get some fresh air today."
       }
     },
     {
@@ -22,7 +23,11 @@
         "summer_Sat": "{{i18n:Characters/Dialogue/Alex..summer_Sat.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Alex..summer_Sat.Flavor.}}}}",
         "winter_Sat": "{{i18n:Characters/Dialogue/Alex..winter_Sat.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Alex..winter_Sat.Flavor. |Sebastian={{Sebastian}} |Sebastian_he={{Sebastian_he}}}} |Sebastian={{Sebastian}} |Sebastian_he={{Sebastian_he}}}}",
         "Fri4": "{{i18n:Characters/Dialogue/Alex..Fri4.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Alex..Fri4.Flavor.}}}}",
-        "summer_Wed8": "{{i18n:Characters/Dialogue/Alex..summer_Wed8.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Alex..summer_Wed8.Flavor.}}}}"
+        "summer_Wed8": "{{i18n:Characters/Dialogue/Alex..summer_Wed8.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Alex..summer_Wed8.Flavor.}}}}",
+        "Resort_Towel": "With this island open, my fur can get plenty of warm sunlight!",
+        "Tue": "The beach is a cool place to hang out and soak up some rays.#$e#You gotta spend some time in the sun or else you'll never shed that winter fur.#$e#*sigh*... I wish there were more girls in this town, know what I mean?$s^Hey, do you wanna hang out with me at the beach some time? Do you have a bikini?",
+        "fall_Wed8": "I finally took the plunge... I've decided to stop putting gel in my fur.#$e#I wouldn't want to be friends with someone who only liked me because I have gel in my fur.",
+        "TwoKids_3": "I finally have the family life that I missed out on as a pup... thank you.$l"
       }
     },
     {
@@ -31,7 +36,10 @@
       "Entries": {
         "Sat6": "{{i18n:Characters/Dialogue/Caroline..Sat6.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Caroline..Sat6.Flavor.}}}}",
         "summer_Tue": "{{i18n:Characters/Dialogue/Caroline..summer_Tue.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Caroline..summer_Tue.Flavor.}}}}",
-        "fall_Wed6": "{{i18n:Characters/Dialogue/Caroline..fall_Wed6.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Caroline..fall_Wed6.Flavor.}}}}"
+        "fall_Wed6": "{{i18n:Characters/Dialogue/Caroline..fall_Wed6.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Caroline..fall_Wed6.Flavor.}}}}",
+        "AcceptGift_(O)16": "Oh, you've been foraging! Thank you!#$b#I'll make a spicy cocktail sauce with this. That'll put some fur on Pierre's chest.$h",
+        "summer_Sat_inlaw_Abigail": "How's Abigail's health? She's always been such a pale girl. Hopefully the farm lifestyle puts a little color in her scales.",
+        "Resort_Shore": "Oh no... I forgot to trim my claws.$s"
       }
     },
     {
@@ -42,7 +50,8 @@
         "Resort_Bar": "{{i18n:Characters/Dialogue/Clint..Resort_Bar.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Clint..Resort_Bar.Flavor.}}}}",
         "Wed6": "{{i18n:Characters/Dialogue/Clint..Wed6.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Clint..Wed6.Flavor.}}}}",
         "Fri8": "{{i18n:Characters/Dialogue/Clint..Fri8.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Clint..Fri8.Flavor.}}}}",
-        "Resort_Shore": "{{i18n:Characters/Dialogue/Clint..Resort_Shore.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Clint..Resort_Shore.Flavor.}}}}"
+        "Resort_Shore": "{{i18n:Characters/Dialogue/Clint..Resort_Shore.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Clint..Resort_Shore.Flavor.}}}}",
+        "Resort_Shore_2": "I thought working a furnace would have prepared me for this heat, but I'm sweating in places I didn't know I could.$s#$e#I hope no one noticed...#$e#%Clint's fur is glistening..."
       }
     },
     {
@@ -51,7 +60,8 @@
       "Entries": {
         "Fri": "{{i18n:Characters/Dialogue/Demetrius..Fri.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Demetrius..Fri.Flavor.}}}}",
         "Fri4": "{{i18n:Characters/Dialogue/Demetrius..Fri4.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Demetrius..Fri4.Flavor.}}}}",
-        "married_Maru": "{{i18n:Characters/Dialogue/Demetrius..married_Maru.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Demetrius..married_Maru.Flavor.}}}}"
+        "married_Maru": "{{i18n:Characters/Dialogue/Demetrius..married_Maru.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Demetrius..married_Maru.Flavor.}}}}",
+        "summer_Mon6": "I became a scientist because I wanted to contribute to the progression of our society.#$e#Of course, none of this would be possible without farmers such as yourself.$h"
       }
     },
     {
@@ -72,7 +82,11 @@
       "Target": "Characters/Dialogue/Elliott",
       "Entries": {
         "Fri8": "{{i18n:Characters/Dialogue/Elliott..Fri8.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Elliott..Fri8.Flavor.}}}}",
-        "fall_Wed8": "{{i18n:Characters/Dialogue/Elliott..fall_Wed8.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Elliott..fall_Wed8.Flavor.}}}}"
+        "fall_Wed8": "{{i18n:Characters/Dialogue/Elliott..fall_Wed8.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Elliott..fall_Wed8.Flavor.}}}}",
+        "Resort_Chair": "I'm just taking a quick break to slather some coconut oil on my mane.$h",
+        "fall_Fri4": "My tail is stiff from sitting at my writing desk all night.$s#$e#Sometimes I envy you, @.",
+        "fall_Fri": "My tail is stiff from sitting at my writing desk all morning.$s",
+        "winter_Fri": "I have to brush my mane daily, or else it'll clump up into messy knots.#$e#It's a lot of work.#$e#I'm surprised I haven't just shaved it off in a fit of passion.$h#$e#I suppose I am too vain."
       }
     },
     {
@@ -84,9 +98,25 @@
     },
     {
       "Action": "EditData",
+      "Target": "Characters/Dialogue/Haley",
+      "Entries": {
+        "eventSeen_14": "It was fun taking pictures, but I had to shower for two hours to get the mud out of my fur!$h",
+        "Resort_Chair": "I painted my claws blue to match the sea. What do you think? *wiggle* *wiggle*$h",
+        "Fri2": "Don't you get tired of running around on that farm all day, or whatever it is you do?#$e#I couldn't stand getting all dirty like that.#$e#You probably get to spend lots of time in the sun, though.",
+        "summer_Mon": "My fur is going to look so vibrant this summer.",
+        "summer_Thu": "If you stay in the sun a lot it'll make your fur lighter.#$e#It's a good thing to know!",
+        "summer_Thu6": "If you stay in the sun a lot it will make your fur lighter... But you don't want to overheat, either.#$e#I just want a healthy amount of sunlight. Everything in moderation, right?",
+        "fall_Sun": "I've never been to the forest. It's muddy and I could get a blister on my paw.",
+        "Resort_Towel": "Soaking in rays is an art form...#$e#It's kind of like toasting a marshmallow... you have to rotate the body just right.$h"
+      }
+    },
+    {
+      "Action": "EditData",
       "Target": "Characters/Dialogue/Harvey",
       "Entries": {
-        "Wed": "{{i18n:Characters/Dialogue/Harvey..Wed.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Harvey..Wed.Flavor.}}}}"
+        "Wed": "{{i18n:Characters/Dialogue/Harvey..Wed.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Harvey..Wed.Flavor.}}}}",
+        "Resort_Leaving": "If you begin to feel dizzy, drink plenty of water! Staying hydrated is important in this climate.",
+        "Resort_Shore": "I combed the whole beach for glass. We wouldn't want anyone to get a cut on their paw!"
       }
     },
     {
@@ -98,7 +128,8 @@
       "Entries": {
         "Wed": "{{i18n:Characters/Dialogue/Harvey..Wed.FurryFarmerFlavor..AnthroConfig |default={{i18n:Characters/Dialogue/Harvey..Wed.FurryFarmerFlavor.}}}}",
         "Sun6": "{{i18n:Characters/Dialogue/Harvey..Sun6.FurryFarmerFlavor..AnthroConfig |default={{i18n:Characters/Dialogue/Harvey..Sun6.FurryFarmerFlavor.}}}}",
-        "winter_Wed": "{{i18n:Characters/Dialogue/Harvey..winter_Wed.FurryFarmerFlavor..AnthroConfig |default={{i18n:Characters/Dialogue/Harvey..winter_Wed.FurryFarmerFlavor.}}}}"
+        "winter_Wed": "{{i18n:Characters/Dialogue/Harvey..winter_Wed.FurryFarmerFlavor..AnthroConfig |default={{i18n:Characters/Dialogue/Harvey..winter_Wed.FurryFarmerFlavor.}}}}",
+        "summer_Mon": "It's okay to get a moderate amount of sunlight. Just as long as you stay hydrated.#$e#Okay. Take care! Stay healthy."
       }
     },
     {
@@ -112,21 +143,211 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Kent",
       "Entries": {
-        "Fri4": "{{i18n:Characters/Dialogue/Kent..Fri4.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Kent..Fri4.Flavor.}}}}"
+        "Fri4": "{{i18n:Characters/Dialogue/Kent..Fri4.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Kent..Fri4.Flavor.}}}}",
+        "married_Sam": "It makes a father proud to see his kitten become a tiger. You have my heartfelt blessing.$h"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Krobus",
+      "Entries": {
+        "4_*": "...Have you encountered others like me, in the mines? I'm sorry if they were hostile towards you. You see, we've learned to fear your kind... there have been too many... unpleasant encounters.#$e#You haven't... slain any of my friends, have you?",
+        "AcceptBirthdayGift_Negative": "Oh... is this what you call a 'birthday present'? I don't understand light-dweller customs...$s",
+        "Thu": "Please don't tell anyone about me.#$b#Light-dwellers tend to destroy things they can't understand.",
+        "Thu6": "Please don't tell anyone about me.#$b#Most light-dwellers are frightened by us shadow people... maybe for good reason.$s#$b#But regardless, if the townspeople knew about me, I might not be safe here.",
+        "Mon": "Please, don't be alarmed. I am different than the others.#$e#I've spent a lot of time observing your kind. I know you like to shop. Care to see my wares?",
+        "Mon2": "Back again? I suppose it does fit into my theory of light-dweller behavior.",
+        "Sat8": "I'll never know what it's like to be one of you... but talking to you, I feel like I understand a little better.",
+        "Sun": "...Sorry, I'm still a little wary of light-dwellers. My shop is still open to you, however.",
+        "Sun4": "You're not like the other light-dwellers, are you?",
+        "Sun8": "You've opened my eyes to the world of light-dwellers. I appreciate that."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Leah",
+      "Entries": {
+        "event_sculpt2": "There's nothing wrong with that... I think there's lots of beauty to be found in raw, untouched nature!#$b#But as a sentient being, I'm also interested in how we shape and interpret the world around us... I guess what I'm saying is that I'm interested in 'art'.",
+        "event_parents5": "*sigh*...$s#$b#Maybe you're right... We're all selfish creatures. I don't know. $s#$b#I probably shouldn't dwell on it. We all have to make hard choices from time to time.$s",
+        "fall_Mon": "#$c .5#I found some wild mushrooms over the weekend!#$e#I had a huge plate of wild mushrooms and eggs for breakfast today... I'm still full.#$e#Keep your snout to the ground and you'll find some mushrooms yourself... I'm sure of it."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Lewis",
+      "Entries": {
+        "Resort_Shore": "Vacation opportunities like this could really expand the local economy!#$e#I'd better not stay in the sun too long, or my fur will dry out."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Linus",
+      "Entries": {
+        "winter_Tue4": "Thanks for not shunning me, @. It takes a lot of wisdom to override your base instincts.#$e#I'm a person just like anyone else. I just have a different lifestyle."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogue",
       "Entries": {
-        "Indoor_Day_Leah": "{{i18n:Characters/Dialogue/MarriageDialogue..Indoor_Day_Leah.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/MarriageDialogue..Indoor_Day_Leah.Flavor.}}}}"
+        "Indoor_Day_Leah": "{{i18n:Characters/Dialogue/MarriageDialogue..Indoor_Day_Leah.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/MarriageDialogue..Indoor_Day_Leah.Flavor.}}}}",
+        "Rainy_Day_Haley": "Hmmph. I hope I don't get sick if this weather keeps up.$s",
+        "Outdoor_Haley": "Looks like a good day to feel the breeze through my fur, don't you think, sweetheart?$h",
+        "spring_Sebastian": "Wow, I've been gaining weight... I guess I'd better help you with some farm work this season.",
+        "summer_Harvey": "Make sure you don't get dehydrated, honey... That can really damage your health.",
+        "winter_Emily": "Whoops, my fur is frozen solid again.$s"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueAbigail",
+      "Entries": {
+        "summer_1": "My scales get hot very easily, so I need to be careful this time of year.#$e#I'll stick to the shade!$h",
+        "fall_6": "Ah... fall. This might be my favorite time of year. The colors really complement my scales, don't you think?",
+        "TwoKids_3": "A cool old house, a couple hatchlings, and an amazing farm. I never thought I'd come this far... but, hey! Our lives are just getting started.$h"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueAlex",
+      "Entries": {
+        "TwoKids_3": "I finally have the family life that I missed out on as a pup... thank you.$l"
+      }
+    },
+    {
+      "When": {
+        "HasMod": "krystedez.FurryFarmer"
+      },
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueAlex",
+      "Entries": {
+        "Indoor_Night_1": "Did you trim your fur or something? You're looking pretty good today. Maybe it's all that fresh air...$l",
+        "winter_1": "Make sure you stay warm this winter. I worry about your delicate fur."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueElliott",
+      "Entries": {
+        "Rainy_Day_3": "I think I'll remain indoors today, my dear. The rain causes my mane to go limp.",
+        "Indoor_Day_3": "Today is going to be a fantastic day... I can feel it!$h#$e#I get this special feeling in my whiskers...",
+        "Outdoor_1": "Fertile soil beneath my feet, fresh air to fill my lungs, and the sun's warmth to delight my fur... Life is going well.",
+        "Outdoor_3": "If I stay perfectly still, perhaps a resplendent butterfly will bless my muzzle with a landing.",
+        "fall_15": "I might set my pride aside and sink my eager fangs into a sloppy, saucy barbecue sandwich tomorrow.",
+        "OneKid_0": "Have you had any time to entertain little %kid1 today? Maybe a second cub will make things easier for both of us."
+      }
+    },
+    {
+      "When": {
+        "HasMod": "krystedez.FurryFarmer"
+      },
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueElliott",
+      "Entries": {
+        "Good_3": "Wow, you look really handsome today! Did you do something with your fur? It looks perfect.$l^Your feminine allure is irresistible today. I can't keep my eyes off you.$l"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueEmily",
       "Entries": {
-        "TwoKids_1": "{{i18n:Characters/Dialogue/MarriageDialogueEmily..TwoKids_1.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/MarriageDialogueEmily..TwoKids_1.Flavor.}}}}"
+        "TwoKids_1": "{{i18n:Characters/Dialogue/MarriageDialogueEmily..TwoKids_1.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/MarriageDialogueEmily..TwoKids_1.Flavor.}}}}",
+        "Neutral_0": "I hope you'll still like me when I grow old and my fur turns to a dull, faded steel.",
+        "winter_Emily": "Whoops, my fur is frozen solid again.$s"
+      }
+    },
+    {
+      "When": {
+        "HasMod": "krystedez.FurryFarmer"
+      },
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueEmily",
+      "Entries": {
+        "TwoKids_2": "Well, %kid2 certainly has your fur...$u",
+        "OneKid_1": "Is one kitten enough, or should we raise another?#$e#I guess we'll just see where fate leads us.",
+        "TwoKids_3": "Oh, I already fed the kittens their organic quinoa puffs with goat milk. You just focus on the farm!"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueHaley",
+      "Entries": {
+        "Rainy_Day_3": "I can't go outside today... my fur will go limp. Forgive me, dear.$s#$e#I want to look my best for you.",
+        "Rainy_Day_Haley": "Oh no... If this weather keeps up I might get sick.$s",
+        "Outdoor_Haley": "Looks like a good day to feel the breeze through my fur, don't you think, sweetheart?$h",
+        "summer_3": "Sorry if I don't look my best... the air is just so humid that my fur doesn't hold up too well.",
+        "winter_14": "My fur feels so stiff in this weather."
+      }
+    },
+    {
+      "When": {
+        "HasMod": "krystedez.FurryFarmer"
+      },
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueHaley",
+      "Entries": {
+        "TwoKids_2": "Isn't %kid2 a very good-looking cub?",
+        "TwoKids_3": "A big house, two cubs, and a beautiful plot of land. I'm not sure what else I could ask for."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueHarvey",
+      "Entries": {
+        "Outdoor_1": "I believe this must be the ideal place to raise kids, scientifically. What do you think?",
+        "TwoKids_3": "My life is devoted to you and the kids now, and I'm very happy about it. I always dreamed of having a wonderful family.$l#$e#I had nightmares of being a bachelor forever.... I love you so much.$l"
+      }
+    },
+    {
+      "When": {
+        "HasMod": "krystedez.FurryFarmer"
+      },
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueHarvey",
+      "Entries": {
+        "Good_3": "Wow, you look really handsome today! Did you do something with your fur?$l^Oh, my... you look beautiful today.$l",
+        "summer_1": "Make sure you don't get dehydrated, dear! It's very dangerous for your health.$8#$e#As your husband and doctor, I consider your health and safety my top priority!",
+        "winter_1": "The air is very dry during winter. That's why our skin tends to become irritated.#$e#Don't worry, I'll rub a little truffle oil into your fur every night.$l"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueKrobus",
+      "Entries": {
+        "Rainy_Night_1": "If the other shadow people knew about our living arrangement, they would... 'punish' me.$s#$e#Most of them despise light-dwellers, you know.",
+        "Indoor_Day_1": "I tried my best to make light-dweller food... [203 204 651 225]#$e#You can eat it later, don't worry about it...",
+        "Indoor_Day_2": "I'm happy here, in the house. I like to spend all my time in a good spot... I don't need to \"get out\" like light-dwellers do.#$e#But I understand that you need to! Please don't feel like you have to stay here with me.$3",
+        "Indoor_Night_2": "Sometimes I wonder if light-dwellers and shadow people could really ever co-exist... It's a lovely idea, but is it realistic?$s#$e#I hope so...",
+        "Indoor_Night_3": "Sometimes I pause and think of all that I've learned about light-dwellers from you...#$b#I wish all my fellow shadow people could know this feeling.",
+        "Indoor_Night_4": "I want to be a good housemate for you, but I never know if I'm doing well... *groan* $s#$e#I have a hard time understanding light-dweller expression. B... but... you're happy living with me?#$e#Okay!$7",
+        "Good_2": "I've learned to overcome my bias against light-dwellers... but Dwarves still disgust me.$a"
+      }
+    },
+    {
+      "When": {
+        "HasMod": "krystedez.FurryFarmer"
+      },
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueKrobus",
+      "Entries": {
+        "OneKid_3": "I'm not sure how, but Yoba has blessed this house with a 'cub'...",
+        "TwoKids_2": "I worry about the future of the cubs... But I trust that Yoba has a plan for them.",
+        "TwoKids_3": "This house has been blessed with two cubs, now... Does that mean Yoba approves of our unconventional living arrangement?",
+        "Bad_4": "I think you'd be happier living with another light-dweller...$s"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueLeah",
+      "Entries": {
+        "summer_9": "Sorry if my fur's wet to the touch... I was sweating all night in the heat."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueMaru",
+      "Entries": {
+        "TwoKids_3": "My own workshop, two wonderful cubs, and a beautiful plot of land. Life is pretty good."
       }
     },
     {
@@ -136,7 +357,62 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueMaru",
       "Entries": {
-        "Indoor_Day_4": "{{i18n:Characters/Dialogue/MarriageDialogueMaru..Indoor_Day_4.FurryFarmerFlavor..AnthroConfig |default={{i18n:Characters/Dialogue/MarriageDialogueMaru..Indoor_Day_4.FurryFarmerFlavor.}}}}"
+        "Indoor_Day_4": "{{i18n:Characters/Dialogue/MarriageDialogueMaru..Indoor_Day_4.FurryFarmerFlavor..AnthroConfig |default={{i18n:Characters/Dialogue/MarriageDialogueMaru..Indoor_Day_4.FurryFarmerFlavor.}}}}",
+        "Rainy_Night_4": "I made some dessert! Make sure to brush your fangs before bed, though. [232 234 223 220]$h",
+        "OneKid_0": "Have you spent any time with %kid1 today? Kits need playtime in order reach their full potential."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialoguePenny",
+      "Entries": {
+        "Rainy_Night_1": "I'm sure Mom's at the saloon right now... But I don't feel so bad about it anymore. It's out of my paws.",
+        "Indoor_Day_0": "It's so peaceful here. I used to have the most horrific nightmares, but now I sleep like a little calf.",
+        "summer_1": "Summer may be searing hot, but the humidity feels great on the fur."
+      }
+    },
+    {
+      "When": {
+        "HasMod": "krystedez.FurryFarmer"
+      },
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialoguePenny",
+      "Entries": {
+        "Outdoor_1": "Isn't this a perfect place to raise little calves?#$e#I would've been so happy growing up on a farm.",
+        "OneKid_0": "Have you had any time to play with %kid1 today? Maybe a second calf will make things better.",
+        "OneKid_3": "I feel a lot older now that we have a calf. Maybe it's just this new responsibility weighing on me.#$e#It's not bad! I've wanted this for a long time.$11",
+        "TwoKids_0": "I already gave %kid1 and %kid2 their food. They're such hungry calves!",
+        "TwoKids_3": "A nice house, two wonderful calves, and a beautiful plot of land. We're so very fortunate.",
+        "Good_3": "Wow, you look really handsome today! Did you do something with your fur?$l^Wow, you look beautiful today. Did you do something different with your fur?$l",
+        "fall_1": "Fall... It makes me think of colored paper and glue. Maybe I'm spending too much time with the calves.$h"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSam",
+      "Entries": {
+        "Rainy_Night_3": "I hope Vincent's not too lonely now that I'm gone... I kinda felt responsible for the little guy.$s#$e#But, life's all about change... right? Cubs need to learn that, eventually... Or else adulthood will destroy them.$7",
+        "OneKid_3": "I think we should have another cub. Why stop now?",
+        "TwoKids_0": "I woke up early, fed the cubs and changed their diapers! We're all set. You can just focus on raking in that sweet money.$h#$e#I'm just kidding... I didn't marry you for the money.",
+        "fall_26": "I wonder if Mom will let Vincent enter the haunted maze this year. Probably not...$h#$e#Poor cub. He's gonna have to grow up some day..."
+      }
+    },
+    {
+      "When": {
+        "HasMod": "krystedez.FurryFarmer"
+      },
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSam",
+      "Entries": {
+        "Good_3": "Wow, you look really handsome today! Did you do something with your fur?$l^Wow, you look stunning today. Did you do something new with your fur?$l"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSebastian",
+      "Entries": {
+        "TwoKids_1": "I hope %kid1 and %kid2 are nice to each other. {{Maru}} and I always fought as pups.#$e#If I think back on it, it was mostly my fault...",
+        "summer_1": "Summer's here... I need to spend as much time indoors as possible if I want to maintain my gloomy complexion..."
       }
     },
     {
@@ -146,7 +422,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueSebastian",
       "Entries": {
-        "Neutral_4": "{{i18n:Characters/Dialogue/MarriageDialogueSebastian..Neutral_4.FurryFarmerFlavor..AnthroConfig |default={{i18n:Characters/Dialogue/MarriageDialogueSebastian..Neutral_4.FurryFarmerFlavor.}}}}"
+        "Neutral_4": "{{i18n:Characters/Dialogue/MarriageDialogueSebastian..Neutral_4.FurryFarmerFlavor..AnthroConfig |default={{i18n:Characters/Dialogue/MarriageDialogueSebastian..Neutral_4.FurryFarmerFlavor.}}}}",
+        "TwoKids_0": "Don't worry, I already fed the pups... %kid2 spilled the chocolate milk all over my shirt again."
       }
     },
     {
@@ -154,9 +431,24 @@
         "HasMod": "krystedez.FurryFarmer"
       },
       "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueShane",
+      "Entries": {
+        "OneKid_0": "It's weird, when I was younger I swore I'd never have a hatchling. I wonder what happened to me?$6",
+        "TwoKids_0": "I already fed the hatchlings two bowls of pizza puffs cereal. They'll be full for a while.",
+        "TwoKids_1": "I'll be honest... two hatchlings is enough for me.",
+        "TwoKids_3": "*Sigh*... If only we could send the cubs off to Joja work-camp for a season...#$e#I'm just kidding.$h" 
+      }
+    },
+    {
+      "Action": "EditData",
       "Target": "Characters/Dialogue/Maru",
       "Entries": {
-        "winter_Thu10": "{{i18n:Characters/Dialogue/Maru..winter_Thu10.FurryFarmerFlavor..AnthroConfig |default={{i18n:Characters/Dialogue/Maru..winter_Thu10.FurryFarmerFlavor.}}}}"
+        "winter_Thu10": "{{i18n:Characters/Dialogue/Maru..winter_Thu10.FurryFarmerFlavor..AnthroConfig |default={{i18n:Characters/Dialogue/Maru..winter_Thu10.FurryFarmerFlavor.}}}}",
+        "Sat6": "If you think about the body, it's hard to believe that somehow, it all just 'works'.",
+        "Sat8": "You know, I was thinking... even with all the technology in the world, nothing beats having a real friend.",
+        "event_robot_explain1": "...$s#$b#You have a point, I did program her to act sentient... but her neural net is so complex, I can't be sure consciousness didn't emerge on its own.$8#$b#Furthermore, isn't it a little arrogant to assume that consciousnesses like ours are the only worthwhile vessels of existence? Computer brains are different than ours, but that doesn't mean we can disregard them.$8",
+        "fall_Thu10": "You have a leaf in your fur. Let me get it for you.#$e#...$h",
+        "winter_Tue": "My fur gets so frizzy in this dry weather. *sigh*"
       }
     },
     {
@@ -172,6 +464,21 @@
       }
     },
     {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Penny",
+      "Entries": {
+        "eventSeen_34_memory_fourweeks": "I'm teaching the cubs about art history this week.#$b#It can be a little dry for them, so I'm having them learn by drawing a picture in the predominant style of each century.#$b#It's really been a hit!$h",
+        "eventSeen_36_memory_oneweek": "Oh, pardon this bandage on my paw...$s#$b#I went over to {{Maru}}'s the other day and {{Maru_she}} showed me a new gadget of {{Maru_hers_his}}. The darn thing charred my beans!$s",
+        "Resort_Towel": "The wind keeps making me lose my page, but it feels really great on my fur.$h",
+        "Resort": "This sand is so soft and fine. It feels great on my paws!$h",
+        "Tue10": "Um, @? A farm seems like a good place for little calves, don't you think?$l#$e#It was just a thought I had.$l",
+        "Wed2": "You know what? I should take the calves on a field trip some time. Maybe to the forest.#$e#A guest speaker would be nice... maybe someone familiar with nature?#$e#Sorry, I'm just thinking out loud.",
+        "GreenRain_2": "This strange weather is a good opportunity to get the cubs interested in nature!$h",
+        "event_speaker_kids5": "hmm...$s#$b#If everyone thought like that, our species would die out.$s",
+        "event_speaker_yes": "Great!$h#$b#Let me just call the cubs over."
+      }
+    },
+    {
       "When": {
         "HasMod": "krystedez.FurryFarmer"
       },
@@ -179,6 +486,13 @@
       "Target": "Characters/Dialogue/Pierre",
       "Entries": {
         "Sat": "{{i18n:Characters/Dialogue/Pierre..Sat.FurryFarmerFlavor..AnthroConfig |default={{i18n:Characters/Dialogue/Pierre..Sat.FurryFarmerFlavor.}}}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/rainy",
+      "Entries": {
+        "Haley": "I spent all morning brushing my fur... now the rain could mess it up.$s#$e#*sigh* ... Life is hard sometimes."
       }
     },
     {
@@ -193,7 +507,27 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Shane",
       "Entries": {
-        "Sat8": "{{i18n:Characters/Dialogue/Shane..Sat8.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Shane..Sat8.Flavor.}}}}"
+        "Sat8": "{{i18n:Characters/Dialogue/Shane..Sat8.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Shane..Sat8.Flavor.}}}}",
+        "Wed8": "I guess I've grown attached to Marnie and Jas. We're a ragtag bunch but it kind of feels like a weird family.#$e#I never really had much of a family as a hatchling.$s"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Sam",
+      "Entries": {
+        "Sat8": "{{i18n:Characters/Dialogue/Shane..Sat8.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Shane..Sat8.Flavor.}}}}",
+        "Mon2": "Hey, how's it going?#$e#Last night I practiced guitar for 4 hours straight. My pawpads hurt like crazy.$s#$e#Bye, I've got something to do...",
+        "summer_Wed2": "I saw a spider on my ceiling last night. They sure like the warmth.#$e#I hope he didn't crawl into my muzzle while I was asleep...$s",
+        "fall_Tue": "My shoes always seem to wear out this time of year. Look, my paw's poking through!$h#$e#That's what happens when you skateboard too much.",
+        "fall_23": "Ah, my paws feel great in these new shoes. They're a little crisp, but they'll break in. Especially after I run through the haunted maze this weekend.$h",
+        "winter_Fri": "The worst thing about the snow is getting your paws soaked. You're lucky in those thick boots."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Sandy",
+      "Entries": {
+        "Sun": "It's always sunny here, even in winter!#$e#Actually, it's a little hot for my tastes... my delicate wings burn quickly in the sun.$s"
       }
     },
     {
@@ -203,7 +537,9 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Wizard",
       "Entries": {
-        "Introduction": "{{i18n:Characters/Dialogue/Wizard..Introduction.FurryFarmerFlavor..AnthroConfig |default={{i18n:Characters/Dialogue/Wizard..Introduction.FurryFarmerFlavor.}}}}"
+        "Introduction": "{{i18n:Characters/Dialogue/Wizard..Introduction.FurryFarmerFlavor..AnthroConfig |default={{i18n:Characters/Dialogue/Wizard..Introduction.FurryFarmerFlavor.}}}}",
+        "Mon4": "Outside the domain of our civilization is where nature truly reveals its secrets.",
+        "Fri": "I believe the townsfolk are afraid of me.#$e#It is unfortunate, but I suppose it is only natural to be afraid of the unknown."
       }
     },
     {

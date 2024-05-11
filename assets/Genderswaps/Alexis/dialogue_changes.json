@@ -131,7 +131,15 @@
       "Target": "Characters/Dialogue/Evelyn",
       "Entries": {
         "GreenRain": "{{i18n:Characters/Dialogue/Evelyn..GreenRain...Alexis |default={{i18n:Characters/Dialogue/Evelyn..GreenRain.. |Alex={{Alex}}}} |Alex={{Alex}}}}",
-        "fall_Sat": "{{i18n:Characters/Dialogue/Evelyn..fall_Sat...Alexis |default={{i18n:Characters/Dialogue/Evelyn..fall_Sat.. |Alex={{Alex}}}} |Alex={{Alex}}}}"
+        "fall_Sat": "{{i18n:Characters/Dialogue/Evelyn..fall_Sat...Alexis |default={{i18n:Characters/Dialogue/Evelyn..fall_Sat.. |Alex={{Alex}}}} |Alex={{Alex}}}}",
+        "summer_Mon_inlaw_Alex": "How's my grand-daughter doing? I imagine she's quite happy living on the farm.#$e#She deserves to be happy... she's a good girl."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Pam",
+      "Entries": {
+        "married_Alex": "So, you married the Mullner girl, huh?#$b#Will you be takin' that smelly old dog with ya, too?"
       }
     },
     {
@@ -139,7 +147,9 @@
       "Target": "Characters/Dialogue/George",
       "Entries": {
         "Wed": "{{i18n:Characters/Dialogue/George..Wed...Alexis |default={{i18n:Characters/Dialogue/George..Wed.. |Alex={{Alex}}}} |Alex={{Alex}}}}",
-        "Wed8": "{{i18n:Characters/Dialogue/George..Wed8...Alexis |default={{i18n:Characters/Dialogue/George..Wed8.. |Alex={{Alex}}}} |Alex={{Alex}}}}"
+        "Wed8": "{{i18n:Characters/Dialogue/George..Wed8...Alexis |default={{i18n:Characters/Dialogue/George..Wed8.. |Alex={{Alex}}}} |Alex={{Alex}}}}",
+        "Wed_inlaw_Alex": "You're part of the family, now. I'm glad that my grand-daughter found such a nice husband.^How can two women get married? It's unnatural... Hmmph. I guess I'm just \"old fashioned\"...",
+        "Wed10_inlaw_Alex": "You're part of the family, now... and I couldn't be more proud.^I'll admit, I thought it was... strange... for two women to be together. But you're such a nice young lady, and I know you two are in love... I've changed my mind."
       }
     },
     {
@@ -147,7 +157,10 @@
       "Target": "Characters/Dialogue/Alex",
       "Entries": {
         "Introduction": "{{i18n:Characters/Dialogue/Alex..Introduction...Alexis |default={{i18n:Characters/Dialogue/Alex..Introduction.. |Alex={{Alex}}}} |Alex={{Alex}}}}",
-        "dating_Alex": "{{i18n:Characters/Dialogue/Alex..dating_Alex...Alexis |default={{i18n:Characters/Dialogue/Alex..dating_Alex.. |Alex={{Alex}}}} |Alex={{Alex}}}}"
+        "dating_Alex": "{{i18n:Characters/Dialogue/Alex..dating_Alex...Alexis |default={{i18n:Characters/Dialogue/Alex..dating_Alex.. |Alex={{Alex}}}} |Alex={{Alex}}}}",
+        "Wed": "Looks like a good day to practice passes, huh?$u#$e#$q 5/6 Wed_01_old#I'd ask you to throw the ball around, but you don't really seem like the sports type.^If you were taller, I'd ask you to play ball.#$r 6 0 Wed_01_02#I'm fine just watching you from a distance.#$r 5 15 Wed_01_01#I want to play ball with you!#$r 5 0 Wed_01_03#(angry) What's that supposed to mean?",
+        "Wed_01_old": "#$p 5#Think fast! ...just kidding. Hahaha.|I just wish I had someone to play ball with...$s",
+        "Mon": "Did you know I was a point guard in high school? It's true.$u#$e#See this little patch on my jacket here? That proves it."
       }
     },
     {
@@ -165,6 +178,19 @@
       "Target": "Strings/schedules/Alex",
       "Entries": {
         "Sun.000": "{{i18n:Strings/schedules/Alex..Sun=000...Alexis |default={{i18n:Strings/schedules/Alex..Sun=000.. |Alex={{Alex}}}} |Alex={{Alex}}}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueAlex",
+      "Entries": {
+        "Rainy_Day_4": "I think I might start reading books. I don't want to become stagnant now that I'm a married lady!",
+        "Rainy_Night_1": "How's it going? I've been carrying the old b-ball around with me all day. A girl can pretend...$u",
+        "Rainy_Night_2": "Oh... the smell? I've been eating garlic all day. I'm trying to stay tough... Sorry.$l",
+        "OneKid_0": "I'm still getting used to my new life as a stay-at-home mom.$h",
+        "OneKid_1": "Little %kid1 is going to grow up strong, just like Mommy.",
+        "OneKid_3": "I wonder if I'll ever get pregnant again...?$h",
+        "spring_23": "Oh... tomorrow's the flower dance, isn't it? I better do some extra push-ups tonight.$9#$e#Those dresses are pretty tight... and everyone's going to be watching closely."
       }
     }
   ]

@@ -418,6 +418,17 @@
       }
     },
     {
+      "Name": "Maru_hers_his",
+      "Value": "hers"
+    },
+    {
+      "Name": "Maru_hers_his",
+      "Value": "his",
+      "When": {
+        "Maru to Marcus": true
+      }
+    },
+    {
       "Name": "Sebby",
       "Value": "{{i18n:token.Sebby.normal}}"
     },

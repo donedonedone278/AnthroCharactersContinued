@@ -138,6 +138,13 @@
     },
     {
       "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogue",
+      "Entries": {
+        "Indoor_Night_Sebastian": "#$c .5#I may be a reclusive girl, but I'm always happy when you're around.$h#$e#Hi, @. Good to see you. It's comforting when you're around.$h"
+      }
+    },
+    {
+      "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueSam",
       "Entries": {
         "Rainy_Day_1": "{{i18n:Characters/Dialogue/MarriageDialogueSam..Rainy_Day_1...Sabrina |default={{i18n:Characters/Dialogue/MarriageDialogueSam..Rainy_Day_1.. |Sebastian={{Sebastian}} |Abigail={{Abigail}}}} |Sebastian={{Sebastian}} |Abigail={{Abigail}}}}",
@@ -175,7 +182,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Sebastian",
       "Entries": {
-        "winter_Wed": "{{i18n:Characters/Dialogue/Sebastian..winter_Wed...Sabrina |default={{i18n:Characters/Dialogue/Sebastian..winter_Wed.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}"
+        "winter_Wed": "{{i18n:Characters/Dialogue/Sebastian..winter_Wed...Sabrina |default={{i18n:Characters/Dialogue/Sebastian..winter_Wed.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
+        "AcceptGift_(O)Book_Defense": "What are you trying to say... I need to work out?$s#$b#Well, I'm more of a 'nimble' chick... Maybe I'll read the first half.$h"
       }
     },
     {
@@ -221,7 +229,18 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueMaru",
       "Entries": {
-        "summer_20": "{{i18n:Characters/Dialogue/MarriageDialogueMaru..summer_20...Sabrina |default={{i18n:Characters/Dialogue/MarriageDialogueMaru..summer_20.. |Sebastian_brother={{Sebastian_brother}} |Abigail={{Abigail}}}} |Sebastian_brother={{Sebastian_brother}} |Abigail={{Abigail}}}}"
+        "summer_20": "{{i18n:Characters/Dialogue/MarriageDialogueMaru..summer_20...Sabrina |default={{i18n:Characters/Dialogue/MarriageDialogueMaru..summer_20.. |Sebastian_brother={{Sebastian_brother}} |Abigail={{Abigail}}}} |Sebastian_brother={{Sebastian_brother}} |Abigail={{Abigail}}}}",
+        "spring_22": "If my sister wasn't such a hermit I'd invite her over for dinner sometime."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSebastian",
+      "Entries": {
+        "Outdoor_3": "I don't want to get soft now that I'm a married woman. Maybe I should start eating more hot pepper and working out?#$e#Just an idea...$h",
+        "OneKid_0": "I'm still getting used to being a mother. Don't worry, I'll take good care of %kid1! It's just... something new.",
+        "Good_3": "I don't often show it, but I'm really happy that I'm your wife. Marrying you was the best decision I ever made.$l",
+        "spring_23": "Oh... tomorrow's the flower dance, isn't it? Do we have to go?#$e#I hate wearing that ridiculous dress. Why does Lewis make us do this?$s"
       }
     }
   ]

@@ -159,6 +159,26 @@
     },
     {
       "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueHarvey",
+      "Entries": {
+        "Outdoor_2": "I may not be the most exciting lady, but I'll stay loyal to you for the rest of my life.$l",
+        "OneKid_3": "So far, I really like being a mother!$h",
+        "TwoKids_3": "My life is devoted to you and the children now, and I'm very happy about it. I always dreamed of having a wonderful family.$l#$e#I had nightmares of being a bachelorette forever.... I love you so much.$l",
+        "summer_1": "Make sure you don't get sunburnt, dear! It's very dangerous for your skin.$8#$e#As your wife and doctor, I consider your health and safety my top priority!"
+      }
+    },
+    {
+      "When": {
+        "Flavor": true
+      },
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueHarvey",
+      "Entries": {
+        "summer_1": "Make sure you don't get dehydrated, dear! It's very dangerous for your health.$8#$e#As your wife and doctor, I consider your health and safety my top priority!"
+      }
+    },
+    {
+      "Action": "EditData",
       "Target": "Strings/schedules/Evelyn",
       "Entries": {
         "23.000": "{{i18n:Strings/schedules/Evelyn..23=000...Hannah |default={{i18n:Strings/schedules/Evelyn..23=000.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"

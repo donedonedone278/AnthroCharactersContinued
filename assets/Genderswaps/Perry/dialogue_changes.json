@@ -227,6 +227,13 @@
       "Entries": {
         "Rainy_Day_0": "{{i18n:Characters/Dialogue/MarriageDialogueMaru..Rainy_Day_0...Perry |default={{i18n:Characters/Dialogue/MarriageDialogueMaru..Rainy_Day_0.. |Penny={{Penny}}}} |Penny={{Penny}}}}"
       }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialoguePenny",
+      "Entries": {
+        "Indoor_Night_1": "Hmm... boxers or briefs tomorrow? Oh, who am I kidding... I always go with the briefs."
+      }
     }
   ]
 }

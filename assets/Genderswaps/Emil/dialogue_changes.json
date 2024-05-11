@@ -50,7 +50,8 @@
         "dating_Emily": "{{i18n:Characters/Dialogue/Emily..dating_Emily...Emil |default={{i18n:Characters/Dialogue/Emily..dating_Emily..}}}}",
         "Resort_Dance": "{{i18n:Characters/Dialogue/Emily..Resort_Dance...Emil |default={{i18n:Characters/Dialogue/Emily..Resort_Dance..}}}}",
         "reject_866": "{{i18n:Characters/Dialogue/Emily..reject_866...Emil |default={{i18n:Characters/Dialogue/Emily..reject_866..}}}}",
-        "summer_Fri6": "{{i18n:Characters/Dialogue/Emily..summer_Fri6...Emil |default={{i18n:Characters/Dialogue/Emily..summer_Fri6..}}}}"
+        "summer_Fri6": "{{i18n:Characters/Dialogue/Emily..summer_Fri6...Emil |default={{i18n:Characters/Dialogue/Emily..summer_Fri6..}}}}",
+        "Sat6": "Do you ever think about the texture of fabric, @? Each texture has a distinct personality... feel my pants... see?"
       }
     },
     {
@@ -327,7 +328,21 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueEmily",
       "Entries": {
-        "TwoKids_1": "{{i18n:Characters/Dialogue/MarriageDialogueEmily..TwoKids_1.Flavor..Emil |default={{i18n:Characters/Dialogue/MarriageDialogueEmily..TwoKids_1.Flavor.}}}}"
+        "TwoKids_1": "{{i18n:Characters/Dialogue/MarriageDialogueEmily..TwoKids_1.Flavor..Emil |default={{i18n:Characters/Dialogue/MarriageDialogueEmily..TwoKids_1.Flavor.}}}}",
+        "OneKid_1": "Is one hatchling enough, or should we raise another?#$e#I guess we'll just see where fate leads us.",
+        "TwoKids_3": "Oh, I already fed the nestlings their organic quinoa puffs with goat milk. You just focus on the farm!",
+        "Neutral_0": "I hope you'll still like me when I grow old and my feathers turn to a dull, faded steel.",
+        "winter_Emily": "Whoops, my feathers are frozen solid again.$s"
+      }
+    },
+    {
+      "When": {
+        "Flavor": true
+      },
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogue",
+      "Entries": {
+        "winter_Emily": "Whoops, my feathers are frozen solid again.$s"
       }
     },
     {

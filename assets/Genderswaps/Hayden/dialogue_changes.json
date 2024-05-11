@@ -69,14 +69,32 @@
         "Fri": "{{i18n:Characters/Dialogue/Haley..Fri...Hayden |default={{i18n:Characters/Dialogue/Haley..Fri..}}}}",
         "summer_Tue": "{{i18n:Characters/Dialogue/Haley..summer_Tue...Hayden |default={{i18n:Characters/Dialogue/Haley..summer_Tue..}}}}",
         "eventSeen_13_memory_oneweek": "{{i18n:Characters/Dialogue/Haley..eventSeen_13_memory_oneweek...Hayden |default={{i18n:Characters/Dialogue/Haley..eventSeen_13_memory_oneweek.. |Haley={{Haley}}}} |Haley={{Haley}}}}",
-        "FlowerDance_Accept_Spouse": "{{i18n:Characters/Dialogue/Haley..FlowerDance_Accept_Spouse...Hayden |default={{i18n:Characters/Dialogue/Haley..FlowerDance_Accept_Spouse..}}}}"
+        "FlowerDance_Accept_Spouse": "{{i18n:Characters/Dialogue/Haley..FlowerDance_Accept_Spouse...Hayden |default={{i18n:Characters/Dialogue/Haley..FlowerDance_Accept_Spouse..}}}}",
+        "eventSeen_12_memory_oneweek": "Wow, looks like someone's read the latest issue of 'Men's Super Fashion'... muddy boots are totally in right now!$h",
+        "winter_Thu6": "Maybe I'll donate some of my shirts to a charity this spring.#$e#I mean, I do have over 1,000 shirts.$h#$e#...what?"
+      }
+    },
+    {
+      "When": {
+        "Flavor": true
+      },
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Haley",
+      "Entries": {
+        "eventSeen_14": "It was fun taking pictures, but I had to shower for two hours to get the mud out of my feathers!$h",
+        "Resort_Chair": "I painted my talons blue to match the sea. What do you think? *wiggle* *wiggle*$h",
+        "summer_Mon": "My feathers are going to look so vibrant this summer.",
+        "summer_Thu": "If you stay in the sun a lot it'll make your feathers lighter.#$e#It's a good thing to know!",
+        "summer_Thu6": "If you stay in the sun a lot it will make your feathers lighter... But you don't want to overheat, either.#$e#I just want a healthy amount of sunlight. Everything in moderation, right?",
+        "fall_Sun": "I've never been to the forest. It's muddy and I could get a splinter in my talon."
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogue",
       "Entries": {
-        "spouseRoom_Haley": "{{i18n:Characters/Dialogue/MarriageDialogue..spouseRoom_Haley...Hayden |default={{i18n:Characters/Dialogue/MarriageDialogue..spouseRoom_Haley..}}}}"
+        "spouseRoom_Haley": "{{i18n:Characters/Dialogue/MarriageDialogue..spouseRoom_Haley...Hayden |default={{i18n:Characters/Dialogue/MarriageDialogue..spouseRoom_Haley..}}}}",
+        "Outdoor_Haley": "Looks like a good day to feel the breeze through my feathers, don't you think, sweetheart?$h"
       }
     },
     {
@@ -248,6 +266,35 @@
       },
       "Entries": {
         "DesertFestival_Haley2": "{{i18n:Strings/1_6_Strings..DesertFestival_Haley2.Flavor..Hayden |default={{i18n:Strings/1_6_Strings..DesertFestival_Haley2.Flavor. |Haley={{Haley}}}} |Haley={{Haley}}}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueHaley",
+      "Entries": {
+        "OneKid_3": "Isn't it strange? I'm not used to being a father."
+      }
+    },
+    {
+      "When": {
+        "Flavor": true
+      },
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueHaley",
+      "Entries": {
+        "Rainy_Day_3": "I can't go outside today... my feathers will go limp. Forgive me, dear.$s#$e#I want to look my best for you.",
+        "Outdoor_Haley": "Looks like a good day to feel the breeze through my feathers, don't you think, sweetheart?$h",
+        "TwoKids_2": "Isn't %kid2 a very good-looking nestling?",
+        "TwoKids_3": "A big house, two hatchlings, and a beautiful plot of land. I'm not sure what else I could ask for.",
+        "summer_3": "Sorry if I don't look my best... the air is just so humid that my feathers don't hold up too well.",
+        "winter_14": "My feathers feel so stiff in this weather."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/rainy",
+      "Entries": {
+        "Haley": "I spent all morning preening my feathers... now the rain could mess it up.$s#$e#*sigh* ... Life is hard sometimes."
       }
     }
   ]
