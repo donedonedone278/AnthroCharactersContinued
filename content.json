@@ -419,11 +419,11 @@
     },
     {
       "Name": "Maru_hers_his",
-      "Value": "hers"
+      "Value": "{{i18n:token.Maru_hers_his.normal}}"
     },
     {
       "Name": "Maru_hers_his",
-      "Value": "his",
+      "Value": "{{i18n:token.Maru_hers_his.swapped}}",
       "When": {
         "Maru to Marcus": true
       }

@@ -51,7 +51,7 @@
         "Resort_Dance": "{{i18n:Characters/Dialogue/Emily..Resort_Dance...Emil |default={{i18n:Characters/Dialogue/Emily..Resort_Dance..}}}}",
         "reject_866": "{{i18n:Characters/Dialogue/Emily..reject_866...Emil |default={{i18n:Characters/Dialogue/Emily..reject_866..}}}}",
         "summer_Fri6": "{{i18n:Characters/Dialogue/Emily..summer_Fri6...Emil |default={{i18n:Characters/Dialogue/Emily..summer_Fri6..}}}}",
-        "Sat6": "Do you ever think about the texture of fabric, @? Each texture has a distinct personality... feel my pants... see?"
+        "Sat6": "{{i18n:Characters/Dialogue/Emily..Sat6...Emil |default={{i18n:Characters/Dialogue/Emily..Sat6..}}}}"
       }
     },
     {
@@ -329,10 +329,10 @@
       "Target": "Characters/Dialogue/MarriageDialogueEmily",
       "Entries": {
         "TwoKids_1": "{{i18n:Characters/Dialogue/MarriageDialogueEmily..TwoKids_1.Flavor..Emil |default={{i18n:Characters/Dialogue/MarriageDialogueEmily..TwoKids_1.Flavor.}}}}",
-        "OneKid_1": "Is one hatchling enough, or should we raise another?#$e#I guess we'll just see where fate leads us.",
-        "TwoKids_3": "Oh, I already fed the nestlings their organic quinoa puffs with goat milk. You just focus on the farm!",
-        "Neutral_0": "I hope you'll still like me when I grow old and my feathers turn to a dull, faded steel.",
-        "winter_Emily": "Whoops, my feathers are frozen solid again.$s"
+        "OneKid_1": "{{i18n:Characters/Dialogue/MarriageDialogueEmily..OneKid_1.Flavor..Emil |default={{i18n:Characters/Dialogue/MarriageDialogueEmily..OneKid_1.Flavor.}}}}",
+        "TwoKids_3": "{{i18n:Characters/Dialogue/MarriageDialogueEmily..TwoKids_3.Flavor..Emil |default={{i18n:Characters/Dialogue/MarriageDialogueEmily..TwoKids_3.Flavor.}}}}",
+        "Neutral_0": "{{i18n:Characters/Dialogue/MarriageDialogueEmily..Neutral_0.Flavor..Emil |default={{i18n:Characters/Dialogue/MarriageDialogueEmily..Neutral_0.Flavor.}}}}",
+        "winter_Emily": "{{i18n:Characters/Dialogue/MarriageDialogueEmily..winter_Emily.Flavor..Emil |default={{i18n:Characters/Dialogue/MarriageDialogueEmily..winter_Emily.Flavor.}}}}"
       }
     },
     {
@@ -342,7 +342,7 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogue",
       "Entries": {
-        "winter_Emily": "Whoops, my feathers are frozen solid again.$s"
+        "winter_Emily": "{{i18n:Characters/Dialogue/MarriageDialogue..winter_Emily.Flavor..Emil |default={{i18n:Characters/Dialogue/MarriageDialogue..winter_Emily.Flavor.}}}}"
       }
     },
     {

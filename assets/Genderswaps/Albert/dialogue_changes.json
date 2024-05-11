@@ -291,7 +291,7 @@
       "Target": "Characters/Dialogue/MarriageDialogueAbigail",
       "Entries": {
         "patio_Abigail": "{{i18n:Characters/Dialogue/MarriageDialogueAbigail..patio_Abigail...Albert |default={{i18n:Characters/Dialogue/MarriageDialogueAbigail..patio_Abigail.. |Abigail={{Abigail}}}} |Abigail={{Abigail}}}}",
-        "OneKid_3": "I can't believe I'm a \"dad\"... life is weird.$h"
+        "OneKid_3": "{{i18n:Characters/Dialogue/MarriageDialogueAbigail..OneKid_3...Albert |default={{i18n:Characters/Dialogue/MarriageDialogueAbigail..OneKid_3..}}}}"
       }
     }
   ]

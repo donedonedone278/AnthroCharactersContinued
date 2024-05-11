@@ -114,11 +114,11 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueElliott",
       "Entries": {
-        "Rainy_Night_3": "What did I do today? I'll just say this... it takes a lot of work to maintain this feminine physique!",
-        "Indoor_Day_0": "I've been taking much better care of myself now that we're together. The bachelorette life wasn't particularly healthy for me.",
-        "OneKid_3": "Caring for babies isn't exactly my strong suit... but I'll do my best to be a good mother.",
-        "TwoKids_1": "I was carrying %kid1 earlier, and I could've sworn I heard a \"Ma...ma\".$h",
-        "fall_26": "Would you still love me if I guzzled two gallons of pumpkin ale at the Spirit's Eve festival? Sometimes a woman has primitive urges..."
+        "Rainy_Night_3": "{{i18n:Characters/Dialogue/MarriageDialogueElliott..Rainy_Night_3...Ellen |default={{i18n:Characters/Dialogue/MarriageDialogueElliott..Rainy_Night_3..}}}}",
+        "Indoor_Day_0": "{{i18n:Characters/Dialogue/MarriageDialogueElliott..Indoor_Day_0...Ellen |default={{i18n:Characters/Dialogue/MarriageDialogueElliott..Indoor_Day_0..}}}}",
+        "OneKid_3": "{{i18n:Characters/Dialogue/MarriageDialogueElliott..OneKid_3...Ellen |default={{i18n:Characters/Dialogue/MarriageDialogueElliott..OneKid_3..}}}}",
+        "TwoKids_1": "{{i18n:Characters/Dialogue/MarriageDialogueElliott..TwoKids_1...Ellen |default={{i18n:Characters/Dialogue/MarriageDialogueElliott..TwoKids_1..}}}}",
+        "fall_26": "{{i18n:Characters/Dialogue/MarriageDialogueElliott..fall_26...Ellen |default={{i18n:Characters/Dialogue/MarriageDialogueElliott..fall_26..}}}}"
       }
     }
   ]

@@ -232,7 +232,7 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialoguePenny",
       "Entries": {
-        "Indoor_Night_1": "Hmm... boxers or briefs tomorrow? Oh, who am I kidding... I always go with the briefs."
+        "Indoor_Night_1": "{{i18n:Characters/Dialogue/MarriageDialoguePenny..Indoor_Night_1...Perry |default={{i18n:Characters/Dialogue/MarriageDialoguePenny..Indoor_Night_1..}}}}"
       }
     }
   ]
