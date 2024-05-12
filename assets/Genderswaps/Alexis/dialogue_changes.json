@@ -61,22 +61,22 @@
       "Action": "EditData",
       "Target": "Data/Events/Farm",
       "Entries": {
-        "3917587/f Alex 3500/O Alex/t 500 820/M 5000/d Sun/y 2": "{{i18n:Data/Events/Farm..3917587/f Alex 3500/O Alex/t 500 820/M 5000/d Sun/y 2...Alexis |default={{i18n:Data/Events/Farm..3917587/f Alex 3500/O Alex/t 500 820/M 5000/d Sun/y 2.. |Alex={{Alex}}}} |Alex={{Alex}}}}"
+        "3917587/f Alex 3500/O Alex/t 500 820/M 5000/d Sun/y 2": "{{i18n:Data/Events/Farm..3917587/f+Alex+3500/O+Alex/t+500+820/M+5000/d+Sun/y+2...Alexis |default={{i18n:Data/Events/Farm..3917587/f+Alex+3500/O+Alex/t+500+820/M+5000/d+Sun/y+2.. |Alex={{Alex}}}} |Alex={{Alex}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Town",
       "Entries": {
-        "3917589/n gaveAlexMoney/O Alex/d Mon/d Tue/d Wed/d Thu/d Fri/d Sat": "{{i18n:Data/Events/Town..3917589/n gaveAlexMoney/O Alex/d Mon/d Tue/d Wed/d Thu/d Fri/d Sat...Alexis |default={{i18n:Data/Events/Town..3917589/n gaveAlexMoney/O Alex/d Mon/d Tue/d Wed/d Thu/d Fri/d Sat.. |Alex={{Alex}}}} |Alex={{Alex}}}}"
+        "3917589/n gaveAlexMoney/O Alex/d Mon/d Tue/d Wed/d Thu/d Fri/d Sat": "{{i18n:Data/Events/Town..3917589/n+gaveAlexMoney/O+Alex/d+Mon/d+Tue/d+Wed/d+Thu/d+Fri/d+Sat...Alexis |default={{i18n:Data/Events/Town..3917589/n+gaveAlexMoney/O+Alex/d+Mon/d+Tue/d+Wed/d+Thu/d+Fri/d+Sat.. |Alex={{Alex}}}} |Alex={{Alex}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Saloon",
       "Entries": {
-        "911526/f Alex 2500/t 1900 2200/n joshMessage": "{{i18n:Data/Events/Saloon..911526/f Alex 2500/t 1900 2200/n joshMessage...Alexis |default={{i18n:Data/Events/Saloon..911526/f Alex 2500/t 1900 2200/n joshMessage.. |Alex={{Alex}}}} |Alex={{Alex}}}}",
-        "3917590/n saloonSportsRoom/O Alex": "{{i18n:Data/Events/Saloon..3917590/n saloonSportsRoom/O Alex...Alexis |default={{i18n:Data/Events/Saloon..3917590/n saloonSportsRoom/O Alex.. |Shane={{Shane}}}} |Shane={{Shane}}}}"
+        "911526/f Alex 2500/t 1900 2200/n joshMessage": "{{i18n:Data/Events/Saloon..911526/f+Alex+2500/t+1900+2200/n+joshMessage...Alexis |default={{i18n:Data/Events/Saloon..911526/f+Alex+2500/t+1900+2200/n+joshMessage.. |Alex={{Alex}}}} |Alex={{Alex}}}}",
+        "3917590/n saloonSportsRoom/O Alex": "{{i18n:Data/Events/Saloon..3917590/n+saloonSportsRoom/O+Alex...Alexis |default={{i18n:Data/Events/Saloon..3917590/n+saloonSportsRoom/O+Alex.. |Shane={{Shane}}}} |Shane={{Shane}}}}"
       }
     },
     {

@@ -101,24 +101,24 @@
       "Action": "EditData",
       "Target": "Data/Events/Beach",
       "Entries": {
-        "13/f Haley 1500/z winter/t 1000 1600": "{{i18n:Data/Events/Beach..13/f Haley 1500/z winter/t 1000 1600...Hayden |default={{i18n:Data/Events/Beach..13/f Haley 1500/z winter/t 1000 1600..}}}}"
+        "13/f Haley 1500/z winter/t 1000 1600": "{{i18n:Data/Events/Beach..13/f+Haley+1500/z+winter/t+1000+1600...Hayden |default={{i18n:Data/Events/Beach..13/f+Haley+1500/z+winter/t+1000+1600..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Forest",
       "Entries": {
-        "14/f Haley 2000/z winter/t 1000 1600/w sunny": "{{i18n:Data/Events/Forest..14/f Haley 2000/z winter/t 1000 1600/w sunny...Hayden |default={{i18n:Data/Events/Forest..14/f Haley 2000/z winter/t 1000 1600/w sunny..}}}}"
+        "14/f Haley 2000/z winter/t 1000 1600/w sunny": "{{i18n:Data/Events/Forest..14/f+Haley+2000/z+winter/t+1000+1600/w+sunny...Hayden |default={{i18n:Data/Events/Forest..14/f+Haley+2000/z+winter/t+1000+1600/w+sunny..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/HaleyHouse",
       "Entries": {
-        "11/f Haley 500/p Haley/p Emily": "{{i18n:Data/Events/HaleyHouse..11/f Haley 500/p Haley/p Emily...Hayden |default={{i18n:Data/Events/HaleyHouse..11/f Haley 500/p Haley/p Emily.. |Haley={{Haley}} |Haley={{Haley}} |Haley_her={{Haley_her}} |Haley={{Haley}} |Emily={{Emily}}}} |Haley={{Haley}} |Haley={{Haley}} |Haley_her={{Haley_her}} |Haley={{Haley}} |Emily={{Emily}}}}",
-        "12/f Haley 1000/p Haley": "{{i18n:Data/Events/HaleyHouse..12/f Haley 1000/p Haley...Hayden |default={{i18n:Data/Events/HaleyHouse..12/f Haley 1000/p Haley..}}}}",
-        "15/f Haley 2500/p Haley": "{{i18n:Data/Events/HaleyHouse..15/f Haley 2500/p Haley...Hayden |default={{i18n:Data/Events/HaleyHouse..15/f Haley 2500/p Haley..}}}}",
-        "195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019": "{{i18n:Data/Events/HaleyHouse..195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019...Hayden |default={{i18n:Data/Events/HaleyHouse..195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019..}}}}",
+        "11/f Haley 500/p Haley/p Emily": "{{i18n:Data/Events/HaleyHouse..11/f+Haley+500/p+Haley/p+Emily...Hayden |default={{i18n:Data/Events/HaleyHouse..11/f+Haley+500/p+Haley/p+Emily.. |Haley={{Haley}} |Haley={{Haley}} |Haley_her={{Haley_her}} |Haley={{Haley}} |Emily={{Emily}}}} |Haley={{Haley}} |Haley={{Haley}} |Haley_her={{Haley_her}} |Haley={{Haley}} |Emily={{Emily}}}}",
+        "12/f Haley 1000/p Haley": "{{i18n:Data/Events/HaleyHouse..12/f+Haley+1000/p+Haley...Hayden |default={{i18n:Data/Events/HaleyHouse..12/f+Haley+1000/p+Haley..}}}}",
+        "15/f Haley 2500/p Haley": "{{i18n:Data/Events/HaleyHouse..15/f+Haley+2500/p+Haley...Hayden |default={{i18n:Data/Events/HaleyHouse..15/f+Haley+2500/p+Haley..}}}}",
+        "195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019": "{{i18n:Data/Events/HaleyHouse..195012/f+Haley+2500/f+Emily+2500/f+Penny+2500/f+Abigail+2500/f+Leah+2500/f+Maru+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+38/e+2123343/e+10/e+901756/e+54/e+15/k+195019...Hayden |default={{i18n:Data/Events/HaleyHouse..195012/f+Haley+2500/f+Emily+2500/f+Penny+2500/f+Abigail+2500/f+Leah+2500/f+Maru+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+38/e+2123343/e+10/e+901756/e+54/e+15/k+195019..}}}}",
         "choseToExplain": "{{i18n:Data/Events/HaleyHouse..choseToExplain...Hayden |default={{i18n:Data/Events/HaleyHouse..choseToExplain..}}}}",
         "lifestyleChoice": "{{i18n:Data/Events/HaleyHouse..lifestyleChoice...Hayden |default={{i18n:Data/Events/HaleyHouse..lifestyleChoice..}}}}"
       }
@@ -127,7 +127,7 @@
       "Action": "EditData",
       "Target": "Data/Events/Town",
       "Entries": {
-        "6184644/e 8675611/O Haley/A haleyCakewalk2/t 600 1500/w sunny/i 220": "{{i18n:Data/Events/Town..6184644/e 8675611/O Haley/A haleyCakewalk2/t 600 1500/w sunny/i 220...Hayden |default={{i18n:Data/Events/Town..6184644/e 8675611/O Haley/A haleyCakewalk2/t 600 1500/w sunny/i 220.. |Haley={{Haley}} |Emily={{Emily}} |Emily={{Emily}} |Penny={{Penny}} |Penny={{Penny}}}} |Haley={{Haley}} |Emily={{Emily}} |Emily={{Emily}} |Penny={{Penny}} |Penny={{Penny}}}}"
+        "6184644/e 8675611/O Haley/A haleyCakewalk2/t 600 1500/w sunny/i 220": "{{i18n:Data/Events/Town..6184644/e+8675611/O+Haley/A+haleyCakewalk2/t+600+1500/w+sunny/i+220...Hayden |default={{i18n:Data/Events/Town..6184644/e+8675611/O+Haley/A+haleyCakewalk2/t+600+1500/w+sunny/i+220.. |Haley={{Haley}} |Emily={{Emily}} |Emily={{Emily}} |Penny={{Penny}} |Penny={{Penny}}}} |Haley={{Haley}} |Emily={{Emily}} |Emily={{Emily}} |Penny={{Penny}} |Penny={{Penny}}}}"
       }
     },
     {

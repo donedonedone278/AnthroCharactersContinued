@@ -125,31 +125,31 @@
       "Action": "EditData",
       "Target": "Data/Events/Beach",
       "Entries": {
-        "733330/f Sam 750/w sunny/t 700 1500/z winter/y 1": "{{i18n:Data/Events/Beach..733330/f Sam 750/w sunny/t 700 1500/z winter/y 1...Albert |default={{i18n:Data/Events/Beach..733330/f Sam 750/w sunny/t 700 1500/z winter/y 1.. |Sam={{Sam}} |Abigail={{Abigail}} |Sebastian={{Sebastian}} |Abigail_her_him={{Abigail_her_him}}}} |Sam={{Sam}} |Abigail={{Abigail}} |Sebastian={{Sebastian}} |Abigail_her_him={{Abigail_her_him}}}}"
+        "733330/f Sam 750/w sunny/t 700 1500/z winter/y 1": "{{i18n:Data/Events/Beach..733330/f+Sam+750/w+sunny/t+700+1500/z+winter/y+1...Albert |default={{i18n:Data/Events/Beach..733330/f+Sam+750/w+sunny/t+700+1500/z+winter/y+1.. |Sam={{Sam}} |Abigail={{Abigail}} |Sebastian={{Sebastian}} |Abigail_her_him={{Abigail_her_him}}}} |Sam={{Sam}} |Abigail={{Abigail}} |Sebastian={{Sebastian}} |Abigail_her_him={{Abigail_her_him}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/HaleyHouse",
       "Entries": {
-        "195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019": "{{i18n:Data/Events/HaleyHouse..195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019...Albert |default={{i18n:Data/Events/HaleyHouse..195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019..}}}}",
+        "195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019": "{{i18n:Data/Events/HaleyHouse..195012/f+Haley+2500/f+Emily+2500/f+Penny+2500/f+Abigail+2500/f+Leah+2500/f+Maru+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+38/e+2123343/e+10/e+901756/e+54/e+15/k+195019...Albert |default={{i18n:Data/Events/HaleyHouse..195012/f+Haley+2500/f+Emily+2500/f+Penny+2500/f+Abigail+2500/f+Leah+2500/f+Maru+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+38/e+2123343/e+10/e+901756/e+54/e+15/k+195019..}}}}",
         "choseToExplain": "{{i18n:Data/Events/HaleyHouse..choseToExplain...Albert |default={{i18n:Data/Events/HaleyHouse..choseToExplain..}}}}",
         "lifestyleChoice": "{{i18n:Data/Events/HaleyHouse..lifestyleChoice...Albert |default={{i18n:Data/Events/HaleyHouse..lifestyleChoice..}}}}",
-        "917409/e 463391/f Emily 1500/p Emily": "{{i18n:Data/Events/HaleyHouse..917409/e 463391/f Emily 1500/p Emily...Albert |default={{i18n:Data/Events/HaleyHouse..917409/e 463391/f Emily 1500/p Emily.. |Abigail={{Abigail}}}} |Abigail={{Abigail}}}}"
+        "917409/e 463391/f Emily 1500/p Emily": "{{i18n:Data/Events/HaleyHouse..917409/e+463391/f+Emily+1500/p+Emily...Albert |default={{i18n:Data/Events/HaleyHouse..917409/e+463391/f+Emily+1500/p+Emily.. |Abigail={{Abigail}}}} |Abigail={{Abigail}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/SeedShop",
       "Entries": {
-        "17/f Caroline 1500/p Caroline/p Abigail": "{{i18n:Data/Events/SeedShop..17/f Caroline 1500/p Caroline/p Abigail...Albert |default={{i18n:Data/Events/SeedShop..17/f Caroline 1500/p Caroline/p Abigail..}}}}"
+        "17/f Caroline 1500/p Caroline/p Abigail": "{{i18n:Data/Events/SeedShop..17/f+Caroline+1500/p+Caroline/p+Abigail...Albert |default={{i18n:Data/Events/SeedShop..17/f+Caroline+1500/p+Caroline/p+Abigail..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Town",
       "Entries": {
-        "4/f Abigail 1500/t 2100 2400/w sunny": "{{i18n:Data/Events/Town..4/f Abigail 1500/t 2100 2400/w sunny...Albert |default={{i18n:Data/Events/Town..4/f Abigail 1500/t 2100 2400/w sunny..}}}}"
+        "4/f Abigail 1500/t 2100 2400/w sunny": "{{i18n:Data/Events/Town..4/f+Abigail+1500/t+2100+2400/w+sunny...Albert |default={{i18n:Data/Events/Town..4/f+Abigail+1500/t+2100+2400/w+sunny..}}}}"
       }
     },
     {

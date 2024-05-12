@@ -98,7 +98,7 @@
       "Action": "EditData",
       "Target": "Data/Events/FarmHouse",
       "Entries": {
-        "4324303/e 4325434/O Penny/A pennyRedecorating/l noQuilt/B": "{{i18n:Data/Events/FarmHouse..4324303/e 4325434/O Penny/A pennyRedecorating/l noQuilt/B...Perry |default={{i18n:Data/Events/FarmHouse..4324303/e 4325434/O Penny/A pennyRedecorating/l noQuilt/B..}}}}"
+        "4324303/e 4325434/O Penny/A pennyRedecorating/l noQuilt/B": "{{i18n:Data/Events/FarmHouse..4324303/e+4325434/O+Penny/A+pennyRedecorating/l+noQuilt/B...Perry |default={{i18n:Data/Events/FarmHouse..4324303/e+4325434/O+Penny/A+pennyRedecorating/l+noQuilt/B..}}}}"
       }
     },
     {
@@ -106,14 +106,14 @@
       "Target": "Data/Events/Forest",
       "Entries": {
         "choseFarming": "{{i18n:Data/Events/Forest..choseFarming...Perry |default={{i18n:Data/Events/Forest..choseFarming.. |Sam_brother={{Sam_brother}} |Sam={{Sam}} |Sam_He={{Sam_He}} |Sam_him={{Sam_him}} |Penny_Miss={{Penny_Miss}} |Penny={{Penny}}}} |Sam_brother={{Sam_brother}} |Sam={{Sam}} |Sam_He={{Sam_He}} |Sam_him={{Sam_him}} |Penny_Miss={{Penny_Miss}} |Penny={{Penny}}}}",
-        "181928/f Penny 2000/t 900 1600/w sunny/G !IS_PASSIVE_FESTIVAL_TODAY TroutDerby, !SEASON_DAY summer 17 summer 18 summer 19": "{{i18n:Data/Events/Forest..181928/f Penny 2000/t 900 1600/w sunny/G !IS_PASSIVE_FESTIVAL_TODAY TroutDerby, !SEASON_DAY summer 17 summer 18 summer 19...Perry |default={{i18n:Data/Events/Forest..181928/f Penny 2000/t 900 1600/w sunny/G !IS_PASSIVE_FESTIVAL_TODAY TroutDerby, !SEASON_DAY summer 17 summer 18 summer 19.. |Penny={{Penny}}}} |Penny={{Penny}}}}"
+        "181928/f Penny 2000/t 900 1600/w sunny/G !IS_PASSIVE_FESTIVAL_TODAY TroutDerby, !SEASON_DAY summer 17 summer 18 summer 19": "{{i18n:Data/Events/Forest..181928/f+Penny+2000/t+900+1600/w+sunny/G+!IS_PASSIVE_FESTIVAL_TODAY+TroutDerby,+!SEASON_DAY+summer+17+summer+18+summer+19...Perry |default={{i18n:Data/Events/Forest..181928/f+Penny+2000/t+900+1600/w+sunny/G+!IS_PASSIVE_FESTIVAL_TODAY+TroutDerby,+!SEASON_DAY+summer+17+summer+18+summer+19.. |Penny={{Penny}}}} |Penny={{Penny}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/HaleyHouse",
       "Entries": {
-        "195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019": "{{i18n:Data/Events/HaleyHouse..195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019...Perry |default={{i18n:Data/Events/HaleyHouse..195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019..}}}}",
+        "195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019": "{{i18n:Data/Events/HaleyHouse..195012/f+Haley+2500/f+Emily+2500/f+Penny+2500/f+Abigail+2500/f+Leah+2500/f+Maru+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+38/e+2123343/e+10/e+901756/e+54/e+15/k+195019...Perry |default={{i18n:Data/Events/HaleyHouse..195012/f+Haley+2500/f+Emily+2500/f+Penny+2500/f+Abigail+2500/f+Leah+2500/f+Maru+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+38/e+2123343/e+10/e+901756/e+54/e+15/k+195019..}}}}",
         "choseToExplain": "{{i18n:Data/Events/HaleyHouse..choseToExplain...Perry |default={{i18n:Data/Events/HaleyHouse..choseToExplain..}}}}",
         "lifestyleChoice": "{{i18n:Data/Events/HaleyHouse..lifestyleChoice...Perry |default={{i18n:Data/Events/HaleyHouse..lifestyleChoice..}}}}"
       }
@@ -122,13 +122,13 @@
       "Action": "EditData",
       "Target": "Data/Events/Town",
       "Entries": {
-        "34/f Penny 500/t 900 1400/w sunny": "{{i18n:Data/Events/Town..34/f Penny 500/t 900 1400/w sunny...Perry |default={{i18n:Data/Events/Town..34/f Penny 500/t 900 1400/w sunny..}}}}",
-        "611173/Hn pamHouseUpgrade/o Penny": "{{i18n:Data/Events/Town..611173/Hn pamHouseUpgrade/o Penny...Perry |default={{i18n:Data/Events/Town..611173/Hn pamHouseUpgrade/o Penny.. |Penny={{Penny}}}} |Penny={{Penny}}}}",
+        "34/f Penny 500/t 900 1400/w sunny": "{{i18n:Data/Events/Town..34/f+Penny+500/t+900+1400/w+sunny...Perry |default={{i18n:Data/Events/Town..34/f+Penny+500/t+900+1400/w+sunny..}}}}",
+        "611173/Hn pamHouseUpgrade/o Penny": "{{i18n:Data/Events/Town..611173/Hn+pamHouseUpgrade/o+Penny...Perry |default={{i18n:Data/Events/Town..611173/Hn+pamHouseUpgrade/o+Penny.. |Penny={{Penny}}}} |Penny={{Penny}}}}",
         "choseToBeKnown": "{{i18n:Data/Events/Town..choseToBeKnown...Perry |default={{i18n:Data/Events/Town..choseToBeKnown.. |Penny={{Penny}}}} |Penny={{Penny}}}}",
-        "611173/Hn pamHouseUpgrade": "{{i18n:Data/Events/Town..611173/Hn pamHouseUpgrade...Perry |default={{i18n:Data/Events/Town..611173/Hn pamHouseUpgrade.. |Penny={{Penny}}}} |Penny={{Penny}}}}",
+        "611173/Hn pamHouseUpgrade": "{{i18n:Data/Events/Town..611173/Hn+pamHouseUpgrade...Perry |default={{i18n:Data/Events/Town..611173/Hn+pamHouseUpgrade.. |Penny={{Penny}}}} |Penny={{Penny}}}}",
         "choseToBeKnown_pennySpouse": "{{i18n:Data/Events/Town..choseToBeKnown_pennySpouse...Perry |default={{i18n:Data/Events/Town..choseToBeKnown_pennySpouse..}}}}",
-        "6184643/f Haley 3500/O Haley/t 800 1500/w sunny": "{{i18n:Data/Events/Town..6184643/f Haley 3500/O Haley/t 800 1500/w sunny...Perry |default={{i18n:Data/Events/Town..6184643/f Haley 3500/O Haley/t 800 1500/w sunny..}}}}",
-        "6184644/e 8675611/O Haley/A haleyCakewalk2/t 600 1500/w sunny/i 220": "{{i18n:Data/Events/Town..6184644/e 8675611/O Haley/A haleyCakewalk2/t 600 1500/w sunny/i 220...Perry |default={{i18n:Data/Events/Town..6184644/e 8675611/O Haley/A haleyCakewalk2/t 600 1500/w sunny/i 220.. |Haley={{Haley}} |Emily={{Emily}} |Emily={{Emily}} |Penny={{Penny}} |Penny={{Penny}}}} |Haley={{Haley}} |Emily={{Emily}} |Emily={{Emily}} |Penny={{Penny}} |Penny={{Penny}}}}"
+        "6184643/f Haley 3500/O Haley/t 800 1500/w sunny": "{{i18n:Data/Events/Town..6184643/f+Haley+3500/O+Haley/t+800+1500/w+sunny...Perry |default={{i18n:Data/Events/Town..6184643/f+Haley+3500/O+Haley/t+800+1500/w+sunny..}}}}",
+        "6184644/e 8675611/O Haley/A haleyCakewalk2/t 600 1500/w sunny/i 220": "{{i18n:Data/Events/Town..6184644/e+8675611/O+Haley/A+haleyCakewalk2/t+600+1500/w+sunny/i+220...Perry |default={{i18n:Data/Events/Town..6184644/e+8675611/O+Haley/A+haleyCakewalk2/t+600+1500/w+sunny/i+220.. |Haley={{Haley}} |Emily={{Emily}} |Emily={{Emily}} |Penny={{Penny}} |Penny={{Penny}}}} |Haley={{Haley}} |Emily={{Emily}} |Emily={{Emily}} |Penny={{Penny}} |Penny={{Penny}}}}"
       }
     },
     {

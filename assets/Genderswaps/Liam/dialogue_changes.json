@@ -25,24 +25,24 @@
       "Action": "EditData",
       "Target": "Data/Events/Forest",
       "Entries": {
-        "52/f Leah 1500/p Leah/z winter": "{{i18n:Data/Events/Forest..52/f Leah 1500/p Leah/z winter...Liam |default={{i18n:Data/Events/Forest..52/f Leah 1500/p Leah/z winter..}}}}",
+        "52/f Leah 1500/p Leah/z winter": "{{i18n:Data/Events/Forest..52/f+Leah+1500/p+Leah/z+winter...Liam |default={{i18n:Data/Events/Forest..52/f+Leah+1500/p+Leah/z+winter..}}}}",
         "choseInternet": "{{i18n:Data/Events/Forest..choseInternet...Liam |default={{i18n:Data/Events/Forest..choseInternet..}}}}",
         "noPunch": "{{i18n:Data/Events/Forest..noPunch...Liam |default={{i18n:Data/Events/Forest..noPunch..}}}}",
-        "3091462/e 3911124/O Leah/w sunny/t 1130 1400/A leahPaint": "{{i18n:Data/Events/Forest..3091462/e 3911124/O Leah/w sunny/t 1130 1400/A leahPaint...Liam |default={{i18n:Data/Events/Forest..3091462/e 3911124/O Leah/w sunny/t 1130 1400/A leahPaint..}}}}"
+        "3091462/e 3911124/O Leah/w sunny/t 1130 1400/A leahPaint": "{{i18n:Data/Events/Forest..3091462/e+3911124/O+Leah/w+sunny/t+1130+1400/A+leahPaint...Liam |default={{i18n:Data/Events/Forest..3091462/e+3911124/O+Leah/w+sunny/t+1130+1400/A+leahPaint..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Farm",
       "Entries": {
-        "992253/t 600 1130/f Leah 1500/w sunny": "{{i18n:Data/Events/Farm..992253/t 600 1130/f Leah 1500/w sunny...Liam |default={{i18n:Data/Events/Farm..992253/t 600 1130/f Leah 1500/w sunny..}}}}"
+        "992253/t 600 1130/f Leah 1500/w sunny": "{{i18n:Data/Events/Farm..992253/t+600+1130/f+Leah+1500/w+sunny...Liam |default={{i18n:Data/Events/Farm..992253/t+600+1130/f+Leah+1500/w+sunny..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/HaleyHouse",
       "Entries": {
-        "195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019": "{{i18n:Data/Events/HaleyHouse..195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019...Liam |default={{i18n:Data/Events/HaleyHouse..195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019..}}}}",
+        "195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019": "{{i18n:Data/Events/HaleyHouse..195012/f+Haley+2500/f+Emily+2500/f+Penny+2500/f+Abigail+2500/f+Leah+2500/f+Maru+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+38/e+2123343/e+10/e+901756/e+54/e+15/k+195019...Liam |default={{i18n:Data/Events/HaleyHouse..195012/f+Haley+2500/f+Emily+2500/f+Penny+2500/f+Abigail+2500/f+Leah+2500/f+Maru+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+38/e+2123343/e+10/e+901756/e+54/e+15/k+195019..}}}}",
         "choseToExplain": "{{i18n:Data/Events/HaleyHouse..choseToExplain...Liam |default={{i18n:Data/Events/HaleyHouse..choseToExplain..}}}}",
         "lifestyleChoice": "{{i18n:Data/Events/HaleyHouse..lifestyleChoice...Liam |default={{i18n:Data/Events/HaleyHouse..lifestyleChoice..}}}}"
       }
@@ -51,14 +51,14 @@
       "Action": "EditData",
       "Target": "Data/Events/LeahHouse",
       "Entries": {
-        "50/f Leah 500/p Leah": "{{i18n:Data/Events/LeahHouse..50/f Leah 500/p Leah...Liam |default={{i18n:Data/Events/LeahHouse..50/f Leah 500/p Leah..}}}}"
+        "50/f Leah 500/p Leah": "{{i18n:Data/Events/LeahHouse..50/f+Leah+500/p+Leah...Liam |default={{i18n:Data/Events/LeahHouse..50/f+Leah+500/p+Leah..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Town",
       "Entries": {
-        "53/e 55/t 1500 1700": "{{i18n:Data/Events/Town..53/e 55/t 1500 1700...Liam |default={{i18n:Data/Events/Town..53/e 55/t 1500 1700..}}}}"
+        "53/e 55/t 1500 1700": "{{i18n:Data/Events/Town..53/e+55/t+1500+1700...Liam |default={{i18n:Data/Events/Town..53/e+55/t+1500+1700..}}}}"
       }
     },
     {

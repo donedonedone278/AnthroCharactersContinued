@@ -51,16 +51,16 @@
       "Action": "EditData",
       "Target": "Data/Events/Town",
       "Entries": {
-        "45/f Sam 1500/t 1200 1600/w sunny": "{{i18n:Data/Events/Town..45/f Sam 1500/t 1200 1600/w sunny...Samantha |default={{i18n:Data/Events/Town..45/f Sam 1500/t 1200 1600/w sunny.. |Sam={{Sam}} |Sam={{Sam}} |Sam={{Sam}} |Sam={{Sam}} |Sam={{Sam}} |Sam={{Sam}}}} |Sam={{Sam}} |Sam={{Sam}} |Sam={{Sam}} |Sam={{Sam}} |Sam={{Sam}} |Sam={{Sam}}}}",
-        "233104/f Sam 2500/t 2000 2400/w sunny/n samMessage": "{{i18n:Data/Events/Town..233104/f Sam 2500/t 2000 2400/w sunny/n samMessage...Samantha |default={{i18n:Data/Events/Town..233104/f Sam 2500/t 2000 2400/w sunny/n samMessage.. |Sam={{Sam}} |Sam={{Sam}}}} |Sam={{Sam}} |Sam={{Sam}}}}"
+        "45/f Sam 1500/t 1200 1600/w sunny": "{{i18n:Data/Events/Town..45/f+Sam+1500/t+1200+1600/w+sunny...Samantha |default={{i18n:Data/Events/Town..45/f+Sam+1500/t+1200+1600/w+sunny.. |Sam={{Sam}} |Sam={{Sam}} |Sam={{Sam}} |Sam={{Sam}} |Sam={{Sam}} |Sam={{Sam}}}} |Sam={{Sam}} |Sam={{Sam}} |Sam={{Sam}} |Sam={{Sam}} |Sam={{Sam}} |Sam={{Sam}}}}",
+        "233104/f Sam 2500/t 2000 2400/w sunny/n samMessage": "{{i18n:Data/Events/Town..233104/f+Sam+2500/t+2000+2400/w+sunny/n+samMessage...Samantha |default={{i18n:Data/Events/Town..233104/f+Sam+2500/t+2000+2400/w+sunny/n+samMessage.. |Sam={{Sam}} |Sam={{Sam}}}} |Sam={{Sam}} |Sam={{Sam}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/FarmHouse",
       "Entries": {
-        "3918601/e 3918600/O Sam/t 610 1700/A samJob1/p Sam/L": "{{i18n:Data/Events/FarmHouse..3918601/e 3918600/O Sam/t 610 1700/A samJob1/p Sam/L...Samantha |default={{i18n:Data/Events/FarmHouse..3918601/e 3918600/O Sam/t 610 1700/A samJob1/p Sam/L.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "3918603/e 3918602/O Sam/t 610 1700/A samJob3/p Sam/L": "{{i18n:Data/Events/FarmHouse..3918603/e 3918602/O Sam/t 610 1700/A samJob3/p Sam/L...Samantha |default={{i18n:Data/Events/FarmHouse..3918603/e 3918602/O Sam/t 610 1700/A samJob3/p Sam/L.. |Sam={{Sam}}}} |Sam={{Sam}}}}"
+        "3918601/e 3918600/O Sam/t 610 1700/A samJob1/p Sam/L": "{{i18n:Data/Events/FarmHouse..3918601/e+3918600/O+Sam/t+610+1700/A+samJob1/p+Sam/L...Samantha |default={{i18n:Data/Events/FarmHouse..3918601/e+3918600/O+Sam/t+610+1700/A+samJob1/p+Sam/L.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "3918603/e 3918602/O Sam/t 610 1700/A samJob3/p Sam/L": "{{i18n:Data/Events/FarmHouse..3918603/e+3918602/O+Sam/t+610+1700/A+samJob3/p+Sam/L...Samantha |default={{i18n:Data/Events/FarmHouse..3918603/e+3918602/O+Sam/t+610+1700/A+samJob3/p+Sam/L.. |Sam={{Sam}}}} |Sam={{Sam}}}}"
       }
     },
     {
@@ -74,16 +74,16 @@
       "Action": "EditData",
       "Target": "Data/Events/SamHouse",
       "Entries": {
-        "95/e 93/k 94/t 1800 1950/i 136/y 2": "{{i18n:Data/Events/SamHouse..95/e 93/k 94/t 1800 1950/i 136/y 2...Samantha |default={{i18n:Data/Events/SamHouse..95/e 93/k 94/t 1800 1950/i 136/y 2.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "94/e 93/k 95/t 1800 1950/i 136/y 1": "{{i18n:Data/Events/SamHouse..94/e 93/k 95/t 1800 1950/i 136/y 1...Samantha |default={{i18n:Data/Events/SamHouse..94/e 93/k 95/t 1800 1950/i 136/y 1.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "46/f Sam 1000/p Sam": "{{i18n:Data/Events/SamHouse..46/f Sam 1000/p Sam...Samantha |default={{i18n:Data/Events/SamHouse..46/f Sam 1000/p Sam.. |Sam={{Sam}} |Sam={{Sam}} |Sam={{Sam}} |Sam={{Sam}}}} |Sam={{Sam}} |Sam={{Sam}} |Sam={{Sam}} |Sam={{Sam}}}}"
+        "95/e 93/k 94/t 1800 1950/i 136/y 2": "{{i18n:Data/Events/SamHouse..95/e+93/k+94/t+1800+1950/i+136/y+2...Samantha |default={{i18n:Data/Events/SamHouse..95/e+93/k+94/t+1800+1950/i+136/y+2.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "94/e 93/k 95/t 1800 1950/i 136/y 1": "{{i18n:Data/Events/SamHouse..94/e+93/k+95/t+1800+1950/i+136/y+1...Samantha |default={{i18n:Data/Events/SamHouse..94/e+93/k+95/t+1800+1950/i+136/y+1.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "46/f Sam 1000/p Sam": "{{i18n:Data/Events/SamHouse..46/f+Sam+1000/p+Sam...Samantha |default={{i18n:Data/Events/SamHouse..46/f+Sam+1000/p+Sam.. |Sam={{Sam}} |Sam={{Sam}} |Sam={{Sam}} |Sam={{Sam}}}} |Sam={{Sam}} |Sam={{Sam}} |Sam={{Sam}} |Sam={{Sam}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Beach",
       "Entries": {
-        "733330/f Sam 750/w sunny/t 700 1500/z winter/y 1": "{{i18n:Data/Events/Beach..733330/f Sam 750/w sunny/t 700 1500/z winter/y 1...Samantha |default={{i18n:Data/Events/Beach..733330/f Sam 750/w sunny/t 700 1500/z winter/y 1.. |Sam={{Sam}} |Abigail={{Abigail}} |Sebastian={{Sebastian}} |Abigail_her_him={{Abigail_her_him}}}} |Sam={{Sam}} |Abigail={{Abigail}} |Sebastian={{Sebastian}} |Abigail_her_him={{Abigail_her_him}}}}"
+        "733330/f Sam 750/w sunny/t 700 1500/z winter/y 1": "{{i18n:Data/Events/Beach..733330/f+Sam+750/w+sunny/t+700+1500/z+winter/y+1...Samantha |default={{i18n:Data/Events/Beach..733330/f+Sam+750/w+sunny/t+700+1500/z+winter/y+1.. |Sam={{Sam}} |Abigail={{Abigail}} |Sebastian={{Sebastian}} |Abigail_her_him={{Abigail_her_him}}}} |Sam={{Sam}} |Abigail={{Abigail}} |Sebastian={{Sebastian}} |Abigail_her_him={{Abigail_her_him}}}}"
       }
     },
     {
@@ -92,7 +92,7 @@
       "Entries": {
         "enterRobin": "{{i18n:Data/Events/SebastianRoom..enterRobin...Samantha |default={{i18n:Data/Events/SebastianRoom..enterRobin.. |Sam={{Sam}} |Sam_he={{Sam_he}} |Sebby={{Sebby}} |Abigail={{Abigail}} |Abigail_she={{Abigail_she}} |Abigail_she={{Abigail_she}} |Abigail_her_him={{Abigail_her_him}} |Abigail_she={{Abigail_she}} |Abigail_she={{Abigail_she}} |Maru={{Maru}} |Maru_she={{Maru_she}} |Sebastian_him={{Sebastian_him}} |Sebastian_his={{Sebastian_his}} |Sebastian_him={{Sebastian_him}} |Sebastian_he={{Sebastian_he}} |Sebastian_his={{Sebastian_his}}}} |Sam={{Sam}} |Sam_he={{Sam_he}} |Sebby={{Sebby}} |Abigail={{Abigail}} |Abigail_she={{Abigail_she}} |Abigail_she={{Abigail_she}} |Abigail_her_him={{Abigail_her_him}} |Abigail_she={{Abigail_she}} |Abigail_she={{Abigail_she}} |Maru={{Maru}} |Maru_she={{Maru_she}} |Sebastian_him={{Sebastian_him}} |Sebastian_his={{Sebastian_his}} |Sebastian_him={{Sebastian_him}} |Sebastian_he={{Sebastian_he}} |Sebastian_his={{Sebastian_his}}}}",
         "noFriends": "{{i18n:Data/Events/SebastianRoom..noFriends...Samantha |default={{i18n:Data/Events/SebastianRoom..noFriends.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "27/f Sebastian 1500/p Sebastian": "{{i18n:Data/Events/SebastianRoom..27/f Sebastian 1500/p Sebastian...Samantha |default={{i18n:Data/Events/SebastianRoom..27/f Sebastian 1500/p Sebastian.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "27/f Sebastian 1500/p Sebastian": "{{i18n:Data/Events/SebastianRoom..27/f+Sebastian+1500/p+Sebastian...Samantha |default={{i18n:Data/Events/SebastianRoom..27/f+Sebastian+1500/p+Sebastian.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
         "Necromancer": "{{i18n:Data/Events/SebastianRoom..Necromancer...Samantha |default={{i18n:Data/Events/SebastianRoom..Necromancer.. |Sam={{Sam}} |Sebastian={{Sebastian}} |Sebastian={{Sebastian}}}} |Sam={{Sam}} |Sebastian={{Sebastian}} |Sebastian={{Sebastian}}}}",
         "healedSam": "{{i18n:Data/Events/SebastianRoom..healedSam...Samantha |default={{i18n:Data/Events/SebastianRoom..healedSam.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
         "finalBossWizard": "{{i18n:Data/Events/SebastianRoom..finalBossWizard...Samantha |default={{i18n:Data/Events/SebastianRoom..finalBossWizard.. |Sam={{Sam}} |Sebastian={{Sebastian}} |Sebastian={{Sebastian}}}} |Sam={{Sam}} |Sebastian={{Sebastian}} |Sebastian={{Sebastian}}}}",

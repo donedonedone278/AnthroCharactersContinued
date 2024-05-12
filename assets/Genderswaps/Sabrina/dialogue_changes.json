@@ -54,28 +54,28 @@
       "Action": "EditData",
       "Target": "Data/Events/Town",
       "Entries": {
-        "15389722/j 57": "{{i18n:Data/Events/Town..15389722/j 57...Sabrina |default={{i18n:Data/Events/Town..15389722/j 57.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}"
+        "15389722/j 57": "{{i18n:Data/Events/Town..15389722/j+57...Sabrina |default={{i18n:Data/Events/Town..15389722/j+57.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Saloon",
       "Entries": {
-        "195099/f Shane 2500/f Sebastian 2500/f Sam 2500/f Harvey 2500/f Alex 2500/f Elliott 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 911526/e 528052/e 9581348/e 43/e 384882/e 233104/i 446/k 195013": "{{i18n:Data/Events/Saloon..195099/f Shane 2500/f Sebastian 2500/f Sam 2500/f Harvey 2500/f Alex 2500/f Elliott 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 911526/e 528052/e 9581348/e 43/e 384882/e 233104/i 446/k 195013...Sabrina |default={{i18n:Data/Events/Saloon..195099/f Shane 2500/f Sebastian 2500/f Sam 2500/f Harvey 2500/f Alex 2500/f Elliott 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 911526/e 528052/e 9581348/e 43/e 384882/e 233104/i 446/k 195013.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}"
+        "195099/f Shane 2500/f Sebastian 2500/f Sam 2500/f Harvey 2500/f Alex 2500/f Elliott 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 911526/e 528052/e 9581348/e 43/e 384882/e 233104/i 446/k 195013": "{{i18n:Data/Events/Saloon..195099/f+Shane+2500/f+Sebastian+2500/f+Sam+2500/f+Harvey+2500/f+Alex+2500/f+Elliott+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+911526/e+528052/e+9581348/e+43/e+384882/e+233104/i+446/k+195013...Sabrina |default={{i18n:Data/Events/Saloon..195099/f+Shane+2500/f+Sebastian+2500/f+Sam+2500/f+Harvey+2500/f+Alex+2500/f+Elliott+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+911526/e+528052/e+9581348/e+43/e+384882/e+233104/i+446/k+195013.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/SamHouse",
       "Entries": {
-        "44/f Sam 500/p Sam": "{{i18n:Data/Events/SamHouse..44/f Sam 500/p Sam...Sabrina |default={{i18n:Data/Events/SamHouse..44/f Sam 500/p Sam.. |Sebastian={{Sebastian}} |Sebastian={{Sebastian}} |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}} |Sebastian={{Sebastian}} |Sebastian={{Sebastian}}}}"
+        "44/f Sam 500/p Sam": "{{i18n:Data/Events/SamHouse..44/f+Sam+500/p+Sam...Sabrina |default={{i18n:Data/Events/SamHouse..44/f+Sam+500/p+Sam.. |Sebastian={{Sebastian}} |Sebastian={{Sebastian}} |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}} |Sebastian={{Sebastian}} |Sebastian={{Sebastian}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Beach",
       "Entries": {
-        "733330/f Sam 750/w sunny/t 700 1500/z winter/y 1": "{{i18n:Data/Events/Beach..733330/f Sam 750/w sunny/t 700 1500/z winter/y 1...Sabrina |default={{i18n:Data/Events/Beach..733330/f Sam 750/w sunny/t 700 1500/z winter/y 1.. |Sam={{Sam}} |Abigail={{Abigail}} |Sebastian={{Sebastian}} |Abigail_her_him={{Abigail_her_him}}}} |Sam={{Sam}} |Abigail={{Abigail}} |Sebastian={{Sebastian}} |Abigail_her_him={{Abigail_her_him}}}}"
+        "733330/f Sam 750/w sunny/t 700 1500/z winter/y 1": "{{i18n:Data/Events/Beach..733330/f+Sam+750/w+sunny/t+700+1500/z+winter/y+1...Sabrina |default={{i18n:Data/Events/Beach..733330/f+Sam+750/w+sunny/t+700+1500/z+winter/y+1.. |Sam={{Sam}} |Abigail={{Abigail}} |Sebastian={{Sebastian}} |Abigail_her_him={{Abigail_her_him}}}} |Sam={{Sam}} |Abigail={{Abigail}} |Sebastian={{Sebastian}} |Abigail_her_him={{Abigail_her_him}}}}"
       }
     },
     {

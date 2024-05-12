@@ -41,23 +41,23 @@
       "Action": "EditData",
       "Target": "Data/Events/JoshHouse",
       "Entries": {
-        "56/f Harvey 500/p George": "{{i18n:Data/Events/JoshHouse..56/f Harvey 500/p George...Hannah |default={{i18n:Data/Events/JoshHouse..56/f Harvey 500/p George.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "56/f Harvey 500/p George": "{{i18n:Data/Events/JoshHouse..56/f+Harvey+500/p+George...Hannah |default={{i18n:Data/Events/JoshHouse..56/f+Harvey+500/p+George.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Farm",
       "Entries": {
-        "2118991/e 3910975/t 600 800": "{{i18n:Data/Events/Farm..2118991/e 3910975/t 600 800...Hannah |default={{i18n:Data/Events/Farm..2118991/e 3910975/t 600 800.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "2118991/e 3910975/t 600 800": "{{i18n:Data/Events/Farm..2118991/e+3910975/t+600+800...Hannah |default={{i18n:Data/Events/Farm..2118991/e+3910975/t+600+800.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Hospital",
       "Entries": {
-        "7/f Maru 1000/p Maru": "{{i18n:Data/Events/Hospital..7/f Maru 1000/p Maru...Hannah |default={{i18n:Data/Events/Hospital..7/f Maru 1000/p Maru.. |Harvey={{Harvey}} |Harvey_He={{Harvey_He}} |Harvey={{Harvey}} |Harvey={{Harvey}} |Maru={{Maru}}}} |Harvey={{Harvey}} |Harvey_He={{Harvey_He}} |Harvey={{Harvey}} |Harvey={{Harvey}} |Maru={{Maru}}}}",
+        "7/f Maru 1000/p Maru": "{{i18n:Data/Events/Hospital..7/f+Maru+1000/p+Maru...Hannah |default={{i18n:Data/Events/Hospital..7/f+Maru+1000/p+Maru.. |Harvey={{Harvey}} |Harvey_He={{Harvey_He}} |Harvey={{Harvey}} |Harvey={{Harvey}} |Maru={{Maru}}}} |Harvey={{Harvey}} |Harvey_He={{Harvey_He}} |Harvey={{Harvey}} |Harvey={{Harvey}} |Maru={{Maru}}}}",
         "toldTruth": "{{i18n:Data/Events/Hospital..toldTruth...Hannah |default={{i18n:Data/Events/Hospital..toldTruth.. |Maru={{Maru}} |Harvey={{Harvey}}}} |Maru={{Maru}} |Harvey={{Harvey}}}}",
-        "571102/f Harvey 2000": "{{i18n:Data/Events/Hospital..571102/f Harvey 2000...Hannah |default={{i18n:Data/Events/Hospital..571102/f Harvey 2000.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "571102/f Harvey 2000": "{{i18n:Data/Events/Hospital..571102/f+Harvey+2000...Hannah |default={{i18n:Data/Events/Hospital..571102/f+Harvey+2000.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },
     {
@@ -99,7 +99,7 @@
       "Action": "EditData",
       "Target": "Strings/StringsFromMaps",
       "Entries": {
-        "Hospital.3": "It's probably not a good idea to stick your paws in there. It's full of used syringes, dirty swabs, and little nozzles that {{Harvey}} stuck into people's ears.",
+        "Hospital.3": "{{i18n:Strings/StringsFromMaps..Hospital=3.FurryFarmer..Hannah |default={{i18n:Strings/StringsFromMaps..Hospital=3.FurryFarmer. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
         "Hospital=3": "{{i18n:Strings/StringsFromMaps..Hospital=3.FurryFarmer..Hannah |default={{i18n:Strings/StringsFromMaps..Hospital=3.FurryFarmer. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },

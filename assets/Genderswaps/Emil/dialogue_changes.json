@@ -108,15 +108,15 @@
       "Action": "EditData",
       "Target": "Data/Events/Farm",
       "Entries": {
-        "992559/t 600 1130/n clothFound/o Emily/w sunny": "{{i18n:Data/Events/Farm..992559/t 600 1130/n clothFound/o Emily/w sunny...Emil_2 |default={{i18n:Data/Events/Farm..992559/t 600 1130/n clothFound/o Emily/w sunny..}}}}",
-        "992559/t 600 1130/n clothFound/O Emily/w sunny": "{{i18n:Data/Events/Farm..992559/t 600 1130/n clothFound/O Emily/w sunny...Emil |default={{i18n:Data/Events/Farm..992559/t 600 1130/n clothFound/O Emily/w sunny..}}}}"
+        "992559/t 600 1130/n clothFound/o Emily/w sunny": "{{i18n:Data/Events/Farm..992559/t+600+1130/n+clothFound/o+Emily/w+sunny...Emil_2 |default={{i18n:Data/Events/Farm..992559/t+600+1130/n+clothFound/o+Emily/w+sunny..}}}}",
+        "992559/t 600 1130/n clothFound/O Emily/w sunny": "{{i18n:Data/Events/Farm..992559/t+600+1130/n+clothFound/O+Emily/w+sunny...Emil |default={{i18n:Data/Events/Farm..992559/t+600+1130/n+clothFound/O+Emily/w+sunny..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/FarmHouse",
       "Entries": {
-        "3917601/f Emily 3500/O Emily/n emilyFiber/A emilyFiber/t 2000 2400/p Emily": "{{i18n:Data/Events/FarmHouse..3917601/f Emily 3500/O Emily/n emilyFiber/A emilyFiber/t 2000 2400/p Emily...Emil |default={{i18n:Data/Events/FarmHouse..3917601/f Emily 3500/O Emily/n emilyFiber/A emilyFiber/t 2000 2400/p Emily..}}}}"
+        "3917601/f Emily 3500/O Emily/n emilyFiber/A emilyFiber/t 2000 2400/p Emily": "{{i18n:Data/Events/FarmHouse..3917601/f+Emily+3500/O+Emily/n+emilyFiber/A+emilyFiber/t+2000+2400/p+Emily...Emil |default={{i18n:Data/Events/FarmHouse..3917601/f+Emily+3500/O+Emily/n+emilyFiber/A+emilyFiber/t+2000+2400/p+Emily..}}}}"
       }
     },
     {
@@ -126,16 +126,16 @@
       "Action": "EditData",
       "Target": "Data/Events/FarmHouse",
       "Entries": {
-        "3917601/f Emily 3500/O Emily/n emilyFiber/A emilyFiber/t 2000 2400/p Emily": "{{i18n:Data/Events/FarmHouse..3917601/f Emily 3500/O Emily/n emilyFiber/A emilyFiber/t 2000 2400/p Emily.Flavor..Emil |default={{i18n:Data/Events/FarmHouse..3917601/f Emily 3500/O Emily/n emilyFiber/A emilyFiber/t 2000 2400/p Emily.Flavor.}}}}"
+        "3917601/f Emily 3500/O Emily/n emilyFiber/A emilyFiber/t 2000 2400/p Emily": "{{i18n:Data/Events/FarmHouse..3917601/f+Emily+3500/O+Emily/n+emilyFiber/A+emilyFiber/t+2000+2400/p+Emily.Flavor..Emil |default={{i18n:Data/Events/FarmHouse..3917601/f+Emily+3500/O+Emily/n+emilyFiber/A+emilyFiber/t+2000+2400/p+Emily.Flavor.}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/HaleyHouse",
       "Entries": {
-        "11/f Haley 500/p Haley/p Emily": "{{i18n:Data/Events/HaleyHouse..11/f Haley 500/p Haley/p Emily...Emil |default={{i18n:Data/Events/HaleyHouse..11/f Haley 500/p Haley/p Emily.. |Haley={{Haley}} |Haley={{Haley}} |Haley_her={{Haley_her}} |Haley={{Haley}} |Emily={{Emily}}}} |Haley={{Haley}} |Haley={{Haley}} |Haley_her={{Haley_her}} |Haley={{Haley}} |Emily={{Emily}}}}",
-        "917409/e 463391/f Emily 1500/p Emily": "{{i18n:Data/Events/HaleyHouse..917409/e 463391/f Emily 1500/p Emily...Emil |default={{i18n:Data/Events/HaleyHouse..917409/e 463391/f Emily 1500/p Emily..}}}}",
-        "195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019": "{{i18n:Data/Events/HaleyHouse..195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019...Emil |default={{i18n:Data/Events/HaleyHouse..195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019..}}}}",
+        "11/f Haley 500/p Haley/p Emily": "{{i18n:Data/Events/HaleyHouse..11/f+Haley+500/p+Haley/p+Emily...Emil |default={{i18n:Data/Events/HaleyHouse..11/f+Haley+500/p+Haley/p+Emily.. |Haley={{Haley}} |Haley={{Haley}} |Haley_her={{Haley_her}} |Haley={{Haley}} |Emily={{Emily}}}} |Haley={{Haley}} |Haley={{Haley}} |Haley_her={{Haley_her}} |Haley={{Haley}} |Emily={{Emily}}}}",
+        "917409/e 463391/f Emily 1500/p Emily": "{{i18n:Data/Events/HaleyHouse..917409/e+463391/f+Emily+1500/p+Emily...Emil |default={{i18n:Data/Events/HaleyHouse..917409/e+463391/f+Emily+1500/p+Emily..}}}}",
+        "195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019": "{{i18n:Data/Events/HaleyHouse..195012/f+Haley+2500/f+Emily+2500/f+Penny+2500/f+Abigail+2500/f+Leah+2500/f+Maru+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+38/e+2123343/e+10/e+901756/e+54/e+15/k+195019...Emil |default={{i18n:Data/Events/HaleyHouse..195012/f+Haley+2500/f+Emily+2500/f+Penny+2500/f+Abigail+2500/f+Leah+2500/f+Maru+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+38/e+2123343/e+10/e+901756/e+54/e+15/k+195019..}}}}",
         "choseToExplain": "{{i18n:Data/Events/HaleyHouse..choseToExplain...Emil |default={{i18n:Data/Events/HaleyHouse..choseToExplain..}}}}",
         "lifestyleChoice": "{{i18n:Data/Events/HaleyHouse..lifestyleChoice...Emil |default={{i18n:Data/Events/HaleyHouse..lifestyleChoice..}}}}"
       }
@@ -145,18 +145,18 @@
       "Target": "Data/Events/Saloon",
       "Priority": "Late",
       "Entries": {
-        "97/f Clint 750/t 1900 2300/d Tue Wed Thu Fri Sat Sun": "{{i18n:Data/Events/Saloon..97/f Clint 750/t 1900 2300/d Tue Wed Thu Fri Sat Sun..Late.Emil |default={{i18n:Data/Events/Saloon..97/f Clint 750/t 1900 2300/d Tue Wed Thu Fri Sat Sun..Late |Shane={{Shane}} |Shane={{Shane}}}} |Shane={{Shane}} |Shane={{Shane}}}}"
+        "97/f Clint 750/t 1900 2300/d Tue Wed Thu Fri Sat Sun": "{{i18n:Data/Events/Saloon..97/f+Clint+750/t+1900+2300/d+Tue+Wed+Thu+Fri+Sat+Sun..Late.Emil |default={{i18n:Data/Events/Saloon..97/f+Clint+750/t+1900+2300/d+Tue+Wed+Thu+Fri+Sat+Sun..Late |Shane={{Shane}} |Shane={{Shane}}}} |Shane={{Shane}} |Shane={{Shane}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Town",
       "Entries": {
-        "831125/f Shane 1750/f Clint 500/f Emily 500/t 1000 1600/w sunny": "{{i18n:Data/Events/Town..831125/f Shane 1750/f Clint 500/f Emily 500/t 1000 1600/w sunny...Emil |default={{i18n:Data/Events/Town..831125/f Shane 1750/f Clint 500/f Emily 500/t 1000 1600/w sunny..}}}}",
-        "101/f Clint 1500/e 97/k 2123243/k 2123343/o Emily/t 900 1830/a 0 90/!D Emily": "{{i18n:Data/Events/Town..101/f Clint 1500/e 97/k 2123243/k 2123343/o Emily/t 900 1830/a 0 90/!D Emily...Emil |default={{i18n:Data/Events/Town..101/f Clint 1500/e 97/k 2123243/k 2123343/o Emily/t 900 1830/a 0 90/!D Emily.. |Emily={{Emily}} |Emily={{Emily}}}} |Emily={{Emily}} |Emily={{Emily}}}}",
-        "191393/Hn ccFishTank/Hn ccBulletin/Hn ccPantry/Hn ccVault/Hn ccBoilerRoom/Hn ccCraftsRoom/Hl jojaFishTank/Hl jojaPantry/Hl jojaVault/Hl jojaBoilerRoom/Hl jojaCraftsRoom/Hl JojaMember/w sunny/H": "{{i18n:Data/Events/Town..191393/Hn ccFishTank/Hn ccBulletin/Hn ccPantry/Hn ccVault/Hn ccBoilerRoom/Hn ccCraftsRoom/Hl jojaFishTank/Hl jojaPantry/Hl jojaVault/Hl jojaBoilerRoom/Hl jojaCraftsRoom/Hl JojaMember/w sunny/H...Emil |default={{i18n:Data/Events/Town..191393/Hn ccFishTank/Hn ccBulletin/Hn ccPantry/Hn ccVault/Hn ccBoilerRoom/Hn ccCraftsRoom/Hl jojaFishTank/Hl jojaPantry/Hl jojaVault/Hl jojaBoilerRoom/Hl jojaCraftsRoom/Hl JojaMember/w sunny/H.. |Emily={{Emily}}}} |Emily={{Emily}}}}",
-        "463391/f Emily 1000/e 471942/w sunny/z winter/t 600 1700": "{{i18n:Data/Events/Town..463391/f Emily 1000/e 471942/w sunny/z winter/t 600 1700...Emil |default={{i18n:Data/Events/Town..463391/f Emily 1000/e 471942/w sunny/z winter/t 600 1700.. |Emily={{Emily}}}} |Emily={{Emily}}}}",
-        "6184644/e 8675611/O Haley/A haleyCakewalk2/t 600 1500/w sunny/i 220": "{{i18n:Data/Events/Town..6184644/e 8675611/O Haley/A haleyCakewalk2/t 600 1500/w sunny/i 220...Emil |default={{i18n:Data/Events/Town..6184644/e 8675611/O Haley/A haleyCakewalk2/t 600 1500/w sunny/i 220.. |Haley={{Haley}} |Emily={{Emily}} |Emily={{Emily}} |Penny={{Penny}} |Penny={{Penny}}}} |Haley={{Haley}} |Emily={{Emily}} |Emily={{Emily}} |Penny={{Penny}} |Penny={{Penny}}}}"
+        "831125/f Shane 1750/f Clint 500/f Emily 500/t 1000 1600/w sunny": "{{i18n:Data/Events/Town..831125/f+Shane+1750/f+Clint+500/f+Emily+500/t+1000+1600/w+sunny...Emil |default={{i18n:Data/Events/Town..831125/f+Shane+1750/f+Clint+500/f+Emily+500/t+1000+1600/w+sunny..}}}}",
+        "101/f Clint 1500/e 97/k 2123243/k 2123343/o Emily/t 900 1830/a 0 90/!D Emily": "{{i18n:Data/Events/Town..101/f+Clint+1500/e+97/k+2123243/k+2123343/o+Emily/t+900+1830/a+0+90/!D+Emily...Emil |default={{i18n:Data/Events/Town..101/f+Clint+1500/e+97/k+2123243/k+2123343/o+Emily/t+900+1830/a+0+90/!D+Emily.. |Emily={{Emily}} |Emily={{Emily}}}} |Emily={{Emily}} |Emily={{Emily}}}}",
+        "191393/Hn ccFishTank/Hn ccBulletin/Hn ccPantry/Hn ccVault/Hn ccBoilerRoom/Hn ccCraftsRoom/Hl jojaFishTank/Hl jojaPantry/Hl jojaVault/Hl jojaBoilerRoom/Hl jojaCraftsRoom/Hl JojaMember/w sunny/H": "{{i18n:Data/Events/Town..191393/Hn+ccFishTank/Hn+ccBulletin/Hn+ccPantry/Hn+ccVault/Hn+ccBoilerRoom/Hn+ccCraftsRoom/Hl+jojaFishTank/Hl+jojaPantry/Hl+jojaVault/Hl+jojaBoilerRoom/Hl+jojaCraftsRoom/Hl+JojaMember/w+sunny/H...Emil |default={{i18n:Data/Events/Town..191393/Hn+ccFishTank/Hn+ccBulletin/Hn+ccPantry/Hn+ccVault/Hn+ccBoilerRoom/Hn+ccCraftsRoom/Hl+jojaFishTank/Hl+jojaPantry/Hl+jojaVault/Hl+jojaBoilerRoom/Hl+jojaCraftsRoom/Hl+JojaMember/w+sunny/H.. |Emily={{Emily}}}} |Emily={{Emily}}}}",
+        "463391/f Emily 1000/e 471942/w sunny/z winter/t 600 1700": "{{i18n:Data/Events/Town..463391/f+Emily+1000/e+471942/w+sunny/z+winter/t+600+1700...Emil |default={{i18n:Data/Events/Town..463391/f+Emily+1000/e+471942/w+sunny/z+winter/t+600+1700.. |Emily={{Emily}}}} |Emily={{Emily}}}}",
+        "6184644/e 8675611/O Haley/A haleyCakewalk2/t 600 1500/w sunny/i 220": "{{i18n:Data/Events/Town..6184644/e+8675611/O+Haley/A+haleyCakewalk2/t+600+1500/w+sunny/i+220...Emil |default={{i18n:Data/Events/Town..6184644/e+8675611/O+Haley/A+haleyCakewalk2/t+600+1500/w+sunny/i+220.. |Haley={{Haley}} |Emily={{Emily}} |Emily={{Emily}} |Penny={{Penny}} |Penny={{Penny}}}} |Haley={{Haley}} |Emily={{Emily}} |Emily={{Emily}} |Penny={{Penny}} |Penny={{Penny}}}}"
       }
     },
     {
@@ -261,14 +261,14 @@
       "Action": "EditData",
       "Target": "Data/Events/SandyHouse",
       "Entries": {
-        "67/m 10": "{{i18n:Data/Events/SandyHouse..67/m 10...Emil |default={{i18n:Data/Events/SandyHouse..67/m 10.. |Emily={{Emily}}}} |Emily={{Emily}}}}"
+        "67/m 10": "{{i18n:Data/Events/SandyHouse..67/m+10...Emil |default={{i18n:Data/Events/SandyHouse..67/m+10.. |Emily={{Emily}}}} |Emily={{Emily}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/ManorHouse",
       "Entries": {
-        "2123243/e 2111194": "{{i18n:Data/Events/ManorHouse..2123243/e 2111194...Emil |default={{i18n:Data/Events/ManorHouse..2123243/e 2111194.. |Shane={{Shane}} |Shane={{Shane}} |Emily={{Emily}}}} |Shane={{Shane}} |Shane={{Shane}} |Emily={{Emily}}}}"
+        "2123243/e 2111194": "{{i18n:Data/Events/ManorHouse..2123243/e+2111194...Emil |default={{i18n:Data/Events/ManorHouse..2123243/e+2111194.. |Shane={{Shane}} |Shane={{Shane}} |Emily={{Emily}}}} |Shane={{Shane}} |Shane={{Shane}} |Emily={{Emily}}}}"
       }
     },
     {

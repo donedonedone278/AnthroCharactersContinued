@@ -87,7 +87,7 @@
       "Action": "EditData",
       "Target": "Data/Events/HaleyHouse",
       "Entries": {
-        "195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019": "{{i18n:Data/Events/HaleyHouse..195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019...Marcus |default={{i18n:Data/Events/HaleyHouse..195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019..}}}}",
+        "195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019": "{{i18n:Data/Events/HaleyHouse..195012/f+Haley+2500/f+Emily+2500/f+Penny+2500/f+Abigail+2500/f+Leah+2500/f+Maru+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+38/e+2123343/e+10/e+901756/e+54/e+15/k+195019...Marcus |default={{i18n:Data/Events/HaleyHouse..195012/f+Haley+2500/f+Emily+2500/f+Penny+2500/f+Abigail+2500/f+Leah+2500/f+Maru+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+38/e+2123343/e+10/e+901756/e+54/e+15/k+195019..}}}}",
         "choseToExplain": "{{i18n:Data/Events/HaleyHouse..choseToExplain...Marcus |default={{i18n:Data/Events/HaleyHouse..choseToExplain..}}}}",
         "lifestyleChoice": "{{i18n:Data/Events/HaleyHouse..lifestyleChoice...Marcus |default={{i18n:Data/Events/HaleyHouse..lifestyleChoice..}}}}"
       }
@@ -96,7 +96,7 @@
       "Action": "EditData",
       "Target": "Data/Events/Hospital",
       "Entries": {
-        "7/f Maru 1000/p Maru": "{{i18n:Data/Events/Hospital..7/f Maru 1000/p Maru...Marcus |default={{i18n:Data/Events/Hospital..7/f Maru 1000/p Maru.. |Harvey={{Harvey}} |Harvey_He={{Harvey_He}} |Harvey={{Harvey}} |Harvey={{Harvey}} |Maru={{Maru}}}} |Harvey={{Harvey}} |Harvey_He={{Harvey_He}} |Harvey={{Harvey}} |Harvey={{Harvey}} |Maru={{Maru}}}}",
+        "7/f Maru 1000/p Maru": "{{i18n:Data/Events/Hospital..7/f+Maru+1000/p+Maru...Marcus |default={{i18n:Data/Events/Hospital..7/f+Maru+1000/p+Maru.. |Harvey={{Harvey}} |Harvey_He={{Harvey_He}} |Harvey={{Harvey}} |Harvey={{Harvey}} |Maru={{Maru}}}} |Harvey={{Harvey}} |Harvey_He={{Harvey_He}} |Harvey={{Harvey}} |Harvey={{Harvey}} |Maru={{Maru}}}}",
         "toldTruth": "{{i18n:Data/Events/Hospital..toldTruth...Marcus |default={{i18n:Data/Events/Hospital..toldTruth.. |Maru={{Maru}} |Harvey={{Harvey}}}} |Maru={{Maru}} |Harvey={{Harvey}}}}"
       }
     },
@@ -104,16 +104,16 @@
       "Action": "EditData",
       "Target": "Data/Events/Mountain",
       "Entries": {
-        "8/f Maru 1500/w sunny/t 2100 2340": "{{i18n:Data/Events/Mountain..8/f Maru 1500/w sunny/t 2100 2340...Marcus |default={{i18n:Data/Events/Mountain..8/f Maru 1500/w sunny/t 2100 2340..}}}}"
+        "8/f Maru 1500/w sunny/t 2100 2340": "{{i18n:Data/Events/Mountain..8/f+Maru+1500/w+sunny/t+2100+2340...Marcus |default={{i18n:Data/Events/Mountain..8/f+Maru+1500/w+sunny/t+2100+2340..}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/ScienceHouse",
       "Entries": {
-        "6/f Maru 500/p Maru": "{{i18n:Data/Events/ScienceHouse..6/f Maru 500/p Maru...Marcus |default={{i18n:Data/Events/ScienceHouse..6/f Maru 500/p Maru..}}}}",
+        "6/f Maru 500/p Maru": "{{i18n:Data/Events/ScienceHouse..6/f+Maru+500/p+Maru...Marcus |default={{i18n:Data/Events/ScienceHouse..6/f+Maru+500/p+Maru..}}}}",
         "DadWeird": "{{i18n:Data/Events/ScienceHouse..DadWeird...Marcus |default={{i18n:Data/Events/ScienceHouse..DadWeird..}}}}",
-        "10/f Maru 2500/t 900 1600": "{{i18n:Data/Events/ScienceHouse..10/f Maru 2500/t 900 1600...Marcus |default={{i18n:Data/Events/ScienceHouse..10/f Maru 2500/t 900 1600..}}}}"
+        "10/f Maru 2500/t 900 1600": "{{i18n:Data/Events/ScienceHouse..10/f+Maru+2500/t+900+1600...Marcus |default={{i18n:Data/Events/ScienceHouse..10/f+Maru+2500/t+900+1600..}}}}"
       }
     },
     {
@@ -124,7 +124,7 @@
       "Action": "EditData",
       "Target": "Data/Events/ScienceHouse",
       "Entries": {
-        "6/f Maru 500/p Maru": "{{i18n:Data/Events/ScienceHouse..6/f Maru 500/p Maru.FurryFarmer..Marcus |default={{i18n:Data/Events/ScienceHouse..6/f Maru 500/p Maru.FurryFarmer.}}}}"
+        "6/f Maru 500/p Maru": "{{i18n:Data/Events/ScienceHouse..6/f+Maru+500/p+Maru.FurryFarmer..Marcus |default={{i18n:Data/Events/ScienceHouse..6/f+Maru+500/p+Maru.FurryFarmer.}}}}"
       }
     },
     {

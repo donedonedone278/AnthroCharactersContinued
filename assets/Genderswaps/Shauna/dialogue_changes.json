@@ -51,31 +51,31 @@
       "Action": "EditData",
       "Target": "Data/Events/Town",
       "Entries": {
-        "3917586/e 3917585/O Shane/A shaneSaloon2": "{{i18n:Data/Events/Town..3917586/e 3917585/O Shane/A shaneSaloon2...Shauna |default={{i18n:Data/Events/Town..3917586/e 3917585/O Shane/A shaneSaloon2.. |Shane={{Shane}}}} |Shane={{Shane}}}}"
+        "3917586/e 3917585/O Shane/A shaneSaloon2": "{{i18n:Data/Events/Town..3917586/e+3917585/O+Shane/A+shaneSaloon2...Shauna |default={{i18n:Data/Events/Town..3917586/e+3917585/O+Shane/A+shaneSaloon2.. |Shane={{Shane}}}} |Shane={{Shane}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/AnimalShop",
       "Entries": {
-        "3910674/f Shane 1000": "{{i18n:Data/Events/AnimalShop..3910674/f Shane 1000...Shauna |default={{i18n:Data/Events/AnimalShop..3910674/f Shane 1000.. |Shane={{Shane}} |Shane={{Shane}}}} |Shane={{Shane}} |Shane={{Shane}}}}",
-        "3910974/f Shane 1700/e 3910975/p Shane": "{{i18n:Data/Events/AnimalShop..3910974/f Shane 1700/e 3910975/p Shane...Shauna |default={{i18n:Data/Events/AnimalShop..3910974/f Shane 1700/e 3910975/p Shane.. |Shane={{Shane}}}} |Shane={{Shane}}}}",
-        "3900074/f Shane 2000/e 2118991/p Shane": "{{i18n:Data/Events/AnimalShop..3900074/f Shane 2000/e 2118991/p Shane...Shauna |default={{i18n:Data/Events/AnimalShop..3900074/f Shane 2000/e 2118991/p Shane.. |Shane={{Shane}}}} |Shane={{Shane}}}}"
+        "3910674/f Shane 1000": "{{i18n:Data/Events/AnimalShop..3910674/f+Shane+1000...Shauna |default={{i18n:Data/Events/AnimalShop..3910674/f+Shane+1000.. |Shane={{Shane}} |Shane={{Shane}}}} |Shane={{Shane}} |Shane={{Shane}}}}",
+        "3910974/f Shane 1700/e 3910975/p Shane": "{{i18n:Data/Events/AnimalShop..3910974/f+Shane+1700/e+3910975/p+Shane...Shauna |default={{i18n:Data/Events/AnimalShop..3910974/f+Shane+1700/e+3910975/p+Shane.. |Shane={{Shane}}}} |Shane={{Shane}}}}",
+        "3900074/f Shane 2000/e 2118991/p Shane": "{{i18n:Data/Events/AnimalShop..3900074/f+Shane+2000/e+2118991/p+Shane...Shauna |default={{i18n:Data/Events/AnimalShop..3900074/f+Shane+2000/e+2118991/p+Shane.. |Shane={{Shane}}}} |Shane={{Shane}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Saloon",
       "Entries": {
-        "97/f Clint 750/t 1900 2300/d Tue Wed Thu Fri Sat Sun": "{{i18n:Data/Events/Saloon..97/f Clint 750/t 1900 2300/d Tue Wed Thu Fri Sat Sun...Shauna |default={{i18n:Data/Events/Saloon..97/f Clint 750/t 1900 2300/d Tue Wed Thu Fri Sat Sun.. |Emily={{Emily}} |Emily={{Emily}} |Shane={{Shane}} |Emily={{Emily}} |Shane={{Shane}}}} |Emily={{Emily}} |Emily={{Emily}} |Shane={{Shane}} |Emily={{Emily}} |Shane={{Shane}}}}",
-        "3917590/n saloonSportsRoom/O Alex": "{{i18n:Data/Events/Saloon..3917590/n saloonSportsRoom/O Alex...Shauna |default={{i18n:Data/Events/Saloon..3917590/n saloonSportsRoom/O Alex.. |Shane={{Shane}}}} |Shane={{Shane}}}}"
+        "97/f Clint 750/t 1900 2300/d Tue Wed Thu Fri Sat Sun": "{{i18n:Data/Events/Saloon..97/f+Clint+750/t+1900+2300/d+Tue+Wed+Thu+Fri+Sat+Sun...Shauna |default={{i18n:Data/Events/Saloon..97/f+Clint+750/t+1900+2300/d+Tue+Wed+Thu+Fri+Sat+Sun.. |Emily={{Emily}} |Emily={{Emily}} |Shane={{Shane}} |Emily={{Emily}} |Shane={{Shane}}}} |Emily={{Emily}} |Emily={{Emily}} |Shane={{Shane}} |Emily={{Emily}} |Shane={{Shane}}}}",
+        "3917590/n saloonSportsRoom/O Alex": "{{i18n:Data/Events/Saloon..3917590/n+saloonSportsRoom/O+Alex...Shauna |default={{i18n:Data/Events/Saloon..3917590/n+saloonSportsRoom/O+Alex.. |Shane={{Shane}}}} |Shane={{Shane}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/ManorHouse",
       "Entries": {
-        "2123243/e 2111194": "{{i18n:Data/Events/ManorHouse..2123243/e 2111194...Shauna |default={{i18n:Data/Events/ManorHouse..2123243/e 2111194.. |Shane={{Shane}} |Shane={{Shane}} |Emily={{Emily}}}} |Shane={{Shane}} |Shane={{Shane}} |Emily={{Emily}}}}"
+        "2123243/e 2111194": "{{i18n:Data/Events/ManorHouse..2123243/e+2111194...Shauna |default={{i18n:Data/Events/ManorHouse..2123243/e+2111194.. |Shane={{Shane}} |Shane={{Shane}} |Emily={{Emily}}}} |Shane={{Shane}} |Shane={{Shane}} |Emily={{Emily}}}}"
       }
     },
     {

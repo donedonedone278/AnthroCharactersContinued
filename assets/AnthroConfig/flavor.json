@@ -580,22 +580,22 @@
       "Action": "EditData",
       "Target": "Data/Events/Beach",
       "Entries": {
-        "711130/t 600 1710/f Willy 1500": "{{i18n:Data/Events/Beach..711130/t 600 1710/f Willy 1500.FurryFarmerFlavor..AnthroConfig |default={{i18n:Data/Events/Beach..711130/t 600 1710/f Willy 1500.FurryFarmerFlavor.}}}}"
+        "711130/t 600 1710/f Willy 1500": "{{i18n:Data/Events/Beach..711130/t+600+1710/f+Willy+1500.FurryFarmerFlavor..AnthroConfig |default={{i18n:Data/Events/Beach..711130/t+600+1710/f+Willy+1500.FurryFarmerFlavor.}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/BoatTunnel",
       "Entries": {
-        "9348571/Hl willyBoatFixed": "{{i18n:Data/Events/BoatTunnel..9348571/Hl willyBoatFixed.Flavor..AnthroConfig |default={{i18n:Data/Events/BoatTunnel..9348571/Hl willyBoatFixed.Flavor.}}}}"
+        "9348571/Hl willyBoatFixed": "{{i18n:Data/Events/BoatTunnel..9348571/Hl+willyBoatFixed.Flavor..AnthroConfig |default={{i18n:Data/Events/BoatTunnel..9348571/Hl+willyBoatFixed.Flavor.}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/FarmHouse",
       "Entries": {
-        "3917601/f Emily 3500/O Emily/n emilyFiber/A emilyFiber/t 2000 2400/p Emily": "{{i18n:Data/Events/FarmHouse..3917601/f Emily 3500/O Emily/n emilyFiber/A emilyFiber/t 2000 2400/p Emily.Flavor..AnthroConfig |default={{i18n:Data/Events/FarmHouse..3917601/f Emily 3500/O Emily/n emilyFiber/A emilyFiber/t 2000 2400/p Emily.Flavor.}}}}",
-        "9333220/e 9333219/O Sebastian/A sebastianFrog/t 620 1900": "{{i18n:Data/Events/FarmHouse..9333220/e 9333219/O Sebastian/A sebastianFrog/t 620 1900.Flavor..AnthroConfig |default={{i18n:Data/Events/FarmHouse..9333220/e 9333219/O Sebastian/A sebastianFrog/t 620 1900.Flavor.}}}}"
+        "3917601/f Emily 3500/O Emily/n emilyFiber/A emilyFiber/t 2000 2400/p Emily": "{{i18n:Data/Events/FarmHouse..3917601/f+Emily+3500/O+Emily/n+emilyFiber/A+emilyFiber/t+2000+2400/p+Emily.Flavor..AnthroConfig |default={{i18n:Data/Events/FarmHouse..3917601/f+Emily+3500/O+Emily/n+emilyFiber/A+emilyFiber/t+2000+2400/p+Emily.Flavor.}}}}",
+        "9333220/e 9333219/O Sebastian/A sebastianFrog/t 620 1900": "{{i18n:Data/Events/FarmHouse..9333220/e+9333219/O+Sebastian/A+sebastianFrog/t+620+1900.Flavor..AnthroConfig |default={{i18n:Data/Events/FarmHouse..9333220/e+9333219/O+Sebastian/A+sebastianFrog/t+620+1900.Flavor.}}}}"
       }
     },
     {
@@ -605,7 +605,7 @@
       "Action": "EditData",
       "Target": "Data/Events/FarmHouse",
       "Entries": {
-        "558291/y 3/H": "{{i18n:Data/Events/FarmHouse..558291/y 3/H.FurryFarmerFlavor..AnthroConfig |default={{i18n:Data/Events/FarmHouse..558291/y 3/H.FurryFarmerFlavor.}}}}"
+        "558291/y 3/H": "{{i18n:Data/Events/FarmHouse..558291/y+3/H.FurryFarmerFlavor..AnthroConfig |default={{i18n:Data/Events/FarmHouse..558291/y+3/H.FurryFarmerFlavor.}}}}"
       }
     },
     {
@@ -615,7 +615,7 @@
       "Action": "EditData",
       "Target": "Data/Events/FishShop",
       "Entries": {
-        "16253595/j 29/X": "{{i18n:Data/Events/FishShop..16253595/j 29/X.FurryFarmerFlavor..AnthroConfig |default={{i18n:Data/Events/FishShop..16253595/j 29/X.FurryFarmerFlavor.}}}}"
+        "16253595/j 29/X": "{{i18n:Data/Events/FishShop..16253595/j+29/X.FurryFarmerFlavor..AnthroConfig |default={{i18n:Data/Events/FishShop..16253595/j+29/X.FurryFarmerFlavor.}}}}"
       }
     },
     {
@@ -625,7 +625,7 @@
       "Action": "EditData",
       "Target": "Data/Events/HaleyHouse",
       "Entries": {
-        "195019/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/i 446/k 195012": "{{i18n:Data/Events/HaleyHouse..195019/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/i 446/k 195012.FurryFarmerFlavor..AnthroConfig |default={{i18n:Data/Events/HaleyHouse..195019/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/i 446/k 195012.FurryFarmerFlavor.}}}}"
+        "195019/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/i 446/k 195012": "{{i18n:Data/Events/HaleyHouse..195019/f+Haley+2500/f+Emily+2500/f+Penny+2500/f+Abigail+2500/f+Leah+2500/f+Maru+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+38/e+2123343/e+10/e+901756/e+54/e+15/i+446/k+195012.FurryFarmerFlavor..AnthroConfig |default={{i18n:Data/Events/HaleyHouse..195019/f+Haley+2500/f+Emily+2500/f+Penny+2500/f+Abigail+2500/f+Leah+2500/f+Maru+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+38/e+2123343/e+10/e+901756/e+54/e+15/i+446/k+195012.FurryFarmerFlavor.}}}}"
       }
     },
     {
@@ -635,14 +635,14 @@
       "Action": "EditData",
       "Target": "Data/Events/ManorHouse",
       "Entries": {
-        "prizeTicketIntro/n completedFirstBillboardQuest": "{{i18n:Data/Events/ManorHouse..prizeTicketIntro/n completedFirstBillboardQuest.FurryFarmerFlavor..AnthroConfig |default={{i18n:Data/Events/ManorHouse..prizeTicketIntro/n completedFirstBillboardQuest.FurryFarmerFlavor.}}}}"
+        "prizeTicketIntro/n completedFirstBillboardQuest": "{{i18n:Data/Events/ManorHouse..prizeTicketIntro/n+completedFirstBillboardQuest.FurryFarmerFlavor..AnthroConfig |default={{i18n:Data/Events/ManorHouse..prizeTicketIntro/n+completedFirstBillboardQuest.FurryFarmerFlavor.}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Railroad",
       "Entries": {
-        "528052/f Harvey 2500/t 900 1700/n harveyBalloon": "{{i18n:Data/Events/Railroad..528052/f Harvey 2500/t 900 1700/n harveyBalloon.Flavor..AnthroConfig |default={{i18n:Data/Events/Railroad..528052/f Harvey 2500/t 900 1700/n harveyBalloon.Flavor.}}}}",
+        "528052/f Harvey 2500/t 900 1700/n harveyBalloon": "{{i18n:Data/Events/Railroad..528052/f+Harvey+2500/t+900+1700/n+harveyBalloon.Flavor..AnthroConfig |default={{i18n:Data/Events/Railroad..528052/f+Harvey+2500/t+900+1700/n+harveyBalloon.Flavor.}}}}",
         "afraid": "{{i18n:Data/Events/Railroad..afraid.Flavor..AnthroConfig |default={{i18n:Data/Events/Railroad..afraid.Flavor.}}}}"
       }
     },
@@ -653,14 +653,14 @@
       "Action": "EditData",
       "Target": "Data/Events/ScienceHouse",
       "Entries": {
-        "9/f Maru 2000/p Maru": "{{i18n:Data/Events/ScienceHouse..9/f Maru 2000/p Maru.FurryFarmerFlavor..AnthroConfig |default={{i18n:Data/Events/ScienceHouse..9/f Maru 2000/p Maru.FurryFarmerFlavor.}}}}"
+        "9/f Maru 2000/p Maru": "{{i18n:Data/Events/ScienceHouse..9/f+Maru+2000/p+Maru.FurryFarmerFlavor..AnthroConfig |default={{i18n:Data/Events/ScienceHouse..9/f+Maru+2000/p+Maru.FurryFarmerFlavor.}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/SeedShop",
       "Entries": {
-        "963113/n pierreQualityCrops": "{{i18n:Data/Events/SeedShop..963113/n pierreQualityCrops.Flavor..AnthroConfig |default={{i18n:Data/Events/SeedShop..963113/n pierreQualityCrops.Flavor.}}}}"
+        "963113/n pierreQualityCrops": "{{i18n:Data/Events/SeedShop..963113/n+pierreQualityCrops.Flavor..AnthroConfig |default={{i18n:Data/Events/SeedShop..963113/n+pierreQualityCrops.Flavor.}}}}"
       }
     },
     {
@@ -670,7 +670,7 @@
       "Action": "EditData",
       "Target": "Data/Events/SeedShop",
       "Entries": {
-        "3/f Abigail 2000/p Abigail/t 2000 2200/n abbySpiritBoard": "{{i18n:Data/Events/SeedShop..3/f Abigail 2000/p Abigail/t 2000 2200/n abbySpiritBoard.FurryFarmerFlavor..AnthroConfig |default={{i18n:Data/Events/SeedShop..3/f Abigail 2000/p Abigail/t 2000 2200/n abbySpiritBoard.FurryFarmerFlavor.}}}}"
+        "3/f Abigail 2000/p Abigail/t 2000 2200/n abbySpiritBoard": "{{i18n:Data/Events/SeedShop..3/f+Abigail+2000/p+Abigail/t+2000+2200/n+abbySpiritBoard.FurryFarmerFlavor..AnthroConfig |default={{i18n:Data/Events/SeedShop..3/f+Abigail+2000/p+Abigail/t+2000+2200/n+abbySpiritBoard.FurryFarmerFlavor.}}}}"
       }
     },
     {
@@ -761,7 +761,7 @@
       "Action": "EditData",
       "Target": "Strings/StringsFromCSFiles",
       "Entries": {
-        "ItemDeliveryQuest.cs.13523": "Buying 1 {0} at three times the market value! Please deliver directly into my paws.",
+        "ItemDeliveryQuest.cs.13523": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13523.Flavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13523.Flavor.}}}}",
         "ItemDeliveryQuest=cs=13523": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13523.Flavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13523.Flavor.}}}}"
       }
     },
@@ -772,8 +772,8 @@
       "Action": "EditData",
       "Target": "Strings/StringsFromCSFiles",
       "Entries": {
-        "Event.cs.1681": "Try your paw at some fishing? You could win big.",
-        "TV.cs.13200": "The spirits feel neutral today. The day is in your paws.",
+        "Event.cs.1681": "{{i18n:Strings/StringsFromCSFiles..Event=cs=1681.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..Event=cs=1681.FurryFarmerFlavor.}}}}",
+        "TV.cs.13200": "{{i18n:Strings/StringsFromCSFiles..TV=cs=13200.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..TV=cs=13200.FurryFarmerFlavor.}}}}",
         "WateringCan_enchant": "{{i18n:Strings/StringsFromCSFiles..WateringCan_enchant.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..WateringCan_enchant.FurryFarmerFlavor.}}}}",
         "Event=cs=1681": "{{i18n:Strings/StringsFromCSFiles..Event=cs=1681.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..Event=cs=1681.FurryFarmerFlavor.}}}}",
         "TV=cs=13200": "{{i18n:Strings/StringsFromCSFiles..TV=cs=13200.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..TV=cs=13200.FurryFarmerFlavor.}}}}"
@@ -783,8 +783,8 @@
       "Action": "EditData",
       "Target": "Strings/StringsFromMaps",
       "Entries": {
-        "JojaMart.67": "Paw soap",
-        "JojaMart.80": "Joja Multipurpose Detergent -- Use it for your laundry, for your dishes, to clean your paws, as a shampoo, and even as toothpaste! Mix it with JojaMeal to make a delicious icing.",
+        "JojaMart.67": "{{i18n:Strings/StringsFromMaps..JojaMart=67.Flavor..AnthroConfig |default={{i18n:Strings/StringsFromMaps..JojaMart=67.Flavor.}}}}",
+        "JojaMart.80": "{{i18n:Strings/StringsFromMaps..JojaMart=80.Flavor..AnthroConfig |default={{i18n:Strings/StringsFromMaps..JojaMart=80.Flavor.}}}}",
         "Pirates5": "{{i18n:Strings/StringsFromMaps..Pirates5.Flavor..AnthroConfig |default={{i18n:Strings/StringsFromMaps..Pirates5.Flavor.}}}}",
         "JojaMart=67": "{{i18n:Strings/StringsFromMaps..JojaMart=67.Flavor..AnthroConfig |default={{i18n:Strings/StringsFromMaps..JojaMart=67.Flavor.}}}}",
         "JojaMart=80": "{{i18n:Strings/StringsFromMaps..JojaMart=80.Flavor..AnthroConfig |default={{i18n:Strings/StringsFromMaps..JojaMart=80.Flavor.}}}}"
@@ -797,8 +797,8 @@
       "Action": "EditData",
       "Target": "Strings/StringsFromMaps",
       "Entries": {
-        "HarveyRoom.10": "You didn't find anything, and now your paws smell bad.",
-        "Hospital.3": "It's probably not a good idea to stick your paws in there. It's full of used syringes, dirty swabs, and little nozzles that {{Harvey}} stuck into people's ears.",
+        "HarveyRoom.10": "{{i18n:Strings/StringsFromMaps..HarveyRoom=10.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/StringsFromMaps..HarveyRoom=10.FurryFarmerFlavor.}}}}",
+        "Hospital.3": "{{i18n:Strings/StringsFromMaps..Hospital=3.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/StringsFromMaps..Hospital=3.FurryFarmerFlavor. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
         "HarveyRoom=10": "{{i18n:Strings/StringsFromMaps..HarveyRoom=10.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/StringsFromMaps..HarveyRoom=10.FurryFarmerFlavor.}}}}",
         "Hospital=3": "{{i18n:Strings/StringsFromMaps..Hospital=3.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/StringsFromMaps..Hospital=3.FurryFarmerFlavor. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
