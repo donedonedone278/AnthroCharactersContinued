@@ -951,5 +951,7 @@
   "Characters/Dialogue/Sam..winter_Fri.Flavor..AnthroConfig": "The worst thing about the snow is getting your paws soaked. You're lucky in those thick boots.",
   "Characters/Dialogue/Sandy..Sun.Flavor..AnthroConfig": "It's always sunny here, even in winter!#$e#Actually, it's a little hot for my tastes... my delicate wings burn quickly in the sun.$s",
   "Characters/Dialogue/Wizard..Mon4.FurryFarmerFlavor..AnthroConfig": "Outside the domain of our civilization is where nature truly reveals its secrets.",
-  "Characters/Dialogue/Wizard..Fri.FurryFarmerFlavor..AnthroConfig": "I believe the townsfolk are afraid of me.#$e#It is unfortunate, but I suppose it is only natural to be afraid of the unknown."
+  "Characters/Dialogue/Wizard..Fri.FurryFarmerFlavor..AnthroConfig": "I believe the townsfolk are afraid of me.#$e#It is unfortunate, but I suppose it is only natural to be afraid of the unknown.",
+  "Characters/Dialogue/Maru..Event_Hospital_3...Hannah": "You're right. I should just tell her the truth.%fork$u",
+  "Characters/Dialogue/Maru..Event_Hospital_1...Hannah": "Of course she'll know the difference! This sample is completely ruined!%fork$s"
 }
