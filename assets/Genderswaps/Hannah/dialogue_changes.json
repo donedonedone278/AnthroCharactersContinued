@@ -140,7 +140,9 @@
       "Target": "Characters/Dialogue/Maru",
       "Entries": {
         "Wed": "{{i18n:Characters/Dialogue/Maru..Wed...Hannah |default={{i18n:Characters/Dialogue/Maru..Wed.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
-        "Wed8": "{{i18n:Characters/Dialogue/Maru..Wed8...Hannah |default={{i18n:Characters/Dialogue/Maru..Wed8.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "Wed8": "{{i18n:Characters/Dialogue/Maru..Wed8...Hannah |default={{i18n:Characters/Dialogue/Maru..Wed8.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
+        "Event_Hospital_3": "You're right. I should just tell her the truth.%fork$u",
+        "Event_Hospital_1": "Of course she'll know the difference! This sample is completely ruined!%fork$s"
       }
     },
     {

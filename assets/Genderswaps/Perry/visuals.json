@@ -6,7 +6,7 @@
       "FromFile": "assets/TileSheets/junimo_furniture_portraits.png",
       "Priority": "Late + 1",
       "FromArea": {
-        "X":135,
+        "X": 135,
         "Y": 71,
         "Width": 18,
         "Height": 18
