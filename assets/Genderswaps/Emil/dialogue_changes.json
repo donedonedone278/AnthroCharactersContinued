@@ -187,7 +187,7 @@
       "Action": "EditData",
       "Target": "Data/Festivals/fall16",
       "Entries": {
-        "Emily_y2": "When Sandy and I were hatchlings, we joked about running away from it all and joining the circus.$0#$e#I don't think we would've actually gone through with it, but it's fun to imagine.$1"
+        "Emily_y2": "{{i18n:Data/Festivals/fall16..Emily_y2.Flavor..Emil |default={{i18n:Data/Festivals/fall16..Emily_y2.Flavor.}}}}"
       }
     },
     {

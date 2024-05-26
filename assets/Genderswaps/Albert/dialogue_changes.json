@@ -160,7 +160,7 @@
       }
     },
     {
-      "When" : {
+      "When": {
         "Flavor": true
       },
       "Action": "EditData",
@@ -184,7 +184,7 @@
       "Action": "EditData",
       "Target": "Data/Festivals/spring13",
       "Entries": {
-        "Caroline": "Al's always loved the egg hunt, ever since he was a little dragon."
+        "Caroline": "{{i18n:Data/Festivals/spring13..Caroline.Flavor..Albert |default={{i18n:Data/Festivals/spring13..Caroline.Flavor.}}}}"
       }
     },
     {

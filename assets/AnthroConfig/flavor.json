@@ -85,7 +85,8 @@
         "Resort_Chair": "{{i18n:Characters/Dialogue/Elliott..Resort_Chair.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Elliott..Resort_Chair.Flavor.}}}}",
         "fall_Fri4": "{{i18n:Characters/Dialogue/Elliott..fall_Fri4.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Elliott..fall_Fri4.Flavor.}}}}",
         "fall_Fri": "{{i18n:Characters/Dialogue/Elliott..fall_Fri.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Elliott..fall_Fri.Flavor.}}}}",
-        "winter_Fri": "{{i18n:Characters/Dialogue/Elliott..winter_Fri.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Elliott..winter_Fri.Flavor.}}}}"
+        "winter_Fri": "{{i18n:Characters/Dialogue/Elliott..winter_Fri.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/Elliott..winter_Fri.Flavor.}}}}",
+        "summer_Sat": "The sun is angry today... My fur is a bit too delicate, I'm afraid."
       }
     },
     {
@@ -623,7 +624,7 @@
       "Action": "EditData",
       "Target": "Data/Events/Forest",
       "Entries": {
-        "fieldTripEnd": "pause 400/emote Penny 40/speak Penny \"Well, that's probably enough for today. You two run along and play.\"/speed Jas 4/move Jas 0 3 1/speed Jas 4/move Jas 9 0 3 true/faceDirection Vincent 2 true/jump Vincent/pause 800/speed Vincent 4/move Vincent 0 3 1 false/speed Vincent 4/move Vincent 9 0 1/pause 500/faceDirection Vincent 2/faceDirection Jas 2/faceDirection Penny 1/faceDirection farmer 3/speak Penny \"It's a lot of work to take care of these cubs...$u#$b#But I don't really mind. I enjoy seeing them learn... and hopefully I can help them grow up to be good people.\"/faceDirection Penny 2/pause 500/faceDirection Penny 1/speak Penny \"$q -1 null#Would you ever want to be a parent, @?#$r -1 0 event_speaker_kids1#I haven't really thought about it.#$r -1 20 event_speaker_kids2#Absolutely. I want a big family.#$r -1 20 event_speaker_kids3#I guess so. It's a natural urge.#$r -1 10 event_speaker_kids4#No, I don't think I'd be good at it.#$r -1 -10 event_speaker_kids5#No, the world's crowded enough already.#$r -1 -10 event_speaker_kids6#No, I don't want to be tied down with a family.\"/viewport move 1 0 10000/pause 7000/stopMusic/globalFade/viewport -2000 -2000/speak Penny \"Well, I'm glad you showed up, @. I think the cubs had a great time.$h\"/end dialogue Penny \"Thanks for making my field trip a success today.\""
+        "fieldTripEnd": "{{i18n:Data/Events/Forest..fieldTripEnd.Flavor..AnthroConfig |default={{i18n:Data/Events/Forest..fieldTripEnd.Flavor.}}}}"
       }
     },
     {
@@ -703,25 +704,33 @@
       "Target": "Data/Festivals/fall16",
       "Entries": {
         "Willy_y2": "{{i18n:Data/Festivals/fall16..Willy_y2.Flavor..AnthroConfig |default={{i18n:Data/Festivals/fall16..Willy_y2.Flavor.}}}}",
-        "Linus": "These animals never judge people by their looks. The same can't be said for people.",
-        "Jas": "Ow! A hen pecked my paw!$u",
-        "Demetrius_y2": "Sheep have remarkable memory capabilities... retaining familiarity with both fellow sheep and people...$0#$e#They even form friendships, mirroring the close bonds we cultivate with one another!$1",
-        "Dwarf_y2": "I was curious about this surface-dweller gathering... $0#$e#Please don't tell anyone. I'm hoping to remain hidden here...$0"
+        "Linus": "{{i18n:Data/Festivals/fall16..Linus.Flavor..AnthroConfig |default={{i18n:Data/Festivals/fall16..Linus.Flavor.}}}}",
+        "Jas": "{{i18n:Data/Festivals/fall16..Jas.Flavor..AnthroConfig |default={{i18n:Data/Festivals/fall16..Jas.Flavor.}}}}",
+        "Demetrius_y2": "{{i18n:Data/Festivals/fall16..Demetrius_y2.Flavor..AnthroConfig |default={{i18n:Data/Festivals/fall16..Demetrius_y2.Flavor.}}}}",
+        "Dwarf_y2": "{{i18n:Data/Festivals/fall16..Dwarf_y2.Flavor..AnthroConfig |default={{i18n:Data/Festivals/fall16..Dwarf_y2.Flavor.}}}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/fall27",
+      "Entries": {
+        "Jodi": "Vincent's upset that I won't let him go into the haunted maze... but he's just a little cub!"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/spring13",
       "Entries": {
-        "Haley_y2": "Oh! I still need to get my photo taken at the bunny stand. Does my fur look okay?"
+        "Haley_y2": "{{i18n:Data/Festivals/spring13..Haley_y2.Flavor..AnthroConfig |default={{i18n:Data/Festivals/spring13..Haley_y2.Flavor.}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/summer11",
       "Entries": {
-        "Demetrius_y2": "Why do people enjoy dancing? Perhaps it is an instinctual mechanism, so that we will inadvertently convey our genetic quality to potential mates?%noturn",
-        "Haley_y2": "Don't block the sun! I'm in just the right spot to warm my fur evenly.$0"
+        "Demetrius_y2": "{{i18n:Data/Festivals/summer11..Demetrius_y2.Flavor..AnthroConfig |default={{i18n:Data/Festivals/summer11..Demetrius_y2.Flavor.}}}}",
+        "Haley_y2": "{{i18n:Data/Festivals/summer11..Haley_y2.Flavor..AnthroConfig |default={{i18n:Data/Festivals/summer11..Haley_y2.Flavor.}}}}",
+        "Sam": "Governor? Who cares...#$e#Why should I care about some random old boar?"
       }
     },
     {
@@ -736,16 +745,17 @@
       "Target": "Data/Festivals/winter8",
       "Entries": {
         "Haley_spouse": "{{i18n:Data/Festivals/winter8..Haley_spouse.Flavor..AnthroConfig |default={{i18n:Data/Festivals/winter8..Haley_spouse.Flavor.}}}}",
-        "Pierre": "This snow is so cold I can't feel my tail anymore...$s",
-        "George_y2": "Now that I'm old, my fur's so patchy that I need a good, warm hat."
+        "Pierre": "{{i18n:Data/Festivals/winter8..Pierre.Flavor..AnthroConfig |default={{i18n:Data/Festivals/winter8..Pierre.Flavor.}}}}",
+        "George_y2": "{{i18n:Data/Festivals/winter8..George_y2.Flavor..AnthroConfig |default={{i18n:Data/Festivals/winter8..George_y2.Flavor.}}}}",
+        "Evelyn": "Did I ever tell you how George and I first met? He actually pelted me with a snowball in this very festival.#$e#He was a gentlemanly hyena back then, and came over to see if I was okay.$h"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/winter25",
       "Entries": {
-        "Sebastian_spouse_y2": "Hey... don't worry, you don't need to get me anything.$h#$e#I'm just happy to wake up next to you every morning... what else could a wolf ask for?$l",
-        "Elliott_spouse_y2": "My dear, I require nothing at all on this day... you are already the greatest gift a lion could hope for.$h"
+        "Sebastian_spouse_y2": "{{i18n:Data/Festivals/winter25..Sebastian_spouse_y2.Flavor..AnthroConfig |default={{i18n:Data/Festivals/winter25..Sebastian_spouse_y2.Flavor.}}}}",
+        "Elliott_spouse_y2": "{{i18n:Data/Festivals/winter25..Elliott_spouse_y2.Flavor..AnthroConfig |default={{i18n:Data/Festivals/winter25..Elliott_spouse_y2.Flavor.}}}}"
       }
     },
     {
@@ -755,8 +765,8 @@
       "Action": "EditData",
       "Target": "Data/Festivals/winter8",
       "Entries": {
-        "Haley_spouse_y2": "Come here, let me fix your fur... I'm going to take an action shot of you during the contest!",
-        "George_y2": "When you get old and your fur gets patchy, you need a good, warm hat."
+        "Haley_spouse_y2": "{{i18n:Data/Festivals/winter8..Haley_spouse_y2.FurryFarmerFlavor..AnthroConfig |default={{i18n:Data/Festivals/winter8..Haley_spouse_y2.FurryFarmerFlavor.}}}}",
+        "George_y2": "{{i18n:Data/Festivals/winter8..George_y2.FurryFarmerFlavor..AnthroConfig |default={{i18n:Data/Festivals/winter8..George_y2.FurryFarmerFlavor.}}}}"
       }
     },
     {
@@ -775,7 +785,7 @@
         "169": "{{i18n:Data/TV/TipChannel..169.Flavor..AnthroConfig |default={{i18n:Data/TV/TipChannel..169.Flavor.}}}}",
         "179": "{{i18n:Data/TV/TipChannel..179.Flavor..AnthroConfig |default={{i18n:Data/TV/TipChannel..179.Flavor.}}}}",
         "218": "{{i18n:Data/TV/TipChannel..218.Flavor..AnthroConfig |default={{i18n:Data/TV/TipChannel..218.Flavor.}}}}",
-        "197": "Folks, take my advice. You're going to need a nursery in your house before you can have cubs. Baby needs a crib!"
+        "197": "{{i18n:Data/TV/TipChannel..197.Flavor..AnthroConfig |default={{i18n:Data/TV/TipChannel..197.Flavor.}}}}"
       }
     },
     {
@@ -783,6 +793,23 @@
       "Target": "Strings/1_6_Strings",
       "Entries": {
         "TrashCatalogueDescription": "{{i18n:Strings/1_6_Strings..TrashCatalogueDescription.Flavor..AnthroConfig |default={{i18n:Strings/1_6_Strings..TrashCatalogueDescription.Flavor.}}}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/SimpleNonVillagerDialogues",
+      "Entries": {
+        "derby_contestent6": "Trout Boar: Where I come from, they call me 'Trout Boar'.||Trout Boar: Yep, I spent five years learning how to think like a trout. Pretty simple, actually: food, food, food, lay eggs, rest, eat more food.||Trout Boar: I happen to like food, myself. Not so good at laying eggs, though.",
+        "winter_derby_contestent6": "Trout Boar: Welp, squid are a bit different than trout, but I can catch them all the same.||Trout Boar: You better get to fishing if you want a shot at the prize!",
+        "winter_derby_contestent10": "Fisher: My tail's about frozen off, so I'm just going to enjoy a hot cup o' cider over here. Good luck out there!",
+        "derby_contestent0": "Fisher: I came all the way from Grampleton for this.||Fisher: I'm not leaving without a bag full of trout!",
+        "derby_contestent3": "Fisher: Excuse me, I'm trying to enjoy the peace and quiet.||Fisher: ...||Fisher: ...||Fisher: ...||Fisher: Can't you take a hint?||Fisher: ...||Fisher: ...||Fisher: ...||Fisher: Someone's about to get battered, and it ain't the trout.||Fisher:...",
+        "derby_contestent7": "Fisher: Trying to get away from the crowds? I had the same idea.",
+        "derby_contestent9": "Fisher: Ah, now this is the life. Nothing is more tranquil than a day of trout fishing.",
+        "winter_derby_contestent0": "Fisher: Squid usually only show up at night. But they threw some special bait in the water that's making them active all day.",
+        "winter_derby_contestent3": "Fisher: You're a local, huh? Hope you don't mind if I pinch a few of your fine squid...",
+        "winter_derby_contestent7": "Fisher: My wife sent me off with a thermos of hot coffee. What a gal!",
+        "winter_derby_contestent9": "Fisher: I'm not too worried about winning the competition. I just want to enjoy the ambience.||Fisher: Summer's weather is nicer, but there's something special about a rugged winter. And what would life be without contrast?"
       }
     },
     {
@@ -827,8 +854,7 @@
       "Action": "EditData",
       "Target": "Strings/StringsFromCSFiles",
       "Entries": {
-        "ItemDeliveryQuest.cs.13523": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13523.Flavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13523.Flavor.}}}}",
-        "ItemDeliveryQuest=cs=13523": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13523.Flavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13523.Flavor.}}}}"
+        "ItemDeliveryQuest.cs.13523": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13523.Flavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13523.Flavor.}}}}"
       }
     },
     {
@@ -841,8 +867,7 @@
         "Event.cs.1681": "{{i18n:Strings/StringsFromCSFiles..Event=cs=1681.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..Event=cs=1681.FurryFarmerFlavor.}}}}",
         "TV.cs.13200": "{{i18n:Strings/StringsFromCSFiles..TV=cs=13200.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..TV=cs=13200.FurryFarmerFlavor.}}}}",
         "WateringCan_enchant": "{{i18n:Strings/StringsFromCSFiles..WateringCan_enchant.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..WateringCan_enchant.FurryFarmerFlavor.}}}}",
-        "Event=cs=1681": "{{i18n:Strings/StringsFromCSFiles..Event=cs=1681.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..Event=cs=1681.FurryFarmerFlavor.}}}}",
-        "TV=cs=13200": "{{i18n:Strings/StringsFromCSFiles..TV=cs=13200.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..TV=cs=13200.FurryFarmerFlavor.}}}}"
+        "NPC.cs.3990": "A human visitor? This is most unusual...#$e#I'm Krobus, merchant of rare and exotic goods."
       }
     },
     {
@@ -851,9 +876,7 @@
       "Entries": {
         "JojaMart.67": "{{i18n:Strings/StringsFromMaps..JojaMart=67.Flavor..AnthroConfig |default={{i18n:Strings/StringsFromMaps..JojaMart=67.Flavor.}}}}",
         "JojaMart.80": "{{i18n:Strings/StringsFromMaps..JojaMart=80.Flavor..AnthroConfig |default={{i18n:Strings/StringsFromMaps..JojaMart=80.Flavor.}}}}",
-        "Pirates5": "{{i18n:Strings/StringsFromMaps..Pirates5.Flavor..AnthroConfig |default={{i18n:Strings/StringsFromMaps..Pirates5.Flavor.}}}}",
-        "JojaMart=67": "{{i18n:Strings/StringsFromMaps..JojaMart=67.Flavor..AnthroConfig |default={{i18n:Strings/StringsFromMaps..JojaMart=67.Flavor.}}}}",
-        "JojaMart=80": "{{i18n:Strings/StringsFromMaps..JojaMart=80.Flavor..AnthroConfig |default={{i18n:Strings/StringsFromMaps..JojaMart=80.Flavor.}}}}"
+        "Pirates5": "{{i18n:Strings/StringsFromMaps..Pirates5.Flavor..AnthroConfig |default={{i18n:Strings/StringsFromMaps..Pirates5.Flavor.}}}}"
       }
     },
     {
@@ -864,9 +887,7 @@
       "Target": "Strings/StringsFromMaps",
       "Entries": {
         "HarveyRoom.10": "{{i18n:Strings/StringsFromMaps..HarveyRoom=10.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/StringsFromMaps..HarveyRoom=10.FurryFarmerFlavor.}}}}",
-        "Hospital.3": "{{i18n:Strings/StringsFromMaps..Hospital=3.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/StringsFromMaps..Hospital=3.FurryFarmerFlavor. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
-        "HarveyRoom=10": "{{i18n:Strings/StringsFromMaps..HarveyRoom=10.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/StringsFromMaps..HarveyRoom=10.FurryFarmerFlavor.}}}}",
-        "Hospital=3": "{{i18n:Strings/StringsFromMaps..Hospital=3.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/StringsFromMaps..Hospital=3.FurryFarmerFlavor. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "Hospital.3": "{{i18n:Strings/StringsFromMaps..Hospital=3.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/StringsFromMaps..Hospital=3.FurryFarmerFlavor. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     }
   ]
