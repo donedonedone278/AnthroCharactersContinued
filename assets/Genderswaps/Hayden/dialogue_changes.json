@@ -141,7 +141,7 @@
       "Action": "EditData",
       "Target": "Data/Festivals/fall27",
       "Entries": {
-        "Haley": "Ack! I'm too scared.$s"
+        "Haley": "{{i18n:Data/Festivals/fall27..Haley...Hayden |default={{i18n:Data/Festivals/fall27..Haley..}}}}"
       }
     },
     {
