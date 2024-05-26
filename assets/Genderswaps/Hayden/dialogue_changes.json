@@ -139,11 +139,50 @@
     },
     {
       "Action": "EditData",
+      "Target": "Data/Festivals/summer11",
+      "Entries": {
+        "Haley_spouse_y2": "I'm tempted to run back home and grab my swim trunks.$0#$b#The water's at a perfect temperature... I dipped my little toe in!$1"
+      }
+    },
+    {
+      "When": {
+        "Flavor": true
+      },
+      "Action": "EditData",
+      "Target": "Data/Festivals/summer11",
+      "Entries": {
+        "Haley_spouse_y2": "I'm tempted to run back home and grab my swim trunks.$0#$b#The water's at a perfect temperature... I dipped my talons in!$1",
+        "Haley_y2": "Don't block the sun! I'm in just the right spot to warm my feathers evenly.$0"
+      }
+    },
+    {
+      "When": {
+        "Flavor": true
+      },
+      "Action": "EditData",
+      "Target": "Data/Festivals/summer11",
+      "Entries": {
+        "Haley_y2": "I didn't have time to smooth out my feathers... Do you think anyone will notice in the dark?"
+      }
+    },
+    {
+      "When": {
+        "Flavor": true
+      },
+      "Action": "EditData",
+      "Target": "Data/Festivals/spring13",
+      "Entries": {
+        "Haley_y2": "Oh! I still need to get my photo taken at the bunny stand. Do my feathers look okay?"
+      }
+    },
+    {
+      "Action": "EditData",
       "Target": "Data/Festivals/spring24",
       "Entries": {
         "Haley": "{{i18n:Data/Festivals/spring24..Haley...Hayden |default={{i18n:Data/Festivals/spring24..Haley..}}}}",
         "Jas": "{{i18n:Data/Festivals/spring24..Jas...Hayden |default={{i18n:Data/Festivals/spring24..Jas..}}}}",
-        "Vincent": "{{i18n:Data/Festivals/spring24..Vincent...Hayden |default={{i18n:Data/Festivals/spring24..Vincent..}}}}"
+        "Vincent": "{{i18n:Data/Festivals/spring24..Vincent...Hayden |default={{i18n:Data/Festivals/spring24..Vincent..}}}}",
+        "Emily_y2": "Oh, hey! This year I'm giving my brother competition for the flower crown.$0#$b#I've been working on my choreography!$1"
       }
     },
     {

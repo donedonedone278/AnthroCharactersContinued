@@ -584,6 +584,16 @@
       }
     },
     {
+      "When": {
+        "HasMod": "krystedez.FurryFarmer"
+      },
+      "Action": "EditData",
+      "Target": "Data/Events/Woods",
+      "Entries": {
+        "2120303/S 23/i 724/t 600 1900": "nightTime/-1000 -1000/farmer 25 17 3/removeQuest 29/removeItem 724/skippable/addTemporaryActor Bear 32 32 11 17 2 true character/faceDirection Bear 1/viewport 11 17 clamp true/move farmer -6 0 3/pause 1000/startJittering/emote farmer 28/pause 1000/stopJittering/pause 500/animate Bear false true 500 16 17/pause 500/playSound rabbit/pause 1000/playSound rabbit/pause 500/stopAnimation Bear/speak Bear \"That smell... come closer...$2\"/pause 1000/move farmer -5 0 3/pause 1000/faceDirection Bear 2/pause 1000/speak Bear \"Heh... It's not every day I get to speak to a biped. Looks like you've got a little 'forest magic' in you...$3\"/pause 100/jump Bear/pause 1000/faceDirection Bear 1/speak Bear \"Now... about my note... Did you bring the good stuff?\"/pause 1000/animate farmer true true 100 35/playSound coin/addObject 13 17 724/pause 500/animate Bear false true 500 16 17/pause 500/stopAnimation farmer/playSound rabbit/pause 1000/playSound rabbit/pause 500/stopAnimation Bear/shake Bear 2000/pause 500/removeTemporarySprites/speak Bear \"HOoOoOoooh... that smell... this is really sweet stuff!$h#$b#...it's my favorite sauce... it makes me very happy.$h\"/pause 1000/emote Bear 20/animate Bear false true 200 4 5 6 7/pause 50/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/stopAnimation Bear/pause 500/playSound dwop/animate farmer true true 100 6/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 7/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 6/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 7/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 6/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 7/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 6/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 7/pause 100/positionOffset farmer 2 0/stopAnimation farmer/pause 1000/speak Bear \"...You've made a friend today, @.\"/pause 1000/animate Bear false true 200 4 5 6 7/pause 50/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/stopAnimation Bear/pause 250/playSound dwop/animate farmer true true 100 6/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 7/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 6/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 7/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 6/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 7/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 6/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 7/pause 100/positionOffset farmer 2 0/stopAnimation farmer/pause 1000/speak Bear \"I've got something special I want to show you...\"/pause 500/animate Bear false true 400 8 9 10 11/pause 400/playSound grassyStep/pause 400/playSound grassyStep/pause 400/playSound grassyStep/pause 400/playSound grassyStep/pause 400/playSound grassyStep/pause 400/playSound grassyStep/pause 400/playSound grassyStep/pause 400/playSound grassyStep/pause 400/stopAnimation Bear/fade/viewport -1000 -1000/pause 2000/message \"The bear left you with his special knowledge...\"/pause 1000/playSound reward/message \"Salmonberries and Blackberries are now worth 3x the gold!\"/end"
+      }
+    },
+    {
       "Action": "EditData",
       "Target": "Data/Events/BoatTunnel",
       "Entries": {
@@ -655,6 +665,13 @@
       }
     },
     {
+      "Action": "EditData",
+      "Target": "Data/Events/Sewer",
+      "Entries": {
+        "691039/f Dwarf 50/n CF_Sewer/d Fri": "Overcast/16 13/farmer -1000 -1000 0 Dwarf 14 13 1 Krobus 18 13 3 Wizard -1000 -1000 2/skippable/pause 500/emote Dwarf 12/speak Dwarf \"A Shadow Person, above ground? This is outrageous!#$b#Your people were responsible for the death of my entire family.\"/move Krobus -1 0 3/emote Krobus 12/playSound shadowpeep/speak Krobus \"If you dwarves hadn't driven us from our ancestral home, we'd never have had to resort to violence!#$b#I'm sorry about your family.\"/move Dwarf 1 0 1/speak Dwarf \"'Sorry' isn't going to cut it.\"/jump Dwarf/pause 500/animate Dwarf false true 50 4 5 6 7/jump Krobus/pause 500/animate Krobus false true 50 12 13 14 15/pause 1000/playSound throw/positionOffset Dwarf 4 0/positionOffset Krobus -4 0/pause 30/positionOffset Dwarf 4 0/positionOffset Krobus -4 0/pause 30/positionOffset Dwarf 4 0/positionOffset Krobus -4 0/pause 30/positionOffset Dwarf 4 0/positionOffset Krobus -4 0/pause 30/positionOffset Dwarf 4 0/positionOffset Krobus -4 0/pause 30/positionOffset Dwarf 4 0/positionOffset Krobus -4 0/pause 30/positionOffset Dwarf 4 0/positionOffset Krobus -4 0/pause 30/positionOffset Dwarf 4 0/positionOffset Krobus -4 0/pause 30/positionOffset Dwarf 4 0/positionOffset Krobus -4 0/pause 30/positionOffset Dwarf 4 0/positionOffset Krobus -4 0/pause 30/positionOffset Dwarf 4 0/positionOffset Krobus -4 0/pause 30/positionOffset Dwarf 4 0/positionOffset Krobus -4 0/pause 30/positionOffset Dwarf 4 0/positionOffset Krobus -4 0/pause 30/positionOffset Dwarf 4 0/positionOffset Krobus -4 0/pause 30/positionOffset Dwarf 4 0/positionOffset Krobus -4 0/pause 30/shake Dwarf 500/playSound clubhit/jump Krobus/pause 500/shake Krobus 500/playSound clubSmash/jump Dwarf/pause 500/shake Dwarf 250/pause 250/playSound hitEnemy/pause 250/shake Krobus 250/playSound shadowHit/pause 500/faceDirection farmer 0 true/animate farmer false true 500 13 14/warp farmer 16 9/playSound stoneStep/shake Dwarf 250/pause 250/playSound hitEnemy/pause 250/playSound stoneStep/positionOffset farmer 0 16/shake Krobus 250/playSound shadowHit/pause 500/playSound stoneStep/positionOffset farmer 0 16/shake Dwarf 250/pause 250/playSound hitEnemy/pause 250/positionOffset farmer 0 16/shake Krobus 250/playSound shadowHit/pause 500/playSound stoneStep/positionOffset farmer 0 16/shake Dwarf 250/pause 250/playSound hitEnemy/pause 250/playSound stoneStep/positionOffset farmer 0 16/shake Krobus 250/playSound shadowHit/pause 500/positionOffset farmer 0 16/shake Dwarf 250/pause 250/playSound hitEnemy/pause 250/playSound stoneStep/positionOffset farmer 0 16/shake Krobus 250/playSound shadowHit/pause 500/playSound stoneStep/positionOffset farmer 0 16/warp farmer 16 11/faceDirection farmer 2/pause 300/showFrame farmer 94/jump farmer/startJittering/pause 1000/stopJittering/speed farmer 6/showFrame 0/move farmer 0 2 2 true/pause 300/shake Dwarf 1000/shake Krobus 1000/playSound clubSmash/positionOffset Dwarf -16 0/positionOffset Krobus 16 0/pause 30/positionOffset Dwarf -16 0/positionOffset Krobus 16 0/pause 30/positionOffset Dwarf -16 0/positionOffset Krobus 16 0/pause 30/positionOffset Dwarf -16 0/positionOffset Krobus 16 0/pause 30/showFrame farmer 0/pause 500/faceDirection farmer 3/faceDirection farmer 1/faceDirection farmer 2/speak Dwarf \"Let me at him! He's despicable.\"/speak Krobus \"Come and get it, shrimpy.\"/playMusic none/pause 1000/playSound wand/screenFlash 3/showFrame Wizard 16/warp Wizard 16 16/pause 2000/showFrame Wizard 0/pause 500/faceDirection Wizard 1 true/pause 50/faceDirection Wizard 0/pause 800/showFrame Wizard 17/screenFlash .35/playSound flameSpellHit/shake Wizard 500/specificTemporarySprite wizardSewerMagic/stopAnimation Krobus/stopAnimation Dwarf/faceDirection Krobus 2 true/faceDirection Dwarf 2 true/shake Krobus 1000/shake Dwarf 1000/pause 1000/speak Wizard \"Silence! Both of you!\"/pause 500/showFrame Wizard 8/playSound dwop/pause 1000/playMusic Upper_Ambient/speak Wizard \"The Elemental Wars have long been finished. You have no reason to be fighting any longer.#$b#The two of you must make peace for the sake of the people that live around you. Surely you can see that.\"/pause 1000/faceDirection Dwarf 3 true/faceDirection Krobus 1 true/pause 500/emote Dwarf 40 true/emote Krobus 40 true/pause 3000/speak Dwarf \"Very well. I'll stay away from the sewer from now on.\"/faceDirection farmer 3/faceDirection Dwarf 1/pause 500/faceDirection farmer 1/pause 500/faceDirection Krobus 3/speak Krobus \"...And I'm truly sorry about the past, Dwarf. I have no personal gripe with you.\"/pause 1000/faceDirection farmer 2 true/faceDirection Dwarf 2 true/faceDirection Krobus 2 true/pause 1000/speak Wizard \"Very good. I shall cast a 'Seal of Promise' to finalize this agreement.\"/pause 1000/faceDirection Wizard 3 true/playSound dwop/pause 50/faceDirection Wizard 2/pause 1500/showFrame Wizard 16/playSound yoba/specificTemporarySprite WizardPromise/pause 3000/speed farmer 2/move farmer 0 -2 2/emote farmer 40/pause 800/end"
+      }
+    },
+    {
       "When": {
         "HasMod": "krystedez.FurryFarmer"
       },
@@ -685,7 +702,26 @@
       "Action": "EditData",
       "Target": "Data/Festivals/fall16",
       "Entries": {
-        "Willy_y2": "{{i18n:Data/Festivals/fall16..Willy_y2.Flavor..AnthroConfig |default={{i18n:Data/Festivals/fall16..Willy_y2.Flavor.}}}}"
+        "Willy_y2": "{{i18n:Data/Festivals/fall16..Willy_y2.Flavor..AnthroConfig |default={{i18n:Data/Festivals/fall16..Willy_y2.Flavor.}}}}",
+        "Linus": "These animals never judge people by their looks. The same can't be said for people.",
+        "Jas": "Ow! A hen pecked my paw!$u",
+        "Demetrius_y2": "Sheep have remarkable memory capabilities... retaining familiarity with both fellow sheep and people...$0#$e#They even form friendships, mirroring the close bonds we cultivate with one another!$1",
+        "Dwarf_y2": "I was curious about this surface-dweller gathering... $0#$e#Please don't tell anyone. I'm hoping to remain hidden here...$0"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/spring13",
+      "Entries": {
+        "Haley_y2": "Oh! I still need to get my photo taken at the bunny stand. Does my fur look okay?"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/summer11",
+      "Entries": {
+        "Demetrius_y2": "Why do people enjoy dancing? Perhaps it is an instinctual mechanism, so that we will inadvertently convey our genetic quality to potential mates?%noturn",
+        "Haley_y2": "Don't block the sun! I'm in just the right spot to warm my fur evenly.$0"
       }
     },
     {
@@ -699,7 +735,28 @@
       "Action": "EditData",
       "Target": "Data/Festivals/winter8",
       "Entries": {
-        "Haley_spouse": "{{i18n:Data/Festivals/winter8..Haley_spouse.Flavor..AnthroConfig |default={{i18n:Data/Festivals/winter8..Haley_spouse.Flavor.}}}}"
+        "Haley_spouse": "{{i18n:Data/Festivals/winter8..Haley_spouse.Flavor..AnthroConfig |default={{i18n:Data/Festivals/winter8..Haley_spouse.Flavor.}}}}",
+        "Pierre": "This snow is so cold I can't feel my tail anymore...$s",
+        "George_y2": "Now that I'm old, my fur's so patchy that I need a good, warm hat."
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/winter25",
+      "Entries": {
+        "Sebastian_spouse_y2": "Hey... don't worry, you don't need to get me anything.$h#$e#I'm just happy to wake up next to you every morning... what else could a wolf ask for?$l",
+        "Elliott_spouse_y2": "My dear, I require nothing at all on this day... you are already the greatest gift a lion could hope for.$h"
+      }
+    },
+    {
+      "When": {
+        "HasMod": "krystedez.FurryFarmer"
+      },
+      "Action": "EditData",
+      "Target": "Data/Festivals/winter8",
+      "Entries": {
+        "Haley_spouse_y2": "Come here, let me fix your fur... I'm going to take an action shot of you during the contest!",
+        "George_y2": "When you get old and your fur gets patchy, you need a good, warm hat."
       }
     },
     {
