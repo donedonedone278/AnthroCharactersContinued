@@ -312,7 +312,8 @@
       "Action": "EditData",
       "Target": "Strings/1_6_Strings",
       "Entries": {
-        "DesertFestival_Haley2": "{{i18n:Strings/1_6_Strings..DesertFestival_Haley2...Hayden |default={{i18n:Strings/1_6_Strings..DesertFestival_Haley2.. |Haley={{Haley}}}} |Haley={{Haley}}}}"
+        "DesertFestival_Haley2": "{{i18n:Strings/1_6_Strings..DesertFestival_Haley2...Hayden |default={{i18n:Strings/1_6_Strings..DesertFestival_Haley2.. |Haley={{Haley}}}} |Haley={{Haley}}}}",
+        "DesertFestival_Haley2_marriage": "{{i18n:Strings/1_6_Strings..DesertFestival_Haley2_marriage...Hayden |default={{i18n:Strings/1_6_Strings..DesertFestival_Haley2_marriage..}}}}"
       }
     },
     {

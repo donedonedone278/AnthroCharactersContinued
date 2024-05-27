@@ -204,7 +204,8 @@
       "Entries": {
         "summer_1": "{{i18n:Characters/Dialogue/MarriageDialogueAbigail..summer_1.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/MarriageDialogueAbigail..summer_1.Flavor.}}}}",
         "fall_6": "{{i18n:Characters/Dialogue/MarriageDialogueAbigail..fall_6.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/MarriageDialogueAbigail..fall_6.Flavor.}}}}",
-        "TwoKids_3": "{{i18n:Characters/Dialogue/MarriageDialogueAbigail..TwoKids_3.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/MarriageDialogueAbigail..TwoKids_3.Flavor.}}}}"
+        "TwoKids_3": "{{i18n:Characters/Dialogue/MarriageDialogueAbigail..TwoKids_3.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/MarriageDialogueAbigail..TwoKids_3.Flavor.}}}}",
+        "funLeave_Abigail": "{{i18n:Characters/Dialogue/MarriageDialogueAbigail..funLeave_Abigail.Flavor..AnthroConfig |default={{i18n:Characters/Dialogue/MarriageDialogueAbigail..funLeave_Abigail.Flavor.}}}}"
       }
     },
     {
@@ -683,6 +684,13 @@
     },
     {
       "Action": "EditData",
+      "Target": "Data/Events/Mountain",
+      "Entries": {
+        "BadAnswer": "{{i18n:Data/Events/Mountain..BadAnswer.Flavor..AnthroConfig |default={{i18n:Data/Events/Mountain..BadAnswer.Flavor.}}}}"
+      }
+    },
+    {
+      "Action": "EditData",
       "Target": "Data/Events/Railroad",
       "Entries": {
         "528052/f Harvey 2500/t 900 1700/n harveyBalloon": "{{i18n:Data/Events/Railroad..528052/f+Harvey+2500/t+900+1700/n+harveyBalloon.Flavor..AnthroConfig |default={{i18n:Data/Events/Railroad..528052/f+Harvey+2500/t+900+1700/n+harveyBalloon.Flavor.}}}}",
@@ -815,10 +823,47 @@
     },
     {
       "Action": "EditData",
+      "Target": "Data/hats",
+      "Entries": {
+        "46": "{{i18n:Data/hats..46.Flavor..AnthroConfig |default={{i18n:Data/hats..46.Flavor.}}}}"
+      }
+    },
+    {
+      "Action": "EditData",
       "Target": "Strings/1_6_Strings",
       "Entries": {
         "TrashCatalogueDescription": "{{i18n:Strings/1_6_Strings..TrashCatalogueDescription.Flavor..AnthroConfig |default={{i18n:Strings/1_6_Strings..TrashCatalogueDescription.Flavor.}}}}",
-        "DesertFestival_Elliott": "{{i18n:Strings/1_6_Strings..DesertFestival_Elliott.Flavor..AnthroConfig |default={{i18n:Strings/1_6_Strings..DesertFestival_Elliott.Flavor.}}}}"
+        "DesertFestival_Elliott": "{{i18n:Strings/1_6_Strings..DesertFestival_Elliott.Flavor..AnthroConfig |default={{i18n:Strings/1_6_Strings..DesertFestival_Elliott.Flavor.}}}}",
+        "DesertFestival_Demetrius": "{{i18n:Strings/1_6_Strings..DesertFestival_Demetrius.Flavor..AnthroConfig |default={{i18n:Strings/1_6_Strings..DesertFestival_Demetrius.Flavor.}}}}"
+      }
+    },
+    {
+      "When": {
+        "HasMod": "krystedez.FurryFarmer"
+      },
+      "Action": "EditData",
+      "Target": "Strings/1_6_Strings",
+      "Entries": {
+        "DesertFestival_Haley_marriage": "{{i18n:Strings/1_6_Strings..DesertFestival_Haley_marriage.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/1_6_Strings..DesertFestival_Haley_marriage.FurryFarmerFlavor.}}}}",
+        "DesertFestival_Haley": "{{i18n:Strings/1_6_Strings..DesertFestival_Haley.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/1_6_Strings..DesertFestival_Haley.FurryFarmerFlavor.}}}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/BigCraftables",
+      "Entries": {
+        "AutoPetter_Description": "{{i18n:Strings/BigCraftables..AutoPetter_Description.Flavor..AnthroConfig |default={{i18n:Strings/BigCraftables..AutoPetter_Description.Flavor.}}}}"
+      }
+    },
+    {
+      "When": {
+        "HasMod": "krystedez.FurryFarmer"
+      },
+      "Action": "EditData",
+      "Target": "Strings/Characters",
+      "Entries": {
+        "Henchman1": "{{i18n:Strings/Characters..Henchman1.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/Characters..Henchman1.FurryFarmerFlavor.}}}}",
+        "MovieInvite_Invited_Krobus": "{{i18n:Strings/Characters..MovieInvite_Invited_Krobus.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/Characters..MovieInvite_Invited_Krobus.FurryFarmerFlavor.}}}}"
       }
     },
     {
@@ -852,7 +897,24 @@
       "Action": "EditData",
       "Target": "Strings/MovieReactions",
       "Entries": {
-        "Emily_spring_movie_1_BeforeMovie": "{{i18n:Strings/MovieReactions..Emily_spring_movie_1_BeforeMovie.Flavor..AnthroConfig |default={{i18n:Strings/MovieReactions..Emily_spring_movie_1_BeforeMovie.Flavor.}}}}"
+        "Emily_spring_movie_1_BeforeMovie": "{{i18n:Strings/MovieReactions..Emily_spring_movie_1_BeforeMovie.Flavor..AnthroConfig |default={{i18n:Strings/MovieReactions..Emily_spring_movie_1_BeforeMovie.Flavor.}}}}",
+        "Demetrius_like_AfterMovie": "{{i18n:Strings/MovieReactions..Demetrius_like_AfterMovie.Flavor..AnthroConfig |default={{i18n:Strings/MovieReactions..Demetrius_like_AfterMovie.Flavor.}}}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/Notes",
+      "Entries": {
+        "19": "{{i18n:Strings/Notes..19.Flavor..AnthroConfig |default={{i18n:Strings/Notes..19.Flavor.}}}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/Objects",
+      "Entries": {
+        "Fluorapatite_Description": "{{i18n:Strings/Objects..Fluorapatite_Description.Flavor..AnthroConfig |default={{i18n:Strings/Objects..Fluorapatite_Description.Flavor.}}}}",
+        "PrehistoricHandaxe_Description": "{{i18n:Strings/Objects..PrehistoricHandaxe_Description.Flavor..AnthroConfig |default={{i18n:Strings/Objects..PrehistoricHandaxe_Description.Flavor.}}}}",
+        "Stingray_Description": "{{i18n:Strings/Objects..Stingray_Description.Flavor..AnthroConfig |default={{i18n:Strings/Objects..Stingray_Description.Flavor.}}}}"
       }
     },
     {
@@ -880,7 +942,8 @@
       "Action": "EditData",
       "Target": "Strings/StringsFromCSFiles",
       "Entries": {
-        "ItemDeliveryQuest.cs.13523": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13523.Flavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13523.Flavor.}}}}"
+        "ItemDeliveryQuest.cs.13523": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13523.Flavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13523.Flavor.}}}}",
+        "SlayMonsterQuest.cs.13750": "{{i18n:Strings/StringsFromCSFiles..SlayMonsterQuest=cs=13750.Flavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..SlayMonsterQuest=cs=13750.Flavor.}}}}"
       }
     },
     {
@@ -893,7 +956,9 @@
         "Event.cs.1681": "{{i18n:Strings/StringsFromCSFiles..Event=cs=1681.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..Event=cs=1681.FurryFarmerFlavor.}}}}",
         "TV.cs.13200": "{{i18n:Strings/StringsFromCSFiles..TV=cs=13200.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..TV=cs=13200.FurryFarmerFlavor.}}}}",
         "WateringCan_enchant": "{{i18n:Strings/StringsFromCSFiles..WateringCan_enchant.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..WateringCan_enchant.FurryFarmerFlavor.}}}}",
-        "NPC.cs.3990": "{{i18n:Strings/StringsFromCSFiles..NPC=cs=3990.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..NPC=cs=3990.FurryFarmerFlavor.}}}}"
+        "NPC.cs.3990": "{{i18n:Strings/StringsFromCSFiles..NPC=cs=3990.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..NPC=cs=3990.FurryFarmerFlavor.}}}}",
+        "VolcanoShop0": "{{i18n:Strings/StringsFromCSFiles..VolcanoShop0.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..VolcanoShop0.FurryFarmerFlavor.}}}}",
+        "VolcanoShop2": "{{i18n:Strings/StringsFromCSFiles..VolcanoShop2.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..VolcanoShop2.FurryFarmerFlavor.}}}}"
       }
     },
     {
