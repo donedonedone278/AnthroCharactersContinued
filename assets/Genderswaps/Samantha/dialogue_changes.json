@@ -111,6 +111,13 @@
     },
     {
       "Action": "EditData",
+      "Target": "Data/EngagementDialogue",
+      "Entries": {
+        "Sam0": "{{i18n:Data/EngagementDialogue..Sam0...Samantha |default={{i18n:Data/EngagementDialogue..Sam0..}}}}"
+      }
+    },
+    {
+      "Action": "EditData",
       "Target": "Data/Festivals/spring24",
       "Entries": {
         "Kent_y2": "{{i18n:Data/Festivals/spring24..Kent_y2...Samantha |default={{i18n:Data/Festivals/spring24..Kent_y2..}}}}"

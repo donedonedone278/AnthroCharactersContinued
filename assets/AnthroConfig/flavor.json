@@ -546,7 +546,8 @@
       "Action": "EditData",
       "Target": "Data/mail",
       "Entries": {
-        "SeaAmulet": "{{i18n:Data/mail..SeaAmulet.Flavor..AnthroConfig |default={{i18n:Data/mail..SeaAmulet.Flavor.}}}}"
+        "SeaAmulet": "{{i18n:Data/mail..SeaAmulet.Flavor..AnthroConfig |default={{i18n:Data/mail..SeaAmulet.Flavor.}}}}",
+        "KrobusCrafting": "{{i18n:Data/mail..KrobusCrafting.Flavor..AnthroConfig |default={{i18n:Data/mail..KrobusCrafting.Flavor.}}}}"
       }
     },
     {
@@ -564,7 +565,30 @@
       "Action": "EditData",
       "Target": "Data/SecretNotes",
       "Entries": {
-        "24": "{{i18n:Data/SecretNotes..24.Flavor..AnthroConfig |default={{i18n:Data/SecretNotes..24.Flavor.}}}}"
+        "24": "{{i18n:Data/SecretNotes..24.Flavor..AnthroConfig |default={{i18n:Data/SecretNotes..24.Flavor.}}}}",
+        "7": "{{i18n:Data/SecretNotes..7.Flavor..AnthroConfig |default={{i18n:Data/SecretNotes..7.Flavor. |Harvey={{Harvey}} |Harvey_he={{Harvey_he}} |Harvey_husband={{Harvey_husband}} |Harvey_He={{Harvey_He}} |Elliott={{Elliott}} |Elliott_He={{Elliott_He}} |Shane={{Shane}} |Shane_his_her={{Shane_his_her}} |Shane_his_her={{Shane_his_her}} |Shane_He={{Shane_He}}}} |Harvey={{Harvey}} |Harvey_he={{Harvey_he}} |Harvey_husband={{Harvey_husband}} |Harvey_He={{Harvey_He}} |Elliott={{Elliott}} |Elliott_He={{Elliott_He}} |Shane={{Shane}} |Shane_his_her={{Shane_his_her}} |Shane_his_her={{Shane_his_her}} |Shane_He={{Shane_He}}}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Quests",
+      "Entries": {
+        "100": "{{i18n:Data/Quests..100.Flavor..AnthroConfig |default={{i18n:Data/Quests..100.Flavor.}}}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Dwarf": "{{i18n:Data/NPCGiftTastes..Dwarf.Flavor..AnthroConfig |default={{i18n:Data/NPCGiftTastes..Dwarf.Flavor.}}}}",
+        "Krobus": "{{i18n:Data/NPCGiftTastes..Krobus.Flavor..AnthroConfig |default={{i18n:Data/NPCGiftTastes..Krobus.Flavor.}}}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Boots",
+      "Entries": {
+        "878": "{{i18n:Data/Boots..878.Flavor..AnthroConfig |default={{i18n:Data/Boots..878.Flavor.}}}}"
       }
     },
     {

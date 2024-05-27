@@ -229,6 +229,13 @@
     },
     {
       "Action": "EditData",
+      "Target": "Data/ExtraDialogue",
+      "Entries": {
+        "SummitEvent_Dialogue3_Haley": "{{i18n:Data/ExtraDialogue..SummitEvent_Dialogue3_Haley...Hayden |default={{i18n:Data/ExtraDialogue..SummitEvent_Dialogue3_Haley..}}}}"
+      }
+    },
+    {
+      "Action": "EditData",
       "Target": "Strings/Furniture",
       "Entries": {
         "HaleyPortrait": "{{i18n:Strings/Furniture..HaleyPortrait...Hayden |default={{i18n:Strings/Furniture..HaleyPortrait..}}}}"
