@@ -662,7 +662,8 @@
       "Target": "Data/Events/Railroad",
       "Entries": {
         "528052/f Harvey 2500/t 900 1700/n harveyBalloon": "{{i18n:Data/Events/Railroad..528052/f+Harvey+2500/t+900+1700/n+harveyBalloon.Flavor..AnthroConfig |default={{i18n:Data/Events/Railroad..528052/f+Harvey+2500/t+900+1700/n+harveyBalloon.Flavor.}}}}",
-        "afraid": "{{i18n:Data/Events/Railroad..afraid.Flavor..AnthroConfig |default={{i18n:Data/Events/Railroad..afraid.Flavor.}}}}"
+        "afraid": "{{i18n:Data/Events/Railroad..afraid.Flavor..AnthroConfig |default={{i18n:Data/Events/Railroad..afraid.Flavor.}}}}",
+        "529952/C": "{{i18n:Data/Events/Railroad..529952/C.Flavor..AnthroConfig |default={{i18n:Data/Events/Railroad..529952/C.Flavor.}}}}"
       }
     },
     {
@@ -792,7 +793,8 @@
       "Action": "EditData",
       "Target": "Strings/1_6_Strings",
       "Entries": {
-        "TrashCatalogueDescription": "{{i18n:Strings/1_6_Strings..TrashCatalogueDescription.Flavor..AnthroConfig |default={{i18n:Strings/1_6_Strings..TrashCatalogueDescription.Flavor.}}}}"
+        "TrashCatalogueDescription": "{{i18n:Strings/1_6_Strings..TrashCatalogueDescription.Flavor..AnthroConfig |default={{i18n:Strings/1_6_Strings..TrashCatalogueDescription.Flavor.}}}}",
+        "DesertFestival_Elliott": "{{i18n:Strings/1_6_Strings..DesertFestival_Elliott.Flavor..AnthroConfig |default={{i18n:Strings/1_6_Strings..DesertFestival_Elliott.Flavor.}}}}"
       }
     },
     {

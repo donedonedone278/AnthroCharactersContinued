@@ -71,7 +71,9 @@
         "eventSeen_13_memory_oneweek": "{{i18n:Characters/Dialogue/Haley..eventSeen_13_memory_oneweek...Hayden |default={{i18n:Characters/Dialogue/Haley..eventSeen_13_memory_oneweek.. |Haley={{Haley}}}} |Haley={{Haley}}}}",
         "FlowerDance_Accept_Spouse": "{{i18n:Characters/Dialogue/Haley..FlowerDance_Accept_Spouse...Hayden |default={{i18n:Characters/Dialogue/Haley..FlowerDance_Accept_Spouse..}}}}",
         "eventSeen_12_memory_oneweek": "{{i18n:Characters/Dialogue/Haley..eventSeen_12_memory_oneweek...Hayden |default={{i18n:Characters/Dialogue/Haley..eventSeen_12_memory_oneweek..}}}}",
-        "winter_Thu6": "{{i18n:Characters/Dialogue/Haley..winter_Thu6...Hayden |default={{i18n:Characters/Dialogue/Haley..winter_Thu6..}}}}"
+        "winter_Thu6": "{{i18n:Characters/Dialogue/Haley..winter_Thu6...Hayden |default={{i18n:Characters/Dialogue/Haley..winter_Thu6..}}}}",
+        "AcceptBirthdayGift_Loved": "{{i18n:Characters/Dialogue/Haley..AcceptBirthdayGift_Loved...Hayden |default={{i18n:Characters/Dialogue/Haley..AcceptBirthdayGift_Loved..}}}}",
+        "Sun6": "{{i18n:Characters/Dialogue/Haley..Sun6...Hayden |default={{i18n:Characters/Dialogue/Haley..Sun6..}}}}"
       }
     },
     {
@@ -189,7 +191,9 @@
         "Haley": "{{i18n:Data/Festivals/spring24..Haley...Hayden |default={{i18n:Data/Festivals/spring24..Haley..}}}}",
         "Jas": "{{i18n:Data/Festivals/spring24..Jas...Hayden |default={{i18n:Data/Festivals/spring24..Jas..}}}}",
         "Vincent": "{{i18n:Data/Festivals/spring24..Vincent...Hayden |default={{i18n:Data/Festivals/spring24..Vincent..}}}}",
-        "Emily_y2": "{{i18n:Data/Festivals/spring24..Emily_y2...Hayden |default={{i18n:Data/Festivals/spring24..Emily_y2..}}}}"
+        "Emily_y2": "{{i18n:Data/Festivals/spring24..Emily_y2...Hayden |default={{i18n:Data/Festivals/spring24..Emily_y2..}}}}",
+        "Vincent_y2": "{{i18n:Data/Festivals/spring24..Vincent_y2...Hayden |default={{i18n:Data/Festivals/spring24..Vincent_y2..}}}}",
+        "Jas_y2": "{{i18n:Data/Festivals/spring24..Jas_y2...Hayden |default={{i18n:Data/Festivals/spring24..Jas_y2..}}}}"
       }
     },
     {
