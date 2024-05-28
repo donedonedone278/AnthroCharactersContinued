@@ -1,10 +1,69 @@
 {
   "Changes": [
     {
-      "Action": "EditData",
-      "Target": "placeholder",
-      "Entries": {
-        "placeholder": "{{i18n:placeholder..placeholder...Hannah |default={{i18n:placeholder..placeholder..}}}}"
+      "Action": "EditImage",
+      "Target": "TileSheets/junimo_furniture",
+      "FromFile": "assets/TileSheets/junimo_furniture_portraits.png",
+      "Priority": "Late + 1",
+      "FromArea": {
+        "X": 119,
+        "Y": 103,
+        "Width": 18,
+        "Height": 18
+      },
+      "ToArea": {
+        "X": 7,
+        "Y": 311,
+        "Width": 18,
+        "Height": 18
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Harvey",
+      "FromFile": "assets/Portraits/Hannah.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Harvey_Beach",
+      "FromFile": "assets/Portraits/Hannah_Beach.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Harvey_Winter",
+      "FromFile": "assets/Portraits/Hannah_Winter.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Harvey",
+      "FromFile": "assets/Characters/Hannah.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Harvey_Beach",
+      "FromFile": "assets/Characters/Hannah_Beach.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Harvey_Winter",
+      "FromFile": "assets/Characters/Hannah_Winter.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/emojis",
+      "FromFile": "assets/LooseSprites/emojis_characters.png",
+      "Priority": "Late + 1",
+      "FromArea": {
+        "X": 90,
+        "Y": 27,
+        "Width": 9,
+        "Height": 9
+      },
+      "ToArea": {
+        "X": 90,
+        "Y": 99,
+        "Width": 9,
+        "Height": 9
       }
     }
   ]

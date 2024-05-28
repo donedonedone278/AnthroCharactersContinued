@@ -1,10 +1,69 @@
 {
   "Changes": [
     {
-      "Action": "EditData",
-      "Target": "placeholder",
-      "Entries": {
-        "placeholder": "{{i18n:placeholder..placeholder...Ellen |default={{i18n:placeholder..placeholder..}}}}"
+      "Action": "EditImage",
+      "Target": "TileSheets/junimo_furniture",
+      "FromFile": "assets/TileSheets/junimo_furniture_portraits.png",
+      "Priority": "Late + 1",
+      "FromArea": {
+        "X": 23,
+        "Y": 135,
+        "Width": 18,
+        "Height": 18
+      },
+      "ToArea": {
+        "X": 135,
+        "Y": 311,
+        "Width": 18,
+        "Height": 18
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Elliott",
+      "FromFile": "assets/Portraits/Ellen.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Elliott_Beach",
+      "FromFile": "assets/Portraits/Ellen_Beach.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Elliott_Winter",
+      "FromFile": "assets/Portraits/Ellen_Winter.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Elliott",
+      "FromFile": "assets/Portraits/Ellen.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Elliott_Beach",
+      "FromFile": "assets/Portraits/Ellen_Beach.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Elliott_Winter",
+      "FromFile": "assets/Portraits/Ellen_Winter.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/emojis",
+      "FromFile": "assets/LooseSprites/emojis_characters.png",
+      "Priority": "Late + 1",
+      "FromArea": {
+        "X": 99,
+        "Y": 27,
+        "Width": 9,
+        "Height": 9
+      },
+      "ToArea": {
+        "X": 99,
+        "Y": 99,
+        "Width": 9,
+        "Height": 9
       }
     }
   ]

@@ -1,10 +1,69 @@
 {
   "Changes": [
     {
-      "Action": "EditData",
-      "Target": "placeholder",
-      "Entries": {
-        "placeholder": "{{i18n:placeholder..placeholder...Sabrina |default={{i18n:placeholder..placeholder..}}}}"
+      "Action": "EditImage",
+      "Target": "TileSheets/junimo_furniture",
+      "FromFile": "assets/TileSheets/junimo_furniture_portraits.png",
+      "Priority": "Late + 1",
+      "FromArea": {
+        "X": 119,
+        "Y": 135,
+        "Width": 18,
+        "Height": 18
+      },
+      "ToArea": {
+        "X": 103,
+        "Y": 311,
+        "Width": 18,
+        "Height": 18
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Sebastian",
+      "FromFile": "assets/Characters/Sabrina.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Sebastian_Beach",
+      "FromFile": "assets/Characters/Sabrina_Beach.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Sebastian_Winter",
+      "FromFile": "assets/Characters/Sabrina_Winter.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Sebastian",
+      "FromFile": "assets/Portraits/Sabrina.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Sebastian_Beach",
+      "FromFile": "assets/Portraits/Sabrina_Beach.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Sebastian_Winter",
+      "FromFile": "assets/Portraits/Sabrina_Winter.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/emojis",
+      "FromFile": "assets/LooseSprites/emojis_characters.png",
+      "Priority": "Late + 1",
+      "FromArea": {
+        "X": 72,
+        "Y": 27,
+        "Width": 9,
+        "Height": 9
+      },
+      "ToArea": {
+        "X": 72,
+        "Y": 99,
+        "Width": 9,
+        "Height": 9
       }
     }
   ]

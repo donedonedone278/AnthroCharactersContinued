@@ -1,10 +1,69 @@
 {
   "Changes": [
     {
-      "Action": "EditData",
-      "Target": "placeholder",
-      "Entries": {
-        "placeholder": "{{i18n:placeholder..placeholder...Samantha |default={{i18n:placeholder..placeholder..}}}}"
+      "Action": "EditImage",
+      "Target": "TileSheets/junimo_furniture",
+      "FromFile": "assets/TileSheets/junimo_furniture_portraits.png",
+      "Priority": "Late + 1",
+      "FromArea": {
+        "X": 55,
+        "Y": 167,
+        "Width": 18,
+        "Height": 18
+      },
+      "ToArea": {
+        "X": 87,
+        "Y": 375,
+        "Width": 18,
+        "Height": 18
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Sam",
+      "FromFile": "assets/Characters/Samantha.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Sam_Beach",
+      "FromFile": "assets/Characters/Samantha_Beach.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Sam_Winter",
+      "FromFile": "assets/Characters/Samantha_Winter.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Sam",
+      "FromFile": "assets/Portraits/Samantha.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Sam_Beach",
+      "FromFile": "assets/Portraits/Samantha_Beach.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Sam_Winter",
+      "FromFile": "assets/Portraits/Samantha_Winter.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/emojis",
+      "FromFile": "assets/LooseSprites/emojis_characters.png",
+      "Priority": "Late + 1",
+      "FromArea": {
+        "X": 81,
+        "Y": 27,
+        "Width": 9,
+        "Height": 9
+      },
+      "ToArea": {
+        "X": 81,
+        "Y": 99,
+        "Width": 9,
+        "Height": 9
       }
     }
   ]

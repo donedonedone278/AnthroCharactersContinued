@@ -1,11 +1,75 @@
 {
   "Changes": [
     {
-      "Action": "EditData",
-      "Target": "placeholder",
-      "Entries": {
-        "placeholder": "{{i18n:placeholder..placeholder...Shauna |default={{i18n:placeholder..placeholder..}}}}"
+      "Action": "EditImage",
+      "Target": "TileSheets/junimo_furniture",
+      "FromFile": "assets/TileSheets/junimo_furniture_portraits.png",
+      "Priority": "Late + 1",
+      "FromArea": {
+        "X": 55,
+        "Y": 135,
+        "Width": 18,
+        "Height": 18
+      },
+      "ToArea": {
+        "X": 71,
+        "Y": 311,
+        "Width": 18,
+        "Height": 18
       }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/emojis",
+      "FromFile": "assets/LooseSprites/emojis_characters.png",
+      "Priority": "Late + 1",
+      "FromArea": {
+        "X": 63,
+        "Y": 27,
+        "Width": 9,
+        "Height": 9
+      },
+      "ToArea": {
+        "X": 63,
+        "Y": 99,
+        "Width": 9,
+        "Height": 9
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Shane",
+      "FromFile": "assets/Characters/Shauna.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Shane_Beach",
+      "FromFile": "assets/Characters/Shauna_Beach.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Shane_JojaMart",
+      "FromFile": "assets/Characters/Shauna_JojaMart.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Shane_Winter",
+      "FromFile": "assets/Characters/Shauna_Winter.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Shane",
+      "FromFile": "assets/Portraits/Shauna.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Shane_Beach",
+      "FromFile": "assets/Portraits/Shauna_Beach.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Shane_Winter",
+      "FromFile": "assets/Portraits/Shauna_Winter.png"
     }
   ]
 }
