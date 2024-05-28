@@ -830,11 +830,22 @@
     },
     {
       "Action": "EditData",
+      "Target": "Strings/animationDescriptions",
+      "Entries": {
+        "penny_wave_left": "This town's safe, but I always walk the cubs home anyway."
+      }
+    },
+    {
+      "Action": "EditData",
       "Target": "Strings/1_6_Strings",
       "Entries": {
         "TrashCatalogueDescription": "{{i18n:Strings/1_6_Strings..TrashCatalogueDescription.Flavor..AnthroConfig |default={{i18n:Strings/1_6_Strings..TrashCatalogueDescription.Flavor.}}}}",
         "DesertFestival_Elliott": "{{i18n:Strings/1_6_Strings..DesertFestival_Elliott.Flavor..AnthroConfig |default={{i18n:Strings/1_6_Strings..DesertFestival_Elliott.Flavor.}}}}",
-        "DesertFestival_Demetrius": "{{i18n:Strings/1_6_Strings..DesertFestival_Demetrius.Flavor..AnthroConfig |default={{i18n:Strings/1_6_Strings..DesertFestival_Demetrius.Flavor.}}}}"
+        "DesertFestival_Demetrius": "{{i18n:Strings/1_6_Strings..DesertFestival_Demetrius.Flavor..AnthroConfig |default={{i18n:Strings/1_6_Strings..DesertFestival_Demetrius.Flavor.}}}}",
+        "DesertFestival_Caroline": "This weather is just perfect. I can't tell where my skin ends and the air begins.$h",
+        "DesertFestival_Pam": "Hey, kid... You takin' the day off? It's nice to kick back every once in a while, isn't it?#$e#Yep... Even ol' Pam needs some sunlight on her fur now and then! Just wake me up before it catches fire... Heheh.",
+        "MakeOver_Emily_Reaction8": "Here, let me smudge this a bit...",
+        "MakeOver_Emily_Reaction3": "Whoa, that's way too much gel..."
       }
     },
     {
@@ -943,7 +954,9 @@
       "Target": "Strings/StringsFromCSFiles",
       "Entries": {
         "ItemDeliveryQuest.cs.13523": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13523.Flavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13523.Flavor.}}}}",
-        "SlayMonsterQuest.cs.13750": "{{i18n:Strings/StringsFromCSFiles..SlayMonsterQuest=cs=13750.Flavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..SlayMonsterQuest=cs=13750.Flavor.}}}}"
+        "SlayMonsterQuest.cs.13750": "{{i18n:Strings/StringsFromCSFiles..SlayMonsterQuest=cs=13750.Flavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..SlayMonsterQuest=cs=13750.Flavor.}}}}",
+        "NPC.cs.4427": "*sigh*... my fur looks horrible today.$s#$b#It does... I can tell by the way you're looking at me.$a",
+        "NPC.cs.4429": "*sigh*... my hair looks horrible today.$s#$b#It does... I can tell by the way you're looking at me.$a"
       }
     },
     {
@@ -958,7 +971,8 @@
         "WateringCan_enchant": "{{i18n:Strings/StringsFromCSFiles..WateringCan_enchant.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..WateringCan_enchant.FurryFarmerFlavor.}}}}",
         "NPC.cs.3990": "{{i18n:Strings/StringsFromCSFiles..NPC=cs=3990.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..NPC=cs=3990.FurryFarmerFlavor.}}}}",
         "VolcanoShop0": "{{i18n:Strings/StringsFromCSFiles..VolcanoShop0.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..VolcanoShop0.FurryFarmerFlavor.}}}}",
-        "VolcanoShop2": "{{i18n:Strings/StringsFromCSFiles..VolcanoShop2.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..VolcanoShop2.FurryFarmerFlavor.}}}}"
+        "VolcanoShop2": "{{i18n:Strings/StringsFromCSFiles..VolcanoShop2.FurryFarmerFlavor..AnthroConfig |default={{i18n:Strings/StringsFromCSFiles..VolcanoShop2.FurryFarmerFlavor.}}}}",
+        "Buff.cs.475": "Your fur exudes a pungent aroma"
       }
     },
     {
@@ -967,7 +981,8 @@
       "Entries": {
         "JojaMart.67": "{{i18n:Strings/StringsFromMaps..JojaMart=67.Flavor..AnthroConfig |default={{i18n:Strings/StringsFromMaps..JojaMart=67.Flavor.}}}}",
         "JojaMart.80": "{{i18n:Strings/StringsFromMaps..JojaMart=80.Flavor..AnthroConfig |default={{i18n:Strings/StringsFromMaps..JojaMart=80.Flavor.}}}}",
-        "Pirates5": "{{i18n:Strings/StringsFromMaps..Pirates5.Flavor..AnthroConfig |default={{i18n:Strings/StringsFromMaps..Pirates5.Flavor.}}}}"
+        "Pirates5": "{{i18n:Strings/StringsFromMaps..Pirates5.Flavor..AnthroConfig |default={{i18n:Strings/StringsFromMaps..Pirates5.Flavor.}}}}",
+        "SamHouse.3": "Jodi-^Since I'll be coming home soon I want to tell you a few things.^I might not be the same tiger you remember. I've seen some things out here that have really shaken me up. I've been having a real hard time relaxing.^I don't want to scare you or make you upset. I just don't want you to be shocked when I get back.^Remember, no matter how I act, you and the kids mean everything to me.^I'll see you soon.^-Kent"
       }
     },
     {

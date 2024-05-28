@@ -121,6 +121,13 @@
     },
     {
       "Action": "EditData",
+      "Target": "Strings/StringsFromMaps",
+      "Entries": {
+        "AnimalShop.8": "Looks like she's using the radio as an alarm clock."
+      }
+    },
+    {
+      "Action": "EditData",
       "Target": "Characters/Dialogue/Leah",
       "Entries": {
         "married_Shane": "{{i18n:Characters/Dialogue/Leah..married_Shane...Shauna |default={{i18n:Characters/Dialogue/Leah..married_Shane.. |Shane={{Shane}}}} |Shane={{Shane}}}}"
