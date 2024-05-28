@@ -1051,5 +1051,21 @@
   "Strings/Objects..Stingray_Description.Flavor..AnthroConfig": "Despite having a toxic stinger, these fish are shy and prefer to avoid confrontation.",
   "Strings/StringsFromCSFiles..SlayMonsterQuest=cs=13750.Flavor..AnthroConfig": "Hey, I see you culled the {0} population a bit. They've been multiplying quicker than normal due to outside activity in the caves, so I'm hoping our efforts prevent them from threatening any other species.#$b#The local wildlife thanks you for what you did today, @. Enjoy your reward.$h",
   "Strings/StringsFromCSFiles..VolcanoShop0.FurryFarmerFlavor..AnthroConfig": "A light-dweller who speaks our language? I'm impressed...",
-  "Strings/StringsFromCSFiles..VolcanoShop2.FurryFarmerFlavor..AnthroConfig": "I haven't seen a light-dweller here for many years..."
+  "Strings/StringsFromCSFiles..VolcanoShop2.FurryFarmerFlavor..AnthroConfig": "I haven't seen a light-dweller here for many years...",
+  "Strings/StringsFromMaps..AnimalShop=8...Shauna": "Looks like she's using the radio as an alarm clock.",
+  "Strings/StringsFromMaps..JoshHouse=10...Alexis": "It's a basketball.",
+  "Strings/StringsFromMaps..Blacksmith=2...Emil": "You rifle through Clint's personal effects. There's a stack of blacksmith aprons, some male model magazines, an old sword, and a nice picture of his mother.",
+  "Strings/StringsFromMaps..Blacksmith=3...Emil": "You rifle through Clint's personal effects. There's a stack of blacksmith aprons, some male model magazines, an old sword, and a nice picture of his mother.",
+  "Strings/MovieReactions..Clint_winter_movie_1_DuringMovie...Emil": "Why would he like THAT guy? Totally unrealistic if you ask me...$3",
+  "Strings/MovieReactions..Clint_like_BeforeMovie...Emil": "Oh... A... Are we on a date, then?^Umm... I don't hang out with girls often. Am I supposed to buy your snacks?$4",
+  "Strings/MovieReactions..Clint_like_DuringMovie...Emil": "*whispers*...If you're, um... tired... you can put your head on my... my shoulder. Heh... or not!$h^It's just... *hic*... Joja Cola.$4",
+  "Strings/animationDescriptions..penny_wave_left.Flavor..AnthroConfig": "This town's safe, but I always walk the cubs home anyway.",
+  "Strings/1_6_Strings..DesertFestival_Caroline.Flavor..AnthroConfig": "This weather is just perfect. I can't tell where my skin ends and the air begins.$h",
+  "Strings/1_6_Strings..DesertFestival_Pam.Flavor..AnthroConfig": "Hey, kid... You takin' the day off? It's nice to kick back every once in a while, isn't it?#$e#Yep... Even ol' Pam needs some sunlight on her fur now and then! Just wake me up before it catches fire... Heheh.",
+  "Strings/1_6_Strings..MakeOver_Emily_Reaction8.Flavor..AnthroConfig": "Here, let me smudge this a bit...",
+  "Strings/1_6_Strings..MakeOver_Emily_Reaction3.Flavor..AnthroConfig": "Whoa, that's way too much gel...",
+  "Strings/StringsFromCSFiles..NPC=cs=4427.Flavor..AnthroConfig": "*sigh*... my fur looks horrible today.$s#$b#It does... I can tell by the way you're looking at me.$a",
+  "Strings/StringsFromCSFiles..NPC=cs=4429.Flavor..AnthroConfig": "*sigh*... my hair looks horrible today.$s#$b#It does... I can tell by the way you're looking at me.$a",
+  "Strings/StringsFromCSFiles..Buff=cs=475.FurryFarmerFlavor..AnthroConfig": "Your fur exudes a pungent aroma",
+  "Strings/StringsFromMaps..SamHouse=3.Flavor..AnthroConfig": "Jodi-^Since I'll be coming home soon I want to tell you a few things.^I might not be the same tiger you remember. I've seen some things out here that have really shaken me up. I've been having a real hard time relaxing.^I don't want to scare you or make you upset. I just don't want you to be shocked when I get back.^Remember, no matter how I act, you and the kids mean everything to me.^I'll see you soon.^-Kent"
 }

@@ -1049,5 +1049,21 @@
   "Strings/Objects..Stingray_Description.Flavor..AnthroConfig": "Trotz eines giftigen Stachels sind diese Fische scheu und meiden lieber den Menschen.",
   "Strings/StringsFromCSFiles..SlayMonsterQuest=cs=13750.Flavor..AnthroConfig": "Ich sehe, du hast die {0}-Bevölkerung ein wenig gesenkt. Sie haben sich aufgrund der menschlichen Aktivität in den Höhlen mehr als normal vermehrt, also hoffe ich, dass unsere Bemühungen sie daran hindert, andere Arten zu bedrohen.#$b#Das örtliche Wildleben dankt dir für das, was du heute getan hast, @. Viel Spaß mit der Belohnung.$h",
   "Strings/StringsFromCSFiles..VolcanoShop0.FurryFarmerFlavor..AnthroConfig": "Ein Mensch, der unsere Sprache spricht? Ich bin beeindruckt...",
-  "Strings/StringsFromCSFiles..VolcanoShop2.FurryFarmerFlavor..AnthroConfig": "Ich habe hier seit vielen Jahren keinen Menschen mehr gesehen..."
+  "Strings/StringsFromCSFiles..VolcanoShop2.FurryFarmerFlavor..AnthroConfig": "Ich habe hier seit vielen Jahren keinen Menschen mehr gesehen...",
+  "Strings/StringsFromMaps..AnimalShop=8...Shauna": "Sieht aus, als würde er ein Radio als Wecker benutzen.",
+  "Strings/StringsFromMaps..JoshHouse=10...Alexis": "Es ist ein Gitterball.",
+  "Strings/StringsFromMaps..Blacksmith=2...Emil": "Du stöberst durch Clints Besitztümer. Es gibt einen Stapel von Schmiedeschürzen, ein paar Magazine, ein altes Schwert und ein nettes Bild von seiner Mutter.",
+  "Strings/StringsFromMaps..Blacksmith=3...Emil": "Du stöberst durch Clints Besitztümer. Es gibt einen Stapel von Schmiedeschürzen, ein paar Magazine, ein altes Schwert und ein nettes Bild von seiner Mutter.",
+  "Strings/MovieReactions..Clint_winter_movie_1_DuringMovie...Emil": "Warum sollte sie DIESEN Kerl mögen? Völlig unrealistisch, wenn du mich fragst...$3.",
+  "Strings/MovieReactions..Clint_like_BeforeMovie...Emil": "Ich schätze, es ist \"Männerabend\", was? Heißt das, dass ich meine eigenen Snacks kaufen muss?^Oh.. H... Haben wir dann ein Date? $4.",
+  "Strings/MovieReactions..Clint_like_DuringMovie...Emil": "Es ist nur... *hic*... Joja Cola.$h^*flüster*...Falls du, ehm... müde wirst... kannst du deinen Kopf... auf meine Schulter legen. Heh... oder nicht!$4",
+  "Strings/animationDescriptions..penny_wave_left.Flavor..AnthroConfig": "Diese Stadt ist sicher, aber ich begleite die Kinder trotzdem immer nach Hause.",
+  "Strings/1_6_Strings..DesertFestival_Caroline.Flavor..AnthroConfig": "Dieses Wetter ist einfach perfekt. Ich kann nicht sagen, wo meine Haut aufhört und die Luft beginnt.$h",
+  "Strings/1_6_Strings..DesertFestival_Pam.Flavor..AnthroConfig": "Hey... Nimmst du dir den Tag frei? Es ist schön, ab und zu mal auszuspannen, nicht wahr?#$e#Ja... Sogar die alte Pam braucht ab und zu etwas Sonnenlicht auf ihrer Haut! Weck mich einfach auf, bevor ich zu Leder werde... heheh",
+  "Strings/1_6_Strings..MakeOver_Emily_Reaction8.Flavor..AnthroConfig": "Hier, ich verwische das mit dem Finger ein wenig...",
+  "Strings/1_6_Strings..MakeOver_Emily_Reaction3.Flavor..AnthroConfig": "Whoa, das ist viel zu viel Haargel...",
+  "Strings/StringsFromCSFiles..NPC=cs=4427.Flavor..AnthroConfig": "*Seufz*... Meine Haut sieht heute furchtbar aus.$s#$b#Wirklich... Ich kann es an deinem Gesichtsausdruck erkennen.$a",
+  "Strings/StringsFromCSFiles..NPC=cs=4429.Flavor..AnthroConfig": "*Seufz*... Meine Haare sehen heute furchtbar aus.$s#$b#Wirklich... Ich kann es an deinem Gesichtsausdruck erkennen.$a",
+  "Strings/StringsFromCSFiles..Buff=cs=475.FurryFarmerFlavor..AnthroConfig": "Deine Haut verströmt ein beißendes Aroma",
+  "Strings/StringsFromMaps..SamHouse=3.Flavor..AnthroConfig": "Jodi-^Ich komme bald nach Hause und will dir ein paar Dinge sagen.^Ich bin vielleicht nicht mehr der Mann, an den du dich erinnerst. Ich habe Dinge gesehen, die mich wirklich entsetzt haben. Es fällt mir schwer, mich zu entspannen.^Ich will dir keine Angst machen, oder dich bestürzen. Ich will nur einfach nicht, dass du schockiert bist, wenn ich zurückkomme.^Egal wie ich mich verhalte, bitte denk immer daran, dass du und die Kinder mir alles bedeuten.^Wir werden uns bald wiedersehen.^-Kent"
 }

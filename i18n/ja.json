@@ -1049,5 +1049,21 @@
   "Strings/Objects..Stingray_Description.Flavor..AnthroConfig": "毒針を持っているが、恥ずかしがり屋なので人を避けようとする。",
   "Strings/StringsFromCSFiles..SlayMonsterQuest=cs=13750.Flavor..AnthroConfig": "ああ、{0}の数を減らしてくれたんだね。人間が鉱山で活動した影響のせいか、 繁殖がふだんより活発に なっていたんだ。今回の駆除の効果で、他の種をおびやかさなくなるといいんだが。#$b#きみがしてくれたことに、きっと地域の動物たちも感謝しているさ、@。さあ、報酬を受け取ってくれ。$h",
   "Strings/StringsFromCSFiles..VolcanoShop0.FurryFarmerFlavor..AnthroConfig": "私達の言葉を話す人間？驚いたよ…",
-  "Strings/StringsFromCSFiles..VolcanoShop2.FurryFarmerFlavor..AnthroConfig": "ここでは、もう何年も人間を見ていない…"
+  "Strings/StringsFromCSFiles..VolcanoShop2.FurryFarmerFlavor..AnthroConfig": "ここでは、もう何年も人間を見ていない…",
+  "Strings/StringsFromMaps..AnimalShop=8...Shauna": "ラジオを目覚ましがわりにつかっているようだ。",
+  "Strings/StringsFromMaps..JoshHouse=10...Alexis": "グリッドボールだ。",
+  "Strings/StringsFromMaps..Blacksmith=2...Emil": "クリントの持ちものを物色してみた。鍛冶用エプロンの予備や雑誌数冊、古い剣1本、それに彼のお母さんが笑顔で写った写真がある。",
+  "Strings/StringsFromMaps..Blacksmith=3...Emil": "クリントの持ちものを物色してみた。鍛冶用エプロンの予備や雑誌数冊、古い剣1本、それに彼のお母さんが笑顔で写った写真がある。",
+  "Strings/MovieReactions..Clint_winter_movie_1_DuringMovie...Emil": "なんで彼女はその男が好きなんだろうか？君がオレに尋ねるのは、全くもって非現実的だ... $3",
+  "Strings/MovieReactions..Clint_like_BeforeMovie...Emil": "オレはそれが「みんなの夜」だと思うんだ、ハァッ？それはオレ自身のスナックを買わなきゃいけないことを意味してるのか？^おー...そ ...それなら、これはデートかい？$4",
+  "Strings/MovieReactions..Clint_like_DuringMovie...Emil": "それはただの...（ヒック）...Jojaコーラさ。$h^（ヒソヒソ） ...あんたが...うん…疲れたなら…あんたはオレの...オレの肩に頭を置くことができる。ヘへ...そうじゃない！$4",
+  "Strings/animationDescriptions..penny_wave_left.Flavor..AnthroConfig": "この町は安全だけど、いちおう子供たちのことはいつも家まで送ることにしてるの。",
+  "Strings/1_6_Strings..DesertFestival_Caroline.Flavor..AnthroConfig": "とてもいい気候ね。どこまでが自分の肌でどこからが空気なのかわからないわ。$h",
+  "Strings/1_6_Strings..DesertFestival_Pam.Flavor..AnthroConfig": "やあ、若いの…今日はお休みかい？のんびりするのも悪くないだろう？#$e#そう…あたしだってたまには太陽の光をあびたいのさ！ひからびちまうまえに起こしておくれよ…へへへ",
+  "Strings/1_6_Strings..MakeOver_Emily_Reaction8.Flavor..AnthroConfig": "ここは指でちょっとにじませて…",
+  "Strings/1_6_Strings..MakeOver_Emily_Reaction3.Flavor..AnthroConfig": "おっと、ヘアジェルが多すぎたわ…",
+  "Strings/StringsFromCSFiles..NPC=cs=4427.Flavor..AnthroConfig": "ハァ…きょうは肌の調子が悪いみたい。$s#$b#でしょ？…その目を見たらわかるもん。$a",
+  "Strings/StringsFromCSFiles..NPC=cs=4429.Flavor..AnthroConfig": "ハァ…きょうは寝ぐせがひどいな。$s#$b#だろ？…その目を見たらわかるさ。$a",
+  "Strings/StringsFromCSFiles..Buff=cs=475.FurryFarmerFlavor..AnthroConfig": "肌がニンニクの匂いを放っている",
+  "Strings/StringsFromMaps..SamHouse=3.Flavor..AnthroConfig": "ジョディへ ^もうすぐ家に帰れるが、その前に伝えておきたいことがある。^帰ったおれは、きみが知っている男とはちがってしまっているかもしれない。ここで目にしたいろんなものはおれをぐちゃぐちゃにしてしまった。それ以来、ひとときも心が休まらないんだ。^きみを不安にさせたいわけじゃない。ただ、帰ってきたおれを見たときにショックを受けてほしくないんだ。^覚えていてほしい。たとえなにがあろうと、おれにとってはきみと子どもたちがいちばん大切なんだ。^^-ケントより"
 }

@@ -123,7 +123,7 @@
       "Action": "EditData",
       "Target": "Strings/StringsFromMaps",
       "Entries": {
-        "AnimalShop.8": "Looks like she's using the radio as an alarm clock."
+        "AnimalShop.8": "{{i18n:Strings/StringsFromMaps..AnimalShop=8...Shauna |default={{i18n:Strings/StringsFromMaps..AnimalShop=8..}}}}"
       }
     },
     {

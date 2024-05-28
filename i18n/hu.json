@@ -1049,5 +1049,21 @@
   "Strings/Objects..Stingray_Description.Flavor..AnthroConfig": "Habár mérgező fullánkjuk van, ezek a halak nagyon félénkek és kerülik az embereket.",
   "Strings/StringsFromCSFiles..SlayMonsterQuest=cs=13750.Flavor..AnthroConfig": "Hé, úgy látom egy kicsit megritkítottad a helyi {0} populációt. Sokkal gyorsabban szaporodtak, hála a barlangokban lévő emberi tevékenységeknek, szóval abban reménykedek, hogy tetteinkkel többé nem fognak más fajokat fenyegetni.#$b#A helyi vadvilág hálás azért, amit ma tettél, @. Már adom is a jutalmadat.$h",
   "Strings/StringsFromCSFiles..VolcanoShop0.FurryFarmerFlavor..AnthroConfig": "Egy ember, aki beszéli a nyelvünket? Le vagyok nyűgözve...",
-  "Strings/StringsFromCSFiles..VolcanoShop2.FurryFarmerFlavor..AnthroConfig": "Évek óta nem láttam itt embert..."
+  "Strings/StringsFromCSFiles..VolcanoShop2.FurryFarmerFlavor..AnthroConfig": "Évek óta nem láttam itt embert...",
+  "Strings/StringsFromMaps..AnimalShop=8...Shauna": "Úgy tűnik a rádiót ébresztőként használja.",
+  "Strings/StringsFromMaps..JoshHouse=10...Alexis": "Ez egy rácslabda.",
+  "Strings/StringsFromMaps..Blacksmith=2...Emil": "Beletúrsz Clint személyes tárgyai közé. Van egy halom kovács kötény, pár újság, egy régi kard, és egy szép kép az anyjáról.",
+  "Strings/StringsFromMaps..Blacksmith=3...Emil": "Beletúrsz Clint személyes tárgyai közé. Van egy halom kovács kötény, pár újság, egy régi kard, és egy szép kép az anyjáról.",
+  "Strings/MovieReactions..Clint_winter_movie_1_DuringMovie...Emil": "Miért jönne be neki AZ a pasi? Teljesen hiteltelen, ha engem kérdezel...$3",
+  "Strings/MovieReactions..Clint_like_BeforeMovie...Emil": "Ez ilyen 'pasis este', ugye? Vagyis akkor nekem kell vennem a nasijaimat?^Óh... Ak... Akkor mi most randizunk?$4",
+  "Strings/MovieReactions..Clint_like_DuringMovie...Emil": "Ez csak... *hukk*... Joja Cola.$h^*suttogva*...Ha netán, öhm... elfáradnál... nyugodtan rakd a fejedet a... a vállamra. Heh... vagy ne!$4",
+  "Strings/animationDescriptions..penny_wave_left.Flavor..AnthroConfig": "Ez a város biztonságos, de mindig hazakísérem a gyerekeket.",
+  "Strings/1_6_Strings..DesertFestival_Caroline.Flavor..AnthroConfig": "Tökéletes az időjárás. Nem tudom megmondani, hogy hol ér véget a bőröm és hol kezdődik a levegő.$h",
+  "Strings/1_6_Strings..DesertFestival_Pam.Flavor..AnthroConfig": "Hé kölyök... Szabadnapos vagy? Jó néhanapján kiereszteni a gőzt, ugye?#$e#Bizony... Még az öreg Pamnek is szüksége van arra, hogy napfény érje a bőrét! Csak ébressz fel, mielőtt kicserzené a bőrömet... heheh.",
+  "Strings/1_6_Strings..MakeOver_Emily_Reaction8.Flavor..AnthroConfig": "Várj, hadd kenjem el ezt egy kicsit az ujjammal...",
+  "Strings/1_6_Strings..MakeOver_Emily_Reaction3.Flavor..AnthroConfig": "Váó, ez túl sok hajzselé volt...",
+  "Strings/StringsFromCSFiles..NPC=cs=4427.Flavor..AnthroConfig": "*sóhaj*... ma szörnyen néz ki a bőröm.$s#$b#De tényleg... Már a tekintetedből leszűrtem ezt.$a",
+  "Strings/StringsFromCSFiles..NPC=cs=4429.Flavor..AnthroConfig": "*sóhaj*... ma szörnyen néz ki a hajam.$s#$b#De tényleg... Már a tekintetedből leszűrtem ezt.$a",
+  "Strings/StringsFromCSFiles..Buff=cs=475.FurryFarmerFlavor..AnthroConfig": "A bőrödről csípős aroma árad",
+  "Strings/StringsFromMaps..SamHouse=3.Flavor..AnthroConfig": "Jodi-^Mivel hamarosan haza fogok érni, szeretnék pár dolgot megosztani veled.^Lehet nem ugyanaz az ember leszek, akit megismertél. Láttam pár dolgot odakint, amik eléggé felkavartak. Elég nehezen tudok kikapcsolódni.^Nem akarlak sem megijeszteni, sem felidegesíteni. Csak nem akarom, hogy sokkoljon, ha hazatértem.^Ne feledd, bárhogy is cselekszem, te és a gyerekek jelentenek számomra mindent.^Hamarosan találkozunk.^-Kent"
 }

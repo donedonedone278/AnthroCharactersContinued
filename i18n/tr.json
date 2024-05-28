@@ -1049,5 +1049,21 @@
   "Strings/Objects..Stingray_Description.Flavor..AnthroConfig": "Zehirli iğnesine rağmen utangaç davranan ve insanlardan uzak durmayı tercih eden bir balık.",
   "Strings/StringsFromCSFiles..SlayMonsterQuest=cs=13750.Flavor..AnthroConfig": "Hey, {0} nüfusunu birazcık telef etmişsin bakıyorum. Mağaralardaki beşeri faliyetlerden ötürü normalden daha hızlı çoğalıyorlardı. Umarım emeklerin sayesinde diğer türleri tehdit etmelerinin önüne geçilir.#$b#Bölgemizin yaban hayatı bugün yaptıkların için minnettar, @. Ödülünün tadını çıkar.$h",
   "Strings/StringsFromCSFiles..VolcanoShop0.FurryFarmerFlavor..AnthroConfig": "Dilimizi konuşabilen bir insan mı? Etkileyici...",
-  "Strings/StringsFromCSFiles..VolcanoShop2.FurryFarmerFlavor..AnthroConfig": "Yıllardır insan görmemiştim..."
+  "Strings/StringsFromCSFiles..VolcanoShop2.FurryFarmerFlavor..AnthroConfig": "Yıllardır insan görmemiştim...",
+  "Strings/StringsFromMaps..AnimalShop=8...Shauna": "Anlaşılan radyoyu alarmlı saat olarak kullanıyormuş.",
+  "Strings/StringsFromMaps..JoshHouse=10...Alexis": "Bir ağtopu.",
+  "Strings/StringsFromMaps..Blacksmith=2...Emil": "Clint'in kişisel eyşalarını alt üst ettin. Bir tane demirci önlüğü, birkaç dergi, eski bir kılıç ve annesinin fotoğrafını buldun.",
+  "Strings/StringsFromMaps..Blacksmith=3...Emil": "Clint'in kişisel eyşalarını alt üst ettin. Bir tane demirci önlüğü, birkaç dergi, eski bir kılıç ve annesinin fotoğrafını buldun.",
+  "Strings/MovieReactions..Clint_winter_movie_1_DuringMovie...Emil": "Neden ŞU heriften hoşlanıyor ki? Bence hiç gerçekçi değil...$3",
+  "Strings/MovieReactions..Clint_like_BeforeMovie...Emil": "Sanırım 'erkek erkeğe' takılmak istiyorsun. Atıştırmalık bir şeyler alayım mı?^Ah... B... Biz şimdi randevuya mı çıkmış olduk?$4",
+  "Strings/MovieReactions..Clint_like_DuringMovie...Emil": "Bu bildiğimiz... *hıçkırır*... Joja Kola.$h^*fısıldar*... Eğer, şey... yorulduysan... başını omzuma... dayayabilirsin. Heh... dayamayadabilirsin!$4",
+  "Strings/animationDescriptions..penny_wave_left.Flavor..AnthroConfig": "Kasabamız güvenli olsa da çocukları eve ben bırakıyorum.",
+  "Strings/1_6_Strings..DesertFestival_Caroline.Flavor..AnthroConfig": "Hava mükemmel. Rüzgar tenime öyle bir dokunuyor ki anlatamam.$h",
+  "Strings/1_6_Strings..DesertFestival_Pam.Flavor..AnthroConfig": "Selam, evlat... İzin mi yapıyorsun? Biraz ara verip soluklanmak iyi geliyor, değil mi?#$e#Tabii... Hatta ihtiyar Pam bile ara sıra cildine biraz güneş ışığı almalı! Yalnız her yanım kurumadan beni uyandırıver... Heheh.",
+  "Strings/1_6_Strings..MakeOver_Emily_Reaction8.Flavor..AnthroConfig": "İşte, şurayı parmağımla biraz ovayım...",
+  "Strings/1_6_Strings..MakeOver_Emily_Reaction3.Flavor..AnthroConfig": "Ay, bu saç jölesi ÇOK fazla...",
+  "Strings/StringsFromCSFiles..NPC=cs=4427.Flavor..AnthroConfig": "*iç çeker*... Cildim bugün korkunç görünüyor.$s#$b#Korkunç işte... Bana bakış biçiminden belli oluyor.$a",
+  "Strings/StringsFromCSFiles..NPC=cs=4429.Flavor..AnthroConfig": "*iç çeker*... Saçım bugün korkunç görünüyor.$s#$b#Korkunç işte... Bana bakış biçiminden belli oluyor.$a",
+  "Strings/StringsFromCSFiles..Buff=cs=475.FurryFarmerFlavor..AnthroConfig": "Cildin keskin bir koku yayar.",
+  "Strings/StringsFromMaps..SamHouse=3.Flavor..AnthroConfig": "Jodi-^Yakında eve döneceğim için sana birkaç şeyden bahsetmek istiyorum.^Artık tanıdığın o adam olmayabilirim. Beni gerçekten sarsan şeyler gördüm. Dinlenmekte, rahatlamakta zorlanıyorum.^Seni korkutmak ya da üzmek istemiyorum. Yalnızca döndüğümde şaşırmanı istemiyorum.^Unutma, nasıl davranırsam davranayım, sen ve çocuklar benim her şeyimisiniz.^Yakında görüşürüz.^-Kent"
 }

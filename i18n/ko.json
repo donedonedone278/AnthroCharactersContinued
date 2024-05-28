@@ -1049,5 +1049,21 @@
   "Strings/Objects..Stingray_Description.Flavor..AnthroConfig": "독침이 있지만, 겁이 많아 사람을 피합니다.",
   "Strings/StringsFromCSFiles..SlayMonsterQuest=cs=13750.Flavor..AnthroConfig": "아, {0} 개체 수를 좀 줄였구나. 동굴 내에 인간들의 활동 때문에 너무 빨리 번식하고 있었는데, 우리 노력으로 그들이 다른 종에게 해를 입히는 걸 막았으면 좋겠네.#$b#현지 야생 동물들이 네가 한 일에 감사할 거야, @. 여기, 보상이야.$h",
   "Strings/StringsFromCSFiles..VolcanoShop0.FurryFarmerFlavor..AnthroConfig": "우리 언어를 하는 인간? 흥미롭네...",
-  "Strings/StringsFromCSFiles..VolcanoShop2.FurryFarmerFlavor..AnthroConfig": "여기서 인간을 본 게 몇 년이나 되었군요..."
+  "Strings/StringsFromCSFiles..VolcanoShop2.FurryFarmerFlavor..AnthroConfig": "여기서 인간을 본 게 몇 년이나 되었군요...",
+  "Strings/StringsFromMaps..AnimalShop=8...Shauna": "라디오를 알람으로 사용하고 있는듯합니다.",
+  "Strings/StringsFromMaps..JoshHouse=10...Alexis": "그리드볼입니다.",
+  "Strings/StringsFromMaps..Blacksmith=2...Emil": "클린트의 개인 소지품을 샅샅이 뒤졌습니다. 대장장이용 앞치마 한 무더기, 잡지 몇 개, 오래된 검, 그리고 클린트 어머니의 사진을 찾았습니다.",
+  "Strings/StringsFromMaps..Blacksmith=3...Emil": "클린트의 개인 소지품을 샅샅이 뒤졌습니다. 대장장이용 앞치마 한 무더기, 잡지 몇 개, 오래된 검, 그리고 클린트 어머니의 사진을 찾았습니다.",
+  "Strings/MovieReactions..Clint_winter_movie_1_DuringMovie...Emil": "왜 저런 남자를 좋아한 거지? 솔직히 너무 현실성 없었어...$3",
+  "Strings/MovieReactions..Clint_like_BeforeMovie...Emil": "그래, 우리 남정네들끼리 좀 노는 날인가? 내가 내 간식은 직접 사야 하는 거지?^어... 우... 우리 데이트하는 거야?$4",
+  "Strings/MovieReactions..Clint_like_DuringMovie...Emil": "이거 그냥... *딸꾹*... 조자 콜라.$h^*소곤*...혹시 어... 피곤하면... 머리를 내... 내 어깨에 기대도 괜찮아. 헤... 아니면 말고!$4",
+  "Strings/animationDescriptions..penny_wave_left.Flavor..AnthroConfig": "마을이 안전하긴 하지만, 항상 아이들을 집까지 바래다줘요.",
+  "Strings/1_6_Strings..DesertFestival_Caroline.Flavor..AnthroConfig": "날씨가 정말 완벽하네. 내 피부와 공기가 닿는 곳이 어디인지 구분이 안 갈 정도야.$h",
+  "Strings/1_6_Strings..DesertFestival_Pam.Flavor..AnthroConfig": "어이, 꼬맹아... 오늘은 쉬는 거야? 가끔은 그냥 이렇게 쉬는 것도 좋지, 안 그래?#$e#그렇지... 이 늙은 팸도 가끔은 햇빛 좀 받고 해야지! 내가 말라서 가죽이 되어버리기 전에만 깨워줘... 헤헤",
+  "Strings/1_6_Strings..MakeOver_Emily_Reaction8.Flavor..AnthroConfig": "여기, 이건 손가락으로 살짝 번지게 하고...",
+  "Strings/1_6_Strings..MakeOver_Emily_Reaction3.Flavor..AnthroConfig": "으악, 젤 너무 많이 발랐다...",
+  "Strings/StringsFromCSFiles..NPC=cs=4427.Flavor..AnthroConfig": "*한숨*... 내 피부 오늘 엉망이구나.$s#$b#엉망이란 거 알아... 네 눈빛에서 느껴져.$a",
+  "Strings/StringsFromCSFiles..NPC=cs=4429.Flavor..AnthroConfig": "*한숨*... 내 머리 오늘 엉망이구나.$s#$b#엉망이란 거 알아... 네 눈빛에서 느껴져.$a",
+  "Strings/StringsFromCSFiles..Buff=cs=475.FurryFarmerFlavor..AnthroConfig": "몸에서 아린 향이 납니다",
+  "Strings/StringsFromMaps..SamHouse=3.Flavor..AnthroConfig": "조디-^내가 곧 집에 돌아갈 거라 몇 가지 얘기해주고 싶었어.^네가 기억하던 내가 아닐 수도 있어. 여기서 정말 충격적인 장면을 많이 목격했어. 요즘 마음 놓고 쉬는 일이 힘들어.^네게 겁주거나 슬프게 하고 싶진 않아. 내가 돌아왔을 때 네가 놀라지 않았으면 해.^꼭 기억해줘, 내가 당장 행동이 어떻건, 항상 당신과 아이들은 내 전부야.^곧 볼게.^-켄트"
 }

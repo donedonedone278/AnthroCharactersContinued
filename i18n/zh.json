@@ -1125,5 +1125,21 @@
   "Strings/Objects..Stingray_Description.Flavor..AnthroConfig": "虽然有毒刺，但这种鱼很害羞，喜欢避开人类。",
   "Strings/StringsFromCSFiles..SlayMonsterQuest=cs=13750.Flavor..AnthroConfig": "看来你杀掉了一些{0}。由于人类在山洞活动，它们比正常情况下繁殖的更快，所以我希望我们的努力能够防止它们威胁其他物种。#$b#当地野生动物感谢你今天做的一切，@。享受你应得的酬劳吧。$h",
   "Strings/StringsFromCSFiles..VolcanoShop0.FurryFarmerFlavor..AnthroConfig": "人类会说我们的语言？你真了不起……",
-  "Strings/StringsFromCSFiles..VolcanoShop2.FurryFarmerFlavor..AnthroConfig": "我已经很多年没在这里见到过人类了……"
+  "Strings/StringsFromCSFiles..VolcanoShop2.FurryFarmerFlavor..AnthroConfig": "我已经很多年没在这里见到过人类了……",
+  "Strings/StringsFromMaps..AnimalShop=8...Shauna": "看来他把收音机当闹钟在用。",
+  "Strings/StringsFromMaps..JoshHouse=10...Alexis": "这是一个格球。",
+  "Strings/StringsFromMaps..Blacksmith=2...Emil": "你翻找着克林特的私人用品。有一堆铁匠围裙、几本杂志、一把旧剑和他母亲的漂亮照片。",
+  "Strings/StringsFromMaps..Blacksmith=3...Emil": "你翻找着克林特的私人用品。有一堆铁匠围裙、几本杂志、一把旧剑和他母亲的漂亮照片。",
+  "Strings/MovieReactions..Clint_winter_movie_1_DuringMovie...Emil": "她为什么喜欢那种家伙？要我说这完全不现实……$3",
+  "Strings/MovieReactions..Clint_like_BeforeMovie...Emil": "我猜是“男生之夜”吧？是不是说我必须自己买零食？^哦……那么，我们是在约会吗？$4",
+  "Strings/MovieReactions..Clint_like_DuringMovie...Emil": "这只是……嗝……Joja 可乐。$h^（轻声）……如果你……累了……可以把你的头放在我的……我的肩膀上。嘿……随便你！$4",
+  "Strings/animationDescriptions..penny_wave_left.Flavor..AnthroConfig": "这个镇子很安全，但我还是一直陪孩子们回家。",
+  "Strings/1_6_Strings..DesertFestival_Caroline.Flavor..AnthroConfig": "天气真是太好了，我感觉要融化在空气里了。$h",
+  "Strings/1_6_Strings..DesertFestival_Pam.Flavor..AnthroConfig": "哎，孩子……你今天休息吗？偶尔放松一下也挺好的，是不是？#$e#对啊……即使是我这把老骨头偶尔也要晒晒太阳！在我晒干之前叫醒我就行……呵呵……",
+  "Strings/1_6_Strings..MakeOver_Emily_Reaction8.Flavor..AnthroConfig": "这里用手抹开一点……",
+  "Strings/1_6_Strings..MakeOver_Emily_Reaction3.Flavor..AnthroConfig": "啊，发胶喷太多了……",
+  "Strings/StringsFromCSFiles..NPC=cs=4427.Flavor..AnthroConfig": "唉……今天我的皮肤真是糟透了。$s#$b#是真的……从你看我的眼神我就知道了。$a",
+  "Strings/StringsFromCSFiles..NPC=cs=4429.Flavor..AnthroConfig": "唉……今天我的发型实在太糟了。$s#$b#是真的……从你看我的眼神我就知道了。$a",
+  "Strings/StringsFromCSFiles..Buff=cs=475.FurryFarmerFlavor..AnthroConfig": "你的皮肤散发刺激的气味",
+  "Strings/StringsFromMaps..SamHouse=3.Flavor..AnthroConfig": "乔迪：^因为我很快就会回家，因此我想先告诉你几件事。^我可能和你记忆中的我有很大的不同。我在外面看到了某些事情，让我感到十分震撼，最近我的精神一直紧绷着，无法放松。^我不想吓到你或者让你感到不安，我只是不想让你见到我时感到震惊。^记住，无论我在你面前表现的有多奇怪，你和孩子始终是我的一切。^我们很快会见面。^——肯特"
 }

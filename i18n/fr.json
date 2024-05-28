@@ -1049,5 +1049,21 @@
   "Strings/Objects..Stingray_Description.Flavor..AnthroConfig": "Même s’ils possèdent un dard toxique, ces poissons sont timides et préfèrent éviter les humains.",
   "Strings/StringsFromCSFiles..SlayMonsterQuest=cs=13750.Flavor..AnthroConfig": "Hé, je constate que tu as un peu réduit la population de {0}. Ils se sont multipliés plus rapidement qu’à la normale en raison de l’activité humaine dans les grottes. J’espère que nos efforts les empêcheront de menacer d'autres espèces.#$b#La faune locale te remercie pour ce que tu as fait aujourd’hui, @. Profite bien de ta récompense.$h",
   "Strings/StringsFromCSFiles..VolcanoShop0.FurryFarmerFlavor..AnthroConfig": "Un humain qui parle notre langue ? Impressionnant...",
-  "Strings/StringsFromCSFiles..VolcanoShop2.FurryFarmerFlavor..AnthroConfig": "Je n’ai pas vu un humain ici depuis très longtemps..."
+  "Strings/StringsFromCSFiles..VolcanoShop2.FurryFarmerFlavor..AnthroConfig": "Je n’ai pas vu un humain ici depuis très longtemps...",
+  "Strings/StringsFromMaps..AnimalShop=8...Shauna": "On dirait que la radio sert de réveil.",
+  "Strings/StringsFromMaps..JoshHouse=10...Alexis": "C'est un ballon de gridball.",
+  "Strings/StringsFromMaps..Blacksmith=2...Emil": "Vous fouillez dans les affaires personnelles de Clint. Il y a une pile de tabliers de forgeron, des magazines, une vieille épée et une belle photo de sa mère.",
+  "Strings/StringsFromMaps..Blacksmith=3...Emil": "Vous fouillez dans les affaires personnelles de Clint. Il y a une pile de tabliers de forgeron, des magazines, une vieille épée et une belle photo de sa mère.",
+  "Strings/MovieReactions..Clint_winter_movie_1_DuringMovie...Emil": "Pourquoi est-elle tombée amoureuse de \"ce type\" ? Totalement irréaliste...$3",
+  "Strings/MovieReactions..Clint_like_BeforeMovie...Emil": "Je suppose que c’est une soirée entre mecs ? Est-ce que cela signifie que je dois acheter mes propres encas ?^Oh... C’est... C’est un rendez-vous galant ?$4",
+  "Strings/MovieReactions..Clint_like_DuringMovie...Emil": "C’est juste... *Hic*... du cola Joja.$h^*whispers**Chuchote*... Si tu te sens, heu... fatigué... tu peux mettre ta tête sur mon... mon épaule. Ou pas ! $4",
+  "Strings/animationDescriptions..penny_wave_left.Flavor..AnthroConfig": "Cette ville est un endroit sûr, cependant, je raccompagne toujours moi même les enfants à la maison.",
+  "Strings/1_6_Strings..DesertFestival_Caroline.Flavor..AnthroConfig": "Ce temps est parfait. Je ne sais pas où finit ma peau et où commence l'air.$h",
+  "Strings/1_6_Strings..DesertFestival_Pam.Flavor..AnthroConfig": "Hé, toi... Tu prends un jour de congé ? Ça fait du bien de se détendre un peu de temps en temps, non ?#$e#Et oui... Même la vieille Pam a besoin d'un peu de soleil sur sa peau de temps en temps ! Réveille-moi avant que je ne me transforme en cuir... Hé, hé.",
+  "Strings/1_6_Strings..MakeOver_Emily_Reaction8.Flavor..AnthroConfig": "Je vais un peu estomper tout ça avec mon doigt...",
+  "Strings/1_6_Strings..MakeOver_Emily_Reaction3.Flavor..AnthroConfig": "Wouah, c'est beaucoup trop de gel pour tes cheveux...",
+  "Strings/StringsFromCSFiles..NPC=cs=4427.Flavor..AnthroConfig": "*Soupir*... ma peau est affreuse aujourd’hui.$s#$b#Vraiment... Je le vois rien qu'à la façon dont tu me regardes.$a",
+  "Strings/StringsFromCSFiles..NPC=cs=4429.Flavor..AnthroConfig": "*Soupir*... mes cheveux sont horribles aujourd’hui.$s#$b#Vraiment... Je le vois rien qu'à la façon dont tu me regardes.$a",
+  "Strings/StringsFromCSFiles..Buff=cs=475.FurryFarmerFlavor..AnthroConfig": "Votre peau dégage une forte odeur ",
+  "Strings/StringsFromMaps..SamHouse=3.Flavor..AnthroConfig": "Jodi-^Comme je rentre bientôt à la maison, je tiens à te prévenir.^Je ne suis peut-être pas le même homme dont tu te souviens. J’ai vu des choses qui m’ont vraiment bouleversées. J’ai beaucoup de mal à prendre du recul.^Je ne veux pas t’effrayer ou t'inquiéter. Je veux simplement que tu ne sois pas surprise de l'homme que je suis maintenant quand je serais de retour.^Souviens-toi, peu importe la façon dont j’agis, tout ce qui compte pour moi c’est toi et les enfants.^À bientôt.-Kent"
 }

@@ -244,8 +244,8 @@
       "Entries": {
         "Blacksmith.4": "{{i18n:Strings/StringsFromMaps..Blacksmith=4...Emil |default={{i18n:Strings/StringsFromMaps..Blacksmith=4..}}}}",
         "HaleyHouse.8": "{{i18n:Strings/StringsFromMaps..HaleyHouse=8...Emil |default={{i18n:Strings/StringsFromMaps..HaleyHouse=8..}}}}",
-        "Blacksmith.2": "You rifle through Clint's personal effects. There's a stack of blacksmith aprons, some male model magazines, an old sword, and a nice picture of his mother.",
-        "Blacksmith.3": "You rifle through Clint's personal effects. There's a stack of blacksmith aprons, some male model magazines, an old sword, and a nice picture of his mother."
+        "Blacksmith.2": "{{i18n:Strings/StringsFromMaps..Blacksmith=2...Emil |default={{i18n:Strings/StringsFromMaps..Blacksmith=2..}}}}",
+        "Blacksmith.3": "{{i18n:Strings/StringsFromMaps..Blacksmith=3...Emil |default={{i18n:Strings/StringsFromMaps..Blacksmith=3..}}}}"
       }
     },
     {
@@ -303,9 +303,9 @@
       "Target": "Strings/MovieReactions",
       "Entries": {
         "Emily_dislike_DuringMovie_2": "{{i18n:Strings/MovieReactions..Emily_dislike_DuringMovie_2...Emil |default={{i18n:Strings/MovieReactions..Emily_dislike_DuringMovie_2.. |Emily={{Emily}}}} |Emily={{Emily}}}}",
-        "Clint_winter_movie_1_DuringMovie": "Why would he like THAT guy? Totally unrealistic if you ask me...$3",
-        "Clint_like_BeforeMovie": "Oh... A... Are we on a date, then?^Umm... I don't hang out with girls often. Am I supposed to buy your snacks?$4",
-        "Clint_like_DuringMovie": "*whispers*...If you're, um... tired... you can put your head on my... my shoulder. Heh... or not!$h^It's just... *hic*... Joja Cola.$4"
+        "Clint_winter_movie_1_DuringMovie": "{{i18n:Strings/MovieReactions..Clint_winter_movie_1_DuringMovie...Emil |default={{i18n:Strings/MovieReactions..Clint_winter_movie_1_DuringMovie..}}}}",
+        "Clint_like_BeforeMovie": "{{i18n:Strings/MovieReactions..Clint_like_BeforeMovie...Emil |default={{i18n:Strings/MovieReactions..Clint_like_BeforeMovie..}}}}",
+        "Clint_like_DuringMovie": "{{i18n:Strings/MovieReactions..Clint_like_DuringMovie...Emil |default={{i18n:Strings/MovieReactions..Clint_like_DuringMovie..}}}}"
       }
     },
     {

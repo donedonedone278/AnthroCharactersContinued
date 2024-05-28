@@ -1049,5 +1049,21 @@
   "Strings/Objects..Stingray_Description.Flavor..AnthroConfig": "Эти водные обитатели довольно застенчивы и предпочитают не показываться людям на глаза, даже несмотря на то, что у них есть ядовитое жало.",
   "Strings/StringsFromCSFiles..SlayMonsterQuest=cs=13750.Flavor..AnthroConfig": "Благодаря тебе популяция {0} немного прорежена. Из-за человеческой активности в шахтах они стали размножаться быстрее, так что, надеюсь, наши усилия не дадут им угрожать местным видам.#$b#Местные виды благодарны за твои труды, @. Вот твое вознаграждение.$h",
   "Strings/StringsFromCSFiles..VolcanoShop0.FurryFarmerFlavor..AnthroConfig": "Человек, говорящий на нашем языке? Я впечатлен...",
-  "Strings/StringsFromCSFiles..VolcanoShop2.FurryFarmerFlavor..AnthroConfig": "Я уже много лет не видел людей..."
+  "Strings/StringsFromCSFiles..VolcanoShop2.FurryFarmerFlavor..AnthroConfig": "Я уже много лет не видел людей...",
+  "Strings/StringsFromMaps..AnimalShop=8...Shauna": "Похоже, он пользуется радиоприемником как будильником.",
+  "Strings/StringsFromMaps..JoshHouse=10...Alexis": "Мяч для гридбола.",
+  "Strings/StringsFromMaps..Blacksmith=2...Emil": "Вы роетесь в вещах Клинта: стопка кузнечных фартуков, пара журналов, старый меч и фотография его матери.",
+  "Strings/StringsFromMaps..Blacksmith=3...Emil": "Вы роетесь в вещах Клинта: стопка кузнечных фартуков, пара журналов, старый меч и фотография его матери.",
+  "Strings/MovieReactions..Clint_winter_movie_1_DuringMovie...Emil": "Почему ей нравился ЭТОТ парень? Меня спроси, я скажу — так в жизни не бывает...$3",
+  "Strings/MovieReactions..Clint_like_BeforeMovie...Emil": "Сегодня у нас «мужская вечеринка», да? Значит, я сам себе еду покупаю?^Ой... Так у нас... свидание?$4",
+  "Strings/MovieReactions..Clint_like_DuringMovie...Emil": "Это типа... *ик*... ДжоДжа-кола.$h^*шепотом*...Если, эм... усталость сморила... можешь положить голову... на мое плечо. Хе-хе... или нет!$4",
+  "Strings/animationDescriptions..penny_wave_left.Flavor..AnthroConfig": "В городе у нас безопасно, но я всe равно отвожу детей по домам сама.",
+  "Strings/1_6_Strings..DesertFestival_Caroline.Flavor..AnthroConfig": "Просто прекрасная погода. Не могу сказать, где заканчивается моя кожа и начинается воздух.$h",
+  "Strings/1_6_Strings..DesertFestival_Pam.Flavor..AnthroConfig": "Эй, молодежь... У тебя что, выходной? Хорошо же иногда кайфовать, да?#$e#Ага... Даже старушке Пэм иногда нужно понежиться на солнышке! Просто разбуди меня до того, как я поджарюсь... Хе-хе.",
+  "Strings/1_6_Strings..MakeOver_Emily_Reaction8.Flavor..AnthroConfig": "Так, размажем тут пальцем чуток...",
+  "Strings/1_6_Strings..MakeOver_Emily_Reaction3.Flavor..AnthroConfig": "Ух, слишком много геля для волос...",
+  "Strings/StringsFromCSFiles..NPC=cs=4427.Flavor..AnthroConfig": "Ох... Я сегодня ужасно выгляжу.$s#$b#Еще как... Я же вижу, как ты на меня смотришь.$a",
+  "Strings/StringsFromCSFiles..NPC=cs=4429.Flavor..AnthroConfig": "Ох... Я сегодня ужасно выгляжу.$s#$b#Еще как... Я же вижу, как ты на меня смотришь.$a",
+  "Strings/StringsFromCSFiles..Buff=cs=475.FurryFarmerFlavor..AnthroConfig": "Ваша кожа источает едкий запах",
+  "Strings/StringsFromMaps..SamHouse=3.Flavor..AnthroConfig": "Джоди-^Скоро я возвращаюсь домой, и поэтому я хочу сказать тебе кое-что.^Возможно, я уже не тот парень, которого ты помнишь. Я повидал много такого, что сильно меня потрясло. В последнее время мне очень сложно расслабляться.^Я не хочу напугать тебя, не хочу огорчить. Я просто хочу, чтобы это не было для тебя шоком.^Знай, что как бы я себя ни вел, ты и дети для меня превыше всего.^Скоро увидимся.^-Кент"
 }

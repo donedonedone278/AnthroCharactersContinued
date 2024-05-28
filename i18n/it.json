@@ -1049,5 +1049,21 @@
   "Strings/Objects..Stingray_Description.Flavor..AnthroConfig": "Sebbene abbiano un aculeo tossico, questi pesci sono timidi e preferiscono evitare gli umani.",
   "Strings/StringsFromCSFiles..SlayMonsterQuest=cs=13750.Flavor..AnthroConfig": "Ehi, vedo che hai eliminato qualche esemplare di {0}. Si stanno moltiplicando più del normale per via delle attività umane nelle grotte, per cui spero che i nostri sforzi gli impediscano di minacciare altre specie.#$b#La fauna locale ti ringrazia per ciò che hai fatto oggi, @. Goditi il premio.$h",
   "Strings/StringsFromCSFiles..VolcanoShop0.FurryFarmerFlavor..AnthroConfig": "Un essere umano che parla la nostra lingua? Sono colpito...",
-  "Strings/StringsFromCSFiles..VolcanoShop2.FurryFarmerFlavor..AnthroConfig": "Non vedo un essere umano qui da molti anni..."
+  "Strings/StringsFromCSFiles..VolcanoShop2.FurryFarmerFlavor..AnthroConfig": "Non vedo un essere umano qui da molti anni...",
+  "Strings/StringsFromMaps..AnimalShop=8...Shauna": "Sembra che usi la radio come sveglia.",
+  "Strings/StringsFromMaps..JoshHouse=10...Alexis": "Un pallone da pallagriglia.",
+  "Strings/StringsFromMaps..Blacksmith=2...Emil": "Ispezioni gli effetti personali di Clint. Ci sono una pila di grembiuli da fabbro, delle riviste, una vecchia spada, e un bel ritratto di sua madre.",
+  "Strings/StringsFromMaps..Blacksmith=3...Emil": "Ispezioni gli effetti personali di Clint. Ci sono una pila di grembiuli da fabbro, delle riviste, una vecchia spada, e un bel ritratto di sua madre.",
+  "Strings/MovieReactions..Clint_winter_movie_1_DuringMovie...Emil": "Ma perché le dovrebbe piacere QUEL tipo? Completamente inverosimile, se vuoi il mio parere...$3",
+  "Strings/MovieReactions..Clint_like_BeforeMovie...Emil": "Immagino sia una 'serata tra uomini', eh? Vuol dire che devo comprarmi gli snack da solo?^Oh... Ma quindi... Ma quindi questo è un appuntamento?$4",
+  "Strings/MovieReactions..Clint_like_DuringMovie...Emil": "È solo... *hic*... Joja Cola.$h^*sussurra*...Se sei, ehm... stanca... puoi appoggiare la testa sulla... mia spalla. Heh... oppure no!$4",
+  "Strings/animationDescriptions..penny_wave_left.Flavor..AnthroConfig": "Questo paese è un posto sicuro, ma accompagno sempre i bambini a casa comunque.",
+  "Strings/1_6_Strings..DesertFestival_Caroline.Flavor..AnthroConfig": "Questo clima è perfetto. Non so più dove finisce la mia pelle e dove comincia l'aria.$h",
+  "Strings/1_6_Strings..DesertFestival_Pam.Flavor..AnthroConfig": "Ehi, giovane... Ti prendi un giorno di riposo? È bello fare una pausa una volta ogni tanto, eh?#$e#Già... Pure la vecchia Pam ha bisogno di un po' di sole sulla pelle di quando in quando! Però svegliami prima che mi trasformi in un pezzo di cuoio... heheh",
+  "Strings/1_6_Strings..MakeOver_Emily_Reaction8.Flavor..AnthroConfig": "Ecco, sfumiamo un po' questo con il dito...",
+  "Strings/1_6_Strings..MakeOver_Emily_Reaction3.Flavor..AnthroConfig": "Wow, tutto questo gel è eccessivo...",
+  "Strings/StringsFromCSFiles..NPC=cs=4427.Flavor..AnthroConfig": "*sospira*... Oggi devo avere una pelle orribile.$s#$b#Davvero... Si vede da come mi guardi.$a",
+  "Strings/StringsFromCSFiles..NPC=cs=4429.Flavor..AnthroConfig": "*sospira*... Oggi devo avere dei capelli orribili.$s#$b#Davvero... Si vede da come mi guardi.$a",
+  "Strings/StringsFromCSFiles..Buff=cs=475.FurryFarmerFlavor..AnthroConfig": "La tua pelle emana un aroma pungente",
+  "Strings/StringsFromMaps..SamHouse=3.Flavor..AnthroConfig": "Jodi-^Visto che presto tornerò a casa, voglio dirti un paio di cose.^Potrei non essere l'uomo che ricordi. Qua fuori ho visto cose che mi hanno davvero scosso. Faccio molta fatica a rilassarmi.^Non voglio spaventarti o rattristarti. Solo che non vorrei scioccarti al mio ritorno.^Ricorda, in qualunque modo mi comporti, tu e i bambini siete tutto per me.^Ci vediamo presto.^-Kent"
 }
