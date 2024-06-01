@@ -161,7 +161,7 @@
       "Target": "Data/Festivals/summer11",
       "Entries": {
         "Haley_spouse_y2": "{{i18n:Data/Festivals/summer11..Haley_spouse_y2.Flavor..Hayden |default={{i18n:Data/Festivals/summer11..Haley_spouse_y2.Flavor.}}}}",
-        "Haley_y2": "{{i18n:Data/Festivals/summer11..Haley_y2.Flavor..Hayden |default={{i18n:Data/Festivals/summer11..Haley_y2.Flavor.}}}}"
+        "Haley_y2": "Don't block the sun! I'm in just the right spot to warm my feathers evenly.$0"
       }
     },
     {
@@ -169,9 +169,9 @@
         "Flavor": true
       },
       "Action": "EditData",
-      "Target": "Data/Festivals/summer11",
+      "Target": "Data/Festivals/summer28",
       "Entries": {
-        "Haley_y2": "{{i18n:Data/Festivals/summer11..Haley_y2.Flavor..Hayden |default={{i18n:Data/Festivals/summer11..Haley_y2.Flavor.}}}}"
+        "Haley_y2": "I didn't have time to smooth out my feathers... Do you think anyone will notice in the dark?"
       }
     },
     {
