@@ -13,7 +13,7 @@
         "Height": 32
       },
       "When": {
-        "Hasmod": "VibrantPastoral.C"
+        "Hasmod": "grapeponta.VibrantPastoralRecolor"
       }
     },
     {
@@ -29,7 +29,7 @@
         "Height": 32
       },
       "When": {
-        "Hasmod": "VibrantPastoral.C",
+        "Hasmod": "grapeponta.VibrantPastoralRecolor",
         "Season |contains=spring": false,
         "IsOutdoors": true
       }
@@ -47,7 +47,7 @@
         "Height": 19
       },
       "When": {
-        "HasMod": "VibrantPastoral.C"
+        "HasMod": "grapeponta.VibrantPastoralRecolor"
       }
     },
     {
@@ -63,7 +63,7 @@
         "Height": 32
       },
       "When": {
-        "Hasmod": "VibrantPastoral.C"
+        "Hasmod": "grapeponta.VibrantPastoralRecolor"
       }
     },
     {
@@ -79,7 +79,7 @@
         "Height": 32
       },
       "When": {
-        "Hasmod": "VibrantPastoral.C"
+        "Hasmod": "grapeponta.VibrantPastoralRecolor"
       }
     }
   ]
