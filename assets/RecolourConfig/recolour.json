@@ -13,13 +13,13 @@
         "Height": 32
       },
       "When": {
-        "Hasmod": "grapeponta.VibrantPastoralRecolor"
+        "Hasmod": "VibrantPastoral.C"
       }
     },
     {
       "Action": "EditImage",
       "Target": "TileSheets/Craftables",
-      "FromFile": "assets/TileSheets/recolour/VPR/RPT/{{season}}_Craftables_lewis.png",
+      "FromFile": "assets/TileSheets/recolour/VPR/{{season}}_Craftables_lewis.png",
       "PatchMode": "Overlay",
       "Priority": "Late + 1",
       "ToArea": {
@@ -29,7 +29,7 @@
         "Height": 32
       },
       "When": {
-        "Hasmod": "JefGrizli.RedrawPelicanTown",
+        "Hasmod": "VibrantPastoral.C",
         "Season |contains=spring": false,
         "IsOutdoors": true
       }
@@ -37,7 +37,7 @@
     {
       "Action": "EditImage",
       "Target": "Minigames/Intro",
-      "FromFile": "assets/Minigames/recolour/VPR/RPT/intro.png",
+      "FromFile": "assets/Minigames/recolour/VPR/intro.png",
       "PatchMode": "Overlay",
       "Priority": "Late + 1",
       "ToArea": {
@@ -47,7 +47,7 @@
         "Height": 19
       },
       "When": {
-        "HasMod": "JefGrizli.RedrawPelicanTown"
+        "HasMod": "VibrantPastoral.C"
       }
     },
     {
@@ -63,7 +63,7 @@
         "Height": 32
       },
       "When": {
-        "Hasmod": "grapeponta.VibrantPastoralRecolor"
+        "Hasmod": "VibrantPastoral.C"
       }
     },
     {
@@ -79,7 +79,7 @@
         "Height": 32
       },
       "When": {
-        "Hasmod": "grapeponta.VibrantPastoralRecolor"
+        "Hasmod": "VibrantPastoral.C"
       }
     }
   ]
