@@ -35,6 +35,7 @@ If that doesn't work, make sure this is the only copy of AnthroCharactersContinu
 ## Translators
 - EMber (Chinese)
 - isma_kenji (Spanish)
+- mgbrsk (Russian)
 
 ## Support
 This mod has been a community effort, but without Gaveliere it would not exist. 
@@ -55,7 +56,7 @@ Thanks to Krystedez for Content Patcher management and co-development.
 
 Thanks to JefGrizli for major config edits, layout improvements, and mod compatibility work.
 
-Thank you to our translators: EMber and isma_kenji
+Thank you to our translators: EMber, isma_kenji, and mgbrsk
 
 Thanks to Krystedez and ColaWolf for additional characters.
 
