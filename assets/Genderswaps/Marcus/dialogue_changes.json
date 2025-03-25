@@ -10,7 +10,8 @@
         "Gender": "Male"
       },
       "When": {
-        "Query: '{{DayEvent}}' = 'flower dance' AND '{{LocationName}}' = 'Temp'": false
+        "Query: '{{DayEvent}}' = 'flower dance' AND '{{LocationName}}' = 'Temp'": false,
+        "Query: '{{DayEvent}}' = 'wedding' AND '{{LocationName}}' = 'Town' AND {{Time}} <= 0600": false
       },
       "Update": "OnLocationChange"
     },
@@ -171,7 +172,11 @@
       "Entries": {
         "MapPage.cs.11095": "{{i18n:Strings/StringsFromCSFiles..MapPage=cs=11095...Marcus |default={{i18n:Strings/StringsFromCSFiles..MapPage=cs=11095.. |Sebastian={{Sebastian}} |Maru={{Maru}}}} |Sebastian={{Sebastian}} |Maru={{Maru}}}}",
         "ItemDeliveryQuest.cs.13580": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13580...Marcus |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13580..}}}}",
-        "ItemDeliveryQuest.cs.13583": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13583...Marcus |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13583..}}}}"
+        "ItemDeliveryQuest.cs.13583": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13583...Marcus |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13583..}}}}",
+        "Utility.cs.5371": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and... well, husband!$h",
+        "Utility.cs.5373": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and... well, husband!$h",
+        "Utility.cs.5375": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and... well, husband!$h",
+        "Utility.cs.5377": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and... well, husband!$h"
       }
     },
     {

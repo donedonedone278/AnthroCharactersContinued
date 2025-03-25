@@ -10,7 +10,8 @@
         "Gender": "Male"
       },
       "When": {
-        "Query: '{{DayEvent}}' = 'flower dance' AND '{{LocationName}}' = 'Temp'": false
+        "Query: '{{DayEvent}}' = 'flower dance' AND '{{LocationName}}' = 'Temp'": false,
+        "Query: '{{DayEvent}}' = 'wedding' AND '{{LocationName}}' = 'Town' AND {{Time}} <= 0600": false
       },
       "Update": "OnLocationChange"
     },
@@ -231,7 +232,11 @@
         "Event.cs.1862": "{{i18n:Strings/StringsFromCSFiles..Event=cs=1862...Albert |default={{i18n:Strings/StringsFromCSFiles..Event=cs=1862..}}}}",
         "MapPage.cs.11079": "{{i18n:Strings/StringsFromCSFiles..MapPage=cs=11079...Albert |default={{i18n:Strings/StringsFromCSFiles..MapPage=cs=11079..}}}}",
         "ItemDeliveryQuest.cs.13590": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13590...Albert |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13590..}}}}",
-        "ItemDeliveryQuest.cs.13593": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13593...Albert |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13593..}}}}"
+        "ItemDeliveryQuest.cs.13593": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13593...Albert |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13593..}}}}",
+        "Utility.cs.5371": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and... well, husband!$h",
+        "Utility.cs.5373": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and... well, husband!$h",
+        "Utility.cs.5375": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and... well, husband!$h",
+        "Utility.cs.5377": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and... well, husband!$h"
       }
     },
     {

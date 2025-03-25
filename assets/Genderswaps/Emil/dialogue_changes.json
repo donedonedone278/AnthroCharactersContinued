@@ -10,7 +10,8 @@
         "Gender": "Male"
       },
       "When": {
-        "Query: '{{DayEvent}}' = 'flower dance' AND '{{LocationName}}' = 'Temp'": false
+        "Query: '{{DayEvent}}' = 'flower dance' AND '{{LocationName}}' = 'Temp'": false,
+        "Query: '{{DayEvent}}' = 'wedding' AND '{{LocationName}}' = 'Town' AND {{Time}} <= 0600": false
       },
       "Update": "OnLocationChange"
     },
@@ -235,7 +236,11 @@
         "MapPage.cs.11074": "{{i18n:Strings/StringsFromCSFiles..MapPage=cs=11074...Emil |default={{i18n:Strings/StringsFromCSFiles..MapPage=cs=11074.. |Emily={{Emily}} |Haley={{Haley}}}} |Emily={{Emily}} |Haley={{Haley}}}}",
         "ItemDeliveryQuest.cs.13473": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13473...Emil |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13473..}}}}",
         "ItemDeliveryQuest.cs.13476": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13476...Emil |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13476..}}}}",
-        "SocializeQuest.cs.13786": "{{i18n:Strings/StringsFromCSFiles..SocializeQuest=cs=13786...Emil |default={{i18n:Strings/StringsFromCSFiles..SocializeQuest=cs=13786..}}}}"
+        "SocializeQuest.cs.13786": "{{i18n:Strings/StringsFromCSFiles..SocializeQuest=cs=13786...Emil |default={{i18n:Strings/StringsFromCSFiles..SocializeQuest=cs=13786..}}}}",
+        "Utility.cs.5371": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and... well, husband!$h",
+        "Utility.cs.5373": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and... well, husband!$h",
+        "Utility.cs.5375": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and... well, husband!$h",
+        "Utility.cs.5377": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and... well, husband!$h"
       }
     },
     {
