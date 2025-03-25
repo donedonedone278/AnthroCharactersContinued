@@ -67,7 +67,7 @@
       "Action": "EditData",
       "Target": "Data/Events/Forest",
       "Entries": {
-        "choseFarming": "{{i18n:Data/Events/Forest..choseFarming...Samantha |default={{i18n:Data/Events/Forest..choseFarming.. |Sam_brother={{Sam_brother}} |Sam={{Sam}} |Sam_He={{Sam_He}} |Sam_him={{Sam_him}} |Penny_Miss={{Penny_Miss}} |Penny={{Penny}}}} |Sam_brother={{Sam_brother}} |Sam={{Sam}} |Sam_He={{Sam_He}} |Sam_him={{Sam_him}} |Penny_Miss={{Penny_Miss}} |Penny={{Penny}}}}"
+        "choseFarming": "{{i18n:Data/Events/Forest..choseFarming...Samantha |default={{i18n:Data/Events/Forest..choseFarming.. |Sam_brother={{Sam_brother}} |Sam={{Sam}} |Sam_He_Uppercase={{Sam_He_Uppercase}} |Sam_him={{Sam_him}} |Penny_Miss={{Penny_Miss}} |Penny={{Penny}}}} |Sam_brother={{Sam_brother}} |Sam={{Sam}} |Sam_He_Uppercase={{Sam_He_Uppercase}} |Sam_him={{Sam_him}} |Penny_Miss={{Penny_Miss}} |Penny={{Penny}}}}"
       }
     },
     {

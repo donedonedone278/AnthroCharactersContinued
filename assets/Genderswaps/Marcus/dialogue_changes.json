@@ -97,7 +97,7 @@
       "Action": "EditData",
       "Target": "Data/Events/Hospital",
       "Entries": {
-        "7/f Maru 1000/p Maru": "{{i18n:Data/Events/Hospital..7/f+Maru+1000/p+Maru.. |Harvey={{Harvey}} |Harvey_He={{Harvey_He}} |Harvey={{Harvey}} |Harvey={{Harvey}} |Maru={{Maru}}}}",
+        "7/f Maru 1000/p Maru": "{{i18n:Data/Events/Hospital..7/f+Maru+1000/p+Maru.. |Harvey={{Harvey}} |Harvey_He_Uppercase={{Harvey_He_Uppercase}} |Harvey={{Harvey}} |Harvey={{Harvey}} |Maru={{Maru}}}}",
         "toldTruth": "{{i18n:Data/Events/Hospital..toldTruth...Marcus |default={{i18n:Data/Events/Hospital..toldTruth.. |Maru={{Maru}} |Harvey={{Harvey}}}} |Maru={{Maru}} |Harvey={{Harvey}}}}"
       }
     },

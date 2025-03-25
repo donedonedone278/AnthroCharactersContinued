@@ -36,7 +36,7 @@
       "Action": "EditData",
       "Target": "Data/SecretNotes",
       "Entries": {
-        "7": "{{i18n:Data/SecretNotes..7...Shauna |default={{i18n:Data/SecretNotes..7.. |Harvey={{Harvey}} |Harvey_he={{Harvey_he}} |Harvey_husband={{Harvey_husband}} |Harvey_He={{Harvey_He}} |Elliott={{Elliott}} |Elliott_he_does_have_a_nice_chin={{Elliott_he_does_have_a_nice_chin}} |Elliott_He={{Elliott_He}} |Shane={{Shane}} |Shane_his_her={{Shane_his_her}} |Shane_his_her={{Shane_his_her}} |Shane_He={{Shane_He}}}} |Harvey={{Harvey}} |Harvey_he={{Harvey_he}} |Harvey_husband={{Harvey_husband}} |Harvey_He={{Harvey_He}} |Elliott={{Elliott}} |Elliott_he_does_have_a_nice_chin={{Elliott_he_does_have_a_nice_chin}} |Elliott_He={{Elliott_He}} |Shane={{Shane}} |Shane_his_her={{Shane_his_her}} |Shane_his_her={{Shane_his_her}} |Shane_He={{Shane_He}}}}"
+        "7": "{{i18n:Data/SecretNotes..7...Shauna |default={{i18n:Data/SecretNotes..7.. |Harvey={{Harvey}} |Harvey_he={{Harvey_he}} |Harvey_husband={{Harvey_husband}} |Harvey_He_Uppercase={{Harvey_He_Uppercase}} |Elliott={{Elliott}} |Elliott_he_does_have_a_nice_chin={{Elliott_he_does_have_a_nice_chin}} |Elliott_He={{Elliott_He}} |Shane={{Shane}} |Shane_his_her={{Shane_his_her}} |Shane_his_her={{Shane_his_her}} |Shane_He={{Shane_He}}}} |Harvey={{Harvey}} |Harvey_he={{Harvey_he}} |Harvey_husband={{Harvey_husband}} |Harvey_He_Uppercase={{Harvey_He_Uppercase}} |Elliott={{Elliott}} |Elliott_he_does_have_a_nice_chin={{Elliott_he_does_have_a_nice_chin}} |Elliott_He={{Elliott_He}} |Shane={{Shane}} |Shane_his_her={{Shane_his_her}} |Shane_his_her={{Shane_his_her}} |Shane_He={{Shane_He}}}}"
       }
     },
     {

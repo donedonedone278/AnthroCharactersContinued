@@ -25,7 +25,7 @@
       "Action": "EditData",
       "Target": "Data/SecretNotes",
       "Entries": {
-        "7": "{{i18n:Data/SecretNotes..7...Hannah |default={{i18n:Data/SecretNotes..7.. |Harvey={{Harvey}} |Harvey_he={{Harvey_he}} |Harvey_husband={{Harvey_husband}} |Harvey_He={{Harvey_He}} |Elliott={{Elliott}} |Elliott_he_does_have_a_nice_chin={{Elliott_he_does_have_a_nice_chin}} |Elliott_He={{Elliott_He}} |Shane={{Shane}} |Shane_his_her={{Shane_his_her}} |Shane_his_her={{Shane_his_her}} |Shane_He={{Shane_He}}}} |Harvey={{Harvey}} |Harvey_he={{Harvey_he}} |Harvey_husband={{Harvey_husband}} |Harvey_He={{Harvey_He}} |Elliott={{Elliott}} |Elliott_he_does_have_a_nice_chin={{Elliott_he_does_have_a_nice_chin}} |Elliott_He={{Elliott_He}} |Shane={{Shane}} |Shane_his_her={{Shane_his_her}} |Shane_his_her={{Shane_his_her}} |Shane_He={{Shane_He}}}}"
+        "7": "{{i18n:Data/SecretNotes..7...Hannah |default={{i18n:Data/SecretNotes..7.. |Harvey={{Harvey}} |Harvey_he={{Harvey_he}} |Harvey_husband={{Harvey_husband}} |Harvey_He_Uppercase={{Harvey_He_Uppercase}} |Elliott={{Elliott}} |Elliott_he_does_have_a_nice_chin={{Elliott_he_does_have_a_nice_chin}} |Elliott_He={{Elliott_He}} |Shane={{Shane}} |Shane_his_her={{Shane_his_her}} |Shane_his_her={{Shane_his_her}} |Shane_He={{Shane_He}}}} |Harvey={{Harvey}} |Harvey_he={{Harvey_he}} |Harvey_husband={{Harvey_husband}} |Harvey_He_Uppercase={{Harvey_He_Uppercase}} |Elliott={{Elliott}} |Elliott_he_does_have_a_nice_chin={{Elliott_he_does_have_a_nice_chin}} |Elliott_He={{Elliott_He}} |Shane={{Shane}} |Shane_his_her={{Shane_his_her}} |Shane_his_her={{Shane_his_her}} |Shane_He={{Shane_He}}}}"
       }
     },
     {
@@ -55,7 +55,7 @@
       "Action": "EditData",
       "Target": "Data/Events/Hospital",
       "Entries": {
-        "7/f Maru 1000/p Maru": "{{i18n:Data/Events/Hospital..7/f+Maru+1000/p+Maru.. |Harvey={{Harvey}} |Harvey_He={{Harvey_He}} |Harvey={{Harvey}} |Harvey={{Harvey}} |Maru={{Maru}}}}",
+        "7/f Maru 1000/p Maru": "{{i18n:Data/Events/Hospital..7/f+Maru+1000/p+Maru.. |Harvey={{Harvey}} |Harvey_He_Uppercase={{Harvey_He_Uppercase}} |Harvey={{Harvey}} |Harvey={{Harvey}} |Maru={{Maru}}}}",
         "toldTruth": "{{i18n:Data/Events/Hospital..toldTruth...Hannah |default={{i18n:Data/Events/Hospital..toldTruth.. |Maru={{Maru}} |Harvey={{Harvey}}}} |Maru={{Maru}} |Harvey={{Harvey}}}}",
         "571102/f Harvey 2000": "{{i18n:Data/Events/Hospital..571102/f+Harvey+2000...Hannah |default={{i18n:Data/Events/Hospital..571102/f+Harvey+2000.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }

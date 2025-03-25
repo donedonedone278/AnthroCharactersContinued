@@ -264,12 +264,12 @@
       }
     },
     {
-      "Name": "Sam_He",
-      "Value": "{{i18n:token.Sam_He.normal}}"
+      "Name": "Sam_He_Uppercase",
+      "Value": "{{i18n:token.Sam_He_Uppercase.normal}}"
     },
     {
-      "Name": "Sam_He",
-      "Value": "{{i18n:token.Sam_He.swapped}}",
+      "Name": "Sam_He_Uppercase",
+      "Value": "{{i18n:token.Sam_He_Uppercase.swapped}}",
       "When": {
         "Sam to Samantha": true
       }
@@ -352,12 +352,12 @@
       }
     },
     {
-      "Name": "Harvey_He",
-      "Value": "{{i18n:token.Harvey_He.normal}}"
+      "Name": "Harvey_He_Uppercase",
+      "Value": "{{i18n:token.Harvey_He_Uppercase.normal}}"
     },
     {
-      "Name": "Harvey_He",
-      "Value": "{{i18n:token.Harvey_He.swapped}}",
+      "Name": "Harvey_He_Uppercase",
+      "Value": "{{i18n:token.Harvey_He_Uppercase.swapped}}",
       "When": {
         "Harvey to Hannah": true
       }
