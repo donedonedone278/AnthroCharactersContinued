@@ -372,6 +372,11 @@
     },
     {
       "Action": "EditImage",
+      "Target": "Characters/Sam_JojaMart",
+      "FromFile": "assets/Characters/Sam_JojaMart.png"
+    },
+    {
+      "Action": "EditImage",
       "Target": "Characters/Sandy",
       "FromFile": "assets/Characters/Sandy.png"
     },
@@ -1410,7 +1415,7 @@
     },
     {
       "Action": "EditImage",
-      "Target": "Portraits/Sam",
+      "Target": "Portraits/Sam_JojaMart",
       "FromFile": "assets/Portraits/Sam_JojaMart.png"
     },
     {
@@ -1450,7 +1455,7 @@
     },
     {
       "Action": "EditImage",
-      "Target": "Portraits/Shane",
+      "Target": "Portraits/Shane_JojaMart",
       "FromFile": "assets/Portraits/Shane_JojaMart.png"
     },
     {
