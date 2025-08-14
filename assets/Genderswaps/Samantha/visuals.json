@@ -50,6 +50,11 @@
     },
     {
       "Action": "EditImage",
+      "Target": "Portraits/Sam_JojaMart",
+      "FromFile": "assets/Portraits/Samantha_JojaMart.png"
+    },
+    {
+      "Action": "EditImage",
       "Target": "LooseSprites/emojis",
       "FromFile": "assets/LooseSprites/emojis_characters.png",
       "Priority": "Late + 1",

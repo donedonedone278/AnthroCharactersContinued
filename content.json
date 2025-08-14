@@ -16,37 +16,37 @@
     "Abigail to Albert": {
       "AllowValues": "true, false",
       "Default": "false",
-      "Section": "Genderswaps",
+      "Section": "Female-To-Male Genderswaps",
       "Description": "Visuals take a second to activate. Dialogue changes are applied at start-of-day."
     },
     "Emily to Emil": {
       "AllowValues": "true, false",
       "Default": "false",
-      "Section": "Genderswaps",
+      "Section": "Female-To-Male Genderswaps",
       "Description": "Visuals take a second to activate. Dialogue changes are applied at start-of-day."
     },
     "Haley to Hayden": {
       "AllowValues": "true, false",
       "Default": "false",
-      "Section": "Genderswaps",
+      "Section": "Female-To-Male Genderswaps",
       "Description": "Visuals take a second to activate. Dialogue changes are applied at start-of-day."
     },
     "Leah to Liam": {
       "AllowValues": "true, false",
       "Default": "false",
-      "Section": "Genderswaps",
+      "Section": "Female-To-Male Genderswaps",
       "Description": "Visuals take a second to activate. Dialogue changes are applied at start-of-day."
     },
     "Maru to Marcus": {
       "AllowValues": "true, false",
       "Default": "false",
-      "Section": "Genderswaps",
+      "Section": "Female-To-Male Genderswaps",
       "Description": "Visuals take a second to activate. Dialogue changes are applied at start-of-day."
     },
     "Penny to Perry": {
       "AllowValues": "true, false",
       "Default": "false",
-      "Section": "Genderswaps",
+      "Section": "Female-To-Male Genderswaps",
       "Description": "Visuals take a second to activate. Dialogue changes are applied at start-of-day."
     },
     "Shane to Shauna": {
@@ -58,8 +58,8 @@
     "Elliott to Ellen": {
       "AllowValues": "true, false",
       "Default": "false",
-      "Section": "WORK IN PROGRESS (NO VISUALS)",
-      "Description": "WORK IN PROGRESS (NO VISUALS). Dialogue changes are applied at start-of-day."
+      "Section": "Male-To-Female Genderswaps",
+      "Description": "Visuals take a second to activate. Dialogue changes are applied at start-of-day."
     },
     "Sebastian to Sabrina": {
       "AllowValues": "true, false",
@@ -70,14 +70,14 @@
     "Sam to Samantha": {
       "AllowValues": "true, false",
       "Default": "false",
-      "Section": "WORK IN PROGRESS (NO VISUALS)",
-      "Description": "WORK IN PROGRESS (NO VISUALS). Dialogue changes are applied at start-of-day."
+      "Section": "Male-To-Female Genderswaps",
+      "Description": "Visuals take a second to activate. Dialogue changes are applied at start-of-day."
     },
     "Harvey to Hannah": {
       "AllowValues": "true, false",
       "Default": "false",
-      "Section": "WORK IN PROGRESS (NO VISUALS)",
-      "Description": "WORK IN PROGRESS (NO VISUALS). Dialogue changes are applied at start-of-day."
+      "Section": "Male-To-Female Genderswaps",
+      "Description": "Visuals take a second to activate. Dialogue changes are applied at start-of-day."
     },
     "Alex to Alexis": {
       "AllowValues": "true, false",
