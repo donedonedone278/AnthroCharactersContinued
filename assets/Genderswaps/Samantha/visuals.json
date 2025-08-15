@@ -50,8 +50,8 @@
     },
     {
       "Action": "EditImage",
-      "Target": "Portraits/Sam_JojaMart",
-      "FromFile": "assets/Portraits/Samantha_JojaMart.png"
+      "Target": "Characters/Sam_JojaMart",
+      "FromFile": "assets/Characters/Samantha_JojaMart.png"
     },
     {
       "Action": "EditImage",
