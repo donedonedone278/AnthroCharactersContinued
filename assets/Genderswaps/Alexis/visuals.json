@@ -33,11 +33,11 @@
     {
       "Action": "EditImage",
       "Target": "TileSheets/junimo_furniture",
-      "FromFile": "assets/TileSheets/junimo_furniture_portraits.png",
+      "FromFile": "assets/TileSheets/junimo_furniture_alexis.png",
       "Priority": "Late + 1",
       "FromArea": {
-        "X": 23,
-        "Y": 135,
+        "X": 7,
+        "Y": 7,
         "Width": 18,
         "Height": 18
       },

@@ -3,11 +3,11 @@
     {
       "Action": "EditImage",
       "Target": "TileSheets/junimo_furniture",
-      "FromFile": "assets/TileSheets/junimo_furniture_portraits.png",
+      "FromFile": "assets/TileSheets/junimo_furniture_shauna.png",
       "Priority": "Late + 1",
       "FromArea": {
-        "X": 55,
-        "Y": 135,
+        "X": 7,
+        "Y": 7,
         "Width": 18,
         "Height": 18
       },
@@ -16,6 +16,24 @@
         "Y": 311,
         "Width": 18,
         "Height": 18
+      }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "assets/LooseSprites/Cursors/Cursors_prarie_king_and_random_stuff_genderswap.png",
+      "Priority": "Late + 1",
+      "FromArea": {
+        "X": 309,
+        "Y": 151,
+        "Width": 19,
+        "Height": 28
+      },
+      "ToArea": {
+        "X": 533,
+        "Y": 1863,
+        "Width": 19,
+        "Height": 28
       }
     },
     {

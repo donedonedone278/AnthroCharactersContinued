@@ -3,11 +3,11 @@
     {
       "Action": "EditImage",
       "Target": "TileSheets/junimo_furniture",
-      "FromFile": "assets/TileSheets/junimo_furniture_portraits.png",
+      "FromFile": "assets/TileSheets/junimo_furniture_hannah.png",
       "Priority": "Late + 1",
       "FromArea": {
-        "X": 119,
-        "Y": 103,
+        "X": 7,
+        "Y": 7,
         "Width": 18,
         "Height": 18
       },

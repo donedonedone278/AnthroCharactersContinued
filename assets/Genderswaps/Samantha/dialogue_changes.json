@@ -10,7 +10,8 @@
         "Gender": "Female"
       },
       "When": {
-        "Query: '{{DayEvent}}' = 'flower dance' AND '{{LocationName}}' = 'Temp'": false
+        "Query: '{{DayEvent}}' = 'flower dance' AND '{{LocationName}}' = 'Temp'": false,
+        "Query: '{{DayEvent}}' = 'wedding' AND '{{LocationName}}' = 'Town' AND {{Time}} <= 0600": false
       },
       "Update": "OnLocationChange"
     },

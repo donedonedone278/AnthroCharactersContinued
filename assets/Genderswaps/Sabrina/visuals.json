@@ -3,11 +3,11 @@
     {
       "Action": "EditImage",
       "Target": "TileSheets/junimo_furniture",
-      "FromFile": "assets/TileSheets/junimo_furniture_portraits.png",
+      "FromFile": "assets/TileSheets/junimo_furniture_sabrina.png",
       "Priority": "Late + 1",
       "FromArea": {
-        "X": 119,
-        "Y": 135,
+        "X": 7,
+        "Y": 7,
         "Width": 18,
         "Height": 18
       },
@@ -47,6 +47,24 @@
       "Action": "EditImage",
       "Target": "Portraits/Sebastian_Winter",
       "FromFile": "assets/Portraits/Sabrina_Winter.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "LooseSprites/Cursors",
+      "FromFile": "assets/LooseSprites/Cursors/Cursors_prarie_king_and_random_stuff_genderswap.png",
+      "Priority": "Late + 1",
+      "FromArea": {
+        "X": 181,
+        "Y": 142,
+        "Width": 47,
+        "Height": 33
+      },
+      "ToArea": {
+        "X": 405,
+        "Y": 1854,
+        "Width": 47,
+        "Height": 33
+      }
     },
     {
       "Action": "EditImage",
