@@ -58,14 +58,14 @@
     "Shane to Shauna": {
       "AllowValues": "true, false",
       "Default": "false",
-      "Section": "WORK IN PROGRESS (NO VISUALS)",
-      "Description": "WORK IN PROGRESS (NO VISUALS). Dialogue changes are applied at start-of-day."
+      "Section": "Male-To-Female Genderswaps",
+      "Description": "Visuals take a second to activate. Dialogue changes are applied at start-of-day."
     },
     "Sebastian to Sabrina": {
       "AllowValues": "true, false",
       "Default": "false",
-      "Section": "WORK IN PROGRESS (NO VISUALS)",
-      "Description": "WORK IN PROGRESS (NO VISUALS). Dialogue changes are applied at start-of-day."
+      "Section": "Male-To-Female Genderswaps",
+      "Description": "Visuals take a second to activate. Dialogue changes are applied at start-of-day."
     },
     "Sam to Samantha": {
       "AllowValues": "true, false",
@@ -82,8 +82,8 @@
     "Alex to Alexis": {
       "AllowValues": "true, false",
       "Default": "false",
-      "Section": "WORK IN PROGRESS (NO VISUALS)",
-      "Description": "WORK IN PROGRESS (NO VISUALS). Dialogue changes are applied at start-of-day."
+      "Section": "Male-To-Female Genderswaps",
+      "Description": "Visuals take a second to activate. Dialogue changes are applied at start-of-day."
     }
   },
   "DynamicTokens": [
