@@ -86,6 +86,11 @@
     },
     {
       "Action": "EditImage",
+      "Target": "Portraits/Shane_JojaMart",
+      "FromFile": "assets/Portraits/Shauna_JojaMart.png"
+    },
+    {
+      "Action": "EditImage",
       "Target": "Portraits/Shane_Winter",
       "FromFile": "assets/Portraits/Shauna_Winter.png"
     }
