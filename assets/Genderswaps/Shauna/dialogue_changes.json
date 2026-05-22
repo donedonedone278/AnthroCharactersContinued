@@ -181,6 +181,7 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Shane",
       "Entries": {
+        "dating_Shane_memory_oneday": "{{i18n:Characters/Dialogue/Shane..dating_Shane_memory_oneday...Shauna}}",
         "dumped_Guys": "{{i18n:Characters/Dialogue/Shane..dumped_Guys...Shauna |default={{i18n:Characters/Dialogue/Shane..dumped_Guys.. |Shane={{Shane}}}} |Shane={{Shane}}}}",
         "JojaMart": "{{i18n:Characters/Dialogue/Shane..JojaMart...Shauna |default={{i18n:Characters/Dialogue/Shane..JojaMart.. |Shane={{Shane}}}} |Shane={{Shane}}}}",
         "Tue10": "{{i18n:Characters/Dialogue/Shane..Tue10...Shauna |default={{i18n:Characters/Dialogue/Shane..Tue10..}}}}"
