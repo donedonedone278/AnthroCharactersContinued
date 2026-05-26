@@ -1,0 +1,44 @@
+{
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Sam",
+      "FromFile": "assets/Characters/Sam.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Sam_Beach",
+      "FromFile": "assets/Characters/Sam_Beach.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Sam_Winter",
+      "FromFile": "assets/Characters/Sam_Winter.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Sam_JojaMart",
+      "FromFile": "assets/Characters/Sam_JojaMart.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Sam",
+      "FromFile": "assets/Portraits/Sam.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Sam_JojaMart",
+      "FromFile": "assets/Portraits/Sam_JojaMart.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Sam_Beach",
+      "FromFile": "assets/Portraits/Sam_Beach.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Sam_Winter",
+      "FromFile": "assets/Portraits/Sam_Winter.png"
+    }
+  ]
+}

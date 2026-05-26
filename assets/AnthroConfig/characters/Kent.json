@@ -1,0 +1,24 @@
+{
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Kent",
+      "FromFile": "assets/Characters/Kent.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Kent_Winter",
+      "FromFile": "assets/Characters/Kent_Winter.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Kent",
+      "FromFile": "assets/Portraits/Kent.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Kent_Winter",
+      "FromFile": "assets/Portraits/Kent_Winter.png"
+    }
+  ]
+}

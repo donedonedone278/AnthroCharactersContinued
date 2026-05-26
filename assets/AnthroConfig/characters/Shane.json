@@ -1,0 +1,44 @@
+{
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Shane",
+      "FromFile": "assets/Characters/Shane.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Shane_Beach",
+      "FromFile": "assets/Characters/Shane_Beach.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Shane_JojaMart",
+      "FromFile": "assets/Characters/Shane_JojaMart.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Shane_Winter",
+      "FromFile": "assets/Characters/Shane_Winter.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Shane",
+      "FromFile": "assets/Portraits/Shane.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Shane_JojaMart",
+      "FromFile": "assets/Portraits/Shane_JojaMart.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Shane_Beach",
+      "FromFile": "assets/Portraits/Shane_Beach.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Shane_Winter",
+      "FromFile": "assets/Portraits/Shane_Winter.png"
+    }
+  ]
+}

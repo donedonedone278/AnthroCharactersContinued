@@ -1,0 +1,34 @@
+{
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Harvey",
+      "FromFile": "assets/Characters/Harvey.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Harvey_Beach",
+      "FromFile": "assets/Characters/Harvey_Beach.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Harvey_Winter",
+      "FromFile": "assets/Characters/Harvey_Winter.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Harvey",
+      "FromFile": "assets/Portraits/Harvey.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Harvey_Beach",
+      "FromFile": "assets/Portraits/Harvey_Beach.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Harvey_Winter",
+      "FromFile": "assets/Portraits/Harvey_Winter.png"
+    }
+  ]
+}

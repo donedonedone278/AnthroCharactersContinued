@@ -24,170 +24,287 @@
       "FromFile": "assets/RecolourConfig/recolour.json"
     },
     {
-      "When": {
-        "Abigail to Albert": true
-      },
+      "When": { "Enable Abigail": true },
+      "Action": "Include",
+      "FromFile": "assets/AnthroConfig/characters/Abigail.json"
+    },
+    {
+      "When": { "Enable Alex": true },
+      "Action": "Include",
+      "FromFile": "assets/AnthroConfig/characters/Alex.json"
+    },
+    {
+      "When": { "Enable Caroline": true },
+      "Action": "Include",
+      "FromFile": "assets/AnthroConfig/characters/Caroline.json"
+    },
+    {
+      "When": { "Enable Clint": true },
+      "Action": "Include",
+      "FromFile": "assets/AnthroConfig/characters/Clint.json"
+    },
+    {
+      "When": { "Enable Demetrius": true },
+      "Action": "Include",
+      "FromFile": "assets/AnthroConfig/characters/Demetrius.json"
+    },
+    {
+      "When": { "Enable Elliott": true },
+      "Action": "Include",
+      "FromFile": "assets/AnthroConfig/characters/Elliott.json"
+    },
+    {
+      "When": { "Enable Emily": true },
+      "Action": "Include",
+      "FromFile": "assets/AnthroConfig/characters/Emily.json"
+    },
+    {
+      "When": { "Enable Evelyn": true },
+      "Action": "Include",
+      "FromFile": "assets/AnthroConfig/characters/Evelyn.json"
+    },
+    {
+      "When": { "Enable George": true },
+      "Action": "Include",
+      "FromFile": "assets/AnthroConfig/characters/George.json"
+    },
+    {
+      "When": { "Enable Gus": true },
+      "Action": "Include",
+      "FromFile": "assets/AnthroConfig/characters/Gus.json"
+    },
+    {
+      "When": { "Enable Haley": true },
+      "Action": "Include",
+      "FromFile": "assets/AnthroConfig/characters/Haley.json"
+    },
+    {
+      "When": { "Enable Harvey": true },
+      "Action": "Include",
+      "FromFile": "assets/AnthroConfig/characters/Harvey.json"
+    },
+    {
+      "When": { "Enable Jas": true },
+      "Action": "Include",
+      "FromFile": "assets/AnthroConfig/characters/Jas.json"
+    },
+    {
+      "When": { "Enable Jodi": true },
+      "Action": "Include",
+      "FromFile": "assets/AnthroConfig/characters/Jodi.json"
+    },
+    {
+      "When": { "Enable Kent": true },
+      "Action": "Include",
+      "FromFile": "assets/AnthroConfig/characters/Kent.json"
+    },
+    {
+      "When": { "Enable Krobus": true },
+      "Action": "Include",
+      "FromFile": "assets/AnthroConfig/characters/Krobus.json"
+    },
+    {
+      "When": { "Enable Leah": true },
+      "Action": "Include",
+      "FromFile": "assets/AnthroConfig/characters/Leah.json"
+    },
+    {
+      "When": { "Enable Lewis": true },
+      "Action": "Include",
+      "FromFile": "assets/AnthroConfig/characters/Lewis.json"
+    },
+    {
+      "When": { "Enable Linus": true },
+      "Action": "Include",
+      "FromFile": "assets/AnthroConfig/characters/Linus.json"
+    },
+    {
+      "When": { "Enable Marlon": true },
+      "Action": "Include",
+      "FromFile": "assets/AnthroConfig/characters/Marlon.json"
+    },
+    {
+      "When": { "Enable Marnie": true },
+      "Action": "Include",
+      "FromFile": "assets/AnthroConfig/characters/Marnie.json"
+    },
+    {
+      "When": { "Enable Maru": true },
+      "Action": "Include",
+      "FromFile": "assets/AnthroConfig/characters/Maru.json"
+    },
+    {
+      "When": { "Enable Pam": true },
+      "Action": "Include",
+      "FromFile": "assets/AnthroConfig/characters/Pam.json"
+    },
+    {
+      "When": { "Enable Penny": true },
+      "Action": "Include",
+      "FromFile": "assets/AnthroConfig/characters/Penny.json"
+    },
+    {
+      "When": { "Enable Pierre": true },
+      "Action": "Include",
+      "FromFile": "assets/AnthroConfig/characters/Pierre.json"
+    },
+    {
+      "When": { "Enable Robin": true },
+      "Action": "Include",
+      "FromFile": "assets/AnthroConfig/characters/Robin.json"
+    },
+    {
+      "When": { "Enable Sam": true },
+      "Action": "Include",
+      "FromFile": "assets/AnthroConfig/characters/Sam.json"
+    },
+    {
+      "When": { "Enable Sandy": true },
+      "Action": "Include",
+      "FromFile": "assets/AnthroConfig/characters/Sandy.json"
+    },
+    {
+      "When": { "Enable Sebastian": true },
+      "Action": "Include",
+      "FromFile": "assets/AnthroConfig/characters/Sebastian.json"
+    },
+    {
+      "When": { "Enable Shane": true },
+      "Action": "Include",
+      "FromFile": "assets/AnthroConfig/characters/Shane.json"
+    },
+    {
+      "When": { "Enable Vincent": true },
+      "Action": "Include",
+      "FromFile": "assets/AnthroConfig/characters/Vincent.json"
+    },
+    {
+      "When": { "Enable Willy": true },
+      "Action": "Include",
+      "FromFile": "assets/AnthroConfig/characters/Willy.json"
+    },
+    {
+      "When": { "Enable Wizard": true },
+      "Action": "Include",
+      "FromFile": "assets/AnthroConfig/characters/Wizard.json"
+    },
+    {
+      "When": { "Abigail to Albert": true, "Enable Abigail": true },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Albert/visuals.json"
     },
     {
-      "When": {
-        "Abigail to Albert": true
-      },
+      "When": { "Abigail to Albert": true },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Albert/dialogue_changes.json"
     },
     {
-      "When": {
-        "Emily to Emil": true
-      },
+      "When": { "Emily to Emil": true, "Enable Emily": true },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Emil/visuals.json"
     },
     {
-      "When": {
-        "Emily to Emil": true
-      },
+      "When": { "Emily to Emil": true },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Emil/dialogue_changes.json"
     },
     {
-      "When": {
-        "Haley to Hayden": true
-      },
+      "When": { "Haley to Hayden": true, "Enable Haley": true },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Hayden/visuals.json"
     },
     {
-      "When": {
-        "Haley to Hayden": true
-      },
+      "When": { "Haley to Hayden": true },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Hayden/dialogue_changes.json"
     },
     {
-      "When": {
-        "Leah to Liam": true
-      },
+      "When": { "Leah to Liam": true, "Enable Leah": true },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Liam/visuals.json"
     },
     {
-      "When": {
-        "Leah to Liam": true
-      },
+      "When": { "Leah to Liam": true },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Liam/dialogue_changes.json"
     },
     {
-      "When": {
-        "Maru to Marcus": true
-      },
+      "When": { "Maru to Marcus": true, "Enable Maru": true },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Marcus/visuals.json"
     },
     {
-      "When": {
-        "Maru to Marcus": true
-      },
+      "When": { "Maru to Marcus": true },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Marcus/dialogue_changes.json"
     },
     {
-      "When": {
-        "Penny to Perry": true
-      },
+      "When": { "Penny to Perry": true, "Enable Penny": true },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Perry/visuals.json"
     },
     {
-      "When": {
-        "Penny to Perry": true
-      },
+      "When": { "Penny to Perry": true },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Perry/dialogue_changes.json"
     },
     {
-      "When": {
-        "Shane to Shauna": true
-      },
+      "When": { "Shane to Shauna": true, "Enable Shane": true },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Shauna/visuals.json"
     },
     {
-      "When": {
-        "Shane to Shauna": true
-      },
+      "When": { "Shane to Shauna": true },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Shauna/dialogue_changes.json"
     },
     {
-      "When": {
-        "Elliott to Ellen": true
-      },
+      "When": { "Elliott to Ellen": true, "Enable Elliott": true },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Ellen/visuals.json"
     },
     {
-      "When": {
-        "Elliott to Ellen": true
-      },
+      "When": { "Elliott to Ellen": true },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Ellen/dialogue_changes.json"
     },
     {
-      "When": {
-        "Sebastian to Sabrina": true
-      },
+      "When": { "Sebastian to Sabrina": true, "Enable Sebastian": true },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Sabrina/visuals.json"
     },
     {
-      "When": {
-        "Sebastian to Sabrina": true
-      },
+      "When": { "Sebastian to Sabrina": true },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Sabrina/dialogue_changes.json"
     },
     {
-      "When": {
-        "Sam to Samantha": true
-      },
+      "When": { "Sam to Samantha": true, "Enable Sam": true },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Samantha/visuals.json"
     },
     {
-      "When": {
-        "Sam to Samantha": true
-      },
+      "When": { "Sam to Samantha": true },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Samantha/dialogue_changes.json"
     },
     {
-      "When": {
-        "Harvey to Hannah": true
-      },
+      "When": { "Harvey to Hannah": true, "Enable Harvey": true },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Hannah/visuals.json"
     },
     {
-      "When": {
-        "Harvey to Hannah": true
-      },
+      "When": { "Harvey to Hannah": true },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Hannah/dialogue_changes.json"
     },
     {
-      "When": {
-        "Alex to Alexis": true
-      },
+      "When": { "Alex to Alexis": true, "Enable Alex": true },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Alexis/visuals.json"
     },
     {
-      "When": {
-        "Alex to Alexis": true
-      },
+      "When": { "Alex to Alexis": true },
       "Action": "Include",
       "FromFile": "assets/Genderswaps/Alexis/dialogue_changes.json"
     }

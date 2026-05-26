@@ -1,0 +1,24 @@
+{
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Jas",
+      "FromFile": "assets/Characters/Jas.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Jas_Winter",
+      "FromFile": "assets/Characters/Jas_Winter.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Jas",
+      "FromFile": "assets/Portraits/Jas.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Jas_Winter",
+      "FromFile": "assets/Portraits/Jas_Winter.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Marlon",
+      "FromFile": "assets/Characters/Marlon.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Marlon",
+      "FromFile": "assets/Portraits/Marlon.png"
+    }
+  ]
+}

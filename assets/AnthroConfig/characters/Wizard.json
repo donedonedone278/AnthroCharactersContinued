@@ -1,0 +1,14 @@
+{
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Wizard",
+      "FromFile": "assets/Characters/Wizard.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Wizard",
+      "FromFile": "assets/Portraits/Wizard.png"
+    }
+  ]
+}

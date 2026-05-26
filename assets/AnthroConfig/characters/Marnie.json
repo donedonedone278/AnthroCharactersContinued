@@ -1,0 +1,34 @@
+{
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Marnie",
+      "FromFile": "assets/Characters/Marnie.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Marnie_Beach",
+      "FromFile": "assets/Characters/Marnie_Beach.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Marnie_Winter",
+      "FromFile": "assets/Characters/Marnie_Winter.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Marnie",
+      "FromFile": "assets/Portraits/Marnie.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Marnie_Beach",
+      "FromFile": "assets/Portraits/Marnie_Beach.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Marnie_Winter",
+      "FromFile": "assets/Portraits/Marnie_Winter.png"
+    }
+  ]
+}

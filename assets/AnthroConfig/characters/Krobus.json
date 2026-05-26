@@ -1,0 +1,24 @@
+{
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Krobus",
+      "FromFile": "assets/Characters/Krobus.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Krobus_Trenchcoat",
+      "FromFile": "assets/Characters/Krobus_Trenchcoat.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Krobus",
+      "FromFile": "assets/Portraits/Krobus.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Krobus_Trenchcoat",
+      "FromFile": "assets/Portraits/Krobus_Trenchcoat.png"
+    }
+  ]
+}
