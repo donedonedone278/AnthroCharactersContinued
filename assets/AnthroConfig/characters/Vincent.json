@@ -1,0 +1,24 @@
+{
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Vincent",
+      "FromFile": "assets/Characters/Vincent.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Vincent_Winter",
+      "FromFile": "assets/Characters/Vincent_Winter.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Vincent",
+      "FromFile": "assets/Portraits/Vincent.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Vincent_Winter",
+      "FromFile": "assets/Portraits/Vincent_Winter.png"
+    }
+  ]
+}

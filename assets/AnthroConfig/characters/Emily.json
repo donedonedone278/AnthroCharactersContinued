@@ -1,0 +1,34 @@
+{
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Emily",
+      "FromFile": "assets/Characters/Emily.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Emily_Beach",
+      "FromFile": "assets/Characters/Emily_Beach.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Emily_Winter",
+      "FromFile": "assets/Characters/Emily_Winter.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Emily",
+      "FromFile": "assets/Portraits/Emily.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Emily_Beach",
+      "FromFile": "assets/Portraits/Emily_Beach.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Emily_Winter",
+      "FromFile": "assets/Portraits/Emily_Winter.png"
+    }
+  ]
+}

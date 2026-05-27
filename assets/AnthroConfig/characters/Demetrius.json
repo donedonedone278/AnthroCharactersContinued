@@ -1,0 +1,29 @@
+{
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Demetrius",
+      "FromFile": "assets/Characters/Demetrius.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Demetrius_Beach",
+      "FromFile": "assets/Characters/Demetrius_Beach.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Demetrius_Winter",
+      "FromFile": "assets/Characters/Demetrius_Winter.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Demetrius",
+      "FromFile": "assets/Portraits/Demetrius.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Demetrius_Winter",
+      "FromFile": "assets/Portraits/Demetrius_Winter.png"
+    }
+  ]
+}

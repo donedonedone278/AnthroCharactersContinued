@@ -1,0 +1,34 @@
+{
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Caroline",
+      "FromFile": "assets/Characters/Caroline.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Caroline_Beach",
+      "FromFile": "assets/Characters/Caroline_Beach.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Caroline_Winter",
+      "FromFile": "assets/Characters/Caroline_Winter.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Caroline",
+      "FromFile": "assets/Portraits/Caroline.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Caroline_Beach",
+      "FromFile": "assets/Portraits/Caroline_Beach.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Caroline_Winter",
+      "FromFile": "assets/Portraits/Caroline_Winter.png"
+    }
+  ]
+}

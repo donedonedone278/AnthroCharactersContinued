@@ -1,0 +1,24 @@
+{
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "Characters/George",
+      "FromFile": "assets/Characters/George.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/George_Winter",
+      "FromFile": "assets/Characters/George_Winter.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/George",
+      "FromFile": "assets/Portraits/George.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/George_Winter",
+      "FromFile": "assets/Portraits/George_Winter.png"
+    }
+  ]
+}

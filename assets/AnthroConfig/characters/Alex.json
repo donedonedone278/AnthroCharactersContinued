@@ -1,0 +1,34 @@
+{
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Alex",
+      "FromFile": "assets/Characters/Alex.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Alex_Beach",
+      "FromFile": "assets/Characters/Alex_Beach.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Alex_Winter",
+      "FromFile": "assets/Characters/Alex_Winter.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Alex",
+      "FromFile": "assets/Portraits/Alex.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Alex_Beach",
+      "FromFile": "assets/Portraits/Alex_Beach.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Alex_Winter",
+      "FromFile": "assets/Portraits/Alex_Winter.png"
+    }
+  ]
+}

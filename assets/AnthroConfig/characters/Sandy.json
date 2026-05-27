@@ -1,0 +1,14 @@
+{
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Sandy",
+      "FromFile": "assets/Characters/Sandy.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Sandy",
+      "FromFile": "assets/Portraits/Sandy.png"
+    }
+  ]
+}

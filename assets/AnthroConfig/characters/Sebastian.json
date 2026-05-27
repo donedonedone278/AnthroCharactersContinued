@@ -1,0 +1,34 @@
+{
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Sebastian",
+      "FromFile": "assets/Characters/Sebastian.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Sebastian_Beach",
+      "FromFile": "assets/Characters/Sebastian_Beach.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Sebastian_Winter",
+      "FromFile": "assets/Characters/Sebastian_Winter.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Sebastian",
+      "FromFile": "assets/Portraits/Sebastian.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Sebastian_Beach",
+      "FromFile": "assets/Portraits/Sebastian_Beach.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Sebastian_Winter",
+      "FromFile": "assets/Portraits/Sebastian_Winter.png"
+    }
+  ]
+}

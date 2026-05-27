@@ -1,0 +1,34 @@
+{
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Elliott",
+      "FromFile": "assets/Characters/Elliott.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Elliott_Beach",
+      "FromFile": "assets/Characters/Elliott_Beach.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Elliott_Winter",
+      "FromFile": "assets/Characters/Elliott_Winter.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Elliott",
+      "FromFile": "assets/Portraits/Elliott.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Elliott_Beach",
+      "FromFile": "assets/Portraits/Elliott_Beach.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Elliott_Winter",
+      "FromFile": "assets/Portraits/Elliott_Winter.png"
+    }
+  ]
+}

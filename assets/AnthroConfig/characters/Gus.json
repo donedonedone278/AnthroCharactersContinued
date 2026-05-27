@@ -1,0 +1,24 @@
+{
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Gus",
+      "FromFile": "assets/Characters/Gus.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Gus_Winter",
+      "FromFile": "assets/Characters/Gus_Winter.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Gus",
+      "FromFile": "assets/Portraits/Gus.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Gus_Winter",
+      "FromFile": "assets/Portraits/Gus_Winter.png"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Evelyn",
+      "FromFile": "assets/Characters/Evelyn.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Evelyn_Winter",
+      "FromFile": "assets/Characters/Evelyn_Winter.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Evelyn",
+      "FromFile": "assets/Portraits/Evelyn.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Evelyn_Winter",
+      "FromFile": "assets/Portraits/Evelyn_Winter.png"
+    }
+  ]
+}

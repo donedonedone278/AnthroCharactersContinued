@@ -1,0 +1,24 @@
+{
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Linus",
+      "FromFile": "assets/Characters/Linus.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Linus_Winter",
+      "FromFile": "assets/Characters/Linus_Winter.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Linus",
+      "FromFile": "assets/Portraits/Linus.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Linus_Winter",
+      "FromFile": "assets/Portraits/Linus_Winter.png"
+    }
+  ]
+}

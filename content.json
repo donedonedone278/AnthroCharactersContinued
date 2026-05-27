@@ -84,6 +84,204 @@
       "Default": "false",
       "Section": "Male-To-Female Genderswaps",
       "Description": "Visuals take a second to activate. Dialogue changes are applied at start-of-day."
+    },
+    "Enable Abigail": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Individual Characters",
+      "Description": "Enable/Disable anthro skin for Abigail (or Albert if the genderswap is active)."
+    },
+    "Enable Alex": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Individual Characters",
+      "Description": "Enable/Disable anthro skin for Alex (or Alexis if the genderswap is active)."
+    },
+    "Enable Caroline": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Individual Characters",
+      "Description": "Enable/Disable anthro skin for Caroline."
+    },
+    "Enable Clint": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Individual Characters",
+      "Description": "Enable/Disable anthro skin for Clint."
+    },
+    "Enable Demetrius": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Individual Characters",
+      "Description": "Enable/Disable anthro skin for Demetrius."
+    },
+    "Enable Elliott": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Individual Characters",
+      "Description": "Enable/Disable anthro skin for Elliott (or Ellen if the genderswap is active)."
+    },
+    "Enable Emily": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Individual Characters",
+      "Description": "Enable/Disable anthro skin for Emily (or Emil if the genderswap is active)."
+    },
+    "Enable Evelyn": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Individual Characters",
+      "Description": "Enable/Disable anthro skin for Evelyn."
+    },
+    "Enable George": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Individual Characters",
+      "Description": "Enable/Disable anthro skin for George."
+    },
+    "Enable Gus": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Individual Characters",
+      "Description": "Enable/Disable anthro skin for Gus."
+    },
+    "Enable Haley": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Individual Characters",
+      "Description": "Enable/Disable anthro skin for Haley (or Hayden if the genderswap is active)."
+    },
+    "Enable Harvey": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Individual Characters",
+      "Description": "Enable/Disable anthro skin for Harvey (or Hannah if the genderswap is active)."
+    },
+    "Enable Jas": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Individual Characters",
+      "Description": "Enable/Disable anthro skin for Jas."
+    },
+    "Enable Jodi": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Individual Characters",
+      "Description": "Enable/Disable anthro skin for Jodi."
+    },
+    "Enable Kent": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Individual Characters",
+      "Description": "Enable/Disable anthro skin for Kent."
+    },
+    "Enable Krobus": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Individual Characters",
+      "Description": "Enable/Disable anthro skin for Krobus."
+    },
+    "Enable Leah": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Individual Characters",
+      "Description": "Enable/Disable anthro skin for Leah (or Liam if the genderswap is active)."
+    },
+    "Enable Lewis": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Individual Characters",
+      "Description": "Enable/Disable anthro skin for Lewis."
+    },
+    "Enable Linus": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Individual Characters",
+      "Description": "Enable/Disable anthro skin for Linus."
+    },
+    "Enable Marlon": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Individual Characters",
+      "Description": "Enable/Disable anthro skin for Marlon."
+    },
+    "Enable Marnie": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Individual Characters",
+      "Description": "Enable/Disable anthro skin for Marnie."
+    },
+    "Enable Maru": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Individual Characters",
+      "Description": "Enable/Disable anthro skin for Maru (or Marcus if the genderswap is active)."
+    },
+    "Enable Pam": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Individual Characters",
+      "Description": "Enable/Disable anthro skin for Pam."
+    },
+    "Enable Penny": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Individual Characters",
+      "Description": "Enable/Disable anthro skin for Penny (or Perry if the genderswap is active)."
+    },
+    "Enable Pierre": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Individual Characters",
+      "Description": "Enable/Disable anthro skin for Pierre."
+    },
+    "Enable Robin": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Individual Characters",
+      "Description": "Enable/Disable anthro skin for Robin."
+    },
+    "Enable Sam": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Individual Characters",
+      "Description": "Enable/Disable anthro skin for Sam (or Samantha if the genderswap is active)."
+    },
+    "Enable Sandy": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Individual Characters",
+      "Description": "Enable/Disable anthro skin for Sandy."
+    },
+    "Enable Sebastian": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Individual Characters",
+      "Description": "Enable/Disable anthro skin for Sebastian (or Sabrina if the genderswap is active)."
+    },
+    "Enable Shane": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Individual Characters",
+      "Description": "Enable/Disable anthro skin for Shane (or Shauna if the genderswap is active)."
+    },
+    "Enable Vincent": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Individual Characters",
+      "Description": "Enable/Disable anthro skin for Vincent."
+    },
+    "Enable Willy": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Individual Characters",
+      "Description": "Enable/Disable anthro skin for Willy."
+    },
+    "Enable Wizard": {
+      "AllowValues": "true, false",
+      "Default": "true",
+      "Section": "Individual Characters",
+      "Description": "Enable/Disable anthro skin for Wizard."
     }
   },
   "DynamicTokens": [

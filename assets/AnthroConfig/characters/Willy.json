@@ -1,0 +1,24 @@
+{
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Willy",
+      "FromFile": "assets/Characters/Willy.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Willy_Winter",
+      "FromFile": "assets/Characters/Willy_Winter.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Willy",
+      "FromFile": "assets/Portraits/Willy.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Willy_Winter",
+      "FromFile": "assets/Portraits/Willy_Winter.png"
+    }
+  ]
+}

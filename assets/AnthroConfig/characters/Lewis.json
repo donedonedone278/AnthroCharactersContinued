@@ -1,0 +1,29 @@
+{
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Lewis",
+      "FromFile": "assets/Characters/Lewis.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Lewis_Beach",
+      "FromFile": "assets/Characters/Lewis_Beach.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Characters/Lewis_Winter",
+      "FromFile": "assets/Characters/Lewis_Winter.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Lewis",
+      "FromFile": "assets/Portraits/Lewis.png"
+    },
+    {
+      "Action": "EditImage",
+      "Target": "Portraits/Lewis_Winter",
+      "FromFile": "assets/Portraits/Lewis_Winter.png"
+    }
+  ]
+}
