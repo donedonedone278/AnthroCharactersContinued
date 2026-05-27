@@ -29,6 +29,7 @@ If that doesn't work, make sure this is the only copy of AnthroCharactersContinu
 - donedonedone (FurAffinity: donedonedone)
 - Krystedez (Twitter: @ChiefKryz)
 - JefGrizli (Fancy)
+- NickDales (Bluesky: @mrdales.bsky.social)
 
 *Our Twitters may contain NSFW furry trash.
 
@@ -55,6 +56,8 @@ donedonedone278 for creating and maintaining the github, editing, testing, and c
 Thanks to Krystedez for Content Patcher management and co-development.
 
 Thanks to JefGrizli for major config edits, layout improvements, and mod compatibility work.
+
+Thanks to NickDales for adding individual toggles for each character.
 
 Thank you to our translators: EMber, isma_kenji, and mgbrsk
 
