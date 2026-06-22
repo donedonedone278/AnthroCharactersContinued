@@ -19,131 +19,131 @@
       "Action": "EditData",
       "Target": "Strings/NPCNames",
       "Entries": {
-        "Elliott": "{{i18n:Strings/NPCNames..Elliott...Ellen |default={{i18n:Strings/NPCNames..Elliott..}}}}"
+        "Elliott": "{{i18n:name/Elliott/Elliott@swap-Ellen |default={{i18n:name/Elliott/Elliott}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/SecretNotes",
       "Entries": {
-        "7": "{{i18n:Data/SecretNotes..7...Ellen |default={{i18n:Data/SecretNotes..7.. |Harvey={{Harvey}} |Harvey_he={{Harvey_he}} |Harvey_husband={{Harvey_husband}} |Harvey_He_Uppercase={{Harvey_He_Uppercase}} |Elliott={{Elliott}} |Elliott_he_does_have_a_nice_chin={{Elliott_he_does_have_a_nice_chin}} |Elliott_He={{Elliott_He}} |Shane={{Shane}} |Shane_his_her={{Shane_his_her}} |Shane_his_her={{Shane_his_her}} |Shane_He={{Shane_He}}}} |Harvey={{Harvey}} |Harvey_he={{Harvey_he}} |Harvey_husband={{Harvey_husband}} |Harvey_He_Uppercase={{Harvey_He_Uppercase}} |Elliott={{Elliott}} |Elliott_he_does_have_a_nice_chin={{Elliott_he_does_have_a_nice_chin}} |Elliott_He={{Elliott_He}} |Shane={{Shane}} |Shane_his_her={{Shane_his_her}} |Shane_his_her={{Shane_his_her}} |Shane_He={{Shane_He}}}}"
+        "7": "{{i18n:data/SecretNotes/7@swap-Ellen |default={{i18n:data/SecretNotes/7 |Harvey={{Harvey}} |Harvey_he={{Harvey_he}} |Harvey_husband={{Harvey_husband}} |Harvey_He_Uppercase={{Harvey_He_Uppercase}} |Elliott={{Elliott}} |Elliott_he_does_have_a_nice_chin={{Elliott_he_does_have_a_nice_chin}} |Elliott_He={{Elliott_He}} |Shane={{Shane}} |Shane_his_her={{Shane_his_her}} |Shane_He={{Shane_He}}}} |Harvey={{Harvey}} |Harvey_he={{Harvey_he}} |Harvey_husband={{Harvey_husband}} |Harvey_He_Uppercase={{Harvey_He_Uppercase}} |Elliott={{Elliott}} |Elliott_he_does_have_a_nice_chin={{Elliott_he_does_have_a_nice_chin}} |Elliott_He={{Elliott_He}} |Shane={{Shane}} |Shane_his_her={{Shane_his_her}} |Shane_He={{Shane_He}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/mail",
       "Entries": {
-        "elliottReading": "{{i18n:Data/mail..elliottReading...Ellen |default={{i18n:Data/mail..elliottReading.. |Elliott={{Elliott}} |Elliott={{Elliott}}}} |Elliott={{Elliott}} |Elliott={{Elliott}}}}",
-        "elliottBoat": "{{i18n:Data/mail..elliottBoat...Ellen |default={{i18n:Data/mail..elliottBoat.. |Elliott={{Elliott}} |Elliott={{Elliott}}}} |Elliott={{Elliott}} |Elliott={{Elliott}}}}",
-        "elliottLetter1": "{{i18n:Data/mail..elliottLetter1...Ellen |default={{i18n:Data/mail..elliottLetter1.. |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}",
-        "elliottLetter2": "{{i18n:Data/mail..elliottLetter2...Ellen |default={{i18n:Data/mail..elliottLetter2.. |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}",
-        "elliottLetter3": "{{i18n:Data/mail..elliottLetter3...Ellen |default={{i18n:Data/mail..elliottLetter3.. |Elliott={{Elliott}} |Elliott={{Elliott}}}} |Elliott={{Elliott}} |Elliott={{Elliott}}}}",
-        "elliottLetter4": "{{i18n:Data/mail..elliottLetter4...Ellen |default={{i18n:Data/mail..elliottLetter4.. |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}",
-        "elliottLetter5": "{{i18n:Data/mail..elliottLetter5...Ellen |default={{i18n:Data/mail..elliottLetter5.. |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}",
-        "elliottLetter6": "{{i18n:Data/mail..elliottLetter6...Ellen |default={{i18n:Data/mail..elliottLetter6.. |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}"
+        "elliottReading": "{{i18n:data/mail/elliottReading@swap-Ellen |default={{i18n:data/mail/elliottReading |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}",
+        "elliottBoat": "{{i18n:data/mail/elliottBoat@swap-Ellen |default={{i18n:data/mail/elliottBoat |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}",
+        "elliottLetter1": "{{i18n:data/mail/elliottLetter1@swap-Ellen |default={{i18n:data/mail/elliottLetter1 |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}",
+        "elliottLetter2": "{{i18n:data/mail/elliottLetter2@swap-Ellen |default={{i18n:data/mail/elliottLetter2 |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}",
+        "elliottLetter3": "{{i18n:data/mail/elliottLetter3@swap-Ellen |default={{i18n:data/mail/elliottLetter3 |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}",
+        "elliottLetter4": "{{i18n:data/mail/elliottLetter4@swap-Ellen |default={{i18n:data/mail/elliottLetter4 |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}",
+        "elliottLetter5": "{{i18n:data/mail/elliottLetter5@swap-Ellen |default={{i18n:data/mail/elliottLetter5 |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}",
+        "elliottLetter6": "{{i18n:data/mail/elliottLetter6@swap-Ellen |default={{i18n:data/mail/elliottLetter6 |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Saloon",
       "Entries": {
-        "195013/f Shane 2500/f Sebastian 2500/f Sam 2500/f Harvey 2500/f Alex 2500/f Elliott 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 911526/e 528052/e 9581348/e 43/e 384882/e 233104/k 195099": "{{i18n:Data/Events/Saloon..195013/f+Shane+2500/f+Sebastian+2500/f+Sam+2500/f+Harvey+2500/f+Alex+2500/f+Elliott+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+911526/e+528052/e+9581348/e+43/e+384882/e+233104/k+195099...Ellen |default={{i18n:Data/Events/Saloon..195013/f+Shane+2500/f+Sebastian+2500/f+Sam+2500/f+Harvey+2500/f+Alex+2500/f+Elliott+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+911526/e+528052/e+9581348/e+43/e+384882/e+233104/k+195099..}}}}",
-        "choseToExplain": "{{i18n:Data/Events/Saloon..choseToExplain...Ellen |default={{i18n:Data/Events/Saloon..choseToExplain..}}}}",
-        "crying": "{{i18n:Data/Events/Saloon..crying...Ellen |default={{i18n:Data/Events/Saloon..crying..}}}}"
+        "195013/f Shane 2500/f Sebastian 2500/f Sam 2500/f Harvey 2500/f Alex 2500/f Elliott 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 911526/e 528052/e 9581348/e 43/e 384882/e 233104/k 195099": "{{i18n:event/Saloon/195013@swap-Ellen |default={{i18n:event/Saloon/195013}}}}",
+        "choseToExplain": "{{i18n:event/Saloon/choseToExplain@swap-Ellen |default={{i18n:event/Saloon/choseToExplain}}}}",
+        "crying": "{{i18n:event/Saloon/crying@swap-Ellen |default={{i18n:event/Saloon/crying}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/winter25",
       "Entries": {
-        "Leah_spouse_y2": "{{i18n:Data/Festivals/winter25..Leah_spouse_y2...Ellen |default={{i18n:Data/Festivals/winter25..Leah_spouse_y2.. |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}",
-        "Elliott_spouse_y2": "{{i18n:Data/Festivals/winter25..Elliott_spouse_y2...Ellen |default={{i18n:Data/Festivals/winter25..Elliott_spouse_y2..}}}}"
+        "Leah_spouse_y2": "{{i18n:data/winter25/Leah_spouse_y2@swap-Ellen |default={{i18n:data/winter25/Leah_spouse_y2 |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}",
+        "Elliott_spouse_y2": "{{i18n:data/winter25/Elliott_spouse_y2@swap-Ellen |default={{i18n:data/winter25/Elliott_spouse_y2}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/spring24",
       "Entries": {
-        "Elliott": "{{i18n:Data/Festivals/spring24..Elliott...Ellen |default={{i18n:Data/Festivals/spring24..Elliott..}}}}"
+        "Elliott": "{{i18n:data/spring24/Elliott@swap-Ellen |default={{i18n:data/spring24/Elliott}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/ArchaeologyHouse",
       "Entries": {
-        "1848481/f Elliott 2000/t 1300 1900/n elliottReading": "{{i18n:Data/Events/ArchaeologyHouse..1848481/f+Elliott+2000/t+1300+1900/n+elliottReading...Ellen |default={{i18n:Data/Events/ArchaeologyHouse..1848481/f+Elliott+2000/t+1300+1900/n+elliottReading..}}}}"
+        "1848481/f Elliott 2000/t 1300 1900/n elliottReading": "{{i18n:event/ArchaeologyHouse/1848481@swap-Ellen |default={{i18n:event/ArchaeologyHouse/1848481}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Furniture",
       "Entries": {
-        "ElliottPortrait": "{{i18n:Strings/Furniture..ElliottPortrait...Ellen |default={{i18n:Strings/Furniture..ElliottPortrait.. |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}"
+        "ElliottPortrait": "{{i18n:strings/Furniture/ElliottPortrait@swap-Ellen |default={{i18n:strings/Furniture/ElliottPortrait |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Weapons",
       "Entries": {
-        "ElliottsPencil_Name": "{{i18n:Strings/Weapons..ElliottsPencil_Name...Ellen |default={{i18n:Strings/Weapons..ElliottsPencil_Name.. |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}",
-        "ElliottsPencil_Description": "{{i18n:Strings/Weapons..ElliottsPencil_Description...Ellen |default={{i18n:Strings/Weapons..ElliottsPencil_Description.. |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}"
+        "ElliottsPencil_Name": "{{i18n:strings/Weapons/ElliottsPencil_Name@swap-Ellen |default={{i18n:strings/Weapons/ElliottsPencil_Name |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}",
+        "ElliottsPencil_Description": "{{i18n:strings/Weapons/ElliottsPencil_Description@swap-Ellen |default={{i18n:strings/Weapons/ElliottsPencil_Description |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/StringsFromMaps",
       "Entries": {
-        "ElliottHouse.2": "{{i18n:Strings/StringsFromMaps..ElliottHouse.2...Ellen |default={{i18n:Strings/StringsFromMaps..ElliottHouse.2.. |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}",
-        "ElliottHouse.4": "{{i18n:Strings/StringsFromMaps..ElliottHouse.4...Ellen |default={{i18n:Strings/StringsFromMaps..ElliottHouse.4.. |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}",
-        "ElliottHouse.6": "{{i18n:Strings/StringsFromMaps..ElliottHouse.6...Ellen |default={{i18n:Strings/StringsFromMaps..ElliottHouse.6.. |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}"
+        "ElliottHouse.2": "{{i18n:strings/StringsFromMaps/ElliottHouse.2@swap-Ellen |default={{i18n:strings/StringsFromMaps/ElliottHouse.2 |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}",
+        "ElliottHouse.4": "{{i18n:strings/StringsFromMaps/ElliottHouse.4@swap-Ellen |default={{i18n:strings/StringsFromMaps/ElliottHouse.4 |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}",
+        "ElliottHouse.6": "{{i18n:strings/StringsFromMaps/ElliottHouse.6@swap-Ellen |default={{i18n:strings/StringsFromMaps/ElliottHouse.6 |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/StringsFromCSFiles",
       "Entries": {
-        "MapPage.cs.11088": "{{i18n:Strings/StringsFromCSFiles..MapPage=cs=11088...Ellen |default={{i18n:Strings/StringsFromCSFiles..MapPage=cs=11088.. |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}",
-        "TitleMenu.cs.11726": "{{i18n:Strings/StringsFromCSFiles..TitleMenu=cs=11726...Ellen |default={{i18n:Strings/StringsFromCSFiles..TitleMenu=cs=11726.. |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}"
+        "MapPage.cs.11088": "{{i18n:strings/StringsFromCSFiles/MapPage.cs.11088@swap-Ellen |default={{i18n:strings/StringsFromCSFiles/MapPage.cs.11088 |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}",
+        "TitleMenu.cs.11726": "{{i18n:strings/StringsFromCSFiles/TitleMenu.cs.11726@swap-Ellen |default={{i18n:strings/StringsFromCSFiles/TitleMenu.cs.11726 |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Locations",
       "Entries": {
-        "ElliottHouse_ElliottBook_Filled": "{{i18n:Strings/Locations..ElliottHouse_ElliottBook_Filled...Ellen |default={{i18n:Strings/Locations..ElliottHouse_ElliottBook_Filled.. |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}"
+        "ElliottHouse_ElliottBook_Filled": "{{i18n:strings/Locations/ElliottHouse_ElliottBook_Filled@swap-Ellen |default={{i18n:strings/Locations/ElliottHouse_ElliottBook_Filled |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Leah",
       "Entries": {
-        "married_Elliott": "{{i18n:Characters/Dialogue/Leah..married_Elliott...Ellen |default={{i18n:Characters/Dialogue/Leah..married_Elliott.. |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}"
+        "married_Elliott": "{{i18n:dialogue/Leah/married_Elliott@swap-Ellen |default={{i18n:dialogue/Leah/married_Elliott |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Elliott",
       "Entries": {
-        "Introduction": "{{i18n:Characters/Dialogue/Elliott..Introduction...Ellen |default={{i18n:Characters/Dialogue/Elliott..Introduction.. |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}",
-        "dating_Elliott_memory_oneday": "{{i18n:Characters/Dialogue/Elliott..dating_Elliott_memory_oneday...Ellen |default={{i18n:Characters/Dialogue/Elliott..dating_Elliott_memory_oneday.. |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}"
+        "Introduction": "{{i18n:dialogue/Elliott/Introduction@swap-Ellen |default={{i18n:dialogue/Elliott/Introduction |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}",
+        "dating_Elliott_memory_oneday": "{{i18n:dialogue/Elliott/dating_Elliott_memory_oneday@swap-Ellen |default={{i18n:dialogue/Elliott/dating_Elliott_memory_oneday |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Shane",
       "Entries": {
-        "event_room1": "{{i18n:Characters/Dialogue/Shane..event_room1...Ellen |default={{i18n:Characters/Dialogue/Shane..event_room1.. |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}"
+        "event_room1": "{{i18n:dialogue/Shane/event_room1@swap-Ellen |default={{i18n:dialogue/Shane/event_room1 |Elliott={{Elliott}}}} |Elliott={{Elliott}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueElliott",
       "Entries": {
-        "Rainy_Night_3": "{{i18n:Characters/Dialogue/MarriageDialogueElliott..Rainy_Night_3...Ellen |default={{i18n:Characters/Dialogue/MarriageDialogueElliott..Rainy_Night_3..}}}}",
-        "Indoor_Day_0": "{{i18n:Characters/Dialogue/MarriageDialogueElliott..Indoor_Day_0...Ellen |default={{i18n:Characters/Dialogue/MarriageDialogueElliott..Indoor_Day_0..}}}}",
-        "OneKid_3": "{{i18n:Characters/Dialogue/MarriageDialogueElliott..OneKid_3...Ellen |default={{i18n:Characters/Dialogue/MarriageDialogueElliott..OneKid_3..}}}}",
-        "TwoKids_1": "{{i18n:Characters/Dialogue/MarriageDialogueElliott..TwoKids_1...Ellen |default={{i18n:Characters/Dialogue/MarriageDialogueElliott..TwoKids_1..}}}}",
-        "fall_26": "{{i18n:Characters/Dialogue/MarriageDialogueElliott..fall_26...Ellen |default={{i18n:Characters/Dialogue/MarriageDialogueElliott..fall_26..}}}}"
+        "Rainy_Night_3": "{{i18n:dialogue/MarriageDialogueElliott/Rainy_Night_3@swap-Ellen |default={{i18n:dialogue/MarriageDialogueElliott/Rainy_Night_3}}}}",
+        "Indoor_Day_0": "{{i18n:dialogue/MarriageDialogueElliott/Indoor_Day_0@swap-Ellen |default={{i18n:dialogue/MarriageDialogueElliott/Indoor_Day_0}}}}",
+        "OneKid_3": "{{i18n:dialogue/MarriageDialogueElliott/OneKid_3@swap-Ellen |default={{i18n:dialogue/MarriageDialogueElliott/OneKid_3}}}}",
+        "TwoKids_1": "{{i18n:dialogue/MarriageDialogueElliott/TwoKids_1@swap-Ellen |default={{i18n:dialogue/MarriageDialogueElliott/TwoKids_1}}}}",
+        "fall_26": "{{i18n:dialogue/MarriageDialogueElliott/fall_26@swap-Ellen |default={{i18n:dialogue/MarriageDialogueElliott/fall_26}}}}"
       }
     }
   ]

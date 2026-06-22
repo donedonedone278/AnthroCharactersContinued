@@ -19,77 +19,77 @@
       "Action": "EditData",
       "Target": "Strings/NPCNames",
       "Entries": {
-        "Harvey": "{{i18n:Strings/NPCNames..Harvey...Hannah |default={{i18n:Strings/NPCNames..Harvey..}}}}"
+        "Harvey": "{{i18n:name/Harvey/Harvey@swap-Hannah |default={{i18n:name/Harvey/Harvey}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/SecretNotes",
       "Entries": {
-        "7": "{{i18n:Data/SecretNotes..7...Hannah |default={{i18n:Data/SecretNotes..7.. |Harvey={{Harvey}} |Harvey_he={{Harvey_he}} |Harvey_husband={{Harvey_husband}} |Harvey_He_Uppercase={{Harvey_He_Uppercase}} |Elliott={{Elliott}} |Elliott_he_does_have_a_nice_chin={{Elliott_he_does_have_a_nice_chin}} |Elliott_He={{Elliott_He}} |Shane={{Shane}} |Shane_his_her={{Shane_his_her}} |Shane_his_her={{Shane_his_her}} |Shane_He={{Shane_He}}}} |Harvey={{Harvey}} |Harvey_he={{Harvey_he}} |Harvey_husband={{Harvey_husband}} |Harvey_He_Uppercase={{Harvey_He_Uppercase}} |Elliott={{Elliott}} |Elliott_he_does_have_a_nice_chin={{Elliott_he_does_have_a_nice_chin}} |Elliott_He={{Elliott_He}} |Shane={{Shane}} |Shane_his_her={{Shane_his_her}} |Shane_his_her={{Shane_his_her}} |Shane_He={{Shane_He}}}}"
+        "7": "{{i18n:data/SecretNotes/7@swap-Hannah |default={{i18n:data/SecretNotes/7 |Harvey={{Harvey}} |Harvey_he={{Harvey_he}} |Harvey_husband={{Harvey_husband}} |Harvey_He_Uppercase={{Harvey_He_Uppercase}} |Elliott={{Elliott}} |Elliott_he_does_have_a_nice_chin={{Elliott_he_does_have_a_nice_chin}} |Elliott_He={{Elliott_He}} |Shane={{Shane}} |Shane_his_her={{Shane_his_her}} |Shane_He={{Shane_He}}}} |Harvey={{Harvey}} |Harvey_he={{Harvey_he}} |Harvey_husband={{Harvey_husband}} |Harvey_He_Uppercase={{Harvey_He_Uppercase}} |Elliott={{Elliott}} |Elliott_he_does_have_a_nice_chin={{Elliott_he_does_have_a_nice_chin}} |Elliott_He={{Elliott_He}} |Shane={{Shane}} |Shane_his_her={{Shane_his_her}} |Shane_He={{Shane_He}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/mail",
       "Entries": {
-        "harveyBalloon": "{{i18n:Data/mail..harveyBalloon...Hannah |default={{i18n:Data/mail..harveyBalloon.. |Harvey={{Harvey}} |Harvey={{Harvey}}}} |Harvey={{Harvey}} |Harvey={{Harvey}}}}",
-        "passedOut3_Billed": "{{i18n:Data/mail..passedOut3_Billed...Hannah |default={{i18n:Data/mail..passedOut3_Billed.. |Harvey={{Harvey}} |Harvey={{Harvey}}}} |Harvey={{Harvey}} |Harvey={{Harvey}}}}",
-        "passedOut3_NotBilled": "{{i18n:Data/mail..passedOut3_NotBilled...Hannah |default={{i18n:Data/mail..passedOut3_NotBilled.. |Harvey={{Harvey}} |Harvey={{Harvey}}}} |Harvey={{Harvey}} |Harvey={{Harvey}}}}"
+        "harveyBalloon": "{{i18n:data/mail/harveyBalloon@swap-Hannah |default={{i18n:data/mail/harveyBalloon |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
+        "passedOut3_Billed": "{{i18n:data/mail/passedOut3_Billed@swap-Hannah |default={{i18n:data/mail/passedOut3_Billed |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
+        "passedOut3_NotBilled": "{{i18n:data/mail/passedOut3_NotBilled@swap-Hannah |default={{i18n:data/mail/passedOut3_NotBilled |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/JoshHouse",
       "Entries": {
-        "56/f Harvey 500/p George": "{{i18n:Data/Events/JoshHouse..56/f+Harvey+500/p+George...Hannah |default={{i18n:Data/Events/JoshHouse..56/f+Harvey+500/p+George.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "56/f Harvey 500/p George": "{{i18n:event/JoshHouse/56@swap-Hannah |default={{i18n:event/JoshHouse/56 |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Farm",
       "Entries": {
-        "2118991/e 3910975/t 600 800": "{{i18n:Data/Events/Farm..2118991/e+3910975/t+600+800...Hannah |default={{i18n:Data/Events/Farm..2118991/e+3910975/t+600+800.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "2118991/e 3910975/t 600 800": "{{i18n:event/Farm/2118991@swap-Hannah |default={{i18n:event/Farm/2118991 |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Hospital",
       "Entries": {
-        "7/f Maru 1000/p Maru": "{{i18n:Data/Events/Hospital..7/f+Maru+1000/p+Maru.. |Harvey={{Harvey}} |Harvey_He_Uppercase={{Harvey_He_Uppercase}} |Harvey={{Harvey}} |Harvey={{Harvey}} |Maru={{Maru}}}}",
-        "toldTruth": "{{i18n:Data/Events/Hospital..toldTruth...Hannah |default={{i18n:Data/Events/Hospital..toldTruth.. |Maru={{Maru}} |Harvey={{Harvey}}}} |Maru={{Maru}} |Harvey={{Harvey}}}}",
-        "571102/f Harvey 2000": "{{i18n:Data/Events/Hospital..571102/f+Harvey+2000...Hannah |default={{i18n:Data/Events/Hospital..571102/f+Harvey+2000.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "7/f Maru 1000/p Maru": "{{i18n:event/Hospital/7@swap-Hannah |default={{i18n:event/Hospital/7 |Harvey={{Harvey}} |Harvey_He_Uppercase={{Harvey_He_Uppercase}} |Maru={{Maru}}}} |Harvey={{Harvey}} |Harvey_He_Uppercase={{Harvey_He_Uppercase}} |Maru={{Maru}}}}",
+        "toldTruth": "{{i18n:event/Hospital/toldTruth@swap-Hannah |default={{i18n:event/Hospital/toldTruth |Maru={{Maru}} |Harvey={{Harvey}}}} |Maru={{Maru}} |Harvey={{Harvey}}}}",
+        "571102/f Harvey 2000": "{{i18n:event/Hospital/571102@swap-Hannah |default={{i18n:event/Hospital/571102 |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/summer11",
       "Entries": {
-        "Maru_spouse": "{{i18n:Data/Festivals/summer11..Maru_spouse...Hannah |default={{i18n:Data/Festivals/summer11..Maru_spouse.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "Maru_spouse": "{{i18n:data/summer11/Maru_spouse@swap-Hannah |default={{i18n:data/summer11/Maru_spouse |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Furniture",
       "Entries": {
-        "HarveyPortrait": "{{i18n:Strings/Furniture..HarveyPortrait...Hannah |default={{i18n:Strings/Furniture..HarveyPortrait.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "HarveyPortrait": "{{i18n:strings/Furniture/HarveyPortrait@swap-Hannah |default={{i18n:strings/Furniture/HarveyPortrait |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Weapons",
       "Entries": {
-        "HarveysMallet_Name": "{{i18n:Strings/Weapons..HarveysMallet_Name...Hannah |default={{i18n:Strings/Weapons..HarveysMallet_Name.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
-        "HarveysMallet_Description": "{{i18n:Strings/Weapons..HarveysMallet_Description...Hannah |default={{i18n:Strings/Weapons..HarveysMallet_Description.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "HarveysMallet_Name": "{{i18n:strings/Weapons/HarveysMallet_Name@swap-Hannah |default={{i18n:strings/Weapons/HarveysMallet_Name |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
+        "HarveysMallet_Description": "{{i18n:strings/Weapons/HarveysMallet_Description@swap-Hannah |default={{i18n:strings/Weapons/HarveysMallet_Description |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/StringsFromMaps",
       "Entries": {
-        "HarveyRoom.3": "{{i18n:Strings/StringsFromMaps..HarveyRoom=3...Hannah |default={{i18n:Strings/StringsFromMaps..HarveyRoom=3.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
-        "HarveyRoom.4": "{{i18n:Strings/StringsFromMaps..HarveyRoom=4...Hannah |default={{i18n:Strings/StringsFromMaps..HarveyRoom=4.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
-        "Hospital.3": "{{i18n:Strings/StringsFromMaps..Hospital=3...Hannah |default={{i18n:Strings/StringsFromMaps..Hospital=3.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "HarveyRoom.3": "{{i18n:strings/StringsFromMaps/HarveyRoom.3@swap-Hannah |default={{i18n:strings/StringsFromMaps/HarveyRoom.3 |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
+        "HarveyRoom.4": "{{i18n:strings/StringsFromMaps/HarveyRoom.4@swap-Hannah |default={{i18n:strings/StringsFromMaps/HarveyRoom.4 |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
+        "Hospital.3": "{{i18n:strings/StringsFromMaps/Hospital.3@swap-Hannah |default={{i18n:strings/StringsFromMaps/Hospital.3 |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },
     {
@@ -100,83 +100,83 @@
       "Action": "EditData",
       "Target": "Strings/StringsFromMaps",
       "Entries": {
-        "Hospital.3": "{{i18n:Strings/StringsFromMaps..Hospital=3.FurryFarmer..Hannah |default={{i18n:Strings/StringsFromMaps..Hospital=3.FurryFarmer. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
-        "Hospital=3": "{{i18n:Strings/StringsFromMaps..Hospital=3.FurryFarmer..Hannah |default={{i18n:Strings/StringsFromMaps..Hospital=3.FurryFarmer. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "Hospital.3": "{{i18n:strings/StringsFromMaps/Hospital.3@swap-Hannah+furry |default={{i18n:strings/StringsFromMaps/Hospital.3 |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
+        "Hospital=3": "{{i18n:strings/StringsFromMaps/Hospital=3@swap-Hannah+furry |default={{i18n:strings/StringsFromMaps/Hospital=3 |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/animationDescriptions",
       "Entries": {
-        "harvey_radio": "{{i18n:Strings/animationDescriptions..harvey_radio...Hannah |default={{i18n:Strings/animationDescriptions..harvey_radio.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "harvey_radio": "{{i18n:strings/animationDescriptions/harvey_radio@swap-Hannah |default={{i18n:strings/animationDescriptions/harvey_radio |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/MovieReactions",
       "Entries": {
-        "Harvey_spring_movie_1_DuringMovie_2": "{{i18n:Strings/MovieReactions..Harvey_spring_movie_1_DuringMovie_2...Hannah |default={{i18n:Strings/MovieReactions..Harvey_spring_movie_1_DuringMovie_2.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
-        "Harvey_dislike_DuringMovie_2": "{{i18n:Strings/MovieReactions..Harvey_dislike_DuringMovie_2...Hannah |default={{i18n:Strings/MovieReactions..Harvey_dislike_DuringMovie_2.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "Harvey_spring_movie_1_DuringMovie_2": "{{i18n:strings/MovieReactions/Harvey_spring_movie_1_DuringMovie_2@swap-Hannah |default={{i18n:strings/MovieReactions/Harvey_spring_movie_1_DuringMovie_2 |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
+        "Harvey_dislike_DuringMovie_2": "{{i18n:strings/MovieReactions/Harvey_dislike_DuringMovie_2@swap-Hannah |default={{i18n:strings/MovieReactions/Harvey_dislike_DuringMovie_2 |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/StringsFromCSFiles",
       "Entries": {
-        "Event.cs.1068": "{{i18n:Strings/StringsFromCSFiles..Event=cs=1068...Hannah |default={{i18n:Strings/StringsFromCSFiles..Event=cs=1068.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
-        "Event.cs.1070": "{{i18n:Strings/StringsFromCSFiles..Event=cs=1070...Hannah |default={{i18n:Strings/StringsFromCSFiles..Event=cs=1070.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
-        "MapPage.cs.11076": "{{i18n:Strings/StringsFromCSFiles..MapPage=cs=11076...Hannah |default={{i18n:Strings/StringsFromCSFiles..MapPage=cs=11076.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
-        "ItemDeliveryQuest.cs.13446": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13446...Hannah |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13446.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "Event.cs.1068": "{{i18n:strings/StringsFromCSFiles/Event.cs.1068@swap-Hannah |default={{i18n:strings/StringsFromCSFiles/Event.cs.1068 |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
+        "Event.cs.1070": "{{i18n:strings/StringsFromCSFiles/Event.cs.1070@swap-Hannah |default={{i18n:strings/StringsFromCSFiles/Event.cs.1070 |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
+        "MapPage.cs.11076": "{{i18n:strings/StringsFromCSFiles/MapPage.cs.11076@swap-Hannah |default={{i18n:strings/StringsFromCSFiles/MapPage.cs.11076 |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
+        "ItemDeliveryQuest.cs.13446": "{{i18n:strings/StringsFromCSFiles/ItemDeliveryQuest.cs.13446@swap-Hannah |default={{i18n:strings/StringsFromCSFiles/ItemDeliveryQuest.cs.13446 |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Emily",
       "Entries": {
-        "summer_Sat": "{{i18n:Characters/Dialogue/Emily..summer_Sat...Hannah |default={{i18n:Characters/Dialogue/Emily..summer_Sat.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "summer_Sat": "{{i18n:dialogue/Emily/summer_Sat@swap-Hannah |default={{i18n:dialogue/Emily/summer_Sat |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Saloon",
       "Entries": {
-        "195013/f Shane 2500/f Sebastian 2500/f Sam 2500/f Harvey 2500/f Alex 2500/f Elliott 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 911526/e 528052/e 9581348/e 43/e 384882/e 233104/k 195099": "{{i18n:Data/Events/Saloon..195013/f+Shane+2500/f+Sebastian+2500/f+Sam+2500/f+Harvey+2500/f+Alex+2500/f+Elliott+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+911526/e+528052/e+9581348/e+43/e+384882/e+233104/k+195099...Hannah |default={{i18n:Data/Events/Saloon..195013/f+Shane+2500/f+Sebastian+2500/f+Sam+2500/f+Harvey+2500/f+Alex+2500/f+Elliott+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+911526/e+528052/e+9581348/e+43/e+384882/e+233104/k+195099..}}}}",
-        "choseToExplain": "{{i18n:Data/Events/Saloon..choseToExplain...Hannah |default={{i18n:Data/Events/Saloon..choseToExplain..}}}}",
-        "crying": "{{i18n:Data/Events/Saloon..crying...Hannah |default={{i18n:Data/Events/Saloon..crying..}}}}"
+        "195013/f Shane 2500/f Sebastian 2500/f Sam 2500/f Harvey 2500/f Alex 2500/f Elliott 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 911526/e 528052/e 9581348/e 43/e 384882/e 233104/k 195099": "{{i18n:event/Saloon/195013@swap-Hannah |default={{i18n:event/Saloon/195013}}}}",
+        "choseToExplain": "{{i18n:event/Saloon/choseToExplain@swap-Hannah |default={{i18n:event/Saloon/choseToExplain}}}}",
+        "crying": "{{i18n:event/Saloon/crying@swap-Hannah |default={{i18n:event/Saloon/crying}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Maru",
       "Entries": {
-        "Wed": "{{i18n:Characters/Dialogue/Maru..Wed...Hannah |default={{i18n:Characters/Dialogue/Maru..Wed.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
-        "Wed8": "{{i18n:Characters/Dialogue/Maru..Wed8...Hannah |default={{i18n:Characters/Dialogue/Maru..Wed8.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
-        "Event_Hospital_3": "{{i18n:Characters/Dialogue/Maru..Event_Hospital_3...Hannah |default={{i18n:Characters/Dialogue/Maru..Event_Hospital_3..}}}}",
-        "Event_Hospital_1": "{{i18n:Characters/Dialogue/Maru..Event_Hospital_1...Hannah |default={{i18n:Characters/Dialogue/Maru..Event_Hospital_1..}}}}"
+        "Wed": "{{i18n:dialogue/Maru/Wed@swap-Hannah |default={{i18n:dialogue/Maru/Wed |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
+        "Wed8": "{{i18n:dialogue/Maru/Wed8@swap-Hannah |default={{i18n:dialogue/Maru/Wed8 |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
+        "Event_Hospital_3": "{{i18n:dialogue/Maru/Event_Hospital_3@swap-Hannah |default={{i18n:dialogue/Maru/Event_Hospital_3}}}}",
+        "Event_Hospital_1": "{{i18n:dialogue/Maru/Event_Hospital_1@swap-Hannah |default={{i18n:dialogue/Maru/Event_Hospital_1}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Harvey",
       "Entries": {
-        "Introduction": "{{i18n:Characters/Dialogue/Harvey..Introduction...Hannah |default={{i18n:Characters/Dialogue/Harvey..Introduction.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "Introduction": "{{i18n:dialogue/Harvey/Introduction@swap-Hannah |default={{i18n:dialogue/Harvey/Introduction |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialoguePenny",
       "Entries": {
-        "Rainy_Day_1": "{{i18n:Characters/Dialogue/MarriageDialoguePenny..Rainy_Day_1...Hannah |default={{i18n:Characters/Dialogue/MarriageDialoguePenny..Rainy_Day_1.. |Maru={{Maru}} |Harvey={{Harvey}} |Harvey={{Harvey}} |Maru_her_him={{Maru_her_him}} |Maru={{Maru}}}} |Maru={{Maru}} |Harvey={{Harvey}} |Harvey={{Harvey}} |Maru_her_him={{Maru_her_him}} |Maru={{Maru}}}}"
+        "Rainy_Day_1": "{{i18n:dialogue/MarriageDialoguePenny/Rainy_Day_1@swap-Hannah |default={{i18n:dialogue/MarriageDialoguePenny/Rainy_Day_1 |Maru={{Maru}} |Harvey={{Harvey}} |Maru_her_him={{Maru_her_him}}}} |Maru={{Maru}} |Harvey={{Harvey}} |Maru_her_him={{Maru_her_him}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueHarvey",
       "Entries": {
-        "Outdoor_2": "{{i18n:Characters/Dialogue/MarriageDialogueHarvey..Outdoor_2...Hannah |default={{i18n:Characters/Dialogue/MarriageDialogueHarvey..Outdoor_2..}}}}",
-        "OneKid_3": "{{i18n:Characters/Dialogue/MarriageDialogueHarvey..OneKid_3...Hannah |default={{i18n:Characters/Dialogue/MarriageDialogueHarvey..OneKid_3..}}}}",
-        "TwoKids_3": "{{i18n:Characters/Dialogue/MarriageDialogueHarvey..TwoKids_3...Hannah |default={{i18n:Characters/Dialogue/MarriageDialogueHarvey..TwoKids_3..}}}}",
-        "summer_1": "{{i18n:Characters/Dialogue/MarriageDialogueHarvey..summer_1...Hannah |default={{i18n:Characters/Dialogue/MarriageDialogueHarvey..summer_1..}}}}"
+        "Outdoor_2": "{{i18n:dialogue/MarriageDialogueHarvey/Outdoor_2@swap-Hannah |default={{i18n:dialogue/MarriageDialogueHarvey/Outdoor_2}}}}",
+        "OneKid_3": "{{i18n:dialogue/MarriageDialogueHarvey/OneKid_3@swap-Hannah |default={{i18n:dialogue/MarriageDialogueHarvey/OneKid_3}}}}",
+        "TwoKids_3": "{{i18n:dialogue/MarriageDialogueHarvey/TwoKids_3@swap-Hannah |default={{i18n:dialogue/MarriageDialogueHarvey/TwoKids_3}}}}",
+        "summer_1": "{{i18n:dialogue/MarriageDialogueHarvey/summer_1@swap-Hannah |default={{i18n:dialogue/MarriageDialogueHarvey/summer_1}}}}"
       }
     },
     {
@@ -186,79 +186,79 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueHarvey",
       "Entries": {
-        "summer_1": "{{i18n:Characters/Dialogue/MarriageDialogueHarvey..summer_1.Flavor..Hannah |default={{i18n:Characters/Dialogue/MarriageDialogueHarvey..summer_1.Flavor.}}}}"
+        "summer_1": "{{i18n:dialogue/MarriageDialogueHarvey/summer_1@swap-Hannah+flavor |default={{i18n:dialogue/MarriageDialogueHarvey/summer_1}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/schedules/Evelyn",
       "Entries": {
-        "23.000": "{{i18n:Strings/schedules/Evelyn..23=000...Hannah |default={{i18n:Strings/schedules/Evelyn..23=000.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "23.000": "{{i18n:strings/schedules/Evelyn/23.000@swap-Hannah |default={{i18n:strings/schedules/Evelyn/23.000 |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/schedules/Leah",
       "Entries": {
-        "spring_16.001": "{{i18n:Strings/schedules/Leah..spring_16=001...Hannah |default={{i18n:Strings/schedules/Leah..spring_16=001.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "spring_16.001": "{{i18n:strings/schedules/Leah/spring_16.001@swap-Hannah |default={{i18n:strings/schedules/Leah/spring_16.001 |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/spring24",
       "Entries": {
-        "Harvey_spouse_y2": "{{i18n:Data/Festivals/spring24..Harvey_spouse_y2...Hannah |default={{i18n:Data/Festivals/spring24..Harvey_spouse_y2..}}}}",
-        "Harvey_y2": "{{i18n:Data/Festivals/spring24..Harvey_y2...Hannah |default={{i18n:Data/Festivals/spring24..Harvey_y2..}}}}"
+        "Harvey_spouse_y2": "{{i18n:data/spring24/Harvey_spouse_y2@swap-Hannah |default={{i18n:data/spring24/Harvey_spouse_y2}}}}",
+        "Harvey_y2": "{{i18n:data/spring24/Harvey_y2@swap-Hannah |default={{i18n:data/spring24/Harvey_y2}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/schedules/Caroline",
       "Entries": {
-        "fall_25.002": "{{i18n:Strings/schedules/Caroline..fall_25=002...Hannah |default={{i18n:Strings/schedules/Caroline..fall_25=002.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "fall_25.002": "{{i18n:strings/schedules/Caroline/fall_25.002@swap-Hannah |default={{i18n:strings/schedules/Caroline/fall_25.002 |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/schedules/Jas",
       "Entries": {
-        "winter_18.001": "{{i18n:Strings/schedules/Jas..winter_18=001...Hannah |default={{i18n:Strings/schedules/Jas..winter_18=001.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "winter_18.001": "{{i18n:strings/schedules/Jas/winter_18.001@swap-Hannah |default={{i18n:strings/schedules/Jas/winter_18.001 |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/schedules/Jodi",
       "Entries": {
-        "spring_11.002": "{{i18n:Strings/schedules/Jodi..spring_11=002...Hannah |default={{i18n:Strings/schedules/Jodi..spring_11=002.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "spring_11.002": "{{i18n:strings/schedules/Jodi/spring_11.002@swap-Hannah |default={{i18n:strings/schedules/Jodi/spring_11.002 |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/schedules/Marnie",
       "Entries": {
-        "fall_18.000": "{{i18n:Strings/schedules/Marnie..fall_18=000...Hannah |default={{i18n:Strings/schedules/Marnie..fall_18=000.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
-        "winter_18.002": "{{i18n:Strings/schedules/Marnie..winter_18=002...Hannah |default={{i18n:Strings/schedules/Marnie..winter_18=002.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "fall_18.000": "{{i18n:strings/schedules/Marnie/fall_18.000@swap-Hannah |default={{i18n:strings/schedules/Marnie/fall_18.000 |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
+        "winter_18.002": "{{i18n:strings/schedules/Marnie/winter_18.002@swap-Hannah |default={{i18n:strings/schedules/Marnie/winter_18.002 |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/schedules/Sebastian",
       "Entries": {
-        "summer_4.000": "{{i18n:Strings/schedules/Sebastian..summer_4=000...Hannah |default={{i18n:Strings/schedules/Sebastian..summer_4=000.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "summer_4.000": "{{i18n:strings/schedules/Sebastian/summer_4.000@swap-Hannah |default={{i18n:strings/schedules/Sebastian/summer_4.000 |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/schedules/Lewis",
       "Entries": {
-        "fall_9.000": "{{i18n:Strings/schedules/Lewis..fall_9=000...Hannah |default={{i18n:Strings/schedules/Lewis..fall_9=000.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "fall_9.000": "{{i18n:strings/schedules/Lewis/fall_9.000@swap-Hannah |default={{i18n:strings/schedules/Lewis/fall_9.000 |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/schedules/Demetrius",
       "Entries": {
-        "summer_25.001": "{{i18n:Strings/schedules/Demetrius..summer_25=001...Hannah |default={{i18n:Strings/schedules/Demetrius..summer_25=001.. |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "summer_25.001": "{{i18n:strings/schedules/Demetrius/summer_25.001@swap-Hannah |default={{i18n:strings/schedules/Demetrius/summer_25.001 |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     }
   ]

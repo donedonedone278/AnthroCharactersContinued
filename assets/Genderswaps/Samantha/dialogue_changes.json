@@ -19,7 +19,7 @@
       "Action": "EditData",
       "Target": "Strings/NPCNames",
       "Entries": {
-        "Sam": "{{i18n:Strings/NPCNames..Sam...Samantha |default={{i18n:Strings/NPCNames..Sam..}}}}"
+        "Sam": "{{i18n:name/Sam/Sam@swap-Samantha |default={{i18n:name/Sam/Sam}}}}"
       }
     },
     {
@@ -30,266 +30,266 @@
         "FriendsAndFamily"
       ],
       "Entries": {
-        "Sam": "{{i18n:Data/Characters.Jodi/FriendsAndFamily.Sam...Samantha |default={{i18n:Data/Characters.Jodi/FriendsAndFamily.Sam..}}}}"
+        "Sam": "{{i18n:data/Jodi/FriendsAndFamily/Sam@swap-Samantha |default={{i18n:data/Jodi/FriendsAndFamily/Sam}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/SecretNotes",
       "Entries": {
-        "2": "{{i18n:Data/SecretNotes..2...Samantha |default={{i18n:Data/SecretNotes..2.. |Sam={{Sam}} |Sebastian={{Sebastian}} |Penny={{Penny}}}} |Sam={{Sam}} |Sebastian={{Sebastian}} |Penny={{Penny}}}}"
+        "2": "{{i18n:data/SecretNotes/2@swap-Samantha |default={{i18n:data/SecretNotes/2 |Sam={{Sam}} |Sebastian={{Sebastian}} |Penny={{Penny}}}} |Sam={{Sam}} |Sebastian={{Sebastian}} |Penny={{Penny}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/mail",
       "Entries": {
-        "afterSamShow": "{{i18n:Data/mail..afterSamShow...Samantha |default={{i18n:Data/mail..afterSamShow.. |Sam={{Sam}} |Sam={{Sam}}}} |Sam={{Sam}} |Sam={{Sam}}}}",
-        "samMessage": "{{i18n:Data/mail..samMessage...Samantha |default={{i18n:Data/mail..samMessage.. |Sam={{Sam}} |Sam={{Sam}}}} |Sam={{Sam}} |Sam={{Sam}}}}"
+        "afterSamShow": "{{i18n:data/mail/afterSamShow@swap-Samantha |default={{i18n:data/mail/afterSamShow |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "samMessage": "{{i18n:data/mail/samMessage@swap-Samantha |default={{i18n:data/mail/samMessage |Sam={{Sam}}}} |Sam={{Sam}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Town",
       "Entries": {
-        "45/f Sam 1500/t 1200 1600/w sunny": "{{i18n:Data/Events/Town..45/f+Sam+1500/t+1200+1600/w+sunny...Samantha |default={{i18n:Data/Events/Town..45/f+Sam+1500/t+1200+1600/w+sunny.. |Sam={{Sam}} |Sam={{Sam}} |Sam={{Sam}} |Sam={{Sam}} |Sam={{Sam}} |Sam={{Sam}}}} |Sam={{Sam}} |Sam={{Sam}} |Sam={{Sam}} |Sam={{Sam}} |Sam={{Sam}} |Sam={{Sam}}}}",
-        "233104/f Sam 2500/t 2000 2400/w sunny/n samMessage": "{{i18n:Data/Events/Town..233104/f+Sam+2500/t+2000+2400/w+sunny/n+samMessage...Samantha |default={{i18n:Data/Events/Town..233104/f+Sam+2500/t+2000+2400/w+sunny/n+samMessage.. |Sam={{Sam}} |Sam={{Sam}}}} |Sam={{Sam}} |Sam={{Sam}}}}"
+        "45/f Sam 1500/t 1200 1600/w sunny": "{{i18n:event/Town/45@swap-Samantha |default={{i18n:event/Town/45 |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "233104/f Sam 2500/t 2000 2400/w sunny/n samMessage": "{{i18n:event/Town/233104@swap-Samantha |default={{i18n:event/Town/233104 |Sam={{Sam}}}} |Sam={{Sam}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/FarmHouse",
       "Entries": {
-        "3918601/e 3918600/O Sam/t 610 1700/A samJob1/p Sam/L": "{{i18n:Data/Events/FarmHouse..3918601/e+3918600/O+Sam/t+610+1700/A+samJob1/p+Sam/L...Samantha |default={{i18n:Data/Events/FarmHouse..3918601/e+3918600/O+Sam/t+610+1700/A+samJob1/p+Sam/L.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "3918603/e 3918602/O Sam/t 610 1700/A samJob3/p Sam/L": "{{i18n:Data/Events/FarmHouse..3918603/e+3918602/O+Sam/t+610+1700/A+samJob3/p+Sam/L...Samantha |default={{i18n:Data/Events/FarmHouse..3918603/e+3918602/O+Sam/t+610+1700/A+samJob3/p+Sam/L.. |Sam={{Sam}}}} |Sam={{Sam}}}}"
+        "3918601/e 3918600/O Sam/t 610 1700/A samJob1/p Sam/L": "{{i18n:event/FarmHouse/3918601@swap-Samantha |default={{i18n:event/FarmHouse/3918601 |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "3918603/e 3918602/O Sam/t 610 1700/A samJob3/p Sam/L": "{{i18n:event/FarmHouse/3918603@swap-Samantha |default={{i18n:event/FarmHouse/3918603 |Sam={{Sam}}}} |Sam={{Sam}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Forest",
       "Entries": {
-        "choseFarming": "{{i18n:Data/Events/Forest..choseFarming...Samantha |default={{i18n:Data/Events/Forest..choseFarming.. |Sam_brother={{Sam_brother}} |Sam={{Sam}} |Sam_He_Uppercase={{Sam_He_Uppercase}} |Sam_him={{Sam_him}} |Penny_Miss={{Penny_Miss}} |Penny={{Penny}}}} |Sam_brother={{Sam_brother}} |Sam={{Sam}} |Sam_He_Uppercase={{Sam_He_Uppercase}} |Sam_him={{Sam_him}} |Penny_Miss={{Penny_Miss}} |Penny={{Penny}}}}"
+        "choseFarming": "{{i18n:event/Forest/choseFarming@swap-Samantha |default={{i18n:event/Forest/choseFarming |Sam_brother={{Sam_brother}} |Sam={{Sam}} |Sam_He_Uppercase={{Sam_He_Uppercase}} |Sam_him={{Sam_him}} |Penny_Miss={{Penny_Miss}} |Penny={{Penny}}}} |Sam_brother={{Sam_brother}} |Sam={{Sam}} |Sam_He_Uppercase={{Sam_He_Uppercase}} |Sam_him={{Sam_him}} |Penny_Miss={{Penny_Miss}} |Penny={{Penny}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Saloon",
       "Entries": {
-        "195013/f Shane 2500/f Sebastian 2500/f Sam 2500/f Harvey 2500/f Alex 2500/f Elliott 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 911526/e 528052/e 9581348/e 43/e 384882/e 233104/k 195099": "{{i18n:Data/Events/Saloon..195013/f+Shane+2500/f+Sebastian+2500/f+Sam+2500/f+Harvey+2500/f+Alex+2500/f+Elliott+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+911526/e+528052/e+9581348/e+43/e+384882/e+233104/k+195099...Samantha |default={{i18n:Data/Events/Saloon..195013/f+Shane+2500/f+Sebastian+2500/f+Sam+2500/f+Harvey+2500/f+Alex+2500/f+Elliott+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+911526/e+528052/e+9581348/e+43/e+384882/e+233104/k+195099..}}}}",
-        "choseToExplain": "{{i18n:Data/Events/Saloon..choseToExplain...Samantha |default={{i18n:Data/Events/Saloon..choseToExplain..}}}}",
-        "crying": "{{i18n:Data/Events/Saloon..crying...Samantha |default={{i18n:Data/Events/Saloon..crying..}}}}"
+        "195013/f Shane 2500/f Sebastian 2500/f Sam 2500/f Harvey 2500/f Alex 2500/f Elliott 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 911526/e 528052/e 9581348/e 43/e 384882/e 233104/k 195099": "{{i18n:event/Saloon/195013@swap-Samantha |default={{i18n:event/Saloon/195013}}}}",
+        "choseToExplain": "{{i18n:event/Saloon/choseToExplain@swap-Samantha |default={{i18n:event/Saloon/choseToExplain}}}}",
+        "crying": "{{i18n:event/Saloon/crying@swap-Samantha |default={{i18n:event/Saloon/crying}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/SamHouse",
       "Entries": {
-        "95/e 93/k 94/t 1800 1950/i 136/y 2": "{{i18n:Data/Events/SamHouse..95/e+93/k+94/t+1800+1950/i+136/y+2...Samantha |default={{i18n:Data/Events/SamHouse..95/e+93/k+94/t+1800+1950/i+136/y+2.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "94/e 93/k 95/t 1800 1950/i 136/y 1": "{{i18n:Data/Events/SamHouse..94/e+93/k+95/t+1800+1950/i+136/y+1...Samantha |default={{i18n:Data/Events/SamHouse..94/e+93/k+95/t+1800+1950/i+136/y+1.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "46/f Sam 1000/p Sam": "{{i18n:Data/Events/SamHouse..46/f+Sam+1000/p+Sam...Samantha |default={{i18n:Data/Events/SamHouse..46/f+Sam+1000/p+Sam.. |Sam={{Sam}} |Sam={{Sam}} |Sam={{Sam}} |Sam={{Sam}}}} |Sam={{Sam}} |Sam={{Sam}} |Sam={{Sam}} |Sam={{Sam}}}}"
+        "95/e 93/k 94/t 1800 1950/i 136/y 2": "{{i18n:event/SamHouse/95@swap-Samantha |default={{i18n:event/SamHouse/95 |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "94/e 93/k 95/t 1800 1950/i 136/y 1": "{{i18n:event/SamHouse/94@swap-Samantha |default={{i18n:event/SamHouse/94 |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "46/f Sam 1000/p Sam": "{{i18n:event/SamHouse/46@swap-Samantha |default={{i18n:event/SamHouse/46 |Sam={{Sam}}}} |Sam={{Sam}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Beach",
       "Entries": {
-        "733330/f Sam 750/w sunny/t 700 1500/z winter/y 1": "{{i18n:Data/Events/Beach..733330/f+Sam+750/w+sunny/t+700+1500/z+winter/y+1...Samantha |default={{i18n:Data/Events/Beach..733330/f+Sam+750/w+sunny/t+700+1500/z+winter/y+1.. |Sam={{Sam}} |Abigail={{Abigail}} |Sebastian={{Sebastian}} |Abigail_her_him={{Abigail_her_him}}}} |Sam={{Sam}} |Abigail={{Abigail}} |Sebastian={{Sebastian}} |Abigail_her_him={{Abigail_her_him}}}}"
+        "733330/f Sam 750/w sunny/t 700 1500/z winter/y 1": "{{i18n:event/Beach/733330@swap-Samantha |default={{i18n:event/Beach/733330 |Sam={{Sam}} |Abigail={{Abigail}} |Sebastian={{Sebastian}} |Abigail_her_him={{Abigail_her_him}}}} |Sam={{Sam}} |Abigail={{Abigail}} |Sebastian={{Sebastian}} |Abigail_her_him={{Abigail_her_him}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/SebastianRoom",
       "Entries": {
-        "enterRobin": "{{i18n:Data/Events/SebastianRoom..enterRobin...Samantha |default={{i18n:Data/Events/SebastianRoom..enterRobin.. |Sam={{Sam}} |Sam_he={{Sam_he}} |Sebby={{Sebby}} |Abigail={{Abigail}} |Abigail_she={{Abigail_she}} |Abigail_she={{Abigail_she}} |Abigail_her_him={{Abigail_her_him}} |Abigail_she={{Abigail_she}} |Abigail_she={{Abigail_she}} |Maru={{Maru}} |Maru_she={{Maru_she}} |Sebastian_him={{Sebastian_him}} |Sebastian_his={{Sebastian_his}} |Sebastian_him={{Sebastian_him}} |Sebastian_he={{Sebastian_he}} |Sebastian_his={{Sebastian_his}}}} |Sam={{Sam}} |Sam_he={{Sam_he}} |Sebby={{Sebby}} |Abigail={{Abigail}} |Abigail_she={{Abigail_she}} |Abigail_she={{Abigail_she}} |Abigail_her_him={{Abigail_her_him}} |Abigail_she={{Abigail_she}} |Abigail_she={{Abigail_she}} |Maru={{Maru}} |Maru_she={{Maru_she}} |Sebastian_him={{Sebastian_him}} |Sebastian_his={{Sebastian_his}} |Sebastian_him={{Sebastian_him}} |Sebastian_he={{Sebastian_he}} |Sebastian_his={{Sebastian_his}}}}",
-        "noFriends": "{{i18n:Data/Events/SebastianRoom..noFriends...Samantha |default={{i18n:Data/Events/SebastianRoom..noFriends.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "27/f Sebastian 1500/p Sebastian": "{{i18n:Data/Events/SebastianRoom..27/f+Sebastian+1500/p+Sebastian...Samantha |default={{i18n:Data/Events/SebastianRoom..27/f+Sebastian+1500/p+Sebastian.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "Necromancer": "{{i18n:Data/Events/SebastianRoom..Necromancer...Samantha |default={{i18n:Data/Events/SebastianRoom..Necromancer.. |Sam={{Sam}} |Sebastian={{Sebastian}} |Sebastian={{Sebastian}}}} |Sam={{Sam}} |Sebastian={{Sebastian}} |Sebastian={{Sebastian}}}}",
-        "healedSam": "{{i18n:Data/Events/SebastianRoom..healedSam...Samantha |default={{i18n:Data/Events/SebastianRoom..healedSam.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "finalBossWizard": "{{i18n:Data/Events/SebastianRoom..finalBossWizard...Samantha |default={{i18n:Data/Events/SebastianRoom..finalBossWizard.. |Sam={{Sam}} |Sebastian={{Sebastian}} |Sebastian={{Sebastian}}}} |Sam={{Sam}} |Sebastian={{Sebastian}} |Sebastian={{Sebastian}}}}",
-        "castBeam": "{{i18n:Data/Events/SebastianRoom..castBeam...Samantha |default={{i18n:Data/Events/SebastianRoom..castBeam.. |Sam={{Sam}} |Sebastian={{Sebastian}}}} |Sam={{Sam}} |Sebastian={{Sebastian}}}}",
-        "chargeAhead": "{{i18n:Data/Events/SebastianRoom..chargeAhead...Samantha |default={{i18n:Data/Events/SebastianRoom..chargeAhead.. |Sebastian={{Sebastian}} |Sam={{Sam}}}} |Sebastian={{Sebastian}} |Sam={{Sam}}}}"
+        "enterRobin": "{{i18n:event/SebastianRoom/enterRobin@swap-Samantha |default={{i18n:event/SebastianRoom/enterRobin |Sam={{Sam}} |Sam_he={{Sam_he}} |Sebby={{Sebby}} |Abigail={{Abigail}} |Abigail_she={{Abigail_she}} |Abigail_her_him={{Abigail_her_him}} |Maru={{Maru}} |Maru_she={{Maru_she}} |Sebastian_him={{Sebastian_him}} |Sebastian_his={{Sebastian_his}} |Sebastian_he={{Sebastian_he}}}} |Sam={{Sam}} |Sam_he={{Sam_he}} |Sebby={{Sebby}} |Abigail={{Abigail}} |Abigail_she={{Abigail_she}} |Abigail_her_him={{Abigail_her_him}} |Maru={{Maru}} |Maru_she={{Maru_she}} |Sebastian_him={{Sebastian_him}} |Sebastian_his={{Sebastian_his}} |Sebastian_he={{Sebastian_he}}}}",
+        "noFriends": "{{i18n:event/SebastianRoom/noFriends@swap-Samantha |default={{i18n:event/SebastianRoom/noFriends |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "27/f Sebastian 1500/p Sebastian": "{{i18n:event/SebastianRoom/27@swap-Samantha |default={{i18n:event/SebastianRoom/27 |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "Necromancer": "{{i18n:event/SebastianRoom/Necromancer@swap-Samantha |default={{i18n:event/SebastianRoom/Necromancer |Sam={{Sam}} |Sebastian={{Sebastian}}}} |Sam={{Sam}} |Sebastian={{Sebastian}}}}",
+        "healedSam": "{{i18n:event/SebastianRoom/healedSam@swap-Samantha |default={{i18n:event/SebastianRoom/healedSam |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "finalBossWizard": "{{i18n:event/SebastianRoom/finalBossWizard@swap-Samantha |default={{i18n:event/SebastianRoom/finalBossWizard |Sam={{Sam}} |Sebastian={{Sebastian}}}} |Sam={{Sam}} |Sebastian={{Sebastian}}}}",
+        "castBeam": "{{i18n:event/SebastianRoom/castBeam@swap-Samantha |default={{i18n:event/SebastianRoom/castBeam |Sam={{Sam}} |Sebastian={{Sebastian}}}} |Sam={{Sam}} |Sebastian={{Sebastian}}}}",
+        "chargeAhead": "{{i18n:event/SebastianRoom/chargeAhead@swap-Samantha |default={{i18n:event/SebastianRoom/chargeAhead |Sebastian={{Sebastian}} |Sam={{Sam}}}} |Sebastian={{Sebastian}} |Sam={{Sam}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/EngagementDialogue",
       "Entries": {
-        "Sam0": "{{i18n:Data/EngagementDialogue..Sam0...Samantha |default={{i18n:Data/EngagementDialogue..Sam0..}}}}"
+        "Sam0": "{{i18n:data/EngagementDialogue/Sam0@swap-Samantha |default={{i18n:data/EngagementDialogue/Sam0}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/spring24",
       "Entries": {
-        "Kent_y2": "{{i18n:Data/Festivals/spring24..Kent_y2...Samantha |default={{i18n:Data/Festivals/spring24..Kent_y2..}}}}"
+        "Kent_y2": "{{i18n:data/spring24/Kent_y2@swap-Samantha |default={{i18n:data/spring24/Kent_y2}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/fall16",
       "Entries": {
-        "Sebastian_spouse": "{{i18n:Data/Festivals/fall16..Sebastian_spouse...Samantha |default={{i18n:Data/Festivals/fall16..Sebastian_spouse.. |Sam={{Sam}}}} |Sam={{Sam}}}}"
+        "Sebastian_spouse": "{{i18n:data/fall16/Sebastian_spouse@swap-Samantha |default={{i18n:data/fall16/Sebastian_spouse |Sam={{Sam}}}} |Sam={{Sam}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/winter8",
       "Entries": {
-        "Vincent_y2": "{{i18n:Data/Festivals/winter8..Vincent_y2...Samantha |default={{i18n:Data/Festivals/winter8..Vincent_y2..}}}}"
+        "Vincent_y2": "{{i18n:data/winter8/Vincent_y2@swap-Samantha |default={{i18n:data/winter8/Vincent_y2}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/fall27",
       "Entries": {
-        "Jodi_y2": "{{i18n:Data/Festivals/fall27..Jodi_y2...Samantha |default={{i18n:Data/Festivals/fall27..Jodi_y2.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "Sam_y2": "{{i18n:Data/Festivals/fall27..Sam_y2...Samantha |default={{i18n:Data/Festivals/fall27..Sam_y2.. |Sam={{Sam}}}} |Sam={{Sam}}}}"
+        "Jodi_y2": "{{i18n:data/fall27/Jodi_y2@swap-Samantha |default={{i18n:data/fall27/Jodi_y2 |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "Sam_y2": "{{i18n:data/fall27/Sam_y2@swap-Samantha |default={{i18n:data/fall27/Sam_y2 |Sam={{Sam}}}} |Sam={{Sam}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/summer11",
       "Entries": {
-        "Sebastian": "{{i18n:Data/Festivals/summer11..Sebastian...Samantha |default={{i18n:Data/Festivals/summer11..Sebastian.. |Sam={{Sam}} |Sam={{Sam}}}} |Sam={{Sam}} |Sam={{Sam}}}}"
+        "Sebastian": "{{i18n:data/summer11/Sebastian@swap-Samantha |default={{i18n:data/summer11/Sebastian |Sam={{Sam}}}} |Sam={{Sam}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Furniture",
       "Entries": {
-        "SamsBoombox": "{{i18n:Strings/Furniture..SamsBoombox...Samantha |default={{i18n:Strings/Furniture..SamsBoombox.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "SamsSkateboard": "{{i18n:Strings/Furniture..SamsSkateboard...Samantha |default={{i18n:Strings/Furniture..SamsSkateboard.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "SamPortrait": "{{i18n:Strings/Furniture..SamPortrait...Samantha |default={{i18n:Strings/Furniture..SamPortrait.. |Sam={{Sam}}}} |Sam={{Sam}}}}"
+        "SamsBoombox": "{{i18n:strings/Furniture/SamsBoombox@swap-Samantha |default={{i18n:strings/Furniture/SamsBoombox |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "SamsSkateboard": "{{i18n:strings/Furniture/SamsSkateboard@swap-Samantha |default={{i18n:strings/Furniture/SamsSkateboard |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "SamPortrait": "{{i18n:strings/Furniture/SamPortrait@swap-Samantha |default={{i18n:strings/Furniture/SamPortrait |Sam={{Sam}}}} |Sam={{Sam}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Weapons",
       "Entries": {
-        "SamsOldGuitar_Name": "{{i18n:Strings/Weapons..SamsOldGuitar_Name...Samantha |default={{i18n:Strings/Weapons..SamsOldGuitar_Name.. |Sam={{Sam}}}} |Sam={{Sam}}}}"
+        "SamsOldGuitar_Name": "{{i18n:strings/Weapons/SamsOldGuitar_Name@swap-Samantha |default={{i18n:strings/Weapons/SamsOldGuitar_Name |Sam={{Sam}}}} |Sam={{Sam}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/StringsFromMaps",
       "Entries": {
-        "SamHouse.9": "{{i18n:Strings/StringsFromMaps..SamHouse=9...Samantha |default={{i18n:Strings/StringsFromMaps..SamHouse=9.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "SamHouse.11": "{{i18n:Strings/StringsFromMaps..SamHouse=11...Samantha |default={{i18n:Strings/StringsFromMaps..SamHouse=11.. |Sam={{Sam}}}} |Sam={{Sam}}}}"
+        "SamHouse.9": "{{i18n:strings/StringsFromMaps/SamHouse.9@swap-Samantha |default={{i18n:strings/StringsFromMaps/SamHouse.9 |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "SamHouse.11": "{{i18n:strings/StringsFromMaps/SamHouse.11@swap-Samantha |default={{i18n:strings/StringsFromMaps/SamHouse.11 |Sam={{Sam}}}} |Sam={{Sam}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/animationDescriptions",
       "Entries": {
-        "sam_guitar": "{{i18n:Strings/animationDescriptions..sam_guitar...Samantha |default={{i18n:Strings/animationDescriptions..sam_guitar.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "sam_skateboarding": "{{i18n:Strings/animationDescriptions..sam_skateboarding...Samantha |default={{i18n:Strings/animationDescriptions..sam_skateboarding.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "sam_work": "{{i18n:Strings/animationDescriptions..sam_work...Samantha |default={{i18n:Strings/animationDescriptions..sam_work.. |Sam={{Sam}}}} |Sam={{Sam}}}}"
+        "sam_guitar": "{{i18n:strings/animationDescriptions/sam_guitar@swap-Samantha |default={{i18n:strings/animationDescriptions/sam_guitar |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "sam_skateboarding": "{{i18n:strings/animationDescriptions/sam_skateboarding@swap-Samantha |default={{i18n:strings/animationDescriptions/sam_skateboarding |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "sam_work": "{{i18n:strings/animationDescriptions/sam_work@swap-Samantha |default={{i18n:strings/animationDescriptions/sam_work |Sam={{Sam}}}} |Sam={{Sam}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/MovieReactions",
       "Entries": {
-        "Sam_summer_movie_1_DuringMovie_2": "{{i18n:Strings/MovieReactions..Sam_summer_movie_1_DuringMovie_2...Samantha |default={{i18n:Strings/MovieReactions..Sam_summer_movie_1_DuringMovie_2.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "Sam_dislike_DuringMovie_2": "{{i18n:Strings/MovieReactions..Sam_dislike_DuringMovie_2...Samantha |default={{i18n:Strings/MovieReactions..Sam_dislike_DuringMovie_2.. |Sam={{Sam}}}} |Sam={{Sam}}}}"
+        "Sam_summer_movie_1_DuringMovie_2": "{{i18n:strings/MovieReactions/Sam_summer_movie_1_DuringMovie_2@swap-Samantha |default={{i18n:strings/MovieReactions/Sam_summer_movie_1_DuringMovie_2 |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "Sam_dislike_DuringMovie_2": "{{i18n:strings/MovieReactions/Sam_dislike_DuringMovie_2@swap-Samantha |default={{i18n:strings/MovieReactions/Sam_dislike_DuringMovie_2 |Sam={{Sam}}}} |Sam={{Sam}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/StringsFromCSFiles",
       "Entries": {
-        "Utility.cs.5792": "{{i18n:Strings/StringsFromCSFiles..Utility=cs=5792...Samantha |default={{i18n:Strings/StringsFromCSFiles..Utility=cs=5792.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "Utility.cs.5794": "{{i18n:Strings/StringsFromCSFiles..Utility=cs=5794...Samantha |default={{i18n:Strings/StringsFromCSFiles..Utility=cs=5794.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "Utility.cs.5806": "{{i18n:Strings/StringsFromCSFiles..Utility=cs=5806...Samantha |default={{i18n:Strings/StringsFromCSFiles..Utility=cs=5806.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "Utility.cs.5831": "{{i18n:Strings/StringsFromCSFiles..Utility=cs=5831...Samantha |default={{i18n:Strings/StringsFromCSFiles..Utility=cs=5831.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "MapPage.cs.11072": "{{i18n:Strings/StringsFromCSFiles..MapPage=cs=11072...Samantha |default={{i18n:Strings/StringsFromCSFiles..MapPage=cs=11072.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "ItemDeliveryQuest.cs.13568": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13568...Samantha |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13568.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "ItemDeliveryQuest.cs.13571": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13571...Samantha |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13571.. |Sam={{Sam}} |Sam={{Sam}}}} |Sam={{Sam}} |Sam={{Sam}}}}",
-        "sam_acoustic2": "{{i18n:Strings/StringsFromCSFiles..sam_acoustic2...Samantha |default={{i18n:Strings/StringsFromCSFiles..sam_acoustic2.. |Sam={{Sam}}}} |Sam={{Sam}}}}"
+        "Utility.cs.5792": "{{i18n:strings/StringsFromCSFiles/Utility.cs.5792@swap-Samantha |default={{i18n:strings/StringsFromCSFiles/Utility.cs.5792 |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "Utility.cs.5794": "{{i18n:strings/StringsFromCSFiles/Utility.cs.5794@swap-Samantha |default={{i18n:strings/StringsFromCSFiles/Utility.cs.5794 |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "Utility.cs.5806": "{{i18n:strings/StringsFromCSFiles/Utility.cs.5806@swap-Samantha |default={{i18n:strings/StringsFromCSFiles/Utility.cs.5806 |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "Utility.cs.5831": "{{i18n:strings/StringsFromCSFiles/Utility.cs.5831@swap-Samantha |default={{i18n:strings/StringsFromCSFiles/Utility.cs.5831 |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "MapPage.cs.11072": "{{i18n:strings/StringsFromCSFiles/MapPage.cs.11072@swap-Samantha |default={{i18n:strings/StringsFromCSFiles/MapPage.cs.11072 |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "ItemDeliveryQuest.cs.13568": "{{i18n:strings/StringsFromCSFiles/ItemDeliveryQuest.cs.13568@swap-Samantha |default={{i18n:strings/StringsFromCSFiles/ItemDeliveryQuest.cs.13568 |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "ItemDeliveryQuest.cs.13571": "{{i18n:strings/StringsFromCSFiles/ItemDeliveryQuest.cs.13571@swap-Samantha |default={{i18n:strings/StringsFromCSFiles/ItemDeliveryQuest.cs.13571 |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "sam_acoustic2": "{{i18n:strings/StringsFromCSFiles/sam_acoustic2@swap-Samantha |default={{i18n:strings/StringsFromCSFiles/sam_acoustic2 |Sam={{Sam}}}} |Sam={{Sam}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Locations",
       "Entries": {
-        "SamHouse_Sam_Trash": "{{i18n:Strings/Locations..SamHouse_Sam_Trash...Samantha |default={{i18n:Strings/Locations..SamHouse_Sam_Trash.. |Sam={{Sam}}}} |Sam={{Sam}}}}"
+        "SamHouse_Sam_Trash": "{{i18n:strings/Locations/SamHouse_Sam_Trash@swap-Samantha |default={{i18n:strings/Locations/SamHouse_Sam_Trash |Sam={{Sam}}}} |Sam={{Sam}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogue",
       "Entries": {
-        "winter_Sebastian": "{{i18n:Characters/Dialogue/MarriageDialogue..winter_Sebastian...Samantha |default={{i18n:Characters/Dialogue/MarriageDialogue..winter_Sebastian.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "winter_Sam": "{{i18n:Characters/Dialogue/MarriageDialogue..winter_Sam...Samantha |default={{i18n:Characters/Dialogue/MarriageDialogue..winter_Sam..}}}}"
+        "winter_Sebastian": "{{i18n:dialogue/MarriageDialogue/winter_Sebastian@swap-Samantha |default={{i18n:dialogue/MarriageDialogue/winter_Sebastian |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "winter_Sam": "{{i18n:dialogue/MarriageDialogue/winter_Sam@swap-Samantha |default={{i18n:dialogue/MarriageDialogue/winter_Sam}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueSam",
       "Entries": {
-        "OneKid_1": "{{i18n:Characters/Dialogue/MarriageDialogueSam..OneKid_1...Samantha |default={{i18n:Characters/Dialogue/MarriageDialogueSam..OneKid_1..}}}}",
-        "TwoKids_3": "{{i18n:Characters/Dialogue/MarriageDialogueSam..TwoKids_3...Samantha |default={{i18n:Characters/Dialogue/MarriageDialogueSam..TwoKids_3..}}}}"
+        "OneKid_1": "{{i18n:dialogue/MarriageDialogueSam/OneKid_1@swap-Samantha |default={{i18n:dialogue/MarriageDialogueSam/OneKid_1}}}}",
+        "TwoKids_3": "{{i18n:dialogue/MarriageDialogueSam/TwoKids_3@swap-Samantha |default={{i18n:dialogue/MarriageDialogueSam/TwoKids_3}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Emily",
       "Entries": {
-        "eventSeen_4081148": "{{i18n:Characters/Dialogue/Emily..eventSeen_4081148...Samantha |default={{i18n:Characters/Dialogue/Emily..eventSeen_4081148.. |Sam={{Sam}}}} |Sam={{Sam}}}}"
+        "eventSeen_4081148": "{{i18n:dialogue/Emily/eventSeen_4081148@swap-Samantha |default={{i18n:dialogue/Emily/eventSeen_4081148 |Sam={{Sam}}}} |Sam={{Sam}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Vincent",
       "Entries": {
-        "Mon": "{{i18n:Characters/Dialogue/Vincent..Mon...Samantha |default={{i18n:Characters/Dialogue/Vincent..Mon..}}}}"
+        "Mon": "{{i18n:dialogue/Vincent/Mon@swap-Samantha |default={{i18n:dialogue/Vincent/Mon}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Abigail",
       "Entries": {
-        "eventSeen_733330_memory_oneday": "{{i18n:Characters/Dialogue/Abigail..eventSeen_733330_memory_oneday...Samantha |default={{i18n:Characters/Dialogue/Abigail..eventSeen_733330_memory_oneday.. |Sam={{Sam}} |Sebastian={{Sebastian}}}} |Sam={{Sam}} |Sebastian={{Sebastian}}}}",
-        "dating_Sam": "{{i18n:Characters/Dialogue/Abigail..dating_Sam...Samantha |default={{i18n:Characters/Dialogue/Abigail..dating_Sam.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "married_Sam": "{{i18n:Characters/Dialogue/Abigail..married_Sam...Samantha |default={{i18n:Characters/Dialogue/Abigail..married_Sam.. |Sam={{Sam}}}} |Sam={{Sam}}}}"
+        "eventSeen_733330_memory_oneday": "{{i18n:dialogue/Abigail/eventSeen_733330_memory_oneday@swap-Samantha |default={{i18n:dialogue/Abigail/eventSeen_733330_memory_oneday |Sam={{Sam}} |Sebastian={{Sebastian}}}} |Sam={{Sam}} |Sebastian={{Sebastian}}}}",
+        "dating_Sam": "{{i18n:dialogue/Abigail/dating_Sam@swap-Samantha |default={{i18n:dialogue/Abigail/dating_Sam |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "married_Sam": "{{i18n:dialogue/Abigail/married_Sam@swap-Samantha |default={{i18n:dialogue/Abigail/married_Sam |Sam={{Sam}}}} |Sam={{Sam}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueSebastian",
       "Entries": {
-        "spring_12": "{{i18n:Characters/Dialogue/MarriageDialogueSebastian..spring_12...Samantha |default={{i18n:Characters/Dialogue/MarriageDialogueSebastian..spring_12.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "fall_15": "{{i18n:Characters/Dialogue/MarriageDialogueSebastian..fall_15...Samantha |default={{i18n:Characters/Dialogue/MarriageDialogueSebastian..fall_15.. |Sam={{Sam}}}} |Sam={{Sam}}}}"
+        "spring_12": "{{i18n:dialogue/MarriageDialogueSebastian/spring_12@swap-Samantha |default={{i18n:dialogue/MarriageDialogueSebastian/spring_12 |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "fall_15": "{{i18n:dialogue/MarriageDialogueSebastian/fall_15@swap-Samantha |default={{i18n:dialogue/MarriageDialogueSebastian/fall_15 |Sam={{Sam}}}} |Sam={{Sam}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Jodi",
       "Entries": {
-        "dating_Sam_memory_oneday": "{{i18n:Characters/Dialogue/Jodi..dating_Sam_memory_oneday...Samantha |default={{i18n:Characters/Dialogue/Jodi..dating_Sam_memory_oneday.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "married_Sam": "{{i18n:Characters/Dialogue/Jodi..married_Sam...Samantha |default={{i18n:Characters/Dialogue/Jodi..married_Sam.. |Sam={{Sam}} |Sam={{Sam}}}} |Sam={{Sam}} |Sam={{Sam}}}}",
-        "Thu6": "{{i18n:Characters/Dialogue/Jodi..Thu6...Samantha |default={{i18n:Characters/Dialogue/Jodi..Thu6.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "Sun8": "{{i18n:Characters/Dialogue/Jodi..Sun8...Samantha |default={{i18n:Characters/Dialogue/Jodi..Sun8.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "fall_Thu": "{{i18n:Characters/Dialogue/Jodi..fall_Thu...Samantha |default={{i18n:Characters/Dialogue/Jodi..fall_Thu.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "fall_Thu_inlaw_Sam": "{{i18n:Characters/Dialogue/Jodi..fall_Thu_inlaw_Sam...Samantha |default={{i18n:Characters/Dialogue/Jodi..fall_Thu_inlaw_Sam.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "winter_Thu": "{{i18n:Characters/Dialogue/Jodi..winter_Thu...Samantha |default={{i18n:Characters/Dialogue/Jodi..winter_Thu.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "winter_Thu_inlaw_Sam": "{{i18n:Characters/Dialogue/Jodi..winter_Thu_inlaw_Sam...Samantha |default={{i18n:Characters/Dialogue/Jodi..winter_Thu_inlaw_Sam.. |Sam={{Sam}}}} |Sam={{Sam}}}}"
+        "dating_Sam_memory_oneday": "{{i18n:dialogue/Jodi/dating_Sam_memory_oneday@swap-Samantha |default={{i18n:dialogue/Jodi/dating_Sam_memory_oneday |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "married_Sam": "{{i18n:dialogue/Jodi/married_Sam@swap-Samantha |default={{i18n:dialogue/Jodi/married_Sam |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "Thu6": "{{i18n:dialogue/Jodi/Thu6@swap-Samantha |default={{i18n:dialogue/Jodi/Thu6 |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "Sun8": "{{i18n:dialogue/Jodi/Sun8@swap-Samantha |default={{i18n:dialogue/Jodi/Sun8 |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "fall_Thu": "{{i18n:dialogue/Jodi/fall_Thu@swap-Samantha |default={{i18n:dialogue/Jodi/fall_Thu |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "fall_Thu_inlaw_Sam": "{{i18n:dialogue/Jodi/fall_Thu_inlaw_Sam@swap-Samantha |default={{i18n:dialogue/Jodi/fall_Thu_inlaw_Sam |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "winter_Thu": "{{i18n:dialogue/Jodi/winter_Thu@swap-Samantha |default={{i18n:dialogue/Jodi/winter_Thu |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "winter_Thu_inlaw_Sam": "{{i18n:dialogue/Jodi/winter_Thu_inlaw_Sam@swap-Samantha |default={{i18n:dialogue/Jodi/winter_Thu_inlaw_Sam |Sam={{Sam}}}} |Sam={{Sam}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Penny",
       "Entries": {
-        "married_Sam": "{{i18n:Characters/Dialogue/Penny..married_Sam...Samantha |default={{i18n:Characters/Dialogue/Penny..married_Sam.. |Sam={{Sam}}}} |Sam={{Sam}}}}"
+        "married_Sam": "{{i18n:dialogue/Penny/married_Sam@swap-Samantha |default={{i18n:dialogue/Penny/married_Sam |Sam={{Sam}}}} |Sam={{Sam}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Kent",
       "Entries": {
-        "Thu6": "{{i18n:Characters/Dialogue/Kent..Thu6...Samantha |default={{i18n:Characters/Dialogue/Kent..Thu6.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "married_Sam": "{{i18n:Characters/Dialogue/Kent..married_Sam...Samantha |default={{i18n:Characters/Dialogue/Kent..married_Sam..}}}}",
-        "Thu": "{{i18n:Characters/Dialogue/Kent..Thu...Samantha |default={{i18n:Characters/Dialogue/Kent..Thu..}}}}"
+        "Thu6": "{{i18n:dialogue/Kent/Thu6@swap-Samantha |default={{i18n:dialogue/Kent/Thu6 |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "married_Sam": "{{i18n:dialogue/Kent/married_Sam@swap-Samantha |default={{i18n:dialogue/Kent/married_Sam}}}}",
+        "Thu": "{{i18n:dialogue/Kent/Thu@swap-Samantha |default={{i18n:dialogue/Kent/Thu}}}}"
       }
     },
     {
@@ -299,36 +299,36 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Kent",
       "Entries": {
-        "married_Sam": "{{i18n:Characters/Dialogue/Kent..married_Sam.Flavor..Samantha |default={{i18n:Characters/Dialogue/Kent..married_Sam.Flavor.}}}}"
+        "married_Sam": "{{i18n:dialogue/Kent/married_Sam@swap-Samantha+flavor |default={{i18n:dialogue/Kent/married_Sam}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Sebastian",
       "Entries": {
-        "Tue6": "{{i18n:Characters/Dialogue/Sebastian..Tue6...Samantha |default={{i18n:Characters/Dialogue/Sebastian..Tue6.. |Sam={{Sam}} |Sam={{Sam}}}} |Sam={{Sam}} |Sam={{Sam}}}}",
-        "Wed2": "{{i18n:Characters/Dialogue/Sebastian..Wed2...Samantha |default={{i18n:Characters/Dialogue/Sebastian..Wed2.. |Sam={{Sam}} |Abby={{Abby}}}} |Sam={{Sam}} |Abby={{Abby}}}}",
-        "Wed2_inlaw_Abigail": "{{i18n:Characters/Dialogue/Sebastian..Wed2_inlaw_Abigail...Samantha |default={{i18n:Characters/Dialogue/Sebastian..Wed2_inlaw_Abigail.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "Wed6": "{{i18n:Characters/Dialogue/Sebastian..Wed6...Samantha |default={{i18n:Characters/Dialogue/Sebastian..Wed6.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "Fri8": "{{i18n:Characters/Dialogue/Sebastian..Fri8...Samantha |default={{i18n:Characters/Dialogue/Sebastian..Fri8.. |Sam={{Sam}}}} |Sam={{Sam}}}}"
+        "Tue6": "{{i18n:dialogue/Sebastian/Tue6@swap-Samantha |default={{i18n:dialogue/Sebastian/Tue6 |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "Wed2": "{{i18n:dialogue/Sebastian/Wed2@swap-Samantha |default={{i18n:dialogue/Sebastian/Wed2 |Sam={{Sam}} |Abby={{Abby}}}} |Sam={{Sam}} |Abby={{Abby}}}}",
+        "Wed2_inlaw_Abigail": "{{i18n:dialogue/Sebastian/Wed2_inlaw_Abigail@swap-Samantha |default={{i18n:dialogue/Sebastian/Wed2_inlaw_Abigail |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "Wed6": "{{i18n:dialogue/Sebastian/Wed6@swap-Samantha |default={{i18n:dialogue/Sebastian/Wed6 |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "Fri8": "{{i18n:dialogue/Sebastian/Fri8@swap-Samantha |default={{i18n:dialogue/Sebastian/Fri8 |Sam={{Sam}}}} |Sam={{Sam}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Sam",
       "Entries": {
-        "Introduction": "{{i18n:Characters/Dialogue/Sam..Introduction...Samantha |default={{i18n:Characters/Dialogue/Sam..Introduction.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "Resort_Towel": "{{i18n:Characters/Dialogue/Sam..Resort_Towel...Samantha |default={{i18n:Characters/Dialogue/Sam..Resort_Towel.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "Mon8": "{{i18n:Characters/Dialogue/Sam..Mon8...Samantha |default={{i18n:Characters/Dialogue/Sam..Mon8.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "FlowerDance_Accept_Spouse": "{{i18n:Characters/Dialogue/Sam..FlowerDance_Accept_Spouse...Samantha |default={{i18n:Characters/Dialogue/Sam..FlowerDance_Accept_Spouse..}}}}"
+        "Introduction": "{{i18n:dialogue/Sam/Introduction@swap-Samantha |default={{i18n:dialogue/Sam/Introduction |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "Resort_Towel": "{{i18n:dialogue/Sam/Resort_Towel@swap-Samantha |default={{i18n:dialogue/Sam/Resort_Towel |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "Mon8": "{{i18n:dialogue/Sam/Mon8@swap-Samantha |default={{i18n:dialogue/Sam/Mon8 |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "FlowerDance_Accept_Spouse": "{{i18n:dialogue/Sam/FlowerDance_Accept_Spouse@swap-Samantha |default={{i18n:dialogue/Sam/FlowerDance_Accept_Spouse}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/schedules/Sebastian",
       "Entries": {
-        "Fri.000": "{{i18n:Strings/schedules/Sebastian..Fri=000...Samantha |default={{i18n:Strings/schedules/Sebastian..Fri=000.. |Sam={{Sam}}}} |Sam={{Sam}}}}",
-        "marriage_Fri.001": "{{i18n:Strings/schedules/Sebastian..marriage_Fri=001...Samantha |default={{i18n:Strings/schedules/Sebastian..marriage_Fri=001.. |Sam={{Sam}}}} |Sam={{Sam}}}}"
+        "Fri.000": "{{i18n:strings/schedules/Sebastian/Fri.000@swap-Samantha |default={{i18n:strings/schedules/Sebastian/Fri.000 |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "marriage_Fri.001": "{{i18n:strings/schedules/Sebastian/marriage_Fri.001@swap-Samantha |default={{i18n:strings/schedules/Sebastian/marriage_Fri.001 |Sam={{Sam}}}} |Sam={{Sam}}}}"
       }
     }
   ]

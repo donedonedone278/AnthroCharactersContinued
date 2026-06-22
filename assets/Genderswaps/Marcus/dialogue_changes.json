@@ -19,7 +19,7 @@
       "Action": "EditData",
       "Target": "Strings/NPCNames",
       "Entries": {
-        "Maru": "{{i18n:Strings/NPCNames..Maru...Marcus |default={{i18n:Strings/NPCNames..Maru..}}}}"
+        "Maru": "{{i18n:name/Maru/Maru@swap-Marcus |default={{i18n:name/Maru/Maru}}}}"
       }
     },
     {
@@ -30,7 +30,7 @@
         "FriendsAndFamily"
       ],
       "Entries": {
-        "Maru": "{{i18n:Data/Characters.Robin/FriendsAndFamily.Maru...Marcus |default={{i18n:Data/Characters.Robin/FriendsAndFamily.Maru..}}}}"
+        "Maru": "{{i18n:data/Robin/FriendsAndFamily/Maru@swap-Marcus |default={{i18n:data/Robin/FriendsAndFamily/Maru}}}}"
       }
     },
     {
@@ -41,22 +41,22 @@
         "FriendsAndFamily"
       ],
       "Entries": {
-        "Maru": "{{i18n:Data/Characters.Sebastian/FriendsAndFamily.Maru...Marcus |default={{i18n:Data/Characters.Sebastian/FriendsAndFamily.Maru..}}}}"
+        "Maru": "{{i18n:data/Sebastian/FriendsAndFamily/Maru@swap-Marcus |default={{i18n:data/Sebastian/FriendsAndFamily/Maru}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Demetrius",
       "Entries": {
-        "Introduction": "{{i18n:Characters/Dialogue/Demetrius..Introduction...Marcus |default={{i18n:Characters/Dialogue/Demetrius..Introduction..}}}}",
-        "dating_Maru": "{{i18n:Characters/Dialogue/Demetrius..dating_Maru...Marcus |default={{i18n:Characters/Dialogue/Demetrius..dating_Maru..}}}}",
-        "married_Maru": "{{i18n:Characters/Dialogue/Demetrius..married_Maru...Marcus |default={{i18n:Characters/Dialogue/Demetrius..married_Maru..}}}}",
-        "Mon": "{{i18n:Characters/Dialogue/Demetrius..Mon...Marcus |default={{i18n:Characters/Dialogue/Demetrius..Mon..}}}}",
-        "Mon_inlaw_Maru": "{{i18n:Characters/Dialogue/Demetrius..Mon_inlaw_Maru...Marcus |default={{i18n:Characters/Dialogue/Demetrius..Mon_inlaw_Maru..}}}}",
-        "summer_Fri": "{{i18n:Characters/Dialogue/Demetrius..summer_Fri...Marcus |default={{i18n:Characters/Dialogue/Demetrius..summer_Fri..}}}}",
-        "summer_Fri_inlaw_Maru": "{{i18n:Characters/Dialogue/Demetrius..summer_Fri_inlaw_Maru...Marcus |default={{i18n:Characters/Dialogue/Demetrius..summer_Fri_inlaw_Maru..}}}}",
-        "fall_Fri": "{{i18n:Characters/Dialogue/Demetrius..fall_Fri...Marcus |default={{i18n:Characters/Dialogue/Demetrius..fall_Fri..}}}}",
-        "fall_Fri_inlaw_Maru": "{{i18n:Characters/Dialogue/Demetrius..fall_Fri_inlaw_Maru...Marcus |default={{i18n:Characters/Dialogue/Demetrius..fall_Fri_inlaw_Maru..}}}}"
+        "Introduction": "{{i18n:dialogue/Demetrius/Introduction@swap-Marcus |default={{i18n:dialogue/Demetrius/Introduction}}}}",
+        "dating_Maru": "{{i18n:dialogue/Demetrius/dating_Maru@swap-Marcus |default={{i18n:dialogue/Demetrius/dating_Maru}}}}",
+        "married_Maru": "{{i18n:dialogue/Demetrius/married_Maru@swap-Marcus |default={{i18n:dialogue/Demetrius/married_Maru}}}}",
+        "Mon": "{{i18n:dialogue/Demetrius/Mon@swap-Marcus |default={{i18n:dialogue/Demetrius/Mon}}}}",
+        "Mon_inlaw_Maru": "{{i18n:dialogue/Demetrius/Mon_inlaw_Maru@swap-Marcus |default={{i18n:dialogue/Demetrius/Mon_inlaw_Maru}}}}",
+        "summer_Fri": "{{i18n:dialogue/Demetrius/summer_Fri@swap-Marcus |default={{i18n:dialogue/Demetrius/summer_Fri}}}}",
+        "summer_Fri_inlaw_Maru": "{{i18n:dialogue/Demetrius/summer_Fri_inlaw_Maru@swap-Marcus |default={{i18n:dialogue/Demetrius/summer_Fri_inlaw_Maru}}}}",
+        "fall_Fri": "{{i18n:dialogue/Demetrius/fall_Fri@swap-Marcus |default={{i18n:dialogue/Demetrius/fall_Fri}}}}",
+        "fall_Fri_inlaw_Maru": "{{i18n:dialogue/Demetrius/fall_Fri_inlaw_Maru@swap-Marcus |default={{i18n:dialogue/Demetrius/fall_Fri_inlaw_Maru}}}}"
       }
     },
     {
@@ -64,57 +64,57 @@
       "Target": "Characters/Dialogue/Maru",
       "Priority": "Late",
       "Entries": {
-        "married_Sebastian": "{{i18n:Characters/Dialogue/Maru..married_Sebastian..Late.Marcus |default={{i18n:Characters/Dialogue/Maru..married_Sebastian..Late |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
-        "Introduction": "{{i18n:Characters/Dialogue/Maru..Introduction..Late.Marcus |default={{i18n:Characters/Dialogue/Maru..Introduction..Late}}}}"
+        "married_Sebastian": "{{i18n:dialogue/Maru/married_Sebastian@swap-Marcus |default={{i18n:dialogue/Maru/married_Sebastian |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
+        "Introduction": "{{i18n:dialogue/Maru/Introduction@swap-Marcus |default={{i18n:dialogue/Maru/Introduction}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Sebastian",
       "Entries": {
-        "Thu4": "{{i18n:Characters/Dialogue/Sebastian..Thu4...Marcus |default={{i18n:Characters/Dialogue/Sebastian..Thu4..}}}}",
-        "winter_Sun6": "{{i18n:Characters/Dialogue/Sebastian..winter_Sun6...Marcus |default={{i18n:Characters/Dialogue/Sebastian..winter_Sun6..}}}}"
+        "Thu4": "{{i18n:dialogue/Sebastian/Thu4@swap-Marcus |default={{i18n:dialogue/Sebastian/Thu4}}}}",
+        "winter_Sun6": "{{i18n:dialogue/Sebastian/winter_Sun6@swap-Marcus |default={{i18n:dialogue/Sebastian/winter_Sun6}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/EngagementDialogue",
       "Entries": {
-        "Maru0": "{{i18n:Data/EngagementDialogue..Maru0...Marcus |default={{i18n:Data/EngagementDialogue..Maru0..}}}}",
-        "Maru1": "{{i18n:Data/EngagementDialogue..Maru1...Marcus |default={{i18n:Data/EngagementDialogue..Maru1..}}}}"
+        "Maru0": "{{i18n:data/EngagementDialogue/Maru0@swap-Marcus |default={{i18n:data/EngagementDialogue/Maru0}}}}",
+        "Maru1": "{{i18n:data/EngagementDialogue/Maru1@swap-Marcus |default={{i18n:data/EngagementDialogue/Maru1}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/HaleyHouse",
       "Entries": {
-        "195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019": "{{i18n:Data/Events/HaleyHouse..195012/f+Haley+2500/f+Emily+2500/f+Penny+2500/f+Abigail+2500/f+Leah+2500/f+Maru+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+38/e+2123343/e+10/e+901756/e+54/e+15/k+195019...Marcus |default={{i18n:Data/Events/HaleyHouse..195012/f+Haley+2500/f+Emily+2500/f+Penny+2500/f+Abigail+2500/f+Leah+2500/f+Maru+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+38/e+2123343/e+10/e+901756/e+54/e+15/k+195019..}}}}",
-        "choseToExplain": "{{i18n:Data/Events/HaleyHouse..choseToExplain...Marcus |default={{i18n:Data/Events/HaleyHouse..choseToExplain..}}}}",
-        "lifestyleChoice": "{{i18n:Data/Events/HaleyHouse..lifestyleChoice...Marcus |default={{i18n:Data/Events/HaleyHouse..lifestyleChoice..}}}}"
+        "195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019": "{{i18n:event/HaleyHouse/195012@swap-Marcus |default={{i18n:event/HaleyHouse/195012}}}}",
+        "choseToExplain": "{{i18n:event/HaleyHouse/choseToExplain@swap-Marcus |default={{i18n:event/HaleyHouse/choseToExplain}}}}",
+        "lifestyleChoice": "{{i18n:event/HaleyHouse/lifestyleChoice@swap-Marcus |default={{i18n:event/HaleyHouse/lifestyleChoice}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Hospital",
       "Entries": {
-        "7/f Maru 1000/p Maru": "{{i18n:Data/Events/Hospital..7/f+Maru+1000/p+Maru.. |Harvey={{Harvey}} |Harvey_He_Uppercase={{Harvey_He_Uppercase}} |Harvey={{Harvey}} |Harvey={{Harvey}} |Maru={{Maru}}}}",
-        "toldTruth": "{{i18n:Data/Events/Hospital..toldTruth...Marcus |default={{i18n:Data/Events/Hospital..toldTruth.. |Maru={{Maru}} |Harvey={{Harvey}}}} |Maru={{Maru}} |Harvey={{Harvey}}}}"
+        "7/f Maru 1000/p Maru": "{{i18n:event/Hospital/7@swap-Marcus |default={{i18n:event/Hospital/7 |Harvey={{Harvey}} |Harvey_He_Uppercase={{Harvey_He_Uppercase}} |Maru={{Maru}}}} |Harvey={{Harvey}} |Harvey_He_Uppercase={{Harvey_He_Uppercase}} |Maru={{Maru}}}}",
+        "toldTruth": "{{i18n:event/Hospital/toldTruth@swap-Marcus |default={{i18n:event/Hospital/toldTruth |Maru={{Maru}} |Harvey={{Harvey}}}} |Maru={{Maru}} |Harvey={{Harvey}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Mountain",
       "Entries": {
-        "8/f Maru 1500/w sunny/t 2100 2340": "{{i18n:Data/Events/Mountain..8/f+Maru+1500/w+sunny/t+2100+2340...Marcus |default={{i18n:Data/Events/Mountain..8/f+Maru+1500/w+sunny/t+2100+2340..}}}}"
+        "8/f Maru 1500/w sunny/t 2100 2340": "{{i18n:event/Mountain/8@swap-Marcus |default={{i18n:event/Mountain/8}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/ScienceHouse",
       "Entries": {
-        "6/f Maru 500/p Maru": "{{i18n:Data/Events/ScienceHouse..6/f+Maru+500/p+Maru...Marcus |default={{i18n:Data/Events/ScienceHouse..6/f+Maru+500/p+Maru..}}}}",
-        "DadWeird": "{{i18n:Data/Events/ScienceHouse..DadWeird...Marcus |default={{i18n:Data/Events/ScienceHouse..DadWeird..}}}}",
-        "10/f Maru 2500/t 900 1600": "{{i18n:Data/Events/ScienceHouse..10/f+Maru+2500/t+900+1600...Marcus |default={{i18n:Data/Events/ScienceHouse..10/f+Maru+2500/t+900+1600..}}}}"
+        "6/f Maru 500/p Maru": "{{i18n:event/ScienceHouse/6@swap-Marcus |default={{i18n:event/ScienceHouse/6}}}}",
+        "DadWeird": "{{i18n:event/ScienceHouse/DadWeird@swap-Marcus |default={{i18n:event/ScienceHouse/DadWeird}}}}",
+        "10/f Maru 2500/t 900 1600": "{{i18n:event/ScienceHouse/10@swap-Marcus |default={{i18n:event/ScienceHouse/10}}}}"
       }
     },
     {
@@ -125,21 +125,21 @@
       "Action": "EditData",
       "Target": "Data/Events/ScienceHouse",
       "Entries": {
-        "6/f Maru 500/p Maru": "{{i18n:Data/Events/ScienceHouse..6/f+Maru+500/p+Maru.FurryFarmer..Marcus |default={{i18n:Data/Events/ScienceHouse..6/f+Maru+500/p+Maru.FurryFarmer.}}}}"
+        "6/f Maru 500/p Maru": "{{i18n:event/ScienceHouse/6@swap-Marcus+furry |default={{i18n:event/ScienceHouse/6}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/spring13",
       "Entries": {
-        "Penny_spouse": "{{i18n:Data/Festivals/spring13..Penny_spouse...Marcus |default={{i18n:Data/Festivals/spring13..Penny_spouse..}}}}"
+        "Penny_spouse": "{{i18n:data/spring13/Penny_spouse@swap-Marcus |default={{i18n:data/spring13/Penny_spouse}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/summer11",
       "Entries": {
-        "Harvey": "{{i18n:Data/Festivals/summer11..Harvey...Marcus |default={{i18n:Data/Festivals/summer11..Harvey..}}}}"
+        "Harvey": "{{i18n:data/summer11/Harvey@swap-Marcus |default={{i18n:data/summer11/Harvey}}}}"
       }
     },
     {
@@ -149,119 +149,115 @@
         "Flavor": true
       },
       "Entries": {
-        "Harvey": "{{i18n:Data/Festivals/summer11..Harvey.Flavor..Marcus |default={{i18n:Data/Festivals/summer11..Harvey.Flavor.}}}}"
+        "Harvey": "{{i18n:data/summer11/Harvey@swap-Marcus+flavor |default={{i18n:data/summer11/Harvey}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/SecretNotes",
       "Entries": {
-        "4": "{{i18n:Data/SecretNotes..4...Marcus |default={{i18n:Data/SecretNotes..4..}}}}"
+        "4": "{{i18n:data/SecretNotes/4@swap-Marcus |default={{i18n:data/SecretNotes/4}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Furniture",
       "Entries": {
-        "MaruPortrait": "{{i18n:Strings/Furniture..MaruPortrait...Marcus |default={{i18n:Strings/Furniture..MaruPortrait..}}}}"
+        "MaruPortrait": "{{i18n:strings/Furniture/MaruPortrait@swap-Marcus |default={{i18n:strings/Furniture/MaruPortrait}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/StringsFromCSFiles",
       "Entries": {
-        "MapPage.cs.11095": "{{i18n:Strings/StringsFromCSFiles..MapPage=cs=11095...Marcus |default={{i18n:Strings/StringsFromCSFiles..MapPage=cs=11095.. |Sebastian={{Sebastian}} |Maru={{Maru}}}} |Sebastian={{Sebastian}} |Maru={{Maru}}}}",
-        "ItemDeliveryQuest.cs.13580": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13580...Marcus |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13580..}}}}",
-        "ItemDeliveryQuest.cs.13583": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13583...Marcus |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13583..}}}}",
-        "Utility.cs.5371": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and... well, husband!$h",
-        "Utility.cs.5373": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and... well, husband!$h",
-        "Utility.cs.5375": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and... well, husband!$h",
-        "Utility.cs.5377": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and... well, husband!$h"
+        "MapPage.cs.11095": "{{i18n:strings/StringsFromCSFiles/MapPage.cs.11095@swap-Marcus |default={{i18n:strings/StringsFromCSFiles/MapPage.cs.11095 |Sebastian={{Sebastian}} |Maru={{Maru}}}} |Sebastian={{Sebastian}} |Maru={{Maru}}}}",
+        "ItemDeliveryQuest.cs.13580": "{{i18n:strings/StringsFromCSFiles/ItemDeliveryQuest.cs.13580@swap-Marcus |default={{i18n:strings/StringsFromCSFiles/ItemDeliveryQuest.cs.13580}}}}",
+        "ItemDeliveryQuest.cs.13583": "{{i18n:strings/StringsFromCSFiles/ItemDeliveryQuest.cs.13583@swap-Marcus |default={{i18n:strings/StringsFromCSFiles/ItemDeliveryQuest.cs.13583}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/StringsFromMaps",
       "Entries": {
-        "ScienceHouse.2": "{{i18n:Strings/StringsFromMaps..ScienceHouse=2...Marcus |default={{i18n:Strings/StringsFromMaps..ScienceHouse=2..}}}}",
-        "ScienceHouse.7": "{{i18n:Strings/StringsFromMaps..ScienceHouse=7...Marcus |default={{i18n:Strings/StringsFromMaps..ScienceHouse=7..}}}}"
+        "ScienceHouse.2": "{{i18n:strings/StringsFromMaps/ScienceHouse.2@swap-Marcus |default={{i18n:strings/StringsFromMaps/ScienceHouse.2}}}}",
+        "ScienceHouse.7": "{{i18n:strings/StringsFromMaps/ScienceHouse.7@swap-Marcus |default={{i18n:strings/StringsFromMaps/ScienceHouse.7}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/schedules/Penny",
       "Entries": {
-        "marriage_Mon.002": "{{i18n:Strings/schedules/Penny..marriage_Mon=002...Marcus |default={{i18n:Strings/schedules/Penny..marriage_Mon=002..}}}}"
+        "marriage_Mon.002": "{{i18n:strings/schedules/Penny/marriage_Mon.002@swap-Marcus |default={{i18n:strings/schedules/Penny/marriage_Mon.002}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Weapons",
       "Entries": {
-        "MarusWrench_Name": "{{i18n:Strings/Weapons..MarusWrench_Name...Marcus |default={{i18n:Strings/Weapons..MarusWrench_Name..}}}}",
-        "MarusWrench_Description": "{{i18n:Strings/Weapons..MarusWrench_Description...Marcus |default={{i18n:Strings/Weapons..MarusWrench_Description..}}}}"
+        "MarusWrench_Name": "{{i18n:strings/Weapons/MarusWrench_Name@swap-Marcus |default={{i18n:strings/Weapons/MarusWrench_Name}}}}",
+        "MarusWrench_Description": "{{i18n:strings/Weapons/MarusWrench_Description@swap-Marcus |default={{i18n:strings/Weapons/MarusWrench_Description}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/SebastianRoom",
       "Entries": {
-        "enterRobin": "{{i18n:Data/Events/SebastianRoom..enterRobin...Marcus |default={{i18n:Data/Events/SebastianRoom..enterRobin.. |Sam={{Sam}} |Sam_he={{Sam_he}} |Sebby={{Sebby}} |Abigail={{Abigail}} |Abigail_she={{Abigail_she}} |Abigail_she={{Abigail_she}} |Abigail_her_him={{Abigail_her_him}} |Abigail_she={{Abigail_she}} |Abigail_she={{Abigail_she}} |Maru={{Maru}} |Maru_she={{Maru_she}} |Sebastian_him={{Sebastian_him}} |Sebastian_his={{Sebastian_his}} |Sebastian_him={{Sebastian_him}} |Sebastian_he={{Sebastian_he}} |Sebastian_his={{Sebastian_his}}}} |Sam={{Sam}} |Sam_he={{Sam_he}} |Sebby={{Sebby}} |Abigail={{Abigail}} |Abigail_she={{Abigail_she}} |Abigail_she={{Abigail_she}} |Abigail_her_him={{Abigail_her_him}} |Abigail_she={{Abigail_she}} |Abigail_she={{Abigail_she}} |Maru={{Maru}} |Maru_she={{Maru_she}} |Sebastian_him={{Sebastian_him}} |Sebastian_his={{Sebastian_his}} |Sebastian_him={{Sebastian_him}} |Sebastian_he={{Sebastian_he}} |Sebastian_his={{Sebastian_his}}}}"
+        "enterRobin": "{{i18n:event/SebastianRoom/enterRobin@swap-Marcus |default={{i18n:event/SebastianRoom/enterRobin |Sam={{Sam}} |Sam_he={{Sam_he}} |Sebby={{Sebby}} |Abigail={{Abigail}} |Abigail_she={{Abigail_she}} |Abigail_her_him={{Abigail_her_him}} |Maru={{Maru}} |Maru_she={{Maru_she}} |Sebastian_him={{Sebastian_him}} |Sebastian_his={{Sebastian_his}} |Sebastian_he={{Sebastian_he}}}} |Sam={{Sam}} |Sam_he={{Sam_he}} |Sebby={{Sebby}} |Abigail={{Abigail}} |Abigail_she={{Abigail_she}} |Abigail_her_him={{Abigail_her_him}} |Maru={{Maru}} |Maru_she={{Maru_she}} |Sebastian_him={{Sebastian_him}} |Sebastian_his={{Sebastian_his}} |Sebastian_he={{Sebastian_he}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/fall27",
       "Entries": {
-        "Demetrius": "{{i18n:Data/Festivals/fall27..Demetrius...Marcus |default={{i18n:Data/Festivals/fall27..Demetrius.. |Maru={{Maru}}}} |Maru={{Maru}}}}"
+        "Demetrius": "{{i18n:data/fall27/Demetrius@swap-Marcus |default={{i18n:data/fall27/Demetrius |Maru={{Maru}}}} |Maru={{Maru}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/MovieReactions",
       "Entries": {
-        "Maru_spring_movie_1_DuringMovie_2": "{{i18n:Strings/MovieReactions..Maru_spring_movie_1_DuringMovie_2...Marcus |default={{i18n:Strings/MovieReactions..Maru_spring_movie_1_DuringMovie_2.. |Maru={{Maru}}}} |Maru={{Maru}}}}"
+        "Maru_spring_movie_1_DuringMovie_2": "{{i18n:strings/MovieReactions/Maru_spring_movie_1_DuringMovie_2@swap-Marcus |default={{i18n:strings/MovieReactions/Maru_spring_movie_1_DuringMovie_2 |Maru={{Maru}}}} |Maru={{Maru}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueSebastian",
       "Entries": {
-        "Indoor_Night_2": "{{i18n:Characters/Dialogue/MarriageDialogueSebastian..Indoor_Night_2...Marcus |default={{i18n:Characters/Dialogue/MarriageDialogueSebastian..Indoor_Night_2.. |Maru={{Maru}}}} |Maru={{Maru}}}}",
-        "TwoKids_1": "{{i18n:Characters/Dialogue/MarriageDialogueSebastian..TwoKids_1...Marcus |default={{i18n:Characters/Dialogue/MarriageDialogueSebastian..TwoKids_1.. |Maru={{Maru}}}} |Maru={{Maru}}}}"
+        "Indoor_Night_2": "{{i18n:dialogue/MarriageDialogueSebastian/Indoor_Night_2@swap-Marcus |default={{i18n:dialogue/MarriageDialogueSebastian/Indoor_Night_2 |Maru={{Maru}}}} |Maru={{Maru}}}}",
+        "TwoKids_1": "{{i18n:dialogue/MarriageDialogueSebastian/TwoKids_1@swap-Marcus |default={{i18n:dialogue/MarriageDialogueSebastian/TwoKids_1 |Maru={{Maru}}}} |Maru={{Maru}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Penny",
       "Entries": {
-        "eventSeen_36_memory_oneweek": "{{i18n:Characters/Dialogue/Penny..eventSeen_36_memory_oneweek...Marcus |default={{i18n:Characters/Dialogue/Penny..eventSeen_36_memory_oneweek.. |Maru={{Maru}}}} |Maru={{Maru}}}}",
-        "married_Maru": "{{i18n:Characters/Dialogue/Penny..married_Maru...Marcus |default={{i18n:Characters/Dialogue/Penny..married_Maru.. |Maru={{Maru}}}} |Maru={{Maru}}}}",
-        "dating_Maru_memory_oneday": "{{i18n:Characters/Dialogue/Penny..dating_Maru_memory_oneday...Marcus |default={{i18n:Characters/Dialogue/Penny..dating_Maru_memory_oneday.. |Maru={{Maru}}}} |Maru={{Maru}}}}"
+        "eventSeen_36_memory_oneweek": "{{i18n:dialogue/Penny/eventSeen_36_memory_oneweek@swap-Marcus |default={{i18n:dialogue/Penny/eventSeen_36_memory_oneweek |Maru={{Maru}}}} |Maru={{Maru}}}}",
+        "married_Maru": "{{i18n:dialogue/Penny/married_Maru@swap-Marcus |default={{i18n:dialogue/Penny/married_Maru |Maru={{Maru}}}} |Maru={{Maru}}}}",
+        "dating_Maru_memory_oneday": "{{i18n:dialogue/Penny/dating_Maru_memory_oneday@swap-Marcus |default={{i18n:dialogue/Penny/dating_Maru_memory_oneday |Maru={{Maru}}}} |Maru={{Maru}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Robin",
       "Entries": {
-        "divorced_Maru": "{{i18n:Characters/Dialogue/Robin..divorced_Maru...Marcus |default={{i18n:Characters/Dialogue/Robin..divorced_Maru.. |Maru={{Maru}}}} |Maru={{Maru}}}}",
-        "married_Maru": "{{i18n:Characters/Dialogue/Robin..married_Maru...Marcus |default={{i18n:Characters/Dialogue/Robin..married_Maru.. |Maru={{Maru}}}} |Maru={{Maru}}}}",
-        "fall_Mon": "{{i18n:Characters/Dialogue/Robin..fall_Mon...Marcus |default={{i18n:Characters/Dialogue/Robin..fall_Mon.. |Maru={{Maru}} |Maru={{Maru}}}} |Maru={{Maru}} |Maru={{Maru}}}}"
+        "divorced_Maru": "{{i18n:dialogue/Robin/divorced_Maru@swap-Marcus |default={{i18n:dialogue/Robin/divorced_Maru |Maru={{Maru}}}} |Maru={{Maru}}}}",
+        "married_Maru": "{{i18n:dialogue/Robin/married_Maru@swap-Marcus |default={{i18n:dialogue/Robin/married_Maru |Maru={{Maru}}}} |Maru={{Maru}}}}",
+        "fall_Mon": "{{i18n:dialogue/Robin/fall_Mon@swap-Marcus |default={{i18n:dialogue/Robin/fall_Mon |Maru={{Maru}}}} |Maru={{Maru}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Harvey",
       "Entries": {
-        "dating_Maru_memory_oneday": "{{i18n:Characters/Dialogue/Harvey..dating_Maru_memory_oneday...Marcus |default={{i18n:Characters/Dialogue/Harvey..dating_Maru_memory_oneday.. |Maru={{Maru}}}} |Maru={{Maru}}}}",
-        "married_Maru": "{{i18n:Characters/Dialogue/Harvey..married_Maru...Marcus |default={{i18n:Characters/Dialogue/Harvey..married_Maru.. |Maru={{Maru}}}} |Maru={{Maru}}}}"
+        "dating_Maru_memory_oneday": "{{i18n:dialogue/Harvey/dating_Maru_memory_oneday@swap-Marcus |default={{i18n:dialogue/Harvey/dating_Maru_memory_oneday |Maru={{Maru}}}} |Maru={{Maru}}}}",
+        "married_Maru": "{{i18n:dialogue/Harvey/married_Maru@swap-Marcus |default={{i18n:dialogue/Harvey/married_Maru |Maru={{Maru}}}} |Maru={{Maru}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialoguePenny",
       "Entries": {
-        "Rainy_Day_1": "{{i18n:Characters/Dialogue/MarriageDialoguePenny..Rainy_Day_1...Marcus |default={{i18n:Characters/Dialogue/MarriageDialoguePenny..Rainy_Day_1.. |Maru={{Maru}} |Harvey={{Harvey}} |Harvey={{Harvey}} |Maru_her_him={{Maru_her_him}} |Maru={{Maru}}}} |Maru={{Maru}} |Harvey={{Harvey}} |Harvey={{Harvey}} |Maru_her_him={{Maru_her_him}} |Maru={{Maru}}}}"
+        "Rainy_Day_1": "{{i18n:dialogue/MarriageDialoguePenny/Rainy_Day_1@swap-Marcus |default={{i18n:dialogue/MarriageDialoguePenny/Rainy_Day_1 |Maru={{Maru}} |Harvey={{Harvey}} |Maru_her_him={{Maru_her_him}}}} |Maru={{Maru}} |Harvey={{Harvey}} |Maru_her_him={{Maru_her_him}}}}"
       }
     }
   ]

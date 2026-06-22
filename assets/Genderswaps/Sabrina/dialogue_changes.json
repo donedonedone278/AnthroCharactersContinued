@@ -19,7 +19,7 @@
       "Action": "EditData",
       "Target": "Strings/NPCNames",
       "Entries": {
-        "Sebastian": "{{i18n:Strings/NPCNames..Sebastian...Sabrina |default={{i18n:Strings/NPCNames..Sebastian..}}}}"
+        "Sebastian": "{{i18n:name/Sebastian/Sebastian@swap-Sabrina |default={{i18n:name/Sebastian/Sebastian}}}}"
       }
     },
     {
@@ -30,7 +30,7 @@
         "FriendsAndFamily"
       ],
       "Entries": {
-        "Sebastian": "{{i18n:Data/Characters.Maru/FriendsAndFamily.Sebastian...Sabrina |default={{i18n:Data/Characters.Maru/FriendsAndFamily.Sebastian..}}}}"
+        "Sebastian": "{{i18n:data/Maru/FriendsAndFamily/Sebastian@swap-Sabrina |default={{i18n:data/Maru/FriendsAndFamily/Sebastian}}}}"
       }
     },
     {
@@ -41,87 +41,87 @@
         "FriendsAndFamily"
       ],
       "Entries": {
-        "Sebastian": "{{i18n:Data/Characters.Robin/FriendsAndFamily.Sebastian...Sabrina |default={{i18n:Data/Characters.Robin/FriendsAndFamily.Sebastian..}}}}"
+        "Sebastian": "{{i18n:data/Robin/FriendsAndFamily/Sebastian@swap-Sabrina |default={{i18n:data/Robin/FriendsAndFamily/Sebastian}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/SecretNotes",
       "Entries": {
-        "2": "{{i18n:Data/SecretNotes..2...Sabrina |default={{i18n:Data/SecretNotes..2.. |Sam={{Sam}} |Sebastian={{Sebastian}} |Penny={{Penny}}}} |Sam={{Sam}} |Sebastian={{Sebastian}} |Penny={{Penny}}}}"
+        "2": "{{i18n:data/SecretNotes/2@swap-Sabrina |default={{i18n:data/SecretNotes/2 |Sam={{Sam}} |Sebastian={{Sebastian}} |Penny={{Penny}}}} |Sam={{Sam}} |Sebastian={{Sebastian}} |Penny={{Penny}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Town",
       "Entries": {
-        "15389722/j 57": "{{i18n:Data/Events/Town..15389722/j+57...Sabrina |default={{i18n:Data/Events/Town..15389722/j+57.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}"
+        "15389722/j 57": "{{i18n:event/Town/15389722@swap-Sabrina |default={{i18n:event/Town/15389722 |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Mountain",
       "Entries": {
-        "384882/f Sebastian 2500/t 2000 2400": "{{i18n:Data/Events/Mountain..384882/f+Sebastian+2500/t+2000+2400...Sabrina |default={{i18n:Data/Events/Mountain..384882/f+Sebastian+2500/t+2000+2400..}}}}"
+        "384882/f Sebastian 2500/t 2000 2400": "{{i18n:event/Mountain/384882@swap-Sabrina |default={{i18n:event/Mountain/384882}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Saloon",
       "Entries": {
-        "195099/f Shane 2500/f Sebastian 2500/f Sam 2500/f Harvey 2500/f Alex 2500/f Elliott 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 911526/e 528052/e 9581348/e 43/e 384882/e 233104/i 446/k 195013": "{{i18n:Data/Events/Saloon..195099/f+Shane+2500/f+Sebastian+2500/f+Sam+2500/f+Harvey+2500/f+Alex+2500/f+Elliott+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+911526/e+528052/e+9581348/e+43/e+384882/e+233104/i+446/k+195013...Sabrina |default={{i18n:Data/Events/Saloon..195099/f+Shane+2500/f+Sebastian+2500/f+Sam+2500/f+Harvey+2500/f+Alex+2500/f+Elliott+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+911526/e+528052/e+9581348/e+43/e+384882/e+233104/i+446/k+195013.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
-        "195013/f Shane 2500/f Sebastian 2500/f Sam 2500/f Harvey 2500/f Alex 2500/f Elliott 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 911526/e 528052/e 9581348/e 43/e 384882/e 233104/k 195099": "{{i18n:Data/Events/Saloon..195013/f+Shane+2500/f+Sebastian+2500/f+Sam+2500/f+Harvey+2500/f+Alex+2500/f+Elliott+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+911526/e+528052/e+9581348/e+43/e+384882/e+233104/k+195099...Sabrina |default={{i18n:Data/Events/Saloon..195013/f+Shane+2500/f+Sebastian+2500/f+Sam+2500/f+Harvey+2500/f+Alex+2500/f+Elliott+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+911526/e+528052/e+9581348/e+43/e+384882/e+233104/k+195099..}}}}",
-        "choseToExplain": "{{i18n:Data/Events/Saloon..choseToExplain...Sabrina |default={{i18n:Data/Events/Saloon..choseToExplain..}}}}",
-        "crying": "{{i18n:Data/Events/Saloon..crying...Sabrina |default={{i18n:Data/Events/Saloon..crying..}}}}"
+        "195099/f Shane 2500/f Sebastian 2500/f Sam 2500/f Harvey 2500/f Alex 2500/f Elliott 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 911526/e 528052/e 9581348/e 43/e 384882/e 233104/i 446/k 195013": "{{i18n:event/Saloon/195099@swap-Sabrina |default={{i18n:event/Saloon/195099 |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
+        "195013/f Shane 2500/f Sebastian 2500/f Sam 2500/f Harvey 2500/f Alex 2500/f Elliott 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 911526/e 528052/e 9581348/e 43/e 384882/e 233104/k 195099": "{{i18n:event/Saloon/195013@swap-Sabrina |default={{i18n:event/Saloon/195013}}}}",
+        "choseToExplain": "{{i18n:event/Saloon/choseToExplain@swap-Sabrina |default={{i18n:event/Saloon/choseToExplain}}}}",
+        "crying": "{{i18n:event/Saloon/crying@swap-Sabrina |default={{i18n:event/Saloon/crying}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/SamHouse",
       "Entries": {
-        "44/f Sam 500/p Sam": "{{i18n:Data/Events/SamHouse..44/f+Sam+500/p+Sam...Sabrina |default={{i18n:Data/Events/SamHouse..44/f+Sam+500/p+Sam.. |Sebastian={{Sebastian}} |Sebastian={{Sebastian}} |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}} |Sebastian={{Sebastian}} |Sebastian={{Sebastian}}}}"
+        "44/f Sam 500/p Sam": "{{i18n:event/SamHouse/44@swap-Sabrina |default={{i18n:event/SamHouse/44 |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Beach",
       "Entries": {
-        "733330/f Sam 750/w sunny/t 700 1500/z winter/y 1": "{{i18n:Data/Events/Beach..733330/f+Sam+750/w+sunny/t+700+1500/z+winter/y+1...Sabrina |default={{i18n:Data/Events/Beach..733330/f+Sam+750/w+sunny/t+700+1500/z+winter/y+1.. |Sam={{Sam}} |Abigail={{Abigail}} |Sebastian={{Sebastian}} |Abigail_her_him={{Abigail_her_him}}}} |Sam={{Sam}} |Abigail={{Abigail}} |Sebastian={{Sebastian}} |Abigail_her_him={{Abigail_her_him}}}}"
+        "733330/f Sam 750/w sunny/t 700 1500/z winter/y 1": "{{i18n:event/Beach/733330@swap-Sabrina |default={{i18n:event/Beach/733330 |Sam={{Sam}} |Abigail={{Abigail}} |Sebastian={{Sebastian}} |Abigail_her_him={{Abigail_her_him}}}} |Sam={{Sam}} |Abigail={{Abigail}} |Sebastian={{Sebastian}} |Abigail_her_him={{Abigail_her_him}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/SebastianRoom",
       "Entries": {
-        "enterRobin": "{{i18n:Data/Events/SebastianRoom..enterRobin...Sabrina |default={{i18n:Data/Events/SebastianRoom..enterRobin.. |Sam={{Sam}} |Sam_he={{Sam_he}} |Sebby={{Sebby}} |Abigail={{Abigail}} |Abigail_she={{Abigail_she}} |Abigail_she={{Abigail_she}} |Abigail_her_him={{Abigail_her_him}} |Abigail_she={{Abigail_she}} |Abigail_she={{Abigail_she}} |Maru={{Maru}} |Maru_she={{Maru_she}} |Sebastian_him={{Sebastian_him}} |Sebastian_his={{Sebastian_his}} |Sebastian_him={{Sebastian_him}} |Sebastian_he={{Sebastian_he}} |Sebastian_his={{Sebastian_his}}}} |Sam={{Sam}} |Sam_he={{Sam_he}} |Sebby={{Sebby}} |Abigail={{Abigail}} |Abigail_she={{Abigail_she}} |Abigail_she={{Abigail_she}} |Abigail_her_him={{Abigail_her_him}} |Abigail_she={{Abigail_she}} |Abigail_she={{Abigail_she}} |Maru={{Maru}} |Maru_she={{Maru_she}} |Sebastian_him={{Sebastian_him}} |Sebastian_his={{Sebastian_his}} |Sebastian_him={{Sebastian_him}} |Sebastian_he={{Sebastian_he}} |Sebastian_his={{Sebastian_his}}}}",
-        "Necromancer": "{{i18n:Data/Events/SebastianRoom..Necromancer...Sabrina |default={{i18n:Data/Events/SebastianRoom..Necromancer.. |Sam={{Sam}} |Sebastian={{Sebastian}} |Sebastian={{Sebastian}}}} |Sam={{Sam}} |Sebastian={{Sebastian}} |Sebastian={{Sebastian}}}}",
-        "finalBossWizard": "{{i18n:Data/Events/SebastianRoom..finalBossWizard...Sabrina |default={{i18n:Data/Events/SebastianRoom..finalBossWizard.. |Sam={{Sam}} |Sebastian={{Sebastian}} |Sebastian={{Sebastian}}}} |Sam={{Sam}} |Sebastian={{Sebastian}} |Sebastian={{Sebastian}}}}",
-        "castBeam": "{{i18n:Data/Events/SebastianRoom..castBeam...Sabrina |default={{i18n:Data/Events/SebastianRoom..castBeam.. |Sam={{Sam}} |Sebastian={{Sebastian}}}} |Sam={{Sam}} |Sebastian={{Sebastian}}}}",
-        "chargeAhead": "{{i18n:Data/Events/SebastianRoom..chargeAhead...Sabrina |default={{i18n:Data/Events/SebastianRoom..chargeAhead.. |Sebastian={{Sebastian}} |Sam={{Sam}}}} |Sebastian={{Sebastian}} |Sam={{Sam}}}}",
-        "finalBossWarrior": "{{i18n:Data/Events/SebastianRoom..finalBossWarrior...Sabrina |default={{i18n:Data/Events/SebastianRoom..finalBossWarrior.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
-        "2794460/f Sebastian 500/p Sebastian": "{{i18n:Data/Events/SebastianRoom..2794460/f+Sebastian+500/p+Sebastian...Sabrina |default={{i18n:Data/Events/SebastianRoom..2794460/f+Sebastian+500/p+Sebastian..}}}}",
-        "sebastianRoom": "{{i18n:Data/Events/SebastianRoom..sebastianRoom...Sabrina |default={{i18n:Data/Events/SebastianRoom..sebastianRoom..}}}}"
+        "enterRobin": "{{i18n:event/SebastianRoom/enterRobin@swap-Sabrina |default={{i18n:event/SebastianRoom/enterRobin |Sam={{Sam}} |Sam_he={{Sam_he}} |Sebby={{Sebby}} |Abigail={{Abigail}} |Abigail_she={{Abigail_she}} |Abigail_her_him={{Abigail_her_him}} |Maru={{Maru}} |Maru_she={{Maru_she}} |Sebastian_him={{Sebastian_him}} |Sebastian_his={{Sebastian_his}} |Sebastian_he={{Sebastian_he}}}} |Sam={{Sam}} |Sam_he={{Sam_he}} |Sebby={{Sebby}} |Abigail={{Abigail}} |Abigail_she={{Abigail_she}} |Abigail_her_him={{Abigail_her_him}} |Maru={{Maru}} |Maru_she={{Maru_she}} |Sebastian_him={{Sebastian_him}} |Sebastian_his={{Sebastian_his}} |Sebastian_he={{Sebastian_he}}}}",
+        "Necromancer": "{{i18n:event/SebastianRoom/Necromancer@swap-Sabrina |default={{i18n:event/SebastianRoom/Necromancer |Sam={{Sam}} |Sebastian={{Sebastian}}}} |Sam={{Sam}} |Sebastian={{Sebastian}}}}",
+        "finalBossWizard": "{{i18n:event/SebastianRoom/finalBossWizard@swap-Sabrina |default={{i18n:event/SebastianRoom/finalBossWizard |Sam={{Sam}} |Sebastian={{Sebastian}}}} |Sam={{Sam}} |Sebastian={{Sebastian}}}}",
+        "castBeam": "{{i18n:event/SebastianRoom/castBeam@swap-Sabrina |default={{i18n:event/SebastianRoom/castBeam |Sam={{Sam}} |Sebastian={{Sebastian}}}} |Sam={{Sam}} |Sebastian={{Sebastian}}}}",
+        "chargeAhead": "{{i18n:event/SebastianRoom/chargeAhead@swap-Sabrina |default={{i18n:event/SebastianRoom/chargeAhead |Sebastian={{Sebastian}} |Sam={{Sam}}}} |Sebastian={{Sebastian}} |Sam={{Sam}}}}",
+        "finalBossWarrior": "{{i18n:event/SebastianRoom/finalBossWarrior@swap-Sabrina |default={{i18n:event/SebastianRoom/finalBossWarrior |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
+        "2794460/f Sebastian 500/p Sebastian": "{{i18n:event/SebastianRoom/2794460@swap-Sabrina |default={{i18n:event/SebastianRoom/2794460}}}}",
+        "sebastianRoom": "{{i18n:event/SebastianRoom/sebastianRoom@swap-Sabrina |default={{i18n:event/SebastianRoom/sebastianRoom}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/summer28",
       "Entries": {
-        "Sam": "{{i18n:Data/Festivals/summer28..Sam...Sabrina |default={{i18n:Data/Festivals/summer28..Sam.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}"
+        "Sam": "{{i18n:data/summer28/Sam@swap-Sabrina |default={{i18n:data/summer28/Sam |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/fall16",
       "Entries": {
-        "Sam_spouse": "{{i18n:Data/Festivals/fall16..Sam_spouse...Sabrina |default={{i18n:Data/Festivals/fall16..Sam_spouse.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}"
+        "Sam_spouse": "{{i18n:data/fall16/Sam_spouse@swap-Sabrina |default={{i18n:data/fall16/Sam_spouse |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/winter25",
       "Entries": {
-        "Sebastian_spouse_y2": "{{i18n:Data/Festivals/winter25..Sebastian_spouse_y2...Sabrina |default={{i18n:Data/Festivals/winter25..Sebastian_spouse_y2..}}}}"
+        "Sebastian_spouse_y2": "{{i18n:data/winter25/Sebastian_spouse_y2@swap-Sabrina |default={{i18n:data/winter25/Sebastian_spouse_y2}}}}"
       }
     },
     {
@@ -131,61 +131,61 @@
       "Action": "EditData",
       "Target": "Data/Festivals/winter25",
       "Entries": {
-        "Sebastian_spouse_y2": "{{i18n:Data/Festivals/winter25..Sebastian_spouse_y2.Flavor..Sabrina |default={{i18n:Data/Festivals/winter25..Sebastian_spouse_y2.Flavor.}}}}"
+        "Sebastian_spouse_y2": "{{i18n:data/winter25/Sebastian_spouse_y2@swap-Sabrina+flavor |default={{i18n:data/winter25/Sebastian_spouse_y2}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Furniture",
       "Entries": {
-        "SebastianPortrait": "{{i18n:Strings/Furniture..SebastianPortrait...Sabrina |default={{i18n:Strings/Furniture..SebastianPortrait.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}"
+        "SebastianPortrait": "{{i18n:strings/Furniture/SebastianPortrait@swap-Sabrina |default={{i18n:strings/Furniture/SebastianPortrait |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Weapons",
       "Entries": {
-        "SebsLostMace_Description": "{{i18n:Strings/Weapons..SebsLostMace_Description...Sabrina |default={{i18n:Strings/Weapons..SebsLostMace_Description.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}"
+        "SebsLostMace_Description": "{{i18n:strings/Weapons/SebsLostMace_Description@swap-Sabrina |default={{i18n:strings/Weapons/SebsLostMace_Description |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/MovieReactions",
       "Entries": {
-        "Sebastian_love_DuringMovie_2": "{{i18n:Strings/MovieReactions..Sebastian_love_DuringMovie_2...Sabrina |default={{i18n:Strings/MovieReactions..Sebastian_love_DuringMovie_2.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}"
+        "Sebastian_love_DuringMovie_2": "{{i18n:strings/MovieReactions/Sebastian_love_DuringMovie_2@swap-Sabrina |default={{i18n:strings/MovieReactions/Sebastian_love_DuringMovie_2 |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/StringsFromCSFiles",
       "Entries": {
-        "MapPage.cs.11095": "{{i18n:Strings/StringsFromCSFiles..MapPage=cs=11095...Sabrina |default={{i18n:Strings/StringsFromCSFiles..MapPage=cs=11095.. |Sebastian={{Sebastian}} |Maru={{Maru}}}} |Sebastian={{Sebastian}} |Maru={{Maru}}}}",
-        "ItemDeliveryQuest.cs.13324": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13324...Sabrina |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13324.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
-        "ItemDeliveryQuest.cs.13327": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13327...Sabrina |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13327.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
-        "ItemDeliveryQuest.cs.13378": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13378...Sabrina |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13378.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
-        "ItemDeliveryQuest.cs.13381": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13381...Sabrina |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13381.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}"
+        "MapPage.cs.11095": "{{i18n:strings/StringsFromCSFiles/MapPage.cs.11095@swap-Sabrina |default={{i18n:strings/StringsFromCSFiles/MapPage.cs.11095 |Sebastian={{Sebastian}} |Maru={{Maru}}}} |Sebastian={{Sebastian}} |Maru={{Maru}}}}",
+        "ItemDeliveryQuest.cs.13324": "{{i18n:strings/StringsFromCSFiles/ItemDeliveryQuest.cs.13324@swap-Sabrina |default={{i18n:strings/StringsFromCSFiles/ItemDeliveryQuest.cs.13324 |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
+        "ItemDeliveryQuest.cs.13327": "{{i18n:strings/StringsFromCSFiles/ItemDeliveryQuest.cs.13327@swap-Sabrina |default={{i18n:strings/StringsFromCSFiles/ItemDeliveryQuest.cs.13327 |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
+        "ItemDeliveryQuest.cs.13378": "{{i18n:strings/StringsFromCSFiles/ItemDeliveryQuest.cs.13378@swap-Sabrina |default={{i18n:strings/StringsFromCSFiles/ItemDeliveryQuest.cs.13378 |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
+        "ItemDeliveryQuest.cs.13381": "{{i18n:strings/StringsFromCSFiles/ItemDeliveryQuest.cs.13381@swap-Sabrina |default={{i18n:strings/StringsFromCSFiles/ItemDeliveryQuest.cs.13381 |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogue",
       "Entries": {
-        "Indoor_Night_Sebastian": "{{i18n:Characters/Dialogue/MarriageDialogue..Indoor_Night_Sebastian...Sabrina |default={{i18n:Characters/Dialogue/MarriageDialogue..Indoor_Night_Sebastian..}}}}"
+        "Indoor_Night_Sebastian": "{{i18n:dialogue/MarriageDialogue/Indoor_Night_Sebastian@swap-Sabrina |default={{i18n:dialogue/MarriageDialogue/Indoor_Night_Sebastian}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueSam",
       "Entries": {
-        "Rainy_Day_1": "{{i18n:Characters/Dialogue/MarriageDialogueSam..Rainy_Day_1...Sabrina |default={{i18n:Characters/Dialogue/MarriageDialogueSam..Rainy_Day_1.. |Sebastian={{Sebastian}} |Abigail={{Abigail}}}} |Sebastian={{Sebastian}} |Abigail={{Abigail}}}}",
-        "spring_12": "{{i18n:Characters/Dialogue/MarriageDialogueSam..spring_12...Sabrina |default={{i18n:Characters/Dialogue/MarriageDialogueSam..spring_12.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}"
+        "Rainy_Day_1": "{{i18n:dialogue/MarriageDialogueSam/Rainy_Day_1@swap-Sabrina |default={{i18n:dialogue/MarriageDialogueSam/Rainy_Day_1 |Sebastian={{Sebastian}} |Abigail={{Abigail}}}} |Sebastian={{Sebastian}} |Abigail={{Abigail}}}}",
+        "spring_12": "{{i18n:dialogue/MarriageDialogueSam/spring_12@swap-Sabrina |default={{i18n:dialogue/MarriageDialogueSam/spring_12 |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Alex",
       "Entries": {
-        "winter_Sat": "{{i18n:Characters/Dialogue/Alex..winter_Sat...Sabrina |default={{i18n:Characters/Dialogue/Alex..winter_Sat.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}"
+        "winter_Sat": "{{i18n:dialogue/Alex/winter_Sat@swap-Sabrina |default={{i18n:dialogue/Alex/winter_Sat |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}"
       }
     },
     {
@@ -195,82 +195,82 @@
         "Flavor": true
       },
       "Entries": {
-        "winter_Sat": "{{i18n:Characters/Dialogue/Alex..winter_Sat.Flavor..Sabrina |default={{i18n:Characters/Dialogue/Alex..winter_Sat.Flavor. |Sebastian={{Sebastian}} |Sebastian_he={{Sebastian_he}}}} |Sebastian={{Sebastian}} |Sebastian_he={{Sebastian_he}}}}"
+        "winter_Sat": "{{i18n:dialogue/Alex/winter_Sat@swap-Sabrina+flavor |default={{i18n:dialogue/Alex/winter_Sat |Sebastian={{Sebastian}} |Sebastian_he={{Sebastian_he}}}} |Sebastian={{Sebastian}} |Sebastian_he={{Sebastian_he}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Abigail",
       "Entries": {
-        "eventSeen_733330_memory_oneday": "{{i18n:Characters/Dialogue/Abigail..eventSeen_733330_memory_oneday...Sabrina |default={{i18n:Characters/Dialogue/Abigail..eventSeen_733330_memory_oneday.. |Sam={{Sam}} |Sebastian={{Sebastian}}}} |Sam={{Sam}} |Sebastian={{Sebastian}}}}",
-        "eventSeen_2_memory_oneday": "{{i18n:Characters/Dialogue/Abigail..eventSeen_2_memory_oneday...Sabrina |default={{i18n:Characters/Dialogue/Abigail..eventSeen_2_memory_oneday.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
-        "dating_Sebastian_memory_oneday": "{{i18n:Characters/Dialogue/Abigail..dating_Sebastian_memory_oneday...Sabrina |default={{i18n:Characters/Dialogue/Abigail..dating_Sebastian_memory_oneday.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
-        "married_Sebastian": "{{i18n:Characters/Dialogue/Abigail..married_Sebastian...Sabrina |default={{i18n:Characters/Dialogue/Abigail..married_Sebastian.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}"
+        "eventSeen_733330_memory_oneday": "{{i18n:dialogue/Abigail/eventSeen_733330_memory_oneday@swap-Sabrina |default={{i18n:dialogue/Abigail/eventSeen_733330_memory_oneday |Sam={{Sam}} |Sebastian={{Sebastian}}}} |Sam={{Sam}} |Sebastian={{Sebastian}}}}",
+        "eventSeen_2_memory_oneday": "{{i18n:dialogue/Abigail/eventSeen_2_memory_oneday@swap-Sabrina |default={{i18n:dialogue/Abigail/eventSeen_2_memory_oneday |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
+        "dating_Sebastian_memory_oneday": "{{i18n:dialogue/Abigail/dating_Sebastian_memory_oneday@swap-Sabrina |default={{i18n:dialogue/Abigail/dating_Sebastian_memory_oneday |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
+        "married_Sebastian": "{{i18n:dialogue/Abigail/married_Sebastian@swap-Sabrina |default={{i18n:dialogue/Abigail/married_Sebastian |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Sebastian",
       "Entries": {
-        "winter_Wed": "{{i18n:Characters/Dialogue/Sebastian..winter_Wed...Sabrina |default={{i18n:Characters/Dialogue/Sebastian..winter_Wed.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
-        "AcceptGift_(O)Book_Defense": "{{i18n:Characters/Dialogue/Sebastian..AcceptGift_(O)Book_Defense...Sabrina |default={{i18n:Characters/Dialogue/Sebastian..AcceptGift_(O)Book_Defense..}}}}"
+        "winter_Wed": "{{i18n:dialogue/Sebastian/winter_Wed@swap-Sabrina |default={{i18n:dialogue/Sebastian/winter_Wed |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
+        "AcceptGift_(O)Book_Defense": "{{i18n:dialogue/Sebastian/AcceptGift_(O)Book_Defense@swap-Sabrina |default={{i18n:dialogue/Sebastian/AcceptGift_(O)Book_Defense}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueAbigail",
       "Entries": {
-        "Bad_9": "{{i18n:Characters/Dialogue/MarriageDialogueAbigail..Bad_9...Sabrina |default={{i18n:Characters/Dialogue/MarriageDialogueAbigail..Bad_9.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}"
+        "Bad_9": "{{i18n:dialogue/MarriageDialogueAbigail/Bad_9@swap-Sabrina |default={{i18n:dialogue/MarriageDialogueAbigail/Bad_9 |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Maru",
       "Entries": {
-        "married_Sebastian": "{{i18n:Characters/Dialogue/Maru..married_Sebastian...Sabrina |default={{i18n:Characters/Dialogue/Maru..married_Sebastian.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
-        "summer_Tue": "{{i18n:Characters/Dialogue/Maru..summer_Tue...Sabrina |default={{i18n:Characters/Dialogue/Maru..summer_Tue.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
-        "summer_Tue4": "{{i18n:Characters/Dialogue/Maru..summer_Tue4...Sabrina |default={{i18n:Characters/Dialogue/Maru..summer_Tue4.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}"
+        "married_Sebastian": "{{i18n:dialogue/Maru/married_Sebastian@swap-Sabrina |default={{i18n:dialogue/Maru/married_Sebastian |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
+        "summer_Tue": "{{i18n:dialogue/Maru/summer_Tue@swap-Sabrina |default={{i18n:dialogue/Maru/summer_Tue |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
+        "summer_Tue4": "{{i18n:dialogue/Maru/summer_Tue4@swap-Sabrina |default={{i18n:dialogue/Maru/summer_Tue4 |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Robin",
       "Entries": {
-        "divorced_Sebastian": "{{i18n:Characters/Dialogue/Robin..divorced_Sebastian...Sabrina |default={{i18n:Characters/Dialogue/Robin..divorced_Sebastian.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
-        "married_Sebastian": "{{i18n:Characters/Dialogue/Robin..married_Sebastian...Sabrina |default={{i18n:Characters/Dialogue/Robin..married_Sebastian.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
-        "Fri": "{{i18n:Characters/Dialogue/Robin..Fri...Sabrina |default={{i18n:Characters/Dialogue/Robin..Fri.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
-        "Fri_inlaw_Sebastian": "{{i18n:Characters/Dialogue/Robin..Fri_inlaw_Sebastian...Sabrina |default={{i18n:Characters/Dialogue/Robin..Fri_inlaw_Sebastian.. |Sebby={{Sebby}}}} |Sebby={{Sebby}}}}",
-        "Fri4": "{{i18n:Characters/Dialogue/Robin..Fri4...Sabrina |default={{i18n:Characters/Dialogue/Robin..Fri4.. |Sebastian={{Sebastian}} |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}} |Sebastian={{Sebastian}}}}",
-        "Fri4_inlaw_Sebastian": "{{i18n:Characters/Dialogue/Robin..Fri4_inlaw_Sebastian...Sabrina |default={{i18n:Characters/Dialogue/Robin..Fri4_inlaw_Sebastian.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
-        "winter_Fri_inlaw_Sebastian": "{{i18n:Characters/Dialogue/Robin..winter_Fri_inlaw_Sebastian...Sabrina |default={{i18n:Characters/Dialogue/Robin..winter_Fri_inlaw_Sebastian.. |Sebby={{Sebby}}}} |Sebby={{Sebby}}}}"
+        "divorced_Sebastian": "{{i18n:dialogue/Robin/divorced_Sebastian@swap-Sabrina |default={{i18n:dialogue/Robin/divorced_Sebastian |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
+        "married_Sebastian": "{{i18n:dialogue/Robin/married_Sebastian@swap-Sabrina |default={{i18n:dialogue/Robin/married_Sebastian |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
+        "Fri": "{{i18n:dialogue/Robin/Fri@swap-Sabrina |default={{i18n:dialogue/Robin/Fri |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
+        "Fri_inlaw_Sebastian": "{{i18n:dialogue/Robin/Fri_inlaw_Sebastian@swap-Sabrina |default={{i18n:dialogue/Robin/Fri_inlaw_Sebastian |Sebby={{Sebby}}}} |Sebby={{Sebby}}}}",
+        "Fri4": "{{i18n:dialogue/Robin/Fri4@swap-Sabrina |default={{i18n:dialogue/Robin/Fri4 |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
+        "Fri4_inlaw_Sebastian": "{{i18n:dialogue/Robin/Fri4_inlaw_Sebastian@swap-Sabrina |default={{i18n:dialogue/Robin/Fri4_inlaw_Sebastian |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
+        "winter_Fri_inlaw_Sebastian": "{{i18n:dialogue/Robin/winter_Fri_inlaw_Sebastian@swap-Sabrina |default={{i18n:dialogue/Robin/winter_Fri_inlaw_Sebastian |Sebby={{Sebby}}}} |Sebby={{Sebby}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Sam",
       "Entries": {
-        "dating_Sebastian": "{{i18n:Characters/Dialogue/Sam..dating_Sebastian...Sabrina |default={{i18n:Characters/Dialogue/Sam..dating_Sebastian.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
-        "married_Sebastian": "{{i18n:Characters/Dialogue/Sam..married_Sebastian...Sabrina |default={{i18n:Characters/Dialogue/Sam..married_Sebastian.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
-        "Resort_Towel_2": "{{i18n:Characters/Dialogue/Sam..Resort_Towel_2...Sabrina |default={{i18n:Characters/Dialogue/Sam..Resort_Towel_2.. |Abby={{Abby}} |Sebastian={{Sebastian}}}} |Abby={{Abby}} |Sebastian={{Sebastian}}}}",
-        "Wed6": "{{i18n:Characters/Dialogue/Sam..Wed6...Sabrina |default={{i18n:Characters/Dialogue/Sam..Wed6.. |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}"
+        "dating_Sebastian": "{{i18n:dialogue/Sam/dating_Sebastian@swap-Sabrina |default={{i18n:dialogue/Sam/dating_Sebastian |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
+        "married_Sebastian": "{{i18n:dialogue/Sam/married_Sebastian@swap-Sabrina |default={{i18n:dialogue/Sam/married_Sebastian |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}",
+        "Resort_Towel_2": "{{i18n:dialogue/Sam/Resort_Towel_2@swap-Sabrina |default={{i18n:dialogue/Sam/Resort_Towel_2 |Abby={{Abby}} |Sebastian={{Sebastian}}}} |Abby={{Abby}} |Sebastian={{Sebastian}}}}",
+        "Wed6": "{{i18n:dialogue/Sam/Wed6@swap-Sabrina |default={{i18n:dialogue/Sam/Wed6 |Sebastian={{Sebastian}}}} |Sebastian={{Sebastian}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueMaru",
       "Entries": {
-        "summer_20": "{{i18n:Characters/Dialogue/MarriageDialogueMaru..summer_20...Sabrina |default={{i18n:Characters/Dialogue/MarriageDialogueMaru..summer_20.. |Sebastian_brother={{Sebastian_brother}} |Abigail={{Abigail}}}} |Sebastian_brother={{Sebastian_brother}} |Abigail={{Abigail}}}}",
-        "spring_22": "{{i18n:Characters/Dialogue/MarriageDialogueMaru..spring_22...Sabrina |default={{i18n:Characters/Dialogue/MarriageDialogueMaru..spring_22..}}}}"
+        "summer_20": "{{i18n:dialogue/MarriageDialogueMaru/summer_20@swap-Sabrina |default={{i18n:dialogue/MarriageDialogueMaru/summer_20 |Sebastian_brother={{Sebastian_brother}} |Abigail={{Abigail}}}} |Sebastian_brother={{Sebastian_brother}} |Abigail={{Abigail}}}}",
+        "spring_22": "{{i18n:dialogue/MarriageDialogueMaru/spring_22@swap-Sabrina |default={{i18n:dialogue/MarriageDialogueMaru/spring_22}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueSebastian",
       "Entries": {
-        "Outdoor_3": "{{i18n:Characters/Dialogue/MarriageDialogueSebastian..Outdoor_3...Sabrina |default={{i18n:Characters/Dialogue/MarriageDialogueSebastian..Outdoor_3..}}}}",
-        "OneKid_0": "{{i18n:Characters/Dialogue/MarriageDialogueSebastian..OneKid_0...Sabrina |default={{i18n:Characters/Dialogue/MarriageDialogueSebastian..OneKid_0..}}}}",
-        "Good_3": "{{i18n:Characters/Dialogue/MarriageDialogueSebastian..Good_3...Sabrina |default={{i18n:Characters/Dialogue/MarriageDialogueSebastian..Good_3..}}}}",
-        "spring_23": "{{i18n:Characters/Dialogue/MarriageDialogueSebastian..spring_23...Sabrina |default={{i18n:Characters/Dialogue/MarriageDialogueSebastian..spring_23..}}}}"
+        "Outdoor_3": "{{i18n:dialogue/MarriageDialogueSebastian/Outdoor_3@swap-Sabrina |default={{i18n:dialogue/MarriageDialogueSebastian/Outdoor_3}}}}",
+        "OneKid_0": "{{i18n:dialogue/MarriageDialogueSebastian/OneKid_0@swap-Sabrina |default={{i18n:dialogue/MarriageDialogueSebastian/OneKid_0}}}}",
+        "Good_3": "{{i18n:dialogue/MarriageDialogueSebastian/Good_3@swap-Sabrina |default={{i18n:dialogue/MarriageDialogueSebastian/Good_3}}}}",
+        "spring_23": "{{i18n:dialogue/MarriageDialogueSebastian/spring_23@swap-Sabrina |default={{i18n:dialogue/MarriageDialogueSebastian/spring_23}}}}"
       }
     }
   ]

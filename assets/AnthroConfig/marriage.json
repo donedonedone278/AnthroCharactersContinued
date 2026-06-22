@@ -1,0 +1,43 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "When": {
+        "MarriageLine": "husband"
+      },
+      "Entries": {
+        "Utility.cs.5371": "{{i18n:strings/StringsFromCSFiles/Utility.cs.5371@marriage-husband |default={{i18n:strings/StringsFromCSFiles/Utility.cs.5371}}}}",
+        "Utility.cs.5373": "{{i18n:strings/StringsFromCSFiles/Utility.cs.5373@marriage-husband |default={{i18n:strings/StringsFromCSFiles/Utility.cs.5373}}}}",
+        "Utility.cs.5375": "{{i18n:strings/StringsFromCSFiles/Utility.cs.5375@marriage-husband |default={{i18n:strings/StringsFromCSFiles/Utility.cs.5375}}}}",
+        "Utility.cs.5377": "{{i18n:strings/StringsFromCSFiles/Utility.cs.5377@marriage-husband |default={{i18n:strings/StringsFromCSFiles/Utility.cs.5377}}}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "When": {
+        "MarriageLine": "wife"
+      },
+      "Entries": {
+        "Utility.cs.5371": "{{i18n:strings/StringsFromCSFiles/Utility.cs.5371@marriage-wife |default={{i18n:strings/StringsFromCSFiles/Utility.cs.5371}}}}",
+        "Utility.cs.5373": "{{i18n:strings/StringsFromCSFiles/Utility.cs.5373@marriage-wife |default={{i18n:strings/StringsFromCSFiles/Utility.cs.5373}}}}",
+        "Utility.cs.5375": "{{i18n:strings/StringsFromCSFiles/Utility.cs.5375@marriage-wife |default={{i18n:strings/StringsFromCSFiles/Utility.cs.5375}}}}",
+        "Utility.cs.5377": "{{i18n:strings/StringsFromCSFiles/Utility.cs.5377@marriage-wife |default={{i18n:strings/StringsFromCSFiles/Utility.cs.5377}}}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "When": {
+        "MarriageLine": "neutral"
+      },
+      "Entries": {
+        "Utility.cs.5371": "{{i18n:strings/StringsFromCSFiles/Utility.cs.5371@marriage-neutral |default={{i18n:strings/StringsFromCSFiles/Utility.cs.5371}}}}",
+        "Utility.cs.5373": "{{i18n:strings/StringsFromCSFiles/Utility.cs.5373@marriage-neutral |default={{i18n:strings/StringsFromCSFiles/Utility.cs.5373}}}}",
+        "Utility.cs.5375": "{{i18n:strings/StringsFromCSFiles/Utility.cs.5375@marriage-neutral |default={{i18n:strings/StringsFromCSFiles/Utility.cs.5375}}}}",
+        "Utility.cs.5377": "{{i18n:strings/StringsFromCSFiles/Utility.cs.5377@marriage-neutral |default={{i18n:strings/StringsFromCSFiles/Utility.cs.5377}}}}"
+      }
+    }
+  ]
+}
