@@ -2,3 +2,4 @@
 api_keys.txt
 __pycache__/
 *.pyc
+/dist/

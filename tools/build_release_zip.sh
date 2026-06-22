@@ -23,7 +23,8 @@
 #
 # Usage:
 #   tools/build_release_zip.sh [output-zip-path]
-# Default output: ../AnthroCharactersContinued.zip (i.e. alongside the repo dir).
+# Default output: dist/AnthroCharactersContinued.zip inside the repo (the dist/
+# dir is gitignored, so the built zip is never committed).
 
 set -euo pipefail
 
@@ -41,9 +42,10 @@ INCLUDE=(
 )
 # ---------------------------------------------------------------------------
 
-OUT="${1:-$REPO_DIR/../$ZIP_NAME}"
+OUT="${1:-$REPO_DIR/dist/$ZIP_NAME}"
 
 cd "$REPO_DIR"
+mkdir -p "$(dirname "$OUT")"
 
 # Guard: included paths must be fully committed, so the zip matches what you
 # expect to ship. Catches both modified-tracked and brand-new-untracked files.
