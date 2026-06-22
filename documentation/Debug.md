@@ -50,3 +50,24 @@ then check `Utility.cs.5371 / 5373 / 5375 / 5377` in the exported file. Other ha
 targets: `Characters/Dialogue/<Name>`, `Data/Events/<Location>`,
 `Strings/StringsFromMaps`, `Strings/StringsFromCSFiles`. (Note: some tokens only
 resolve once a save is loaded, so load a save before exporting.)
+
+# ---------------------------------------------------------------------------
+
+## Dialogue baseline
+
+This mod's overridden vanilla text (`Characters/Dialogue/*`, `Data/Events/*`,
+`Strings/*`) is synced to Stardew Valley **1.6.15** — see
+`tools/i18n/dialogue_baseline.txt`. The base game occasionally ships
+typo/grammar/wording fixes to lines we override, so periodically re-check
+our overrides against current vanilla text.
+
+To re-run the check: `python3 tools/i18n/vanilla_diff.py --mode current`
+(needs an unpacked vanilla `Content` dir, default `~/repos/Content_unpacked`;
+override with `--vanilla-content`). It writes a Markdown report to
+`claude-documentation/reports/vanilla-diff-<baseline>.md` listing every line
+where our override no longer matches vanilla, ranked (heuristically) by
+likely-upstream-fix vs likely-our-own-edit — a human still reviews each one.
+When a future pass has both an old and a new vanilla snapshot, use
+`--mode oldnew --old-content <dir> --new-content <dir>` instead for a
+clean, low-noise old-vs-new vanilla diff, then bump
+`tools/i18n/dialogue_baseline.txt` to the new version.
