@@ -19,7 +19,7 @@
       "Action": "EditData",
       "Target": "Strings/NPCNames",
       "Entries": {
-        "Shane": "{{i18n:Strings/NPCNames..Shane...Shauna |default={{i18n:Strings/NPCNames..Shane..}}}}"
+        "Shane": "{{i18n:name/Shane/Shane@swap-Shauna |default={{i18n:name/Shane/Shane}}}}"
       }
     },
     {
@@ -30,161 +30,161 @@
         "FriendsAndFamily"
       ],
       "Entries": {
-        "Shane": "{{i18n:Data/Characters.Marnie/FriendsAndFamily.Shane...Shauna |default={{i18n:Data/Characters.Marnie/FriendsAndFamily.Shane..}}}}"
+        "Shane": "{{i18n:data/Marnie/FriendsAndFamily/Shane@swap-Shauna |default={{i18n:data/Marnie/FriendsAndFamily/Shane}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/SecretNotes",
       "Entries": {
-        "7": "{{i18n:Data/SecretNotes..7...Shauna |default={{i18n:Data/SecretNotes..7.. |Harvey={{Harvey}} |Harvey_he={{Harvey_he}} |Harvey_husband={{Harvey_husband}} |Harvey_He_Uppercase={{Harvey_He_Uppercase}} |Elliott={{Elliott}} |Elliott_he_does_have_a_nice_chin={{Elliott_he_does_have_a_nice_chin}} |Elliott_He={{Elliott_He}} |Shane={{Shane}} |Shane_his_her={{Shane_his_her}} |Shane_his_her={{Shane_his_her}} |Shane_He={{Shane_He}}}} |Harvey={{Harvey}} |Harvey_he={{Harvey_he}} |Harvey_husband={{Harvey_husband}} |Harvey_He_Uppercase={{Harvey_He_Uppercase}} |Elliott={{Elliott}} |Elliott_he_does_have_a_nice_chin={{Elliott_he_does_have_a_nice_chin}} |Elliott_He={{Elliott_He}} |Shane={{Shane}} |Shane_his_her={{Shane_his_her}} |Shane_his_her={{Shane_his_her}} |Shane_He={{Shane_He}}}}"
+        "7": "{{i18n:data/SecretNotes/7@swap-Shauna |default={{i18n:data/SecretNotes/7 |Harvey={{Harvey}} |Harvey_he={{Harvey_he}} |Harvey_husband={{Harvey_husband}} |Harvey_He_Uppercase={{Harvey_He_Uppercase}} |Elliott={{Elliott}} |Elliott_he_does_have_a_nice_chin={{Elliott_he_does_have_a_nice_chin}} |Elliott_He={{Elliott_He}} |Shane={{Shane}} |Shane_his_her={{Shane_his_her}} |Shane_He={{Shane_He}}}} |Harvey={{Harvey}} |Harvey_he={{Harvey_he}} |Harvey_husband={{Harvey_husband}} |Harvey_He_Uppercase={{Harvey_He_Uppercase}} |Elliott={{Elliott}} |Elliott_he_does_have_a_nice_chin={{Elliott_he_does_have_a_nice_chin}} |Elliott_He={{Elliott_He}} |Shane={{Shane}} |Shane_his_her={{Shane_his_her}} |Shane_He={{Shane_He}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/mail",
       "Entries": {
-        "Shane": "{{i18n:Data/mail..Shane...Shauna |default={{i18n:Data/mail..Shane.. |Shane={{Shane}} |Shane={{Shane}}}} |Shane={{Shane}} |Shane={{Shane}}}}",
-        "ShaneCooking": "{{i18n:Data/mail..ShaneCooking...Shauna |default={{i18n:Data/mail..ShaneCooking.. |Shane={{Shane}} |Shane={{Shane}}}} |Shane={{Shane}} |Shane={{Shane}}}}"
+        "Shane": "{{i18n:data/mail/Shane@swap-Shauna |default={{i18n:data/mail/Shane |Shane={{Shane}}}} |Shane={{Shane}}}}",
+        "ShaneCooking": "{{i18n:data/mail/ShaneCooking@swap-Shauna |default={{i18n:data/mail/ShaneCooking |Shane={{Shane}}}} |Shane={{Shane}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Town",
       "Entries": {
-        "3917586/e 3917585/O Shane/A shaneSaloon2": "{{i18n:Data/Events/Town..3917586/e+3917585/O+Shane/A+shaneSaloon2...Shauna |default={{i18n:Data/Events/Town..3917586/e+3917585/O+Shane/A+shaneSaloon2.. |Shane={{Shane}}}} |Shane={{Shane}}}}",
-        "3917584/f Shane 3500/O Shane/d Fri/t 800 1700": "{{i18n:Data/Events/Town..3917584/f+Shane+3500/O+Shane/d+Fri/t+800+1700...Shauna |default={{i18n:Data/Events/Town..3917584/f+Shane+3500/O+Shane/d+Fri/t+800+1700..}}}}"
+        "3917586/e 3917585/O Shane/A shaneSaloon2": "{{i18n:event/Town/3917586@swap-Shauna |default={{i18n:event/Town/3917586 |Shane={{Shane}}}} |Shane={{Shane}}}}",
+        "3917584/f Shane 3500/O Shane/d Fri/t 800 1700": "{{i18n:event/Town/3917584@swap-Shauna |default={{i18n:event/Town/3917584}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/AnimalShop",
       "Entries": {
-        "3910674/f Shane 1000": "{{i18n:Data/Events/AnimalShop..3910674/f+Shane+1000...Shauna |default={{i18n:Data/Events/AnimalShop..3910674/f+Shane+1000.. |Shane={{Shane}} |Shane={{Shane}}}} |Shane={{Shane}} |Shane={{Shane}}}}",
-        "3910974/f Shane 1700/e 3910975/p Shane": "{{i18n:Data/Events/AnimalShop..3910974/f+Shane+1700/e+3910975/p+Shane...Shauna |default={{i18n:Data/Events/AnimalShop..3910974/f+Shane+1700/e+3910975/p+Shane.. |Shane={{Shane}}}} |Shane={{Shane}}}}",
-        "3900074/f Shane 2000/e 2118991/p Shane": "{{i18n:Data/Events/AnimalShop..3900074/f+Shane+2000/e+2118991/p+Shane...Shauna |default={{i18n:Data/Events/AnimalShop..3900074/f+Shane+2000/e+2118991/p+Shane.. |Shane={{Shane}}}} |Shane={{Shane}}}}"
+        "3910674/f Shane 1000": "{{i18n:event/AnimalShop/3910674@swap-Shauna |default={{i18n:event/AnimalShop/3910674 |Shane={{Shane}}}} |Shane={{Shane}}}}",
+        "3910974/f Shane 1700/e 3910975/p Shane": "{{i18n:event/AnimalShop/3910974@swap-Shauna |default={{i18n:event/AnimalShop/3910974 |Shane={{Shane}}}} |Shane={{Shane}}}}",
+        "3900074/f Shane 2000/e 2118991/p Shane": "{{i18n:event/AnimalShop/3900074@swap-Shauna |default={{i18n:event/AnimalShop/3900074 |Shane={{Shane}}}} |Shane={{Shane}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Forest",
       "Entries": {
-        "3910975/f Shane 1500/e 3910674/t 900 2000/w rainy": "{{i18n:Data/Events/Forest..3910975/f+Shane+1500/e+3910674/t+900+2000/w+rainy...Shauna |default={{i18n:Data/Events/Forest..3910975/f+Shane+1500/e+3910674/t+900+2000/w+rainy..}}}}"
+        "3910975/f Shane 1500/e 3910674/t 900 2000/w rainy": "{{i18n:event/Forest/3910975@swap-Shauna |default={{i18n:event/Forest/3910975}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Saloon",
       "Entries": {
-        "97/f Clint 750/t 1900 2300/d Tue Wed Thu Fri Sat Sun": "{{i18n:Data/Events/Saloon..97/f+Clint+750/t+1900+2300/d+Tue+Wed+Thu+Fri+Sat+Sun...Shauna |default={{i18n:Data/Events/Saloon..97/f+Clint+750/t+1900+2300/d+Tue+Wed+Thu+Fri+Sat+Sun.. |Emily={{Emily}} |Emily={{Emily}} |Shane={{Shane}} |Emily={{Emily}} |Shane={{Shane}}}} |Emily={{Emily}} |Emily={{Emily}} |Shane={{Shane}} |Emily={{Emily}} |Shane={{Shane}}}}",
-        "3917590/n saloonSportsRoom/O Alex": "{{i18n:Data/Events/Saloon..3917590/n+saloonSportsRoom/O+Alex...Shauna |default={{i18n:Data/Events/Saloon..3917590/n+saloonSportsRoom/O+Alex.. |Shane={{Shane}}}} |Shane={{Shane}}}}",
-        "195013/f Shane 2500/f Sebastian 2500/f Sam 2500/f Harvey 2500/f Alex 2500/f Elliott 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 911526/e 528052/e 9581348/e 43/e 384882/e 233104/k 195099": "{{i18n:Data/Events/Saloon..195013/f+Shane+2500/f+Sebastian+2500/f+Sam+2500/f+Harvey+2500/f+Alex+2500/f+Elliott+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+911526/e+528052/e+9581348/e+43/e+384882/e+233104/k+195099...Shauna |default={{i18n:Data/Events/Saloon..195013/f+Shane+2500/f+Sebastian+2500/f+Sam+2500/f+Harvey+2500/f+Alex+2500/f+Elliott+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+911526/e+528052/e+9581348/e+43/e+384882/e+233104/k+195099..}}}}",
-        "choseToExplain": "{{i18n:Data/Events/Saloon..choseToExplain...Shauna |default={{i18n:Data/Events/Saloon..choseToExplain..}}}}",
-        "crying": "{{i18n:Data/Events/Saloon..crying...Shauna |default={{i18n:Data/Events/Saloon..crying..}}}}",
-        "wewereworried": "{{i18n:Data/Events/Saloon..wewereworried...Shauna |default={{i18n:Data/Events/Saloon..wewereworried..}}}}"
+        "97/f Clint 750/t 1900 2300/d Tue Wed Thu Fri Sat Sun": "{{i18n:event/Saloon/97@swap-Shauna |default={{i18n:event/Saloon/97 |Emily={{Emily}} |Shane={{Shane}}}} |Emily={{Emily}} |Shane={{Shane}}}}",
+        "3917590/n saloonSportsRoom/O Alex": "{{i18n:event/Saloon/3917590@swap-Shauna |default={{i18n:event/Saloon/3917590 |Shane={{Shane}}}} |Shane={{Shane}}}}",
+        "195013/f Shane 2500/f Sebastian 2500/f Sam 2500/f Harvey 2500/f Alex 2500/f Elliott 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 911526/e 528052/e 9581348/e 43/e 384882/e 233104/k 195099": "{{i18n:event/Saloon/195013@swap-Shauna |default={{i18n:event/Saloon/195013}}}}",
+        "choseToExplain": "{{i18n:event/Saloon/choseToExplain@swap-Shauna |default={{i18n:event/Saloon/choseToExplain}}}}",
+        "crying": "{{i18n:event/Saloon/crying@swap-Shauna |default={{i18n:event/Saloon/crying}}}}",
+        "wewereworried": "{{i18n:event/Saloon/wewereworried@swap-Shauna |default={{i18n:event/Saloon/wewereworried}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/ManorHouse",
       "Entries": {
-        "2123243/e 2111194": "{{i18n:Data/Events/ManorHouse..2123243/e+2111194...Shauna |default={{i18n:Data/Events/ManorHouse..2123243/e+2111194.. |Shane={{Shane}} |Shane={{Shane}} |Emily={{Emily}}}} |Shane={{Shane}} |Shane={{Shane}} |Emily={{Emily}}}}"
+        "2123243/e 2111194": "{{i18n:event/ManorHouse/2123243@swap-Shauna |default={{i18n:event/ManorHouse/2123243 |Shane={{Shane}} |Emily={{Emily}}}} |Shane={{Shane}} |Emily={{Emily}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Furniture",
       "Entries": {
-        "ShanePortrait": "{{i18n:Strings/Furniture..ShanePortrait...Shauna |default={{i18n:Strings/Furniture..ShanePortrait.. |Shane={{Shane}}}} |Shane={{Shane}}}}"
+        "ShanePortrait": "{{i18n:strings/Furniture/ShanePortrait@swap-Shauna |default={{i18n:strings/Furniture/ShanePortrait |Shane={{Shane}}}} |Shane={{Shane}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/animationDescriptions",
       "Entries": {
-        "shane_work": "{{i18n:Strings/animationDescriptions..shane_work...Shauna |default={{i18n:Strings/animationDescriptions..shane_work.. |Shane={{Shane}}}} |Shane={{Shane}}}}"
+        "shane_work": "{{i18n:strings/animationDescriptions/shane_work@swap-Shauna |default={{i18n:strings/animationDescriptions/shane_work |Shane={{Shane}}}} |Shane={{Shane}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/MovieReactions",
       "Entries": {
-        "Shane_love_DuringMovie_2": "{{i18n:Strings/MovieReactions..Shane_love_DuringMovie_2...Shauna |default={{i18n:Strings/MovieReactions..Shane_love_DuringMovie_2.. |Shane={{Shane}}}} |Shane={{Shane}}}}",
-        "Shane_dislike_DuringMovie": "{{i18n:Strings/MovieReactions..Shane_dislike_DuringMovie...Shauna |default={{i18n:Strings/MovieReactions..Shane_dislike_DuringMovie.. |Shane={{Shane}}}} |Shane={{Shane}}}}"
+        "Shane_love_DuringMovie_2": "{{i18n:strings/MovieReactions/Shane_love_DuringMovie_2@swap-Shauna |default={{i18n:strings/MovieReactions/Shane_love_DuringMovie_2 |Shane={{Shane}}}} |Shane={{Shane}}}}",
+        "Shane_dislike_DuringMovie": "{{i18n:strings/MovieReactions/Shane_dislike_DuringMovie@swap-Shauna |default={{i18n:strings/MovieReactions/Shane_dislike_DuringMovie |Shane={{Shane}}}} |Shane={{Shane}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/StringsFromCSFiles",
       "Entries": {
-        "Utility.cs.5864_3": "{{i18n:Strings/StringsFromCSFiles..Utility=cs=5864_3...Shauna |default={{i18n:Strings/StringsFromCSFiles..Utility=cs=5864_3.. |Shane={{Shane}}}} |Shane={{Shane}}}}"
+        "Utility.cs.5864_3": "{{i18n:strings/StringsFromCSFiles/Utility.cs.5864_3@swap-Shauna |default={{i18n:strings/StringsFromCSFiles/Utility.cs.5864_3 |Shane={{Shane}}}} |Shane={{Shane}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/StringsFromMaps",
       "Entries": {
-        "AnimalShop.8": "{{i18n:Strings/StringsFromMaps..AnimalShop=8...Shauna |default={{i18n:Strings/StringsFromMaps..AnimalShop=8..}}}}"
+        "AnimalShop.8": "{{i18n:strings/StringsFromMaps/AnimalShop.8@swap-Shauna |default={{i18n:strings/StringsFromMaps/AnimalShop.8}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Leah",
       "Entries": {
-        "married_Shane": "{{i18n:Characters/Dialogue/Leah..married_Shane...Shauna |default={{i18n:Characters/Dialogue/Leah..married_Shane.. |Shane={{Shane}}}} |Shane={{Shane}}}}"
+        "married_Shane": "{{i18n:dialogue/Leah/married_Shane@swap-Shauna |default={{i18n:dialogue/Leah/married_Shane |Shane={{Shane}}}} |Shane={{Shane}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Jas",
       "Entries": {
-        "married_Shane": "{{i18n:Characters/Dialogue/Jas..married_Shane...Shauna |default={{i18n:Characters/Dialogue/Jas..married_Shane.. |Shane={{Shane}}}} |Shane={{Shane}}}}",
-        "eventSeen_3910975": "{{i18n:Characters/Dialogue/Jas..eventSeen_3910975...Shauna |default={{i18n:Characters/Dialogue/Jas..eventSeen_3910975.. |Shane={{Shane}}}} |Shane={{Shane}}}}",
-        "Sun2": "{{i18n:Characters/Dialogue/Jas..Sun2...Shauna |default={{i18n:Characters/Dialogue/Jas..Sun2.. |Shane={{Shane}}}} |Shane={{Shane}}}}",
-        "Sun10": "{{i18n:Characters/Dialogue/Jas..Sun10...Shauna |default={{i18n:Characters/Dialogue/Jas..Sun10.. |Shane={{Shane}}}} |Shane={{Shane}}}}"
+        "married_Shane": "{{i18n:dialogue/Jas/married_Shane@swap-Shauna |default={{i18n:dialogue/Jas/married_Shane |Shane={{Shane}}}} |Shane={{Shane}}}}",
+        "eventSeen_3910975": "{{i18n:dialogue/Jas/eventSeen_3910975@swap-Shauna |default={{i18n:dialogue/Jas/eventSeen_3910975 |Shane={{Shane}}}} |Shane={{Shane}}}}",
+        "Sun2": "{{i18n:dialogue/Jas/Sun2@swap-Shauna |default={{i18n:dialogue/Jas/Sun2 |Shane={{Shane}}}} |Shane={{Shane}}}}",
+        "Sun10": "{{i18n:dialogue/Jas/Sun10@swap-Shauna |default={{i18n:dialogue/Jas/Sun10 |Shane={{Shane}}}} |Shane={{Shane}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Emily",
       "Entries": {
-        "married_Shane": "{{i18n:Characters/Dialogue/Emily..married_Shane...Shauna |default={{i18n:Characters/Dialogue/Emily..married_Shane.. |Shane={{Shane}}}} |Shane={{Shane}}}}"
+        "married_Shane": "{{i18n:dialogue/Emily/married_Shane@swap-Shauna |default={{i18n:dialogue/Emily/married_Shane |Shane={{Shane}}}} |Shane={{Shane}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Jodi",
       "Entries": {
-        "eventSeen_3910975": "{{i18n:Characters/Dialogue/Jodi..eventSeen_3910975...Shauna |default={{i18n:Characters/Dialogue/Jodi..eventSeen_3910975.. |Shane={{Shane}}}} |Shane={{Shane}}}}"
+        "eventSeen_3910975": "{{i18n:dialogue/Jodi/eventSeen_3910975@swap-Shauna |default={{i18n:dialogue/Jodi/eventSeen_3910975 |Shane={{Shane}}}} |Shane={{Shane}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Marnie",
       "Entries": {
-        "dating_Shane_memory_oneweek": "{{i18n:Characters/Dialogue/Marnie..dating_Shane_memory_oneweek...Shauna |default={{i18n:Characters/Dialogue/Marnie..dating_Shane_memory_oneweek.. |Shane={{Shane}}}} |Shane={{Shane}}}}",
-        "married_Shane": "{{i18n:Characters/Dialogue/Marnie..married_Shane...Shauna |default={{i18n:Characters/Dialogue/Marnie..married_Shane.. |Shane={{Shane}}}} |Shane={{Shane}}}}",
-        "Tue": "{{i18n:Characters/Dialogue/Marnie..Tue...Shauna |default={{i18n:Characters/Dialogue/Marnie..Tue.. |Shane={{Shane}} |Shane={{Shane}}}} |Shane={{Shane}} |Shane={{Shane}}}}"
+        "dating_Shane_memory_oneweek": "{{i18n:dialogue/Marnie/dating_Shane_memory_oneweek@swap-Shauna |default={{i18n:dialogue/Marnie/dating_Shane_memory_oneweek |Shane={{Shane}}}} |Shane={{Shane}}}}",
+        "married_Shane": "{{i18n:dialogue/Marnie/married_Shane@swap-Shauna |default={{i18n:dialogue/Marnie/married_Shane |Shane={{Shane}}}} |Shane={{Shane}}}}",
+        "Tue": "{{i18n:dialogue/Marnie/Tue@swap-Shauna |default={{i18n:dialogue/Marnie/Tue |Shane={{Shane}}}} |Shane={{Shane}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueShane",
       "Entries": {
-        "OneKid_3": "{{i18n:Characters/Dialogue/MarriageDialogueShane..OneKid_3...Shauna |default={{i18n:Characters/Dialogue/MarriageDialogueShane..OneKid_3.. |Shane={{Shane}}}} |Shane={{Shane}}}}",
-        "Good_2": "{{i18n:Characters/Dialogue/MarriageDialogueShane..Good_2...Shauna |default={{i18n:Characters/Dialogue/MarriageDialogueShane..Good_2.. |Shane={{Shane}}}} |Shane={{Shane}}}}",
-        "Indoor_Day_4": "{{i18n:Characters/Dialogue/MarriageDialogueShane..Indoor_Day_4...Shauna |default={{i18n:Characters/Dialogue/MarriageDialogueShane..Indoor_Day_4..}}}}",
-        "Indoor_Night_1": "{{i18n:Characters/Dialogue/MarriageDialogueShane..Indoor_Night_1...Shauna |default={{i18n:Characters/Dialogue/MarriageDialogueShane..Indoor_Night_1..}}}}"
+        "OneKid_3": "{{i18n:dialogue/MarriageDialogueShane/OneKid_3@swap-Shauna |default={{i18n:dialogue/MarriageDialogueShane/OneKid_3 |Shane={{Shane}}}} |Shane={{Shane}}}}",
+        "Good_2": "{{i18n:dialogue/MarriageDialogueShane/Good_2@swap-Shauna |default={{i18n:dialogue/MarriageDialogueShane/Good_2 |Shane={{Shane}}}} |Shane={{Shane}}}}",
+        "Indoor_Day_4": "{{i18n:dialogue/MarriageDialogueShane/Indoor_Day_4@swap-Shauna |default={{i18n:dialogue/MarriageDialogueShane/Indoor_Day_4}}}}",
+        "Indoor_Night_1": "{{i18n:dialogue/MarriageDialogueShane/Indoor_Night_1@swap-Shauna |default={{i18n:dialogue/MarriageDialogueShane/Indoor_Night_1}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Shane",
       "Entries": {
-        "dating_Shane_memory_oneday": "{{i18n:Characters/Dialogue/Shane..dating_Shane_memory_oneday...Shauna}}",
-        "dumped_Guys": "{{i18n:Characters/Dialogue/Shane..dumped_Guys...Shauna |default={{i18n:Characters/Dialogue/Shane..dumped_Guys.. |Shane={{Shane}}}} |Shane={{Shane}}}}",
-        "JojaMart": "{{i18n:Characters/Dialogue/Shane..JojaMart...Shauna |default={{i18n:Characters/Dialogue/Shane..JojaMart.. |Shane={{Shane}}}} |Shane={{Shane}}}}",
-        "Tue10": "{{i18n:Characters/Dialogue/Shane..Tue10...Shauna |default={{i18n:Characters/Dialogue/Shane..Tue10..}}}}"
+        "dating_Shane_memory_oneday": "{{i18n:dialogue/Shane/dating_Shane_memory_oneday@swap-Shauna |default={{i18n:dialogue/Shane/dating_Shane_memory_oneday}}}}",
+        "dumped_Guys": "{{i18n:dialogue/Shane/dumped_Guys@swap-Shauna |default={{i18n:dialogue/Shane/dumped_Guys |Shane={{Shane}}}} |Shane={{Shane}}}}",
+        "JojaMart": "{{i18n:dialogue/Shane/JojaMart@swap-Shauna |default={{i18n:dialogue/Shane/JojaMart |Shane={{Shane}}}} |Shane={{Shane}}}}",
+        "Tue10": "{{i18n:dialogue/Shane/Tue10@swap-Shauna |default={{i18n:dialogue/Shane/Tue10}}}}"
       }
     }
   ]

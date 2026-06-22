@@ -19,40 +19,40 @@
       "Action": "EditData",
       "Target": "Strings/NPCNames",
       "Entries": {
-        "Leah": "{{i18n:Strings/NPCNames..Leah...Liam |default={{i18n:Strings/NPCNames..Leah..}}}}"
+        "Leah": "{{i18n:name/Leah/Leah@swap-Liam |default={{i18n:name/Leah/Leah}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Forest",
       "Entries": {
-        "52/f Leah 1500/p Leah/z winter": "{{i18n:Data/Events/Forest..52/f+Leah+1500/p+Leah/z+winter...Liam |default={{i18n:Data/Events/Forest..52/f+Leah+1500/p+Leah/z+winter..}}}}",
-        "choseInternet": "{{i18n:Data/Events/Forest..choseInternet...Liam |default={{i18n:Data/Events/Forest..choseInternet..}}}}",
-        "noPunch": "{{i18n:Data/Events/Forest..noPunch...Liam |default={{i18n:Data/Events/Forest..noPunch..}}}}",
-        "3091462/e 3911124/O Leah/w sunny/t 1130 1400/A leahPaint": "{{i18n:Data/Events/Forest..3091462/e+3911124/O+Leah/w+sunny/t+1130+1400/A+leahPaint...Liam |default={{i18n:Data/Events/Forest..3091462/e+3911124/O+Leah/w+sunny/t+1130+1400/A+leahPaint..}}}}"
+        "52/f Leah 1500/p Leah/z winter": "{{i18n:event/Forest/52@swap-Liam |default={{i18n:event/Forest/52}}}}",
+        "choseInternet": "{{i18n:event/Forest/choseInternet@swap-Liam |default={{i18n:event/Forest/choseInternet}}}}",
+        "noPunch": "{{i18n:event/Forest/noPunch@swap-Liam |default={{i18n:event/Forest/noPunch}}}}",
+        "3091462/e 3911124/O Leah/w sunny/t 1130 1400/A leahPaint": "{{i18n:event/Forest/3091462@swap-Liam |default={{i18n:event/Forest/3091462}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Farm",
       "Entries": {
-        "992253/t 600 1130/f Leah 1500/w sunny": "{{i18n:Data/Events/Farm..992253/t+600+1130/f+Leah+1500/w+sunny...Liam |default={{i18n:Data/Events/Farm..992253/t+600+1130/f+Leah+1500/w+sunny..}}}}"
+        "992253/t 600 1130/f Leah 1500/w sunny": "{{i18n:event/Farm/992253@swap-Liam |default={{i18n:event/Farm/992253}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/HaleyHouse",
       "Entries": {
-        "195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019": "{{i18n:Data/Events/HaleyHouse..195012/f+Haley+2500/f+Emily+2500/f+Penny+2500/f+Abigail+2500/f+Leah+2500/f+Maru+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+38/e+2123343/e+10/e+901756/e+54/e+15/k+195019...Liam |default={{i18n:Data/Events/HaleyHouse..195012/f+Haley+2500/f+Emily+2500/f+Penny+2500/f+Abigail+2500/f+Leah+2500/f+Maru+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+38/e+2123343/e+10/e+901756/e+54/e+15/k+195019..}}}}",
-        "choseToExplain": "{{i18n:Data/Events/HaleyHouse..choseToExplain...Liam |default={{i18n:Data/Events/HaleyHouse..choseToExplain..}}}}",
-        "lifestyleChoice": "{{i18n:Data/Events/HaleyHouse..lifestyleChoice...Liam |default={{i18n:Data/Events/HaleyHouse..lifestyleChoice..}}}}"
+        "195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019": "{{i18n:event/HaleyHouse/195012@swap-Liam |default={{i18n:event/HaleyHouse/195012}}}}",
+        "choseToExplain": "{{i18n:event/HaleyHouse/choseToExplain@swap-Liam |default={{i18n:event/HaleyHouse/choseToExplain}}}}",
+        "lifestyleChoice": "{{i18n:event/HaleyHouse/lifestyleChoice@swap-Liam |default={{i18n:event/HaleyHouse/lifestyleChoice}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/LeahHouse",
       "Entries": {
-        "50/f Leah 500/p Leah": "{{i18n:Data/Events/LeahHouse..50/f+Leah+500/p+Leah...Liam |default={{i18n:Data/Events/LeahHouse..50/f+Leah+500/p+Leah..}}}}"
+        "50/f Leah 500/p Leah": "{{i18n:event/LeahHouse/50@swap-Liam |default={{i18n:event/LeahHouse/50}}}}"
       }
     },
     {
@@ -62,72 +62,68 @@
       "Action": "EditData",
       "Target": "Data/Events/LeahHouse",
       "Entries": {
-        "50/f Leah 500/p Leah": "{{i18n:Data/Events/LeahHouse..50/f+Leah+500/p+Leah.Flavor..Liam |default={{i18n:Data/Events/LeahHouse..50/f+Leah+500/p+Leah.Flavor.}}}}",
-        "51/f Leah 1000/p Leah": "{{i18n:Data/Events/LeahHouse..51/f+Leah+1000/p+Leah.Flavor..Liam |default={{i18n:Data/Events/LeahHouse..51/f+Leah+1000/p+Leah.Flavor.}}}}"
+        "50/f Leah 500/p Leah": "{{i18n:event/LeahHouse/50@swap-Liam+flavor |default={{i18n:event/LeahHouse/50}}}}",
+        "51/f Leah 1000/p Leah": "{{i18n:event/LeahHouse/51@swap-Liam+flavor |default={{i18n:event/LeahHouse/51}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Town",
       "Entries": {
-        "53/e 55/t 1500 1700": "{{i18n:Data/Events/Town..53/e+55/t+1500+1700...Liam |default={{i18n:Data/Events/Town..53/e+55/t+1500+1700..}}}}"
+        "53/e 55/t 1500 1700": "{{i18n:event/Town/53@swap-Liam |default={{i18n:event/Town/53}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Town",
       "Entries": {
-        "53/e 55/t 1500 1700": "{{i18n:Data/Events/Town..53/e+55/t+1500+1700...Liam |default={{i18n:Data/Events/Town..53/e+55/t+1500+1700..}}}}"
+        "53/e 55/t 1500 1700": "{{i18n:event/Town/53@swap-Liam |default={{i18n:event/Town/53}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/SecretNotes",
       "Entries": {
-        "3": "{{i18n:Data/SecretNotes..3...Liam |default={{i18n:Data/SecretNotes..3..}}}}"
+        "3": "{{i18n:data/SecretNotes/3@swap-Liam |default={{i18n:data/SecretNotes/3}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/mail",
       "Entries": {
-        "afterArtShow": "{{i18n:Data/mail..afterArtShow...Liam |default={{i18n:Data/mail..afterArtShow..}}}}"
+        "afterArtShow": "{{i18n:data/mail/afterArtShow@swap-Liam |default={{i18n:data/mail/afterArtShow}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Furniture",
       "Entries": {
-        "LeahsSculpture": "{{i18n:Strings/Furniture..LeahsSculpture...Liam |default={{i18n:Strings/Furniture..LeahsSculpture..}}}}",
-        "LeahPortrait": "{{i18n:Strings/Furniture..LeahPortrait...Liam |default={{i18n:Strings/Furniture..LeahPortrait..}}}}"
+        "LeahsSculpture": "{{i18n:strings/Furniture/LeahsSculpture@swap-Liam |default={{i18n:strings/Furniture/LeahsSculpture}}}}",
+        "LeahPortrait": "{{i18n:strings/Furniture/LeahPortrait@swap-Liam |default={{i18n:strings/Furniture/LeahPortrait}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/StringsFromCSFiles",
       "Entries": {
-        "MapPage.cs.11070": "{{i18n:Strings/StringsFromCSFiles..MapPage=cs=11070...Liam |default={{i18n:Strings/StringsFromCSFiles..MapPage=cs=11070..}}}}",
-        "Utility.cs.5371": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and... well, husband!$h",
-        "Utility.cs.5373": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and... well, husband!$h",
-        "Utility.cs.5375": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and... well, husband!$h",
-        "Utility.cs.5377": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and... well, husband!$h"
+        "MapPage.cs.11070": "{{i18n:strings/StringsFromCSFiles/MapPage.cs.11070@swap-Liam |default={{i18n:strings/StringsFromCSFiles/MapPage.cs.11070}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/StringsFromMaps",
       "Entries": {
-        "ElliottHouse.1": "{{i18n:Strings/StringsFromMaps..ElliottHouse.1...Liam |default={{i18n:Strings/StringsFromMaps..ElliottHouse.1..}}}}",
-        "LeahHouse.2": "{{i18n:Strings/StringsFromMaps..LeahHouse=2...Liam |default={{i18n:Strings/StringsFromMaps..LeahHouse=2..}}}}",
-        "LeahHouse.5": "{{i18n:Strings/StringsFromMaps..LeahHouse=5...Liam |default={{i18n:Strings/StringsFromMaps..LeahHouse=5..}}}}"
+        "ElliottHouse.1": "{{i18n:strings/StringsFromMaps/ElliottHouse.1@swap-Liam |default={{i18n:strings/StringsFromMaps/ElliottHouse.1}}}}",
+        "LeahHouse.2": "{{i18n:strings/StringsFromMaps/LeahHouse.2@swap-Liam |default={{i18n:strings/StringsFromMaps/LeahHouse.2}}}}",
+        "LeahHouse.5": "{{i18n:strings/StringsFromMaps/LeahHouse.5@swap-Liam |default={{i18n:strings/StringsFromMaps/LeahHouse.5}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Weapons",
       "Entries": {
-        "LeahsWhittler_Name": "{{i18n:Strings/Weapons..LeahsWhittler_Name...Liam |default={{i18n:Strings/Weapons..LeahsWhittler_Name..}}}}",
-        "LeahsWhittler_Description": "{{i18n:Strings/Weapons..LeahsWhittler_Description...Liam |default={{i18n:Strings/Weapons..LeahsWhittler_Description..}}}}"
+        "LeahsWhittler_Name": "{{i18n:strings/Weapons/LeahsWhittler_Name@swap-Liam |default={{i18n:strings/Weapons/LeahsWhittler_Name}}}}",
+        "LeahsWhittler_Description": "{{i18n:strings/Weapons/LeahsWhittler_Description@swap-Liam |default={{i18n:strings/Weapons/LeahsWhittler_Description}}}}"
       }
     }
   ]

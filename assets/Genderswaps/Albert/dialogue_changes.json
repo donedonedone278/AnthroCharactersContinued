@@ -19,7 +19,7 @@
       "Action": "EditData",
       "Target": "Strings/NPCNames",
       "Entries": {
-        "Abigail": "{{i18n:Strings/NPCNames..Abigail...Albert |default={{i18n:Strings/NPCNames..Abigail..}}}}"
+        "Abigail": "{{i18n:name/Abigail/Abigail@swap-Albert |default={{i18n:name/Abigail/Abigail}}}}"
       }
     },
     {
@@ -30,21 +30,21 @@
         "FriendsAndFamily"
       ],
       "Entries": {
-        "Abigail": "{{i18n:Data/Characters.Pierre/FriendsAndFamily.Abigail...Albert |default={{i18n:Data/Characters.Pierre/FriendsAndFamily.Abigail..}}}}"
+        "Abigail": "{{i18n:data/Pierre/FriendsAndFamily/Abigail@swap-Albert |default={{i18n:data/Pierre/FriendsAndFamily/Abigail}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Abigail",
       "Entries": {
-        "AcceptGift_(O)119": "{{i18n:Characters/Dialogue/Abigail..AcceptGift_(O)119...Albert |default={{i18n:Characters/Dialogue/Abigail..AcceptGift_(O)119..}}}}",
-        "dating_Abigail": "{{i18n:Characters/Dialogue/Abigail..dating_Abigail...Albert |default={{i18n:Characters/Dialogue/Abigail..dating_Abigail..}}}}",
-        "Mon8": "{{i18n:Characters/Dialogue/Abigail..Mon8...Albert |default={{i18n:Characters/Dialogue/Abigail..Mon8..}}}}",
-        "Sun_Bad": "{{i18n:Characters/Dialogue/Abigail..Sun_Bad...Albert |default={{i18n:Characters/Dialogue/Abigail..Sun_Bad..}}}}",
-        "winter_Wed2": "{{i18n:Characters/Dialogue/Abigail..winter_Wed2...Albert |default={{i18n:Characters/Dialogue/Abigail..winter_Wed2..}}}}",
-        "Event_Grave3": "{{i18n:Characters/Dialogue/Abigail..Event_Grave3...Albert |default={{i18n:Characters/Dialogue/Abigail..Event_Grave3..}}}}",
-        "fall_Thu": "{{i18n:Characters/Dialogue/Abigail..fall_Thu...Albert |default={{i18n:Characters/Dialogue/Abigail..fall_Thu..}}}}",
-        "spring_23": "{{i18n:Characters/Dialogue/Abigail..spring_23...Albert |default={{i18n:Characters/Dialogue/Abigail..spring_23..}}}}"
+        "AcceptGift_(O)119": "{{i18n:dialogue/Abigail/AcceptGift_(O)119@swap-Albert |default={{i18n:dialogue/Abigail/AcceptGift_(O)119}}}}",
+        "dating_Abigail": "{{i18n:dialogue/Abigail/dating_Abigail@swap-Albert |default={{i18n:dialogue/Abigail/dating_Abigail}}}}",
+        "Mon8": "{{i18n:dialogue/Abigail/Mon8@swap-Albert |default={{i18n:dialogue/Abigail/Mon8}}}}",
+        "Sun_Bad": "{{i18n:dialogue/Abigail/Sun_Bad@swap-Albert |default={{i18n:dialogue/Abigail/Sun_Bad}}}}",
+        "winter_Wed2": "{{i18n:dialogue/Abigail/winter_Wed2@swap-Albert |default={{i18n:dialogue/Abigail/winter_Wed2}}}}",
+        "Event_Grave3": "{{i18n:dialogue/Abigail/Event_Grave3@swap-Albert |default={{i18n:dialogue/Abigail/Event_Grave3}}}}",
+        "fall_Thu": "{{i18n:dialogue/Abigail/fall_Thu@swap-Albert |default={{i18n:dialogue/Abigail/fall_Thu}}}}",
+        "spring_23": "{{i18n:dialogue/Abigail/spring_23@swap-Albert |default={{i18n:dialogue/Abigail/spring_23}}}}"
       }
     },
     {
@@ -54,29 +54,29 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Abigail",
       "Entries": {
-        "summer_Thu4": "{{i18n:Characters/Dialogue/Abigail..summer_Thu4.Flavor..Albert |default={{i18n:Characters/Dialogue/Abigail..summer_Thu4.Flavor.}}}}",
-        "fall_Thu": "{{i18n:Characters/Dialogue/Abigail..fall_Thu.Flavor..Albert |default={{i18n:Characters/Dialogue/Abigail..fall_Thu.Flavor.}}}}",
-        "AcceptGift_(O)119": "{{i18n:Characters/Dialogue/Abigail..AcceptGift_(O)119.Flavor..Albert |default={{i18n:Characters/Dialogue/Abigail..AcceptGift_(O)119.Flavor.}}}}"
+        "summer_Thu4": "{{i18n:dialogue/Abigail/summer_Thu4@swap-Albert+flavor |default={{i18n:dialogue/Abigail/summer_Thu4}}}}",
+        "fall_Thu": "{{i18n:dialogue/Abigail/fall_Thu@swap-Albert+flavor |default={{i18n:dialogue/Abigail/fall_Thu}}}}",
+        "AcceptGift_(O)119": "{{i18n:dialogue/Abigail/AcceptGift_(O)119@swap-Albert+flavor |default={{i18n:dialogue/Abigail/AcceptGift_(O)119}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Caroline",
       "Entries": {
-        "dating_Abigail_memory_oneday": "{{i18n:Characters/Dialogue/Caroline..dating_Abigail_memory_oneday...Albert |default={{i18n:Characters/Dialogue/Caroline..dating_Abigail_memory_oneday..}}}}",
-        "Introduction": "{{i18n:Characters/Dialogue/Caroline..Introduction...Albert |default={{i18n:Characters/Dialogue/Caroline..Introduction..}}}}",
-        "Mon": "{{i18n:Characters/Dialogue/Caroline..Mon...Albert |default={{i18n:Characters/Dialogue/Caroline..Mon..}}}}",
-        "Mon8": "{{i18n:Characters/Dialogue/Caroline..Mon8...Albert |default={{i18n:Characters/Dialogue/Caroline..Mon8..}}}}",
-        "Sat": "{{i18n:Characters/Dialogue/Caroline..Sat...Albert |default={{i18n:Characters/Dialogue/Caroline..Sat..}}}}",
-        "Sat_inlaw_Abigail": "{{i18n:Characters/Dialogue/Caroline..Sat_inlaw_Abigail...Albert |default={{i18n:Characters/Dialogue/Caroline..Sat_inlaw_Abigail..}}}}",
-        "Sat2": "{{i18n:Characters/Dialogue/Caroline..Sat2...Albert |default={{i18n:Characters/Dialogue/Caroline..Sat2..}}}}",
-        "Sat4": "{{i18n:Characters/Dialogue/Caroline..Sat4...Albert |default={{i18n:Characters/Dialogue/Caroline..Sat4..}}}}",
-        "summer_Sat": "{{i18n:Characters/Dialogue/Caroline..summer_Sat...Albert |default={{i18n:Characters/Dialogue/Caroline..summer_Sat..}}}}",
-        "summer_Sat_inlaw_Abigail": "{{i18n:Characters/Dialogue/Caroline..summer_Sat_inlaw_Abigail...Albert |default={{i18n:Characters/Dialogue/Caroline..summer_Sat_inlaw_Abigail..}}}}",
-        "fall_Mon": "{{i18n:Characters/Dialogue/Caroline..fall_Mon...Albert |default={{i18n:Characters/Dialogue/Caroline..fall_Mon..}}}}",
-        "fall_Mon_inlaw_Abigail": "{{i18n:Characters/Dialogue/Caroline..fall_Mon_inlaw_Abigail...Albert |default={{i18n:Characters/Dialogue/Caroline..fall_Mon_inlaw_Abigail..}}}}",
-        "fall_Sat": "{{i18n:Characters/Dialogue/Caroline..fall_Sat...Albert |default={{i18n:Characters/Dialogue/Caroline..fall_Sat..}}}}",
-        "winter_Sat": "{{i18n:Characters/Dialogue/Caroline..winter_Sat...Albert |default={{i18n:Characters/Dialogue/Caroline..winter_Sat..}}}}"
+        "dating_Abigail_memory_oneday": "{{i18n:dialogue/Caroline/dating_Abigail_memory_oneday@swap-Albert |default={{i18n:dialogue/Caroline/dating_Abigail_memory_oneday}}}}",
+        "Introduction": "{{i18n:dialogue/Caroline/Introduction@swap-Albert |default={{i18n:dialogue/Caroline/Introduction}}}}",
+        "Mon": "{{i18n:dialogue/Caroline/Mon@swap-Albert |default={{i18n:dialogue/Caroline/Mon}}}}",
+        "Mon8": "{{i18n:dialogue/Caroline/Mon8@swap-Albert |default={{i18n:dialogue/Caroline/Mon8}}}}",
+        "Sat": "{{i18n:dialogue/Caroline/Sat@swap-Albert |default={{i18n:dialogue/Caroline/Sat}}}}",
+        "Sat_inlaw_Abigail": "{{i18n:dialogue/Caroline/Sat_inlaw_Abigail@swap-Albert |default={{i18n:dialogue/Caroline/Sat_inlaw_Abigail}}}}",
+        "Sat2": "{{i18n:dialogue/Caroline/Sat2@swap-Albert |default={{i18n:dialogue/Caroline/Sat2}}}}",
+        "Sat4": "{{i18n:dialogue/Caroline/Sat4@swap-Albert |default={{i18n:dialogue/Caroline/Sat4}}}}",
+        "summer_Sat": "{{i18n:dialogue/Caroline/summer_Sat@swap-Albert |default={{i18n:dialogue/Caroline/summer_Sat}}}}",
+        "summer_Sat_inlaw_Abigail": "{{i18n:dialogue/Caroline/summer_Sat_inlaw_Abigail@swap-Albert |default={{i18n:dialogue/Caroline/summer_Sat_inlaw_Abigail}}}}",
+        "fall_Mon": "{{i18n:dialogue/Caroline/fall_Mon@swap-Albert |default={{i18n:dialogue/Caroline/fall_Mon}}}}",
+        "fall_Mon_inlaw_Abigail": "{{i18n:dialogue/Caroline/fall_Mon_inlaw_Abigail@swap-Albert |default={{i18n:dialogue/Caroline/fall_Mon_inlaw_Abigail}}}}",
+        "fall_Sat": "{{i18n:dialogue/Caroline/fall_Sat@swap-Albert |default={{i18n:dialogue/Caroline/fall_Sat}}}}",
+        "winter_Sat": "{{i18n:dialogue/Caroline/winter_Sat@swap-Albert |default={{i18n:dialogue/Caroline/winter_Sat}}}}"
       }
     },
     {
@@ -86,78 +86,78 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Caroline",
       "Entries": {
-        "Introduction": "{{i18n:Characters/Dialogue/Caroline..Introduction.Flavor..Albert |default={{i18n:Characters/Dialogue/Caroline..Introduction.Flavor.}}}}",
-        "Sat_inlaw_Abigail": "{{i18n:Characters/Dialogue/Caroline..Sat_inlaw_Abigail.Flavor..Albert |default={{i18n:Characters/Dialogue/Caroline..Sat_inlaw_Abigail.Flavor.}}}}",
-        "summer_Sat": "{{i18n:Characters/Dialogue/Caroline..summer_Sat.Flavor..Albert |default={{i18n:Characters/Dialogue/Caroline..summer_Sat.Flavor.}}}}",
-        "summer_Sat_inlaw_Abigail": "{{i18n:Characters/Dialogue/Caroline..summer_Sat_inlaw_Abigail.Flavor..Albert |default={{i18n:Characters/Dialogue/Caroline..summer_Sat_inlaw_Abigail.Flavor.}}}}"
+        "Introduction": "{{i18n:dialogue/Caroline/Introduction@swap-Albert+flavor |default={{i18n:dialogue/Caroline/Introduction}}}}",
+        "Sat_inlaw_Abigail": "{{i18n:dialogue/Caroline/Sat_inlaw_Abigail@swap-Albert+flavor |default={{i18n:dialogue/Caroline/Sat_inlaw_Abigail}}}}",
+        "summer_Sat": "{{i18n:dialogue/Caroline/summer_Sat@swap-Albert+flavor |default={{i18n:dialogue/Caroline/summer_Sat}}}}",
+        "summer_Sat_inlaw_Abigail": "{{i18n:dialogue/Caroline/summer_Sat_inlaw_Abigail@swap-Albert+flavor |default={{i18n:dialogue/Caroline/summer_Sat_inlaw_Abigail}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Pierre",
       "Entries": {
-        "Mon4_inlaw_Abigail": "{{i18n:Characters/Dialogue/Pierre..Mon4_inlaw_Abigail...Albert |default={{i18n:Characters/Dialogue/Pierre..Mon4_inlaw_Abigail..}}}}",
-        "Thu8": "{{i18n:Characters/Dialogue/Pierre..Thu8...Albert |default={{i18n:Characters/Dialogue/Pierre..Thu8..}}}}",
-        "eventSeen_4": "{{i18n:Characters/Dialogue/Pierre..eventSeen_4...Albert |default={{i18n:Characters/Dialogue/Pierre..eventSeen_4.. |Abigail={{Abigail}}}} |Abigail={{Abigail}}}}"
+        "Mon4_inlaw_Abigail": "{{i18n:dialogue/Pierre/Mon4_inlaw_Abigail@swap-Albert |default={{i18n:dialogue/Pierre/Mon4_inlaw_Abigail}}}}",
+        "Thu8": "{{i18n:dialogue/Pierre/Thu8@swap-Albert |default={{i18n:dialogue/Pierre/Thu8}}}}",
+        "eventSeen_4": "{{i18n:dialogue/Pierre/eventSeen_4@swap-Albert |default={{i18n:dialogue/Pierre/eventSeen_4 |Abigail={{Abigail}}}} |Abigail={{Abigail}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Sam",
       "Entries": {
-        "Resort_Towel_2": "{{i18n:Characters/Dialogue/Sam..Resort_Towel_2...Albert |default={{i18n:Characters/Dialogue/Sam..Resort_Towel_2.. |Abby={{Abby}} |Sebastian={{Sebastian}}}} |Abby={{Abby}} |Sebastian={{Sebastian}}}}"
+        "Resort_Towel_2": "{{i18n:dialogue/Sam/Resort_Towel_2@swap-Albert |default={{i18n:dialogue/Sam/Resort_Towel_2 |Abby={{Abby}} |Sebastian={{Sebastian}}}} |Abby={{Abby}} |Sebastian={{Sebastian}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Sebastian",
       "Entries": {
-        "Wed2": "{{i18n:Characters/Dialogue/Sebastian..Wed2...Albert |default={{i18n:Characters/Dialogue/Sebastian..Wed2.. |Sam={{Sam}} |Abby={{Abby}}}} |Sam={{Sam}} |Abby={{Abby}}}}"
+        "Wed2": "{{i18n:dialogue/Sebastian/Wed2@swap-Albert |default={{i18n:dialogue/Sebastian/Wed2 |Sam={{Sam}} |Abby={{Abby}}}} |Sam={{Sam}} |Abby={{Abby}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Wizard",
       "Entries": {
-        "Thu10": "{{i18n:Characters/Dialogue/Wizard..Thu10...Albert |default={{i18n:Characters/Dialogue/Wizard..Thu10..}}}}"
+        "Thu10": "{{i18n:dialogue/Wizard/Thu10@swap-Albert |default={{i18n:dialogue/Wizard/Thu10}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Beach",
       "Entries": {
-        "733330/f Sam 750/w sunny/t 700 1500/z winter/y 1": "{{i18n:Data/Events/Beach..733330/f+Sam+750/w+sunny/t+700+1500/z+winter/y+1...Albert |default={{i18n:Data/Events/Beach..733330/f+Sam+750/w+sunny/t+700+1500/z+winter/y+1.. |Sam={{Sam}} |Abigail={{Abigail}} |Sebastian={{Sebastian}} |Abigail_her_him={{Abigail_her_him}}}} |Sam={{Sam}} |Abigail={{Abigail}} |Sebastian={{Sebastian}} |Abigail_her_him={{Abigail_her_him}}}}"
+        "733330/f Sam 750/w sunny/t 700 1500/z winter/y 1": "{{i18n:event/Beach/733330@swap-Albert |default={{i18n:event/Beach/733330 |Sam={{Sam}} |Abigail={{Abigail}} |Sebastian={{Sebastian}} |Abigail_her_him={{Abigail_her_him}}}} |Sam={{Sam}} |Abigail={{Abigail}} |Sebastian={{Sebastian}} |Abigail_her_him={{Abigail_her_him}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Mine",
       "Entries": {
-        "901756/f Abigail 2500/t 1700 2400/o Abigail": "{{i18n:Data/Events/Mine..901756/f+Abigail+2500/t+1700+2400/o+Abigail...Albert |default={{i18n:Data/Events/Mine..901756/f+Abigail+2500/t+1700+2400/o+Abigail..}}}}"
+        "901756/f Abigail 2500/t 1700 2400/o Abigail": "{{i18n:event/Mine/901756@swap-Albert |default={{i18n:event/Mine/901756}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/HaleyHouse",
       "Entries": {
-        "195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019": "{{i18n:Data/Events/HaleyHouse..195012/f+Haley+2500/f+Emily+2500/f+Penny+2500/f+Abigail+2500/f+Leah+2500/f+Maru+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+38/e+2123343/e+10/e+901756/e+54/e+15/k+195019...Albert |default={{i18n:Data/Events/HaleyHouse..195012/f+Haley+2500/f+Emily+2500/f+Penny+2500/f+Abigail+2500/f+Leah+2500/f+Maru+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+38/e+2123343/e+10/e+901756/e+54/e+15/k+195019..}}}}",
-        "choseToExplain": "{{i18n:Data/Events/HaleyHouse..choseToExplain...Albert |default={{i18n:Data/Events/HaleyHouse..choseToExplain..}}}}",
-        "lifestyleChoice": "{{i18n:Data/Events/HaleyHouse..lifestyleChoice...Albert |default={{i18n:Data/Events/HaleyHouse..lifestyleChoice..}}}}",
-        "917409/e 463391/f Emily 1500/p Emily": "{{i18n:Data/Events/HaleyHouse..917409/e+463391/f+Emily+1500/p+Emily...Albert |default={{i18n:Data/Events/HaleyHouse..917409/e+463391/f+Emily+1500/p+Emily.. |Abigail={{Abigail}}}} |Abigail={{Abigail}}}}"
+        "195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019": "{{i18n:event/HaleyHouse/195012@swap-Albert |default={{i18n:event/HaleyHouse/195012}}}}",
+        "choseToExplain": "{{i18n:event/HaleyHouse/choseToExplain@swap-Albert |default={{i18n:event/HaleyHouse/choseToExplain}}}}",
+        "lifestyleChoice": "{{i18n:event/HaleyHouse/lifestyleChoice@swap-Albert |default={{i18n:event/HaleyHouse/lifestyleChoice}}}}",
+        "917409/e 463391/f Emily 1500/p Emily": "{{i18n:event/HaleyHouse/917409@swap-Albert |default={{i18n:event/HaleyHouse/917409 |Abigail={{Abigail}}}} |Abigail={{Abigail}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/SeedShop",
       "Entries": {
-        "17/f Caroline 1500/p Caroline/p Abigail": "{{i18n:Data/Events/SeedShop..17/f+Caroline+1500/p+Caroline/p+Abigail...Albert |default={{i18n:Data/Events/SeedShop..17/f+Caroline+1500/p+Caroline/p+Abigail..}}}}"
+        "17/f Caroline 1500/p Caroline/p Abigail": "{{i18n:event/SeedShop/17@swap-Albert |default={{i18n:event/SeedShop/17}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Town",
       "Entries": {
-        "4/f Abigail 1500/t 2100 2400/w sunny": "{{i18n:Data/Events/Town..4/f+Abigail+1500/t+2100+2400/w+sunny...Albert |default={{i18n:Data/Events/Town..4/f+Abigail+1500/t+2100+2400/w+sunny..}}}}"
+        "4/f Abigail 1500/t 2100 2400/w sunny": "{{i18n:event/Town/4@swap-Albert |default={{i18n:event/Town/4}}}}"
       }
     },
     {
@@ -167,15 +167,15 @@
       "Action": "EditData",
       "Target": "Data/Events/Town",
       "Entries": {
-        "4/f Abigail 1500/t 2100 2400/w sunny": "{{i18n:Data/Events/Town..4/f+Abigail+1500/t+2100+2400/w+sunny.Flavor..Albert |default={{i18n:Data/Events/Town..4/f+Abigail+1500/t+2100+2400/w+sunny.Flavor.}}}}"
+        "4/f Abigail 1500/t 2100 2400/w sunny": "{{i18n:event/Town/4@swap-Albert+flavor |default={{i18n:event/Town/4}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/spring13",
       "Entries": {
-        "AbbyWin": "{{i18n:Data/Festivals/spring13..AbbyWin...Albert |default={{i18n:Data/Festivals/spring13..AbbyWin..}}}}",
-        "Caroline": "{{i18n:Data/Festivals/spring13..Caroline...Albert |default={{i18n:Data/Festivals/spring13..Caroline..}}}}"
+        "AbbyWin": "{{i18n:data/spring13/AbbyWin@swap-Albert |default={{i18n:data/spring13/AbbyWin}}}}",
+        "Caroline": "{{i18n:data/spring13/Caroline@swap-Albert |default={{i18n:data/spring13/Caroline}}}}"
       }
     },
     {
@@ -185,145 +185,141 @@
       "Action": "EditData",
       "Target": "Data/Festivals/spring13",
       "Entries": {
-        "Caroline": "{{i18n:Data/Festivals/spring13..Caroline.Flavor..Albert |default={{i18n:Data/Festivals/spring13..Caroline.Flavor.}}}}"
+        "Caroline": "{{i18n:data/spring13/Caroline@swap-Albert+flavor |default={{i18n:data/spring13/Caroline}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Quests",
       "Entries": {
-        "108": "{{i18n:Data/Quests..108...Albert |default={{i18n:Data/Quests..108..}}}}"
+        "108": "{{i18n:data/Quests/108@swap-Albert |default={{i18n:data/Quests/108}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/SecretNotes",
       "Entries": {
-        "1": "{{i18n:Data/SecretNotes..1...Albert |default={{i18n:Data/SecretNotes..1..}}}}"
+        "1": "{{i18n:data/SecretNotes/1@swap-Albert |default={{i18n:data/SecretNotes/1}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/mail",
       "Entries": {
-        "abbySpiritBoard": "{{i18n:Data/mail..abbySpiritBoard...Albert |default={{i18n:Data/mail..abbySpiritBoard..}}}}",
-        "fall_19_1": "{{i18n:Data/mail..fall_19_1...Albert |default={{i18n:Data/mail..fall_19_1..}}}}"
+        "abbySpiritBoard": "{{i18n:data/mail/abbySpiritBoard@swap-Albert |default={{i18n:data/mail/abbySpiritBoard}}}}",
+        "fall_19_1": "{{i18n:data/mail/fall_19_1@swap-Albert |default={{i18n:data/mail/fall_19_1}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Characters",
       "Entries": {
-        "AbigailInMineFlute": "{{i18n:Strings/Characters..AbigailInMineFlute...Albert |default={{i18n:Strings/Characters..AbigailInMineFlute..}}}}",
-        "Phone_Pierre_Open_Rare": "{{i18n:Strings/Characters..Phone_Pierre_Open_Rare...Albert |default={{i18n:Strings/Characters..Phone_Pierre_Open_Rare..}}}}"
+        "AbigailInMineFlute": "{{i18n:strings/Characters/AbigailInMineFlute@swap-Albert |default={{i18n:strings/Characters/AbigailInMineFlute}}}}",
+        "Phone_Pierre_Open_Rare": "{{i18n:strings/Characters/Phone_Pierre_Open_Rare@swap-Albert |default={{i18n:strings/Characters/Phone_Pierre_Open_Rare}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Furniture",
       "Entries": {
-        "AbigailPortrait": "{{i18n:Strings/Furniture..AbigailPortrait...Albert |default={{i18n:Strings/Furniture..AbigailPortrait..}}}}"
+        "AbigailPortrait": "{{i18n:strings/Furniture/AbigailPortrait@swap-Albert |default={{i18n:strings/Furniture/AbigailPortrait}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/StringsFromCSFiles",
       "Entries": {
-        "Event.cs.1862": "{{i18n:Strings/StringsFromCSFiles..Event=cs=1862...Albert |default={{i18n:Strings/StringsFromCSFiles..Event=cs=1862..}}}}",
-        "MapPage.cs.11079": "{{i18n:Strings/StringsFromCSFiles..MapPage=cs=11079...Albert |default={{i18n:Strings/StringsFromCSFiles..MapPage=cs=11079..}}}}",
-        "ItemDeliveryQuest.cs.13590": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13590...Albert |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13590..}}}}",
-        "ItemDeliveryQuest.cs.13593": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13593...Albert |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13593..}}}}",
-        "Utility.cs.5371": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and... well, husband!$h",
-        "Utility.cs.5373": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and... well, husband!$h",
-        "Utility.cs.5375": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and... well, husband!$h",
-        "Utility.cs.5377": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and... well, husband!$h"
+        "Event.cs.1862": "{{i18n:strings/StringsFromCSFiles/Event.cs.1862@swap-Albert |default={{i18n:strings/StringsFromCSFiles/Event.cs.1862}}}}",
+        "MapPage.cs.11079": "{{i18n:strings/StringsFromCSFiles/MapPage.cs.11079@swap-Albert |default={{i18n:strings/StringsFromCSFiles/MapPage.cs.11079}}}}",
+        "ItemDeliveryQuest.cs.13590": "{{i18n:strings/StringsFromCSFiles/ItemDeliveryQuest.cs.13590@swap-Albert |default={{i18n:strings/StringsFromCSFiles/ItemDeliveryQuest.cs.13590}}}}",
+        "ItemDeliveryQuest.cs.13593": "{{i18n:strings/StringsFromCSFiles/ItemDeliveryQuest.cs.13593@swap-Albert |default={{i18n:strings/StringsFromCSFiles/ItemDeliveryQuest.cs.13593}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/StringsFromMaps",
       "Entries": {
-        "BathHouse_WomensLocker.3": "{{i18n:Strings/StringsFromMaps..BathHouse_WomensLocker=3...Albert |default={{i18n:Strings/StringsFromMaps..BathHouse_WomensLocker=3..}}}}"
+        "BathHouse_WomensLocker.3": "{{i18n:strings/StringsFromMaps/BathHouse_WomensLocker.3@swap-Albert |default={{i18n:strings/StringsFromMaps/BathHouse_WomensLocker.3}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/schedules/Abigail",
       "Entries": {
-        "spring_4.001": "{{i18n:Strings/schedules/Abigail..spring_4=001...Albert |default={{i18n:Strings/schedules/Abigail..spring_4=001..}}}}"
+        "spring_4.001": "{{i18n:strings/schedules/Abigail/spring_4.001@swap-Albert |default={{i18n:strings/schedules/Abigail/spring_4.001}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Weapons",
       "Entries": {
-        "AbbysPlanchette_Name": "{{i18n:Strings/Weapons..AbbysPlanchette_Name...Albert |default={{i18n:Strings/Weapons..AbbysPlanchette_Name..}}}}",
-        "AbbysPlanchette_Description": "{{i18n:Strings/Weapons..AbbysPlanchette_Description...Albert |default={{i18n:Strings/Weapons..AbbysPlanchette_Description..}}}}"
+        "AbbysPlanchette_Name": "{{i18n:strings/Weapons/AbbysPlanchette_Name@swap-Albert |default={{i18n:strings/Weapons/AbbysPlanchette_Name}}}}",
+        "AbbysPlanchette_Description": "{{i18n:strings/Weapons/AbbysPlanchette_Description@swap-Albert |default={{i18n:strings/Weapons/AbbysPlanchette_Description}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/hats",
       "Entries": {
-        "AbigailsBow": "{{i18n:Data/hats..AbigailsBow...Albert |default={{i18n:Data/hats..AbigailsBow.. |Abigail={{Abigail}} |Abby={{Abby}} |Abigail={{Abigail}}}} |Abigail={{Abigail}} |Abby={{Abby}} |Abigail={{Abigail}}}}"
+        "AbigailsBow": "{{i18n:data/hats/AbigailsBow@swap-Albert |default={{i18n:data/hats/AbigailsBow |Abigail={{Abigail}} |Abby={{Abby}}}} |Abigail={{Abigail}} |Abby={{Abby}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/ExtraDialogue",
       "Entries": {
-        "PurchasedItem_Pierre_QualityHigh": "{{i18n:Data/ExtraDialogue..PurchasedItem_Pierre_QualityHigh...Albert |default={{i18n:Data/ExtraDialogue..PurchasedItem_Pierre_QualityHigh.. |Abby={{Abby}}}} |Abby={{Abby}}}}"
+        "PurchasedItem_Pierre_QualityHigh": "{{i18n:data/ExtraDialogue/PurchasedItem_Pierre_QualityHigh@swap-Albert |default={{i18n:data/ExtraDialogue/PurchasedItem_Pierre_QualityHigh |Abby={{Abby}}}} |Abby={{Abby}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/SebastianRoom",
       "Entries": {
-        "enterRobin": "{{i18n:Data/Events/SebastianRoom..enterRobin...Albert |default={{i18n:Data/Events/SebastianRoom..enterRobin.. |Sam={{Sam}} |Sam_he={{Sam_he}} |Sebby={{Sebby}} |Abigail={{Abigail}} |Abigail_she={{Abigail_she}} |Abigail_she={{Abigail_she}} |Abigail_her_him={{Abigail_her_him}} |Abigail_she={{Abigail_she}} |Abigail_she={{Abigail_she}} |Maru={{Maru}} |Maru_she={{Maru_she}} |Sebastian_him={{Sebastian_him}} |Sebastian_his={{Sebastian_his}} |Sebastian_him={{Sebastian_him}} |Sebastian_he={{Sebastian_he}} |Sebastian_his={{Sebastian_his}}}} |Sam={{Sam}} |Sam_he={{Sam_he}} |Sebby={{Sebby}} |Abigail={{Abigail}} |Abigail_she={{Abigail_she}} |Abigail_she={{Abigail_she}} |Abigail_her_him={{Abigail_her_him}} |Abigail_she={{Abigail_she}} |Abigail_she={{Abigail_she}} |Maru={{Maru}} |Maru_she={{Maru_she}} |Sebastian_him={{Sebastian_him}} |Sebastian_his={{Sebastian_his}} |Sebastian_him={{Sebastian_him}} |Sebastian_he={{Sebastian_he}} |Sebastian_his={{Sebastian_his}}}}"
+        "enterRobin": "{{i18n:event/SebastianRoom/enterRobin@swap-Albert |default={{i18n:event/SebastianRoom/enterRobin |Sam={{Sam}} |Sam_he={{Sam_he}} |Sebby={{Sebby}} |Abigail={{Abigail}} |Abigail_she={{Abigail_she}} |Abigail_her_him={{Abigail_her_him}} |Maru={{Maru}} |Maru_she={{Maru_she}} |Sebastian_him={{Sebastian_him}} |Sebastian_his={{Sebastian_his}} |Sebastian_he={{Sebastian_he}}}} |Sam={{Sam}} |Sam_he={{Sam_he}} |Sebby={{Sebby}} |Abigail={{Abigail}} |Abigail_she={{Abigail_she}} |Abigail_her_him={{Abigail_her_him}} |Maru={{Maru}} |Maru_she={{Maru_she}} |Sebastian_him={{Sebastian_him}} |Sebastian_his={{Sebastian_his}} |Sebastian_he={{Sebastian_he}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/winter8",
       "Entries": {
-        "Pierre_y2": "{{i18n:Data/Festivals/winter8..Pierre_y2...Albert |default={{i18n:Data/Festivals/winter8..Pierre_y2.. |Abigail={{Abigail}}}} |Abigail={{Abigail}}}}"
+        "Pierre_y2": "{{i18n:data/winter8/Pierre_y2@swap-Albert |default={{i18n:data/winter8/Pierre_y2 |Abigail={{Abigail}}}} |Abigail={{Abigail}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/MovieReactions",
       "Entries": {
-        "Abigail_love_DuringMovie_2": "{{i18n:Strings/MovieReactions..Abigail_love_DuringMovie_2...Albert |default={{i18n:Strings/MovieReactions..Abigail_love_DuringMovie_2.. |Abigail={{Abigail}}}} |Abigail={{Abigail}}}}",
-        "Caroline_like_AfterMovie": "{{i18n:Strings/MovieReactions..Caroline_like_AfterMovie...Albert |default={{i18n:Strings/MovieReactions..Caroline_like_AfterMovie.. |Abigail={{Abigail}}}} |Abigail={{Abigail}}}}"
+        "Abigail_love_DuringMovie_2": "{{i18n:strings/MovieReactions/Abigail_love_DuringMovie_2@swap-Albert |default={{i18n:strings/MovieReactions/Abigail_love_DuringMovie_2 |Abigail={{Abigail}}}} |Abigail={{Abigail}}}}",
+        "Caroline_like_AfterMovie": "{{i18n:strings/MovieReactions/Caroline_like_AfterMovie@swap-Albert |default={{i18n:strings/MovieReactions/Caroline_like_AfterMovie |Abigail={{Abigail}}}} |Abigail={{Abigail}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Locations",
       "Entries": {
-        "Backwoods_MonsterGrave": "{{i18n:Strings/Locations..Backwoods_MonsterGrave...Albert |default={{i18n:Strings/Locations..Backwoods_MonsterGrave.. |Abigail={{Abigail}}}} |Abigail={{Abigail}}}}"
+        "Backwoods_MonsterGrave": "{{i18n:strings/Locations/Backwoods_MonsterGrave@swap-Albert |default={{i18n:strings/Locations/Backwoods_MonsterGrave |Abigail={{Abigail}}}} |Abigail={{Abigail}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueSam",
       "Entries": {
-        "Rainy_Day_1": "{{i18n:Characters/Dialogue/MarriageDialogueSam..Rainy_Day_1...Albert |default={{i18n:Characters/Dialogue/MarriageDialogueSam..Rainy_Day_1.. |Sebastian={{Sebastian}} |Abigail={{Abigail}}}} |Sebastian={{Sebastian}} |Abigail={{Abigail}}}}"
+        "Rainy_Day_1": "{{i18n:dialogue/MarriageDialogueSam/Rainy_Day_1@swap-Albert |default={{i18n:dialogue/MarriageDialogueSam/Rainy_Day_1 |Sebastian={{Sebastian}} |Abigail={{Abigail}}}} |Sebastian={{Sebastian}} |Abigail={{Abigail}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueMaru",
       "Entries": {
-        "summer_20": "{{i18n:Characters/Dialogue/MarriageDialogueMaru..summer_20...Albert |default={{i18n:Characters/Dialogue/MarriageDialogueMaru..summer_20.. |Sebastian_brother={{Sebastian_brother}} |Abigail={{Abigail}}}} |Sebastian_brother={{Sebastian_brother}} |Abigail={{Abigail}}}}"
+        "summer_20": "{{i18n:dialogue/MarriageDialogueMaru/summer_20@swap-Albert |default={{i18n:dialogue/MarriageDialogueMaru/summer_20 |Sebastian_brother={{Sebastian_brother}} |Abigail={{Abigail}}}} |Sebastian_brother={{Sebastian_brother}} |Abigail={{Abigail}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueAbigail",
       "Entries": {
-        "patio_Abigail": "{{i18n:Characters/Dialogue/MarriageDialogueAbigail..patio_Abigail...Albert |default={{i18n:Characters/Dialogue/MarriageDialogueAbigail..patio_Abigail.. |Abigail={{Abigail}}}} |Abigail={{Abigail}}}}",
-        "OneKid_3": "{{i18n:Characters/Dialogue/MarriageDialogueAbigail..OneKid_3...Albert |default={{i18n:Characters/Dialogue/MarriageDialogueAbigail..OneKid_3..}}}}"
+        "patio_Abigail": "{{i18n:dialogue/MarriageDialogueAbigail/patio_Abigail@swap-Albert |default={{i18n:dialogue/MarriageDialogueAbigail/patio_Abigail |Abigail={{Abigail}}}} |Abigail={{Abigail}}}}",
+        "OneKid_3": "{{i18n:dialogue/MarriageDialogueAbigail/OneKid_3@swap-Albert |default={{i18n:dialogue/MarriageDialogueAbigail/OneKid_3}}}}"
       }
     }
   ]

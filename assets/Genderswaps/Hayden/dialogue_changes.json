@@ -19,7 +19,7 @@
       "Action": "EditData",
       "Target": "Strings/NPCNames",
       "Entries": {
-        "Haley": "{{i18n:Strings/NPCNames..Haley...Hayden |default={{i18n:Strings/NPCNames..Haley..}}}}"
+        "Haley": "{{i18n:name/Haley/Haley@swap-Hayden |default={{i18n:name/Haley/Haley}}}}"
       }
     },
     {
@@ -30,51 +30,51 @@
         "FriendsAndFamily"
       ],
       "Entries": {
-        "Haley": "{{i18n:Data/Characters.Emily/FriendsAndFamily.Haley...Hayden |default={{i18n:Data/Characters.Emily/FriendsAndFamily.Haley..}}}}"
+        "Haley": "{{i18n:data/Emily/FriendsAndFamily/Haley@swap-Hayden |default={{i18n:data/Emily/FriendsAndFamily/Haley}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Alex",
       "Entries": {
-        "married_Haley": "{{i18n:Characters/Dialogue/Alex..married_Haley...Hayden |default={{i18n:Characters/Dialogue/Alex..married_Haley..}}}}",
-        "winter_Tue": "{{i18n:Characters/Dialogue/Alex..winter_Tue...Hayden |default={{i18n:Characters/Dialogue/Alex..winter_Tue..}}}}",
-        "winter_Tue4": "{{i18n:Characters/Dialogue/Alex..winter_Tue4...Hayden |default={{i18n:Characters/Dialogue/Alex..winter_Tue4..}}}}",
-        "winter_Tue4_inlaw_Haley": "{{i18n:Characters/Dialogue/Alex..winter_Tue4_inlaw_Haley...Hayden |default={{i18n:Characters/Dialogue/Alex..winter_Tue4_inlaw_Haley..}}}}"
+        "married_Haley": "{{i18n:dialogue/Alex/married_Haley@swap-Hayden |default={{i18n:dialogue/Alex/married_Haley}}}}",
+        "winter_Tue": "{{i18n:dialogue/Alex/winter_Tue@swap-Hayden |default={{i18n:dialogue/Alex/winter_Tue}}}}",
+        "winter_Tue4": "{{i18n:dialogue/Alex/winter_Tue4@swap-Hayden |default={{i18n:dialogue/Alex/winter_Tue4}}}}",
+        "winter_Tue4_inlaw_Haley": "{{i18n:dialogue/Alex/winter_Tue4_inlaw_Haley@swap-Hayden |default={{i18n:dialogue/Alex/winter_Tue4_inlaw_Haley}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Emily",
       "Entries": {
-        "Mon": "{{i18n:Characters/Dialogue/Emily..Mon...Hayden |default={{i18n:Characters/Dialogue/Emily..Mon..}}}}",
-        "Mon6": "{{i18n:Characters/Dialogue/Emily..Mon6...Hayden |default={{i18n:Characters/Dialogue/Emily..Mon6..}}}}",
-        "married_Haley": "{{i18n:Characters/Dialogue/Emily..married_Haley...Hayden |default={{i18n:Characters/Dialogue/Emily..married_Haley..}}}}",
-        "divorced_Haley": "{{i18n:Characters/Dialogue/Emily..divorced_Haley...Hayden |default={{i18n:Characters/Dialogue/Emily..divorced_Haley..}}}}",
-        "Mon6_inlaw_Haley": "{{i18n:Characters/Dialogue/Emily..Mon6_inlaw_Haley...Hayden |default={{i18n:Characters/Dialogue/Emily..Mon6_inlaw_Haley..}}}}",
-        "summer_Mon": "{{i18n:Characters/Dialogue/Emily..summer_Mon...Hayden |default={{i18n:Characters/Dialogue/Emily..summer_Mon..}}}}",
-        "summer_Mon_inlaw_Haley": "{{i18n:Characters/Dialogue/Emily..summer_Mon_inlaw_Haley...Hayden |default={{i18n:Characters/Dialogue/Emily..summer_Mon_inlaw_Haley..}}}}",
-        "winter_Wed": "{{i18n:Characters/Dialogue/Emily..winter_Wed...Hayden |default={{i18n:Characters/Dialogue/Emily..winter_Wed..}}}}",
-        "winter_Sun6": "{{i18n:Characters/Dialogue/Emily..winter_Sun6...Hayden |default={{i18n:Characters/Dialogue/Emily..winter_Sun6..}}}}",
-        "winter_Sun6_inlaw_Haley": "{{i18n:Characters/Dialogue/Emily..winter_Sun6_inlaw_Haley...Hayden |default={{i18n:Characters/Dialogue/Emily..winter_Sun6_inlaw_Haley..}}}}"
+        "Mon": "{{i18n:dialogue/Emily/Mon@swap-Hayden |default={{i18n:dialogue/Emily/Mon}}}}",
+        "Mon6": "{{i18n:dialogue/Emily/Mon6@swap-Hayden |default={{i18n:dialogue/Emily/Mon6}}}}",
+        "married_Haley": "{{i18n:dialogue/Emily/married_Haley@swap-Hayden |default={{i18n:dialogue/Emily/married_Haley}}}}",
+        "divorced_Haley": "{{i18n:dialogue/Emily/divorced_Haley@swap-Hayden |default={{i18n:dialogue/Emily/divorced_Haley}}}}",
+        "Mon6_inlaw_Haley": "{{i18n:dialogue/Emily/Mon6_inlaw_Haley@swap-Hayden |default={{i18n:dialogue/Emily/Mon6_inlaw_Haley}}}}",
+        "summer_Mon": "{{i18n:dialogue/Emily/summer_Mon@swap-Hayden |default={{i18n:dialogue/Emily/summer_Mon}}}}",
+        "summer_Mon_inlaw_Haley": "{{i18n:dialogue/Emily/summer_Mon_inlaw_Haley@swap-Hayden |default={{i18n:dialogue/Emily/summer_Mon_inlaw_Haley}}}}",
+        "winter_Wed": "{{i18n:dialogue/Emily/winter_Wed@swap-Hayden |default={{i18n:dialogue/Emily/winter_Wed}}}}",
+        "winter_Sun6": "{{i18n:dialogue/Emily/winter_Sun6@swap-Hayden |default={{i18n:dialogue/Emily/winter_Sun6}}}}",
+        "winter_Sun6_inlaw_Haley": "{{i18n:dialogue/Emily/winter_Sun6_inlaw_Haley@swap-Hayden |default={{i18n:dialogue/Emily/winter_Sun6_inlaw_Haley}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Haley",
       "Entries": {
-        "dating_Haley_memory_oneyear": "{{i18n:Characters/Dialogue/Haley..dating_Haley_memory_oneyear...Hayden |default={{i18n:Characters/Dialogue/Haley..dating_Haley_memory_oneyear..}}}}",
-        "married_Emily": "{{i18n:Characters/Dialogue/Haley..married_Emily...Hayden |default={{i18n:Characters/Dialogue/Haley..married_Emily..}}}}",
-        "Introduction": "{{i18n:Characters/Dialogue/Haley..Introduction...Hayden |default={{i18n:Characters/Dialogue/Haley..Introduction..}}}}",
-        "FlowerDance_Decline": "{{i18n:Characters/Dialogue/Haley..FlowerDance_Decline...Hayden |default={{i18n:Characters/Dialogue/Haley..FlowerDance_Decline..}}}}",
-        "Fri": "{{i18n:Characters/Dialogue/Haley..Fri...Hayden |default={{i18n:Characters/Dialogue/Haley..Fri..}}}}",
-        "summer_Tue": "{{i18n:Characters/Dialogue/Haley..summer_Tue...Hayden |default={{i18n:Characters/Dialogue/Haley..summer_Tue..}}}}",
-        "eventSeen_13_memory_oneweek": "{{i18n:Characters/Dialogue/Haley..eventSeen_13_memory_oneweek...Hayden |default={{i18n:Characters/Dialogue/Haley..eventSeen_13_memory_oneweek.. |Haley={{Haley}}}} |Haley={{Haley}}}}",
-        "FlowerDance_Accept_Spouse": "{{i18n:Characters/Dialogue/Haley..FlowerDance_Accept_Spouse...Hayden |default={{i18n:Characters/Dialogue/Haley..FlowerDance_Accept_Spouse..}}}}",
-        "eventSeen_12_memory_oneweek": "{{i18n:Characters/Dialogue/Haley..eventSeen_12_memory_oneweek...Hayden |default={{i18n:Characters/Dialogue/Haley..eventSeen_12_memory_oneweek..}}}}",
-        "winter_Thu6": "{{i18n:Characters/Dialogue/Haley..winter_Thu6...Hayden |default={{i18n:Characters/Dialogue/Haley..winter_Thu6..}}}}",
-        "AcceptBirthdayGift_Loved": "{{i18n:Characters/Dialogue/Haley..AcceptBirthdayGift_Loved...Hayden |default={{i18n:Characters/Dialogue/Haley..AcceptBirthdayGift_Loved..}}}}",
-        "Sun6": "{{i18n:Characters/Dialogue/Haley..Sun6...Hayden |default={{i18n:Characters/Dialogue/Haley..Sun6..}}}}"
+        "dating_Haley_memory_oneyear": "{{i18n:dialogue/Haley/dating_Haley_memory_oneyear@swap-Hayden |default={{i18n:dialogue/Haley/dating_Haley_memory_oneyear}}}}",
+        "married_Emily": "{{i18n:dialogue/Haley/married_Emily@swap-Hayden |default={{i18n:dialogue/Haley/married_Emily}}}}",
+        "Introduction": "{{i18n:dialogue/Haley/Introduction@swap-Hayden |default={{i18n:dialogue/Haley/Introduction}}}}",
+        "FlowerDance_Decline": "{{i18n:dialogue/Haley/FlowerDance_Decline@swap-Hayden |default={{i18n:dialogue/Haley/FlowerDance_Decline}}}}",
+        "Fri": "{{i18n:dialogue/Haley/Fri@swap-Hayden |default={{i18n:dialogue/Haley/Fri}}}}",
+        "summer_Tue": "{{i18n:dialogue/Haley/summer_Tue@swap-Hayden |default={{i18n:dialogue/Haley/summer_Tue}}}}",
+        "eventSeen_13_memory_oneweek": "{{i18n:dialogue/Haley/eventSeen_13_memory_oneweek@swap-Hayden |default={{i18n:dialogue/Haley/eventSeen_13_memory_oneweek |Haley={{Haley}}}} |Haley={{Haley}}}}",
+        "FlowerDance_Accept_Spouse": "{{i18n:dialogue/Haley/FlowerDance_Accept_Spouse@swap-Hayden |default={{i18n:dialogue/Haley/FlowerDance_Accept_Spouse}}}}",
+        "eventSeen_12_memory_oneweek": "{{i18n:dialogue/Haley/eventSeen_12_memory_oneweek@swap-Hayden |default={{i18n:dialogue/Haley/eventSeen_12_memory_oneweek}}}}",
+        "winter_Thu6": "{{i18n:dialogue/Haley/winter_Thu6@swap-Hayden |default={{i18n:dialogue/Haley/winter_Thu6}}}}",
+        "AcceptBirthdayGift_Loved": "{{i18n:dialogue/Haley/AcceptBirthdayGift_Loved@swap-Hayden |default={{i18n:dialogue/Haley/AcceptBirthdayGift_Loved}}}}",
+        "Sun6": "{{i18n:dialogue/Haley/Sun6@swap-Hayden |default={{i18n:dialogue/Haley/Sun6}}}}"
       }
     },
     {
@@ -84,74 +84,74 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Haley",
       "Entries": {
-        "eventSeen_14": "{{i18n:Characters/Dialogue/Haley..eventSeen_14.Flavor..Hayden |default={{i18n:Characters/Dialogue/Haley..eventSeen_14.Flavor.}}}}",
-        "Resort_Chair": "{{i18n:Characters/Dialogue/Haley..Resort_Chair.Flavor..Hayden |default={{i18n:Characters/Dialogue/Haley..Resort_Chair.Flavor.}}}}",
-        "summer_Mon": "{{i18n:Characters/Dialogue/Haley..summer_Mon.Flavor..Hayden |default={{i18n:Characters/Dialogue/Haley..summer_Mon.Flavor.}}}}",
-        "summer_Thu": "{{i18n:Characters/Dialogue/Haley..summer_Thu.Flavor..Hayden |default={{i18n:Characters/Dialogue/Haley..summer_Thu.Flavor.}}}}",
-        "summer_Thu6": "{{i18n:Characters/Dialogue/Haley..summer_Thu6.Flavor..Hayden |default={{i18n:Characters/Dialogue/Haley..summer_Thu6.Flavor.}}}}",
-        "fall_Sun": "{{i18n:Characters/Dialogue/Haley..fall_Sun.Flavor..Hayden |default={{i18n:Characters/Dialogue/Haley..fall_Sun.Flavor.}}}}"
+        "eventSeen_14": "{{i18n:dialogue/Haley/eventSeen_14@swap-Hayden+flavor |default={{i18n:dialogue/Haley/eventSeen_14}}}}",
+        "Resort_Chair": "{{i18n:dialogue/Haley/Resort_Chair@swap-Hayden+flavor |default={{i18n:dialogue/Haley/Resort_Chair}}}}",
+        "summer_Mon": "{{i18n:dialogue/Haley/summer_Mon@swap-Hayden+flavor |default={{i18n:dialogue/Haley/summer_Mon}}}}",
+        "summer_Thu": "{{i18n:dialogue/Haley/summer_Thu@swap-Hayden+flavor |default={{i18n:dialogue/Haley/summer_Thu}}}}",
+        "summer_Thu6": "{{i18n:dialogue/Haley/summer_Thu6@swap-Hayden+flavor |default={{i18n:dialogue/Haley/summer_Thu6}}}}",
+        "fall_Sun": "{{i18n:dialogue/Haley/fall_Sun@swap-Hayden+flavor |default={{i18n:dialogue/Haley/fall_Sun}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogue",
       "Entries": {
-        "spouseRoom_Haley": "{{i18n:Characters/Dialogue/MarriageDialogue..spouseRoom_Haley...Hayden |default={{i18n:Characters/Dialogue/MarriageDialogue..spouseRoom_Haley..}}}}",
-        "Outdoor_Haley": "{{i18n:Characters/Dialogue/MarriageDialogue..Outdoor_Haley...Hayden |default={{i18n:Characters/Dialogue/MarriageDialogue..Outdoor_Haley..}}}}"
+        "spouseRoom_Haley": "{{i18n:dialogue/MarriageDialogue/spouseRoom_Haley@swap-Hayden |default={{i18n:dialogue/MarriageDialogue/spouseRoom_Haley}}}}",
+        "Outdoor_Haley": "{{i18n:dialogue/MarriageDialogue/Outdoor_Haley@swap-Hayden |default={{i18n:dialogue/MarriageDialogue/Outdoor_Haley}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Beach",
       "Entries": {
-        "13/f Haley 1500/z winter/t 1000 1600": "{{i18n:Data/Events/Beach..13/f+Haley+1500/z+winter/t+1000+1600...Hayden |default={{i18n:Data/Events/Beach..13/f+Haley+1500/z+winter/t+1000+1600..}}}}"
+        "13/f Haley 1500/z winter/t 1000 1600": "{{i18n:event/Beach/13@swap-Hayden |default={{i18n:event/Beach/13}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Forest",
       "Entries": {
-        "14/f Haley 2000/z winter/t 1000 1600/w sunny": "{{i18n:Data/Events/Forest..14/f+Haley+2000/z+winter/t+1000+1600/w+sunny...Hayden |default={{i18n:Data/Events/Forest..14/f+Haley+2000/z+winter/t+1000+1600/w+sunny..}}}}"
+        "14/f Haley 2000/z winter/t 1000 1600/w sunny": "{{i18n:event/Forest/14@swap-Hayden |default={{i18n:event/Forest/14}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/HaleyHouse",
       "Entries": {
-        "11/f Haley 500/p Haley/p Emily": "{{i18n:Data/Events/HaleyHouse..11/f+Haley+500/p+Haley/p+Emily...Hayden |default={{i18n:Data/Events/HaleyHouse..11/f+Haley+500/p+Haley/p+Emily.. |Haley={{Haley}} |Haley={{Haley}} |Haley_her={{Haley_her}} |Haley={{Haley}} |Emily={{Emily}}}} |Haley={{Haley}} |Haley={{Haley}} |Haley_her={{Haley_her}} |Haley={{Haley}} |Emily={{Emily}}}}",
-        "12/f Haley 1000/p Haley": "{{i18n:Data/Events/HaleyHouse..12/f+Haley+1000/p+Haley...Hayden |default={{i18n:Data/Events/HaleyHouse..12/f+Haley+1000/p+Haley..}}}}",
-        "15/f Haley 2500/p Haley": "{{i18n:Data/Events/HaleyHouse..15/f+Haley+2500/p+Haley...Hayden |default={{i18n:Data/Events/HaleyHouse..15/f+Haley+2500/p+Haley..}}}}",
-        "195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019": "{{i18n:Data/Events/HaleyHouse..195012/f+Haley+2500/f+Emily+2500/f+Penny+2500/f+Abigail+2500/f+Leah+2500/f+Maru+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+38/e+2123343/e+10/e+901756/e+54/e+15/k+195019...Hayden |default={{i18n:Data/Events/HaleyHouse..195012/f+Haley+2500/f+Emily+2500/f+Penny+2500/f+Abigail+2500/f+Leah+2500/f+Maru+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+38/e+2123343/e+10/e+901756/e+54/e+15/k+195019..}}}}",
-        "choseToExplain": "{{i18n:Data/Events/HaleyHouse..choseToExplain...Hayden |default={{i18n:Data/Events/HaleyHouse..choseToExplain..}}}}",
-        "lifestyleChoice": "{{i18n:Data/Events/HaleyHouse..lifestyleChoice...Hayden |default={{i18n:Data/Events/HaleyHouse..lifestyleChoice..}}}}"
+        "11/f Haley 500/p Haley/p Emily": "{{i18n:event/HaleyHouse/11@swap-Hayden |default={{i18n:event/HaleyHouse/11 |Haley={{Haley}} |Haley_her={{Haley_her}} |Emily={{Emily}}}} |Haley={{Haley}} |Haley_her={{Haley_her}} |Emily={{Emily}}}}",
+        "12/f Haley 1000/p Haley": "{{i18n:event/HaleyHouse/12@swap-Hayden |default={{i18n:event/HaleyHouse/12}}}}",
+        "15/f Haley 2500/p Haley": "{{i18n:event/HaleyHouse/15@swap-Hayden |default={{i18n:event/HaleyHouse/15}}}}",
+        "195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019": "{{i18n:event/HaleyHouse/195012@swap-Hayden |default={{i18n:event/HaleyHouse/195012}}}}",
+        "choseToExplain": "{{i18n:event/HaleyHouse/choseToExplain@swap-Hayden |default={{i18n:event/HaleyHouse/choseToExplain}}}}",
+        "lifestyleChoice": "{{i18n:event/HaleyHouse/lifestyleChoice@swap-Hayden |default={{i18n:event/HaleyHouse/lifestyleChoice}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Town",
       "Entries": {
-        "6184644/e 8675611/O Haley/A haleyCakewalk2/t 600 1500/w sunny/i 220": "{{i18n:Data/Events/Town..6184644/e+8675611/O+Haley/A+haleyCakewalk2/t+600+1500/w+sunny/i+220...Hayden |default={{i18n:Data/Events/Town..6184644/e+8675611/O+Haley/A+haleyCakewalk2/t+600+1500/w+sunny/i+220.. |Haley={{Haley}} |Emily={{Emily}} |Emily={{Emily}} |Penny={{Penny}} |Penny={{Penny}}}} |Haley={{Haley}} |Emily={{Emily}} |Emily={{Emily}} |Penny={{Penny}} |Penny={{Penny}}}}"
+        "6184644/e 8675611/O Haley/A haleyCakewalk2/t 600 1500/w sunny/i 220": "{{i18n:event/Town/6184644@swap-Hayden |default={{i18n:event/Town/6184644 |Haley={{Haley}} |Emily={{Emily}} |Penny={{Penny}}}} |Haley={{Haley}} |Emily={{Emily}} |Penny={{Penny}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/fall16",
       "Entries": {
-        "Haley": "{{i18n:Data/Festivals/fall16..Haley...Hayden |default={{i18n:Data/Festivals/fall16..Haley..}}}}"
+        "Haley": "{{i18n:data/fall16/Haley@swap-Hayden |default={{i18n:data/fall16/Haley}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/fall27",
       "Entries": {
-        "Haley": "{{i18n:Data/Festivals/fall27..Haley...Hayden |default={{i18n:Data/Festivals/fall27..Haley..}}}}"
+        "Haley": "{{i18n:data/fall27/Haley@swap-Hayden |default={{i18n:data/fall27/Haley}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/summer11",
       "Entries": {
-        "Haley_spouse_y2": "{{i18n:Data/Festivals/summer11..Haley_spouse_y2...Hayden |default={{i18n:Data/Festivals/summer11..Haley_spouse_y2..}}}}"
+        "Haley_spouse_y2": "{{i18n:data/summer11/Haley_spouse_y2@swap-Hayden |default={{i18n:data/summer11/Haley_spouse_y2}}}}"
       }
     },
     {
@@ -161,8 +161,8 @@
       "Action": "EditData",
       "Target": "Data/Festivals/summer11",
       "Entries": {
-        "Haley_spouse_y2": "{{i18n:Data/Festivals/summer11..Haley_spouse_y2.Flavor..Hayden |default={{i18n:Data/Festivals/summer11..Haley_spouse_y2.Flavor.}}}}",
-        "Haley_y2": "Don't block the sun! I'm in just the right spot to warm my feathers evenly.$0"
+        "Haley_spouse_y2": "{{i18n:data/summer11/Haley_spouse_y2@swap-Hayden+flavor |default={{i18n:data/summer11/Haley_spouse_y2}}}}",
+        "Haley_y2": "{{i18n:data/summer11/Haley_y2@swap-Hayden+flavor |default={{i18n:data/summer11/Haley_y2}}}}"
       }
     },
     {
@@ -172,7 +172,7 @@
       "Action": "EditData",
       "Target": "Data/Festivals/summer28",
       "Entries": {
-        "Haley_y2": "I didn't have time to smooth out my feathers... Do you think anyone will notice in the dark?"
+        "Haley_y2": "{{i18n:data/summer28/Haley_y2@swap-Hayden+flavor |default={{i18n:data/summer28/Haley_y2}}}}"
       }
     },
     {
@@ -182,19 +182,19 @@
       "Action": "EditData",
       "Target": "Data/Festivals/spring13",
       "Entries": {
-        "Haley_y2": "{{i18n:Data/Festivals/spring13..Haley_y2.Flavor..Hayden |default={{i18n:Data/Festivals/spring13..Haley_y2.Flavor.}}}}"
+        "Haley_y2": "{{i18n:data/spring13/Haley_y2@swap-Hayden+flavor |default={{i18n:data/spring13/Haley_y2}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/spring24",
       "Entries": {
-        "Haley": "{{i18n:Data/Festivals/spring24..Haley...Hayden |default={{i18n:Data/Festivals/spring24..Haley..}}}}",
-        "Jas": "{{i18n:Data/Festivals/spring24..Jas...Hayden |default={{i18n:Data/Festivals/spring24..Jas..}}}}",
-        "Vincent": "{{i18n:Data/Festivals/spring24..Vincent...Hayden |default={{i18n:Data/Festivals/spring24..Vincent..}}}}",
-        "Emily_y2": "{{i18n:Data/Festivals/spring24..Emily_y2...Hayden |default={{i18n:Data/Festivals/spring24..Emily_y2..}}}}",
-        "Vincent_y2": "{{i18n:Data/Festivals/spring24..Vincent_y2...Hayden |default={{i18n:Data/Festivals/spring24..Vincent_y2..}}}}",
-        "Jas_y2": "{{i18n:Data/Festivals/spring24..Jas_y2...Hayden |default={{i18n:Data/Festivals/spring24..Jas_y2..}}}}"
+        "Haley": "{{i18n:data/spring24/Haley@swap-Hayden |default={{i18n:data/spring24/Haley}}}}",
+        "Jas": "{{i18n:data/spring24/Jas@swap-Hayden |default={{i18n:data/spring24/Jas}}}}",
+        "Vincent": "{{i18n:data/spring24/Vincent@swap-Hayden |default={{i18n:data/spring24/Vincent}}}}",
+        "Emily_y2": "{{i18n:data/spring24/Emily_y2@swap-Hayden |default={{i18n:data/spring24/Emily_y2}}}}",
+        "Vincent_y2": "{{i18n:data/spring24/Vincent_y2@swap-Hayden |default={{i18n:data/spring24/Vincent_y2}}}}",
+        "Jas_y2": "{{i18n:data/spring24/Jas_y2@swap-Hayden |default={{i18n:data/spring24/Jas_y2}}}}"
       }
     },
     {
@@ -204,82 +204,78 @@
       "Action": "EditData",
       "Target": "Data/Festivals/winter8",
       "Entries": {
-        "Haley_spouse": "{{i18n:Data/Festivals/winter8..Haley_spouse.Flavor..Hayden |default={{i18n:Data/Festivals/winter8..Haley_spouse.Flavor.}}}}"
+        "Haley_spouse": "{{i18n:data/winter8/Haley_spouse@swap-Hayden+flavor |default={{i18n:data/winter8/Haley_spouse}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Quests",
       "Entries": {
-        "127": "{{i18n:Data/Quests..127...Hayden |default={{i18n:Data/Quests..127..}}}}"
+        "127": "{{i18n:data/Quests/127@swap-Hayden |default={{i18n:data/Quests/127}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/SecretNotes",
       "Entries": {
-        "8": "{{i18n:Data/SecretNotes..8...Hayden |default={{i18n:Data/SecretNotes..8.. |Haley={{Haley}} |Emily={{Emily}} |Haley={{Haley}} |Emily={{Emily}}}} |Haley={{Haley}} |Emily={{Emily}} |Haley={{Haley}} |Emily={{Emily}}}}"
+        "8": "{{i18n:data/SecretNotes/8@swap-Hayden |default={{i18n:data/SecretNotes/8 |Haley={{Haley}} |Emily={{Emily}}}} |Haley={{Haley}} |Emily={{Emily}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/mail",
       "Entries": {
-        "haleyGarden": "{{i18n:Data/mail..haleyGarden...Hayden |default={{i18n:Data/mail..haleyGarden..}}}}"
+        "haleyGarden": "{{i18n:data/mail/haleyGarden@swap-Hayden |default={{i18n:data/mail/haleyGarden}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/ExtraDialogue",
       "Entries": {
-        "SummitEvent_Dialogue3_Haley": "{{i18n:Data/ExtraDialogue..SummitEvent_Dialogue3_Haley...Hayden |default={{i18n:Data/ExtraDialogue..SummitEvent_Dialogue3_Haley..}}}}"
+        "SummitEvent_Dialogue3_Haley": "{{i18n:data/ExtraDialogue/SummitEvent_Dialogue3_Haley@swap-Hayden |default={{i18n:data/ExtraDialogue/SummitEvent_Dialogue3_Haley}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Furniture",
       "Entries": {
-        "HaleyPortrait": "{{i18n:Strings/Furniture..HaleyPortrait...Hayden |default={{i18n:Strings/Furniture..HaleyPortrait..}}}}"
+        "HaleyPortrait": "{{i18n:strings/Furniture/HaleyPortrait@swap-Hayden |default={{i18n:strings/Furniture/HaleyPortrait}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/StringsFromCSFiles",
       "Entries": {
-        "MapPage.cs.11074": "{{i18n:Strings/StringsFromCSFiles..MapPage=cs=11074...Hayden |default={{i18n:Strings/StringsFromCSFiles..MapPage=cs=11074.. |Emily={{Emily}} |Haley={{Haley}}}} |Emily={{Emily}} |Haley={{Haley}}}}",
-        "ItemDeliveryQuest.cs.13557": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13557...Hayden |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13557..}}}}",
-        "ItemDeliveryQuest.cs.13560": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13560...Hayden |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13560..}}}}",
-        "Utility.cs.5371": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and... well, husband!$h",
-        "Utility.cs.5373": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and... well, husband!$h",
-        "Utility.cs.5375": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and... well, husband!$h",
-        "Utility.cs.5377": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and... well, husband!$h"
+        "MapPage.cs.11074": "{{i18n:strings/StringsFromCSFiles/MapPage.cs.11074@swap-Hayden |default={{i18n:strings/StringsFromCSFiles/MapPage.cs.11074 |Emily={{Emily}} |Haley={{Haley}}}} |Emily={{Emily}} |Haley={{Haley}}}}",
+        "ItemDeliveryQuest.cs.13557": "{{i18n:strings/StringsFromCSFiles/ItemDeliveryQuest.cs.13557@swap-Hayden |default={{i18n:strings/StringsFromCSFiles/ItemDeliveryQuest.cs.13557}}}}",
+        "ItemDeliveryQuest.cs.13560": "{{i18n:strings/StringsFromCSFiles/ItemDeliveryQuest.cs.13560@swap-Hayden |default={{i18n:strings/StringsFromCSFiles/ItemDeliveryQuest.cs.13560}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/StringsFromMaps",
       "Entries": {
-        "HaleyHouse.2": "{{i18n:Strings/StringsFromMaps..HaleyHouse=2...Hayden |default={{i18n:Strings/StringsFromMaps..HaleyHouse=2..}}}}",
-        "HaleyHouse.3": "{{i18n:Strings/StringsFromMaps..HaleyHouse=3...Hayden |default={{i18n:Strings/StringsFromMaps..HaleyHouse=3..}}}}",
-        "HaleyHouse.10": "{{i18n:Strings/StringsFromMaps..HaleyHouse=10...Hayden |default={{i18n:Strings/StringsFromMaps..HaleyHouse=10..}}}}",
-        "HaleyHouse.11": "{{i18n:Strings/StringsFromMaps..HaleyHouse=11...Hayden |default={{i18n:Strings/StringsFromMaps..HaleyHouse=11..}}}}",
-        "HaleyHouse.17": "{{i18n:Strings/StringsFromMaps..HaleyHouse=17...Hayden |default={{i18n:Strings/StringsFromMaps..HaleyHouse=17..}}}}",
-        "HaleyHouse.18": "{{i18n:Strings/StringsFromMaps..HaleyHouse=18...Hayden |default={{i18n:Strings/StringsFromMaps..HaleyHouse=18..}}}}"
+        "HaleyHouse.2": "{{i18n:strings/StringsFromMaps/HaleyHouse.2@swap-Hayden |default={{i18n:strings/StringsFromMaps/HaleyHouse.2}}}}",
+        "HaleyHouse.3": "{{i18n:strings/StringsFromMaps/HaleyHouse.3@swap-Hayden |default={{i18n:strings/StringsFromMaps/HaleyHouse.3}}}}",
+        "HaleyHouse.10": "{{i18n:strings/StringsFromMaps/HaleyHouse.10@swap-Hayden |default={{i18n:strings/StringsFromMaps/HaleyHouse.10}}}}",
+        "HaleyHouse.11": "{{i18n:strings/StringsFromMaps/HaleyHouse.11@swap-Hayden |default={{i18n:strings/StringsFromMaps/HaleyHouse.11}}}}",
+        "HaleyHouse.17": "{{i18n:strings/StringsFromMaps/HaleyHouse.17@swap-Hayden |default={{i18n:strings/StringsFromMaps/HaleyHouse.17}}}}",
+        "HaleyHouse.18": "{{i18n:strings/StringsFromMaps/HaleyHouse.18@swap-Hayden |default={{i18n:strings/StringsFromMaps/HaleyHouse.18}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/animationDescriptions",
       "Entries": {
-        "haley_photo": "{{i18n:Strings/animationDescriptions..haley_photo...Hayden |default={{i18n:Strings/animationDescriptions..haley_photo..}}}}"
+        "haley_photo": "{{i18n:strings/animationDescriptions/haley_photo@swap-Hayden |default={{i18n:strings/animationDescriptions/haley_photo}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Weapons",
       "Entries": {
-        "HaleysIron_Name": "{{i18n:Strings/Weapons..HaleysIron_Name...Hayden |default={{i18n:Strings/Weapons..HaleysIron_Name..}}}}",
-        "HaleysIron_Description": "{{i18n:Strings/Weapons..HaleysIron_Description...Hayden |default={{i18n:Strings/Weapons..HaleysIron_Description..}}}}"
+        "HaleysIron_Name": "{{i18n:strings/Weapons/HaleysIron_Name@swap-Hayden |default={{i18n:strings/Weapons/HaleysIron_Name}}}}",
+        "HaleysIron_Description": "{{i18n:strings/Weapons/HaleysIron_Description@swap-Hayden |default={{i18n:strings/Weapons/HaleysIron_Description}}}}"
       }
     },
     {
@@ -289,36 +285,36 @@
         "Flavor": true
       },
       "Entries": {
-        "HaleysIron_Description": "{{i18n:Strings/Weapons..HaleysIron_Description.Flavor..Hayden |default={{i18n:Strings/Weapons..HaleysIron_Description.Flavor.}}}}"
+        "HaleysIron_Description": "{{i18n:strings/Weapons/HaleysIron_Description@swap-Hayden+flavor |default={{i18n:strings/Weapons/HaleysIron_Description}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/TV/CookingChannel",
       "Entries": {
-        "23": "{{i18n:Data/TV/CookingChannel..23...Hayden |default={{i18n:Data/TV/CookingChannel..23.. |Haley={{Haley}}}} |Haley={{Haley}}}}"
+        "23": "{{i18n:data/CookingChannel/23@swap-Hayden |default={{i18n:data/CookingChannel/23 |Haley={{Haley}}}} |Haley={{Haley}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/winter25",
       "Entries": {
-        "Emily_spouse_y2": "{{i18n:Data/Festivals/winter25..Emily_spouse_y2...Hayden |default={{i18n:Data/Festivals/winter25..Emily_spouse_y2.. |Haley={{Haley}}}} |Haley={{Haley}}}}"
+        "Emily_spouse_y2": "{{i18n:data/winter25/Emily_spouse_y2@swap-Hayden |default={{i18n:data/winter25/Emily_spouse_y2 |Haley={{Haley}}}} |Haley={{Haley}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Objects",
       "Entries": {
-        "HaleysLostBracelet_Name": "{{i18n:Strings/Objects..HaleysLostBracelet_Name...Hayden |default={{i18n:Strings/Objects..HaleysLostBracelet_Name.. |Haley={{Haley}}}} |Haley={{Haley}}}}"
+        "HaleysLostBracelet_Name": "{{i18n:strings/Objects/HaleysLostBracelet_Name@swap-Hayden |default={{i18n:strings/Objects/HaleysLostBracelet_Name |Haley={{Haley}}}} |Haley={{Haley}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/1_6_Strings",
       "Entries": {
-        "DesertFestival_Haley2": "{{i18n:Strings/1_6_Strings..DesertFestival_Haley2...Hayden |default={{i18n:Strings/1_6_Strings..DesertFestival_Haley2.. |Haley={{Haley}}}} |Haley={{Haley}}}}",
-        "DesertFestival_Haley2_marriage": "{{i18n:Strings/1_6_Strings..DesertFestival_Haley2_marriage...Hayden |default={{i18n:Strings/1_6_Strings..DesertFestival_Haley2_marriage..}}}}"
+        "DesertFestival_Haley2": "{{i18n:strings/1_6_Strings/DesertFestival_Haley2@swap-Hayden |default={{i18n:strings/1_6_Strings/DesertFestival_Haley2 |Haley={{Haley}}}} |Haley={{Haley}}}}",
+        "DesertFestival_Haley2_marriage": "{{i18n:strings/1_6_Strings/DesertFestival_Haley2_marriage@swap-Hayden |default={{i18n:strings/1_6_Strings/DesertFestival_Haley2_marriage}}}}"
       }
     },
     {
@@ -328,14 +324,14 @@
         "Flavor": true
       },
       "Entries": {
-        "DesertFestival_Haley2": "{{i18n:Strings/1_6_Strings..DesertFestival_Haley2.Flavor..Hayden |default={{i18n:Strings/1_6_Strings..DesertFestival_Haley2.Flavor. |Haley={{Haley}}}} |Haley={{Haley}}}}"
+        "DesertFestival_Haley2": "{{i18n:strings/1_6_Strings/DesertFestival_Haley2@swap-Hayden+flavor |default={{i18n:strings/1_6_Strings/DesertFestival_Haley2 |Haley={{Haley}}}} |Haley={{Haley}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueHaley",
       "Entries": {
-        "OneKid_3": "{{i18n:Characters/Dialogue/MarriageDialogueHaley..OneKid_3...Hayden |default={{i18n:Characters/Dialogue/MarriageDialogueHaley..OneKid_3..}}}}"
+        "OneKid_3": "{{i18n:dialogue/MarriageDialogueHaley/OneKid_3@swap-Hayden |default={{i18n:dialogue/MarriageDialogueHaley/OneKid_3}}}}"
       }
     },
     {
@@ -345,19 +341,19 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueHaley",
       "Entries": {
-        "Rainy_Day_3": "{{i18n:Characters/Dialogue/MarriageDialogueHaley..Rainy_Day_3.Flavor..Hayden |default={{i18n:Characters/Dialogue/MarriageDialogueHaley..Rainy_Day_3.Flavor.}}}}",
-        "Outdoor_Haley": "{{i18n:Characters/Dialogue/MarriageDialogueHaley..Outdoor_Haley.Flavor..Hayden |default={{i18n:Characters/Dialogue/MarriageDialogueHaley..Outdoor_Haley.Flavor.}}}}",
-        "TwoKids_2": "{{i18n:Characters/Dialogue/MarriageDialogueHaley..TwoKids_2.Flavor..Hayden |default={{i18n:Characters/Dialogue/MarriageDialogueHaley..TwoKids_2.Flavor.}}}}",
-        "TwoKids_3": "{{i18n:Characters/Dialogue/MarriageDialogueHaley..TwoKids_3.Flavor..Hayden |default={{i18n:Characters/Dialogue/MarriageDialogueHaley..TwoKids_3.Flavor.}}}}",
-        "summer_3": "{{i18n:Characters/Dialogue/MarriageDialogueHaley..summer_3.Flavor..Hayden |default={{i18n:Characters/Dialogue/MarriageDialogueHaley..summer_3.Flavor.}}}}",
-        "winter_14": "{{i18n:Characters/Dialogue/MarriageDialogueHaley..winter_14.Flavor..Hayden |default={{i18n:Characters/Dialogue/MarriageDialogueHaley..winter_14.Flavor.}}}}"
+        "Rainy_Day_3": "{{i18n:dialogue/MarriageDialogueHaley/Rainy_Day_3@swap-Hayden+flavor |default={{i18n:dialogue/MarriageDialogueHaley/Rainy_Day_3}}}}",
+        "Outdoor_Haley": "{{i18n:dialogue/MarriageDialogueHaley/Outdoor_Haley@swap-Hayden+flavor |default={{i18n:dialogue/MarriageDialogueHaley/Outdoor_Haley}}}}",
+        "TwoKids_2": "{{i18n:dialogue/MarriageDialogueHaley/TwoKids_2@swap-Hayden+flavor |default={{i18n:dialogue/MarriageDialogueHaley/TwoKids_2}}}}",
+        "TwoKids_3": "{{i18n:dialogue/MarriageDialogueHaley/TwoKids_3@swap-Hayden+flavor |default={{i18n:dialogue/MarriageDialogueHaley/TwoKids_3}}}}",
+        "summer_3": "{{i18n:dialogue/MarriageDialogueHaley/summer_3@swap-Hayden+flavor |default={{i18n:dialogue/MarriageDialogueHaley/summer_3}}}}",
+        "winter_14": "{{i18n:dialogue/MarriageDialogueHaley/winter_14@swap-Hayden+flavor |default={{i18n:dialogue/MarriageDialogueHaley/winter_14}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/rainy",
       "Entries": {
-        "Haley": "{{i18n:Characters/Dialogue/rainy..Haley...Hayden |default={{i18n:Characters/Dialogue/rainy..Haley..}}}}"
+        "Haley": "{{i18n:dialogue/rainy/Haley@swap-Hayden |default={{i18n:dialogue/rainy/Haley}}}}"
       }
     }
   ]

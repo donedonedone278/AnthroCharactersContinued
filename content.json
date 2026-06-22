@@ -680,6 +680,130 @@
       "When": {
         "Sebastian to Sabrina": true
       }
+    },
+    {
+      "Name": "MarriageLine",
+      "Value": "vanilla"
+    },
+    {
+      "Name": "MarriageLine",
+      "Value": "neutral",
+      "When": {
+        "Abigail to Albert": true
+      }
+    },
+    {
+      "Name": "MarriageLine",
+      "Value": "neutral",
+      "When": {
+        "Emily to Emil": true
+      }
+    },
+    {
+      "Name": "MarriageLine",
+      "Value": "neutral",
+      "When": {
+        "Haley to Hayden": true
+      }
+    },
+    {
+      "Name": "MarriageLine",
+      "Value": "neutral",
+      "When": {
+        "Leah to Liam": true
+      }
+    },
+    {
+      "Name": "MarriageLine",
+      "Value": "neutral",
+      "When": {
+        "Maru to Marcus": true
+      }
+    },
+    {
+      "Name": "MarriageLine",
+      "Value": "neutral",
+      "When": {
+        "Penny to Perry": true
+      }
+    },
+    {
+      "Name": "MarriageLine",
+      "Value": "neutral",
+      "When": {
+        "Alex to Alexis": true
+      }
+    },
+    {
+      "Name": "MarriageLine",
+      "Value": "neutral",
+      "When": {
+        "Elliott to Ellen": true
+      }
+    },
+    {
+      "Name": "MarriageLine",
+      "Value": "neutral",
+      "When": {
+        "Harvey to Hannah": true
+      }
+    },
+    {
+      "Name": "MarriageLine",
+      "Value": "neutral",
+      "When": {
+        "Sebastian to Sabrina": true
+      }
+    },
+    {
+      "Name": "MarriageLine",
+      "Value": "neutral",
+      "When": {
+        "Sam to Samantha": true
+      }
+    },
+    {
+      "Name": "MarriageLine",
+      "Value": "neutral",
+      "When": {
+        "Shane to Shauna": true
+      }
+    },
+    {
+      "Name": "MarriageLine",
+      "Value": "husband",
+      "When": {
+        "Abigail to Albert": true,
+        "Emily to Emil": true,
+        "Haley to Hayden": true,
+        "Leah to Liam": true,
+        "Maru to Marcus": true,
+        "Penny to Perry": true,
+        "Alex to Alexis": false,
+        "Elliott to Ellen": false,
+        "Harvey to Hannah": false,
+        "Sebastian to Sabrina": false,
+        "Sam to Samantha": false,
+        "Shane to Shauna": false
+      }
+    },
+    {
+      "Name": "MarriageLine",
+      "Value": "wife",
+      "When": {
+        "Alex to Alexis": true,
+        "Elliott to Ellen": true,
+        "Harvey to Hannah": true,
+        "Sebastian to Sabrina": true,
+        "Sam to Samantha": true,
+        "Shane to Shauna": true,
+        "Abigail to Albert": false,
+        "Emily to Emil": false,
+        "Haley to Hayden": false,
+        "Leah to Liam": false,
+        "Maru to Marcus": false,
+        "Penny to Perry": false
+      }
     }
   ],
   "Changes": [

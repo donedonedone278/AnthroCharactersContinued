@@ -19,7 +19,7 @@
       "Action": "EditData",
       "Target": "Strings/NPCNames",
       "Entries": {
-        "Alex": "{{i18n:Strings/NPCNames..Alex...Alexis |default={{i18n:Strings/NPCNames..Alex..}}}}"
+        "Alex": "{{i18n:name/Alex/Alex@swap-Alexis |default={{i18n:name/Alex/Alex}}}}"
       }
     },
     {
@@ -30,7 +30,7 @@
         "FriendsAndFamily"
       ],
       "Entries": {
-        "Alex": "{{i18n:Data/Characters.Evelyn/FriendsAndFamily.Alex...Alexis |default={{i18n:Data/Characters.Evelyn/FriendsAndFamily.Alex..}}}}"
+        "Alex": "{{i18n:data/Evelyn/FriendsAndFamily/Alex@swap-Alexis |default={{i18n:data/Evelyn/FriendsAndFamily/Alex}}}}"
       }
     },
     {
@@ -41,178 +41,178 @@
         "FriendsAndFamily"
       ],
       "Entries": {
-        "Alex": "{{i18n:Data/Characters.George/FriendsAndFamily.Alex...Alexis |default={{i18n:Data/Characters.George/FriendsAndFamily.Alex..}}}}"
+        "Alex": "{{i18n:data/George/FriendsAndFamily/Alex@swap-Alexis |default={{i18n:data/George/FriendsAndFamily/Alex}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/SecretNotes",
       "Entries": {
-        "9": "{{i18n:Data/SecretNotes..9...Alexis |default={{i18n:Data/SecretNotes..9.. |Alex={{Alex}}}} |Alex={{Alex}}}}"
+        "9": "{{i18n:data/SecretNotes/9@swap-Alexis |default={{i18n:data/SecretNotes/9 |Alex={{Alex}}}} |Alex={{Alex}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/mail",
       "Entries": {
-        "joshMessage": "{{i18n:Data/mail..joshMessage...Alexis |default={{i18n:Data/mail..joshMessage.. |Alex={{Alex}} |Alex={{Alex}}}} |Alex={{Alex}} |Alex={{Alex}}}}"
+        "joshMessage": "{{i18n:data/mail/joshMessage@swap-Alexis |default={{i18n:data/mail/joshMessage |Alex={{Alex}}}} |Alex={{Alex}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Farm",
       "Entries": {
-        "3917587/f Alex 3500/O Alex/t 500 820/M 5000/d Sun/y 2": "{{i18n:Data/Events/Farm..3917587/f+Alex+3500/O+Alex/t+500+820/M+5000/d+Sun/y+2...Alexis |default={{i18n:Data/Events/Farm..3917587/f+Alex+3500/O+Alex/t+500+820/M+5000/d+Sun/y+2.. |Alex={{Alex}}}} |Alex={{Alex}}}}"
+        "3917587/f Alex 3500/O Alex/t 500 820/M 5000/d Sun/y 2": "{{i18n:event/Farm/3917587@swap-Alexis |default={{i18n:event/Farm/3917587 |Alex={{Alex}}}} |Alex={{Alex}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Beach",
       "Entries": {
-        "20/f Alex 500/z winter/p Alex/w sunny": "{{i18n:Data/Events/Beach..20/f+Alex+500/z+winter/p+Alex/w+sunny...Alexis |default={{i18n:Data/Events/Beach..20/f+Alex+500/z+winter/p+Alex/w+sunny..}}}}",
-        "288847/f Alex 2000/p Alex/w sunny/G !IS_PASSIVE_FESTIVAL_TODAY SquidFest": "{{i18n:Data/Events/Beach..288847/f+Alex+2000/p+Alex/w+sunny/G+!IS_PASSIVE_FESTIVAL_TODAY+SquidFest...Alexis |default={{i18n:Data/Events/Beach..288847/f+Alex+2000/p+Alex/w+sunny/G+!IS_PASSIVE_FESTIVAL_TODAY+SquidFest..}}}}",
-        "20/f+Alex+500/z+winter/p+Alex/w+sunny": "{{i18n:Data/Events/Beach..20/f+Alex+500/z+winter/p+Alex/w+sunny...Alexis |default={{i18n:Data/Events/Beach..20/f+Alex+500/z+winter/p+Alex/w+sunny..}}}}",
-        "288847/f+Alex+2000/p+Alex/w+sunny/G+!IS_PASSIVE_FESTIVAL_TODAY+SquidFest": "{{i18n:Data/Events/Beach..288847/f+Alex+2000/p+Alex/w+sunny/G+!IS_PASSIVE_FESTIVAL_TODAY+SquidFest...Alexis |default={{i18n:Data/Events/Beach..288847/f+Alex+2000/p+Alex/w+sunny/G+!IS_PASSIVE_FESTIVAL_TODAY+SquidFest..}}}}"
+        "20/f Alex 500/z winter/p Alex/w sunny": "{{i18n:event/Beach/20-b101@swap-Alexis |default={{i18n:event/Beach/20-b101}}}}",
+        "288847/f Alex 2000/p Alex/w sunny/G !IS_PASSIVE_FESTIVAL_TODAY SquidFest": "{{i18n:event/Beach/288847-e3ce@swap-Alexis |default={{i18n:event/Beach/288847-e3ce}}}}",
+        "20/f+Alex+500/z+winter/p+Alex/w+sunny": "{{i18n:event/Beach/20-abdd@swap-Alexis |default={{i18n:event/Beach/20-abdd}}}}",
+        "288847/f+Alex+2000/p+Alex/w+sunny/G+!IS_PASSIVE_FESTIVAL_TODAY+SquidFest": "{{i18n:event/Beach/288847-69a3@swap-Alexis |default={{i18n:event/Beach/288847-69a3}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Town",
       "Entries": {
-        "3917589/n gaveAlexMoney/O Alex/d Mon/d Tue/d Wed/d Thu/d Fri/d Sat": "{{i18n:Data/Events/Town..3917589/n+gaveAlexMoney/O+Alex/d+Mon/d+Tue/d+Wed/d+Thu/d+Fri/d+Sat...Alexis |default={{i18n:Data/Events/Town..3917589/n+gaveAlexMoney/O+Alex/d+Mon/d+Tue/d+Wed/d+Thu/d+Fri/d+Sat.. |Alex={{Alex}}}} |Alex={{Alex}}}}"
+        "3917589/n gaveAlexMoney/O Alex/d Mon/d Tue/d Wed/d Thu/d Fri/d Sat": "{{i18n:event/Town/3917589@swap-Alexis |default={{i18n:event/Town/3917589 |Alex={{Alex}}}} |Alex={{Alex}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Saloon",
       "Entries": {
-        "911526/f Alex 2500/t 1900 2200/n joshMessage": "{{i18n:Data/Events/Saloon..911526/f+Alex+2500/t+1900+2200/n+joshMessage...Alexis |default={{i18n:Data/Events/Saloon..911526/f+Alex+2500/t+1900+2200/n+joshMessage.. |Alex={{Alex}}}} |Alex={{Alex}}}}",
-        "3917590/n saloonSportsRoom/O Alex": "{{i18n:Data/Events/Saloon..3917590/n+saloonSportsRoom/O+Alex...Alexis |default={{i18n:Data/Events/Saloon..3917590/n+saloonSportsRoom/O+Alex.. |Shane={{Shane}}}} |Shane={{Shane}}}}",
-        "195013/f Shane 2500/f Sebastian 2500/f Sam 2500/f Harvey 2500/f Alex 2500/f Elliott 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 911526/e 528052/e 9581348/e 43/e 384882/e 233104/k 195099": "{{i18n:Data/Events/Saloon..195013/f+Shane+2500/f+Sebastian+2500/f+Sam+2500/f+Harvey+2500/f+Alex+2500/f+Elliott+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+911526/e+528052/e+9581348/e+43/e+384882/e+233104/k+195099...Alexis |default={{i18n:Data/Events/Saloon..195013/f+Shane+2500/f+Sebastian+2500/f+Sam+2500/f+Harvey+2500/f+Alex+2500/f+Elliott+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+911526/e+528052/e+9581348/e+43/e+384882/e+233104/k+195099..}}}}",
-        "choseToExplain": "{{i18n:Data/Events/Saloon..choseToExplain...Alexis |default={{i18n:Data/Events/Saloon..choseToExplain..}}}}",
-        "crying": "{{i18n:Data/Events/Saloon..crying...Alexis |default={{i18n:Data/Events/Saloon..crying..}}}}"
+        "911526/f Alex 2500/t 1900 2200/n joshMessage": "{{i18n:event/Saloon/911526@swap-Alexis |default={{i18n:event/Saloon/911526 |Alex={{Alex}}}} |Alex={{Alex}}}}",
+        "3917590/n saloonSportsRoom/O Alex": "{{i18n:event/Saloon/3917590@swap-Alexis |default={{i18n:event/Saloon/3917590 |Shane={{Shane}}}} |Shane={{Shane}}}}",
+        "195013/f Shane 2500/f Sebastian 2500/f Sam 2500/f Harvey 2500/f Alex 2500/f Elliott 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 911526/e 528052/e 9581348/e 43/e 384882/e 233104/k 195099": "{{i18n:event/Saloon/195013@swap-Alexis |default={{i18n:event/Saloon/195013}}}}",
+        "choseToExplain": "{{i18n:event/Saloon/choseToExplain@swap-Alexis |default={{i18n:event/Saloon/choseToExplain}}}}",
+        "crying": "{{i18n:event/Saloon/crying@swap-Alexis |default={{i18n:event/Saloon/crying}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/fall16",
       "Entries": {
-        "Haley_spouse_y2": "{{i18n:Data/Festivals/fall16..Haley_spouse_y2...Alexis |default={{i18n:Data/Festivals/fall16..Haley_spouse_y2.. |Alex={{Alex}}}} |Alex={{Alex}}}}"
+        "Haley_spouse_y2": "{{i18n:data/fall16/Haley_spouse_y2@swap-Alexis |default={{i18n:data/fall16/Haley_spouse_y2 |Alex={{Alex}}}} |Alex={{Alex}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/winter8",
       "Entries": {
-        "Evelyn_y2": "{{i18n:Data/Festivals/winter8..Evelyn_y2...Alexis |default={{i18n:Data/Festivals/winter8..Evelyn_y2.. |Alex={{Alex}}}} |Alex={{Alex}}}}"
+        "Evelyn_y2": "{{i18n:data/winter8/Evelyn_y2@swap-Alexis |default={{i18n:data/winter8/Evelyn_y2 |Alex={{Alex}}}} |Alex={{Alex}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/winter25",
       "Entries": {
-        "Alex_y2": "{{i18n:Data/Festivals/winter25..Alex_y2...Alexis |default={{i18n:Data/Festivals/winter25..Alex_y2..}}}}"
+        "Alex_y2": "{{i18n:data/winter25/Alex_y2@swap-Alexis |default={{i18n:data/winter25/Alex_y2}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Furniture",
       "Entries": {
-        "AlexPortrait": "{{i18n:Strings/Furniture..AlexPortrait...Alexis |default={{i18n:Strings/Furniture..AlexPortrait.. |Alex={{Alex}}}} |Alex={{Alex}}}}"
+        "AlexPortrait": "{{i18n:strings/Furniture/AlexPortrait@swap-Alexis |default={{i18n:strings/Furniture/AlexPortrait |Alex={{Alex}}}} |Alex={{Alex}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Weapons",
       "Entries": {
-        "AlexsBat_Name": "{{i18n:Strings/Weapons..AlexsBat_Name...Alexis |default={{i18n:Strings/Weapons..AlexsBat_Name.. |Alex={{Alex}}}} |Alex={{Alex}}}}",
-        "AlexsBat_Description": "{{i18n:Strings/Weapons..AlexsBat_Description...Alexis |default={{i18n:Strings/Weapons..AlexsBat_Description.. |Alex={{Alex}}}} |Alex={{Alex}}}}"
+        "AlexsBat_Name": "{{i18n:strings/Weapons/AlexsBat_Name@swap-Alexis |default={{i18n:strings/Weapons/AlexsBat_Name |Alex={{Alex}}}} |Alex={{Alex}}}}",
+        "AlexsBat_Description": "{{i18n:strings/Weapons/AlexsBat_Description@swap-Alexis |default={{i18n:strings/Weapons/AlexsBat_Description |Alex={{Alex}}}} |Alex={{Alex}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/StringsFromMaps",
       "Entries": {
-        "BathHouse_MensLocker.4": "{{i18n:Strings/StringsFromMaps..BathHouse_MensLocker=4...Alexis |default={{i18n:Strings/StringsFromMaps..BathHouse_MensLocker=4.. |Alex={{Alex}}}} |Alex={{Alex}}}}",
-        "JoshHouse.1": "{{i18n:Strings/StringsFromMaps..JoshHouse=1...Alexis |default={{i18n:Strings/StringsFromMaps..JoshHouse=1.. |Alex={{Alex}}}} |Alex={{Alex}}}}",
-        "JoshHouse.7": "{{i18n:Strings/StringsFromMaps..JoshHouse=7...Alexis |default={{i18n:Strings/StringsFromMaps..JoshHouse=7.. |Alex={{Alex}}}} |Alex={{Alex}}}}",
-        "JoshHouse.8": "{{i18n:Strings/StringsFromMaps..JoshHouse=8...Alexis |default={{i18n:Strings/StringsFromMaps..JoshHouse=8.. |Alex={{Alex}}}} |Alex={{Alex}}}}",
-        "JoshHouse.9": "{{i18n:Strings/StringsFromMaps..JoshHouse=9...Alexis |default={{i18n:Strings/StringsFromMaps..JoshHouse=9.. |Alex={{Alex}}}} |Alex={{Alex}}}}",
-        "JoshHouse.10": "{{i18n:Strings/StringsFromMaps..JoshHouse=10...Alexis |default={{i18n:Strings/StringsFromMaps..JoshHouse=10..}}}}"
+        "BathHouse_MensLocker.4": "{{i18n:strings/StringsFromMaps/BathHouse_MensLocker.4@swap-Alexis |default={{i18n:strings/StringsFromMaps/BathHouse_MensLocker.4 |Alex={{Alex}}}} |Alex={{Alex}}}}",
+        "JoshHouse.1": "{{i18n:strings/StringsFromMaps/JoshHouse.1@swap-Alexis |default={{i18n:strings/StringsFromMaps/JoshHouse.1 |Alex={{Alex}}}} |Alex={{Alex}}}}",
+        "JoshHouse.7": "{{i18n:strings/StringsFromMaps/JoshHouse.7@swap-Alexis |default={{i18n:strings/StringsFromMaps/JoshHouse.7 |Alex={{Alex}}}} |Alex={{Alex}}}}",
+        "JoshHouse.8": "{{i18n:strings/StringsFromMaps/JoshHouse.8@swap-Alexis |default={{i18n:strings/StringsFromMaps/JoshHouse.8 |Alex={{Alex}}}} |Alex={{Alex}}}}",
+        "JoshHouse.9": "{{i18n:strings/StringsFromMaps/JoshHouse.9@swap-Alexis |default={{i18n:strings/StringsFromMaps/JoshHouse.9 |Alex={{Alex}}}} |Alex={{Alex}}}}",
+        "JoshHouse.10": "{{i18n:strings/StringsFromMaps/JoshHouse.10@swap-Alexis |default={{i18n:strings/StringsFromMaps/JoshHouse.10}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/StringsFromCSFiles",
       "Entries": {
-        "MapPage.cs.11093": "{{i18n:Strings/StringsFromCSFiles..MapPage=cs=11093...Alexis |default={{i18n:Strings/StringsFromCSFiles..MapPage=cs=11093.. |Alex={{Alex}}}} |Alex={{Alex}}}}"
+        "MapPage.cs.11093": "{{i18n:strings/StringsFromCSFiles/MapPage.cs.11093@swap-Alexis |default={{i18n:strings/StringsFromCSFiles/MapPage.cs.11093 |Alex={{Alex}}}} |Alex={{Alex}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Evelyn",
       "Entries": {
-        "GreenRain": "{{i18n:Characters/Dialogue/Evelyn..GreenRain...Alexis |default={{i18n:Characters/Dialogue/Evelyn..GreenRain.. |Alex={{Alex}}}} |Alex={{Alex}}}}",
-        "fall_Sat": "{{i18n:Characters/Dialogue/Evelyn..fall_Sat...Alexis |default={{i18n:Characters/Dialogue/Evelyn..fall_Sat.. |Alex={{Alex}}}} |Alex={{Alex}}}}",
-        "summer_Mon_inlaw_Alex": "{{i18n:Characters/Dialogue/Evelyn..summer_Mon_inlaw_Alex...Alexis |default={{i18n:Characters/Dialogue/Evelyn..summer_Mon_inlaw_Alex..}}}}"
+        "GreenRain": "{{i18n:dialogue/Evelyn/GreenRain@swap-Alexis |default={{i18n:dialogue/Evelyn/GreenRain |Alex={{Alex}}}} |Alex={{Alex}}}}",
+        "fall_Sat": "{{i18n:dialogue/Evelyn/fall_Sat@swap-Alexis |default={{i18n:dialogue/Evelyn/fall_Sat |Alex={{Alex}}}} |Alex={{Alex}}}}",
+        "summer_Mon_inlaw_Alex": "{{i18n:dialogue/Evelyn/summer_Mon_inlaw_Alex@swap-Alexis |default={{i18n:dialogue/Evelyn/summer_Mon_inlaw_Alex}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Pam",
       "Entries": {
-        "married_Alex": "{{i18n:Characters/Dialogue/Pam..married_Alex...Alexis |default={{i18n:Characters/Dialogue/Pam..married_Alex..}}}}"
+        "married_Alex": "{{i18n:dialogue/Pam/married_Alex@swap-Alexis |default={{i18n:dialogue/Pam/married_Alex}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/George",
       "Entries": {
-        "Wed": "{{i18n:Characters/Dialogue/George..Wed...Alexis |default={{i18n:Characters/Dialogue/George..Wed.. |Alex={{Alex}}}} |Alex={{Alex}}}}",
-        "Wed8": "{{i18n:Characters/Dialogue/George..Wed8...Alexis |default={{i18n:Characters/Dialogue/George..Wed8.. |Alex={{Alex}}}} |Alex={{Alex}}}}",
-        "Wed_inlaw_Alex": "{{i18n:Characters/Dialogue/George..Wed_inlaw_Alex...Alexis |default={{i18n:Characters/Dialogue/George..Wed_inlaw_Alex..}}}}",
-        "Wed10_inlaw_Alex": "{{i18n:Characters/Dialogue/George..Wed10_inlaw_Alex...Alexis |default={{i18n:Characters/Dialogue/George..Wed10_inlaw_Alex..}}}}"
+        "Wed": "{{i18n:dialogue/George/Wed@swap-Alexis |default={{i18n:dialogue/George/Wed |Alex={{Alex}}}} |Alex={{Alex}}}}",
+        "Wed8": "{{i18n:dialogue/George/Wed8@swap-Alexis |default={{i18n:dialogue/George/Wed8 |Alex={{Alex}}}} |Alex={{Alex}}}}",
+        "Wed_inlaw_Alex": "{{i18n:dialogue/George/Wed_inlaw_Alex@swap-Alexis |default={{i18n:dialogue/George/Wed_inlaw_Alex}}}}",
+        "Wed10_inlaw_Alex": "{{i18n:dialogue/George/Wed10_inlaw_Alex@swap-Alexis |default={{i18n:dialogue/George/Wed10_inlaw_Alex}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Alex",
       "Entries": {
-        "Introduction": "{{i18n:Characters/Dialogue/Alex..Introduction...Alexis |default={{i18n:Characters/Dialogue/Alex..Introduction.. |Alex={{Alex}}}} |Alex={{Alex}}}}",
-        "dating_Alex": "{{i18n:Characters/Dialogue/Alex..dating_Alex...Alexis |default={{i18n:Characters/Dialogue/Alex..dating_Alex.. |Alex={{Alex}}}} |Alex={{Alex}}}}",
-        "Wed": "{{i18n:Characters/Dialogue/Alex..Wed...Alexis |default={{i18n:Characters/Dialogue/Alex..Wed..}}}}",
-        "Wed_01_old": "{{i18n:Characters/Dialogue/Alex..Wed_01_old...Alexis |default={{i18n:Characters/Dialogue/Alex..Wed_01_old..}}}}",
-        "Mon": "{{i18n:Characters/Dialogue/Alex..Mon...Alexis |default={{i18n:Characters/Dialogue/Alex..Mon..}}}}"
+        "Introduction": "{{i18n:dialogue/Alex/Introduction@swap-Alexis |default={{i18n:dialogue/Alex/Introduction |Alex={{Alex}}}} |Alex={{Alex}}}}",
+        "dating_Alex": "{{i18n:dialogue/Alex/dating_Alex@swap-Alexis |default={{i18n:dialogue/Alex/dating_Alex |Alex={{Alex}}}} |Alex={{Alex}}}}",
+        "Wed": "{{i18n:dialogue/Alex/Wed@swap-Alexis |default={{i18n:dialogue/Alex/Wed}}}}",
+        "Wed_01_old": "{{i18n:dialogue/Alex/Wed_01_old@swap-Alexis |default={{i18n:dialogue/Alex/Wed_01_old}}}}",
+        "Mon": "{{i18n:dialogue/Alex/Mon@swap-Alexis |default={{i18n:dialogue/Alex/Mon}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Haley",
       "Entries": {
-        "Event_room1": "{{i18n:Characters/Dialogue/Haley..Event_room1...Alexis |default={{i18n:Characters/Dialogue/Haley..Event_room1.. |Alex={{Alex}}}} |Alex={{Alex}}}}",
-        "summer_Fri": "{{i18n:Characters/Dialogue/Haley..summer_Fri...Alexis |default={{i18n:Characters/Dialogue/Haley..summer_Fri.. |Alex={{Alex}}}} |Alex={{Alex}}}}",
-        "winter_Sun": "{{i18n:Characters/Dialogue/Haley..winter_Sun...Alexis |default={{i18n:Characters/Dialogue/Haley..winter_Sun.. |Alex={{Alex}}}} |Alex={{Alex}}}}",
-        "winter_Sun6": "{{i18n:Characters/Dialogue/Haley..winter_Sun6...Alexis |default={{i18n:Characters/Dialogue/Haley..winter_Sun6.. |Alex={{Alex}}}} |Alex={{Alex}}}}"
+        "Event_room1": "{{i18n:dialogue/Haley/Event_room1@swap-Alexis |default={{i18n:dialogue/Haley/Event_room1 |Alex={{Alex}}}} |Alex={{Alex}}}}",
+        "summer_Fri": "{{i18n:dialogue/Haley/summer_Fri@swap-Alexis |default={{i18n:dialogue/Haley/summer_Fri |Alex={{Alex}}}} |Alex={{Alex}}}}",
+        "winter_Sun": "{{i18n:dialogue/Haley/winter_Sun@swap-Alexis |default={{i18n:dialogue/Haley/winter_Sun |Alex={{Alex}}}} |Alex={{Alex}}}}",
+        "winter_Sun6": "{{i18n:dialogue/Haley/winter_Sun6@swap-Alexis |default={{i18n:dialogue/Haley/winter_Sun6 |Alex={{Alex}}}} |Alex={{Alex}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/schedules/Alex",
       "Entries": {
-        "Sun.000": "{{i18n:Strings/schedules/Alex..Sun=000...Alexis |default={{i18n:Strings/schedules/Alex..Sun=000.. |Alex={{Alex}}}} |Alex={{Alex}}}}"
+        "Sun.000": "{{i18n:strings/schedules/Alex/Sun.000@swap-Alexis |default={{i18n:strings/schedules/Alex/Sun.000 |Alex={{Alex}}}} |Alex={{Alex}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueAlex",
       "Entries": {
-        "Rainy_Day_4": "{{i18n:Characters/Dialogue/MarriageDialogueAlex..Rainy_Day_4...Alexis |default={{i18n:Characters/Dialogue/MarriageDialogueAlex..Rainy_Day_4..}}}}",
-        "Rainy_Night_1": "{{i18n:Characters/Dialogue/MarriageDialogueAlex..Rainy_Night_1...Alexis |default={{i18n:Characters/Dialogue/MarriageDialogueAlex..Rainy_Night_1..}}}}",
-        "Rainy_Night_2": "{{i18n:Characters/Dialogue/MarriageDialogueAlex..Rainy_Night_2...Alexis |default={{i18n:Characters/Dialogue/MarriageDialogueAlex..Rainy_Night_2..}}}}",
-        "OneKid_0": "{{i18n:Characters/Dialogue/MarriageDialogueAlex..OneKid_0...Alexis |default={{i18n:Characters/Dialogue/MarriageDialogueAlex..OneKid_0..}}}}",
-        "OneKid_1": "{{i18n:Characters/Dialogue/MarriageDialogueAlex..OneKid_1...Alexis |default={{i18n:Characters/Dialogue/MarriageDialogueAlex..OneKid_1..}}}}",
-        "OneKid_3": "{{i18n:Characters/Dialogue/MarriageDialogueAlex..OneKid_3...Alexis |default={{i18n:Characters/Dialogue/MarriageDialogueAlex..OneKid_3..}}}}",
-        "spring_23": "{{i18n:Characters/Dialogue/MarriageDialogueAlex..spring_23...Alexis |default={{i18n:Characters/Dialogue/MarriageDialogueAlex..spring_23..}}}}"
+        "Rainy_Day_4": "{{i18n:dialogue/MarriageDialogueAlex/Rainy_Day_4@swap-Alexis |default={{i18n:dialogue/MarriageDialogueAlex/Rainy_Day_4}}}}",
+        "Rainy_Night_1": "{{i18n:dialogue/MarriageDialogueAlex/Rainy_Night_1@swap-Alexis |default={{i18n:dialogue/MarriageDialogueAlex/Rainy_Night_1}}}}",
+        "Rainy_Night_2": "{{i18n:dialogue/MarriageDialogueAlex/Rainy_Night_2@swap-Alexis |default={{i18n:dialogue/MarriageDialogueAlex/Rainy_Night_2}}}}",
+        "OneKid_0": "{{i18n:dialogue/MarriageDialogueAlex/OneKid_0@swap-Alexis |default={{i18n:dialogue/MarriageDialogueAlex/OneKid_0}}}}",
+        "OneKid_1": "{{i18n:dialogue/MarriageDialogueAlex/OneKid_1@swap-Alexis |default={{i18n:dialogue/MarriageDialogueAlex/OneKid_1}}}}",
+        "OneKid_3": "{{i18n:dialogue/MarriageDialogueAlex/OneKid_3@swap-Alexis |default={{i18n:dialogue/MarriageDialogueAlex/OneKid_3}}}}",
+        "spring_23": "{{i18n:dialogue/MarriageDialogueAlex/spring_23@swap-Alexis |default={{i18n:dialogue/MarriageDialogueAlex/spring_23}}}}"
       }
     }
   ]

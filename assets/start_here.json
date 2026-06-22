@@ -5,6 +5,10 @@
       "FromFile": "assets/AnthroConfig/base.json"
     },
     {
+      "Action": "Include",
+      "FromFile": "assets/AnthroConfig/marriage.json"
+    },
+    {
       "When": {
         "Flavor": true
       },

@@ -19,7 +19,7 @@
       "Action": "EditData",
       "Target": "Strings/NPCNames",
       "Entries": {
-        "Emily": "{{i18n:Strings/NPCNames..Emily...Emil |default={{i18n:Strings/NPCNames..Emily..}}}}"
+        "Emily": "{{i18n:name/Emily/Emily@swap-Emil |default={{i18n:name/Emily/Emily}}}}"
       }
     },
     {
@@ -30,29 +30,29 @@
         "FriendsAndFamily"
       ],
       "Entries": {
-        "Emily": "{{i18n:Data/Characters.Haley/FriendsAndFamily.Emily...Emil |default={{i18n:Data/Characters.Haley/FriendsAndFamily.Emily..}}}}"
+        "Emily": "{{i18n:data/Haley/FriendsAndFamily/Emily@swap-Emil |default={{i18n:data/Haley/FriendsAndFamily/Emily}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Clint",
       "Entries": {
-        "dating_Emily": "{{i18n:Characters/Dialogue/Clint..dating_Emily...Emil |default={{i18n:Characters/Dialogue/Clint..dating_Emily..}}}}",
-        "Thu8": "{{i18n:Characters/Dialogue/Clint..Thu8...Emil |default={{i18n:Characters/Dialogue/Clint..Thu8..}}}}",
-        "Fri8": "{{i18n:Characters/Dialogue/Clint..Fri8...Emil |default={{i18n:Characters/Dialogue/Clint..Fri8..}}}}",
-        "eventSeen_101_memory_oneweek": "{{i18n:Characters/Dialogue/Clint..eventSeen_101_memory_oneweek...Emil |default={{i18n:Characters/Dialogue/Clint..eventSeen_101_memory_oneweek..}}}}"
+        "dating_Emily": "{{i18n:dialogue/Clint/dating_Emily@swap-Emil |default={{i18n:dialogue/Clint/dating_Emily}}}}",
+        "Thu8": "{{i18n:dialogue/Clint/Thu8@swap-Emil |default={{i18n:dialogue/Clint/Thu8}}}}",
+        "Fri8": "{{i18n:dialogue/Clint/Fri8@swap-Emil |default={{i18n:dialogue/Clint/Fri8}}}}",
+        "eventSeen_101_memory_oneweek": "{{i18n:dialogue/Clint/eventSeen_101_memory_oneweek@swap-Emil |default={{i18n:dialogue/Clint/eventSeen_101_memory_oneweek}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Emily",
       "Entries": {
-        "AcceptGift_(TR)ParrotEgg": "{{i18n:Characters/Dialogue/Emily..AcceptGift_(TR)ParrotEgg...Emil |default={{i18n:Characters/Dialogue/Emily..AcceptGift_(TR)ParrotEgg..}}}}",
-        "dating_Emily": "{{i18n:Characters/Dialogue/Emily..dating_Emily...Emil |default={{i18n:Characters/Dialogue/Emily..dating_Emily..}}}}",
-        "Resort_Dance": "{{i18n:Characters/Dialogue/Emily..Resort_Dance...Emil |default={{i18n:Characters/Dialogue/Emily..Resort_Dance..}}}}",
-        "reject_866": "{{i18n:Characters/Dialogue/Emily..reject_866...Emil |default={{i18n:Characters/Dialogue/Emily..reject_866..}}}}",
-        "summer_Fri6": "{{i18n:Characters/Dialogue/Emily..summer_Fri6...Emil |default={{i18n:Characters/Dialogue/Emily..summer_Fri6..}}}}",
-        "Sat6": "{{i18n:Characters/Dialogue/Emily..Sat6...Emil |default={{i18n:Characters/Dialogue/Emily..Sat6..}}}}"
+        "AcceptGift_(TR)ParrotEgg": "{{i18n:dialogue/Emily/AcceptGift_(TR)ParrotEgg@swap-Emil |default={{i18n:dialogue/Emily/AcceptGift_(TR)ParrotEgg}}}}",
+        "dating_Emily": "{{i18n:dialogue/Emily/dating_Emily@swap-Emil |default={{i18n:dialogue/Emily/dating_Emily}}}}",
+        "Resort_Dance": "{{i18n:dialogue/Emily/Resort_Dance@swap-Emil |default={{i18n:dialogue/Emily/Resort_Dance}}}}",
+        "reject_866": "{{i18n:dialogue/Emily/reject_866@swap-Emil |default={{i18n:dialogue/Emily/reject_866}}}}",
+        "summer_Fri6": "{{i18n:dialogue/Emily/summer_Fri6@swap-Emil |default={{i18n:dialogue/Emily/summer_Fri6}}}}",
+        "Sat6": "{{i18n:dialogue/Emily/Sat6@swap-Emil |default={{i18n:dialogue/Emily/Sat6}}}}"
       }
     },
     {
@@ -62,62 +62,62 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Emily",
       "Entries": {
-        "winter_Tue4": "{{i18n:Characters/Dialogue/Emily..winter_Tue4.Flavor..Emil |default={{i18n:Characters/Dialogue/Emily..winter_Tue4.Flavor.}}}}",
-        "dating_Emily": "{{i18n:Characters/Dialogue/Emily..dating_Emily.Flavor..Emil |default={{i18n:Characters/Dialogue/Emily..dating_Emily.Flavor.}}}}"
+        "winter_Tue4": "{{i18n:dialogue/Emily/winter_Tue4@swap-Emil+flavor |default={{i18n:dialogue/Emily/winter_Tue4}}}}",
+        "dating_Emily": "{{i18n:dialogue/Emily/dating_Emily@swap-Emil+flavor |default={{i18n:dialogue/Emily/dating_Emily}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Evelyn",
       "Entries": {
-        "reject_866": "{{i18n:Characters/Dialogue/Evelyn..reject_866...Emil |default={{i18n:Characters/Dialogue/Evelyn..reject_866..}}}}"
+        "reject_866": "{{i18n:dialogue/Evelyn/reject_866@swap-Emil |default={{i18n:dialogue/Evelyn/reject_866}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Gus",
       "Entries": {
-        "dating_Emily_memory_oneweek": "{{i18n:Characters/Dialogue/Gus..dating_Emily_memory_oneweek...Emil |default={{i18n:Characters/Dialogue/Gus..dating_Emily_memory_oneweek..}}}}",
-        "Wed": "{{i18n:Characters/Dialogue/Gus..Wed...Emil |default={{i18n:Characters/Dialogue/Gus..Wed..}}}}",
-        "Thu6": "{{i18n:Characters/Dialogue/Gus..Thu6...Emil |default={{i18n:Characters/Dialogue/Gus..Thu6..}}}}"
+        "dating_Emily_memory_oneweek": "{{i18n:dialogue/Gus/dating_Emily_memory_oneweek@swap-Emil |default={{i18n:dialogue/Gus/dating_Emily_memory_oneweek}}}}",
+        "Wed": "{{i18n:dialogue/Gus/Wed@swap-Emil |default={{i18n:dialogue/Gus/Wed}}}}",
+        "Thu6": "{{i18n:dialogue/Gus/Thu6@swap-Emil |default={{i18n:dialogue/Gus/Thu6}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Sandy",
       "Entries": {
-        "Wed": "{{i18n:Characters/Dialogue/Sandy..Wed...Emil |default={{i18n:Characters/Dialogue/Sandy..Wed..}}}}",
-        "married_Emily": "{{i18n:Characters/Dialogue/Sandy..married_Emily...Emil |default={{i18n:Characters/Dialogue/Sandy..married_Emily.. |Emily={{Emily}}}} |Emily={{Emily}}}}"
+        "Wed": "{{i18n:dialogue/Sandy/Wed@swap-Emil |default={{i18n:dialogue/Sandy/Wed}}}}",
+        "married_Emily": "{{i18n:dialogue/Sandy/married_Emily@swap-Emil |default={{i18n:dialogue/Sandy/married_Emily |Emily={{Emily}}}} |Emily={{Emily}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Haley",
       "Entries": {
-        "married_Emily_memory_oneweek": "{{i18n:Characters/Dialogue/Haley..married_Emily_memory_oneweek...Emil |default={{i18n:Characters/Dialogue/Haley..married_Emily_memory_oneweek..}}}}",
-        "divorced_Emily": "{{i18n:Characters/Dialogue/Haley..divorced_Emily...Emil |default={{i18n:Characters/Dialogue/Haley..divorced_Emily..}}}}",
-        "eventSeen_11_memory_oneweek": "{{i18n:Characters/Dialogue/Haley..eventSeen_11_memory_oneweek...Emil |default={{i18n:Characters/Dialogue/Haley..eventSeen_11_memory_oneweek..}}}}",
-        "eventSeen_12_memory_twoweeks": "{{i18n:Characters/Dialogue/Haley..eventSeen_12_memory_twoweeks...Emil |default={{i18n:Characters/Dialogue/Haley..eventSeen_12_memory_twoweeks..}}}}",
-        "Resort_Towel_3": "{{i18n:Characters/Dialogue/Haley..Resort_Towel_3...Emil |default={{i18n:Characters/Dialogue/Haley..Resort_Towel_3..}}}}",
-        "Sun": "{{i18n:Characters/Dialogue/Haley..Sun...Emil |default={{i18n:Characters/Dialogue/Haley..Sun..}}}}",
-        "Event_clean3": "{{i18n:Characters/Dialogue/Haley..Event_clean3...Emil |default={{i18n:Characters/Dialogue/Haley..Event_clean3..}}}}",
-        "summer_Sun": "{{i18n:Characters/Dialogue/Haley..summer_Sun...Emil |default={{i18n:Characters/Dialogue/Haley..summer_Sun..}}}}",
-        "summer_Sun6": "{{i18n:Characters/Dialogue/Haley..summer_Sun6...Emil |default={{i18n:Characters/Dialogue/Haley..summer_Sun6..}}}}"
+        "married_Emily_memory_oneweek": "{{i18n:dialogue/Haley/married_Emily_memory_oneweek@swap-Emil |default={{i18n:dialogue/Haley/married_Emily_memory_oneweek}}}}",
+        "divorced_Emily": "{{i18n:dialogue/Haley/divorced_Emily@swap-Emil |default={{i18n:dialogue/Haley/divorced_Emily}}}}",
+        "eventSeen_11_memory_oneweek": "{{i18n:dialogue/Haley/eventSeen_11_memory_oneweek@swap-Emil |default={{i18n:dialogue/Haley/eventSeen_11_memory_oneweek}}}}",
+        "eventSeen_12_memory_twoweeks": "{{i18n:dialogue/Haley/eventSeen_12_memory_twoweeks@swap-Emil |default={{i18n:dialogue/Haley/eventSeen_12_memory_twoweeks}}}}",
+        "Resort_Towel_3": "{{i18n:dialogue/Haley/Resort_Towel_3@swap-Emil |default={{i18n:dialogue/Haley/Resort_Towel_3}}}}",
+        "Sun": "{{i18n:dialogue/Haley/Sun@swap-Emil |default={{i18n:dialogue/Haley/Sun}}}}",
+        "Event_clean3": "{{i18n:dialogue/Haley/Event_clean3@swap-Emil |default={{i18n:dialogue/Haley/Event_clean3}}}}",
+        "summer_Sun": "{{i18n:dialogue/Haley/summer_Sun@swap-Emil |default={{i18n:dialogue/Haley/summer_Sun}}}}",
+        "summer_Sun6": "{{i18n:dialogue/Haley/summer_Sun6@swap-Emil |default={{i18n:dialogue/Haley/summer_Sun6}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Farm",
       "Entries": {
-        "992559/t 600 1130/n clothFound/o Emily/w sunny": "{{i18n:Data/Events/Farm..992559/t+600+1130/n+clothFound/o+Emily/w+sunny...Emil_2 |default={{i18n:Data/Events/Farm..992559/t+600+1130/n+clothFound/o+Emily/w+sunny..}}}}",
-        "992559/t 600 1130/n clothFound/O Emily/w sunny": "{{i18n:Data/Events/Farm..992559/t+600+1130/n+clothFound/O+Emily/w+sunny...Emil |default={{i18n:Data/Events/Farm..992559/t+600+1130/n+clothFound/O+Emily/w+sunny..}}}}"
+        "992559/t 600 1130/n clothFound/o Emily/w sunny": "{{i18n:event/Farm/992559-439d@swap-Emil |default={{i18n:event/Farm/992559-439d}}}}",
+        "992559/t 600 1130/n clothFound/O Emily/w sunny": "{{i18n:event/Farm/992559-8a0c@swap-Emil |default={{i18n:event/Farm/992559-8a0c}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/FarmHouse",
       "Entries": {
-        "3917601/f Emily 3500/O Emily/n emilyFiber/A emilyFiber/t 2000 2400/p Emily": "{{i18n:Data/Events/FarmHouse..3917601/f+Emily+3500/O+Emily/n+emilyFiber/A+emilyFiber/t+2000+2400/p+Emily...Emil |default={{i18n:Data/Events/FarmHouse..3917601/f+Emily+3500/O+Emily/n+emilyFiber/A+emilyFiber/t+2000+2400/p+Emily..}}}}"
+        "3917601/f Emily 3500/O Emily/n emilyFiber/A emilyFiber/t 2000 2400/p Emily": "{{i18n:event/FarmHouse/3917601@swap-Emil |default={{i18n:event/FarmHouse/3917601}}}}"
       }
     },
     {
@@ -127,18 +127,18 @@
       "Action": "EditData",
       "Target": "Data/Events/FarmHouse",
       "Entries": {
-        "3917601/f Emily 3500/O Emily/n emilyFiber/A emilyFiber/t 2000 2400/p Emily": "{{i18n:Data/Events/FarmHouse..3917601/f+Emily+3500/O+Emily/n+emilyFiber/A+emilyFiber/t+2000+2400/p+Emily.Flavor..Emil |default={{i18n:Data/Events/FarmHouse..3917601/f+Emily+3500/O+Emily/n+emilyFiber/A+emilyFiber/t+2000+2400/p+Emily.Flavor.}}}}"
+        "3917601/f Emily 3500/O Emily/n emilyFiber/A emilyFiber/t 2000 2400/p Emily": "{{i18n:event/FarmHouse/3917601@swap-Emil+flavor |default={{i18n:event/FarmHouse/3917601}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/HaleyHouse",
       "Entries": {
-        "11/f Haley 500/p Haley/p Emily": "{{i18n:Data/Events/HaleyHouse..11/f+Haley+500/p+Haley/p+Emily...Emil |default={{i18n:Data/Events/HaleyHouse..11/f+Haley+500/p+Haley/p+Emily.. |Haley={{Haley}} |Haley={{Haley}} |Haley_her={{Haley_her}} |Haley={{Haley}} |Emily={{Emily}}}} |Haley={{Haley}} |Haley={{Haley}} |Haley_her={{Haley_her}} |Haley={{Haley}} |Emily={{Emily}}}}",
-        "917409/e 463391/f Emily 1500/p Emily": "{{i18n:Data/Events/HaleyHouse..917409/e+463391/f+Emily+1500/p+Emily...Emil |default={{i18n:Data/Events/HaleyHouse..917409/e+463391/f+Emily+1500/p+Emily..}}}}",
-        "195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019": "{{i18n:Data/Events/HaleyHouse..195012/f+Haley+2500/f+Emily+2500/f+Penny+2500/f+Abigail+2500/f+Leah+2500/f+Maru+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+38/e+2123343/e+10/e+901756/e+54/e+15/k+195019...Emil |default={{i18n:Data/Events/HaleyHouse..195012/f+Haley+2500/f+Emily+2500/f+Penny+2500/f+Abigail+2500/f+Leah+2500/f+Maru+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+38/e+2123343/e+10/e+901756/e+54/e+15/k+195019..}}}}",
-        "choseToExplain": "{{i18n:Data/Events/HaleyHouse..choseToExplain...Emil |default={{i18n:Data/Events/HaleyHouse..choseToExplain..}}}}",
-        "lifestyleChoice": "{{i18n:Data/Events/HaleyHouse..lifestyleChoice...Emil |default={{i18n:Data/Events/HaleyHouse..lifestyleChoice..}}}}"
+        "11/f Haley 500/p Haley/p Emily": "{{i18n:event/HaleyHouse/11@swap-Emil |default={{i18n:event/HaleyHouse/11 |Haley={{Haley}} |Haley_her={{Haley_her}} |Emily={{Emily}}}} |Haley={{Haley}} |Haley_her={{Haley_her}} |Emily={{Emily}}}}",
+        "917409/e 463391/f Emily 1500/p Emily": "{{i18n:event/HaleyHouse/917409@swap-Emil |default={{i18n:event/HaleyHouse/917409}}}}",
+        "195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019": "{{i18n:event/HaleyHouse/195012@swap-Emil |default={{i18n:event/HaleyHouse/195012}}}}",
+        "choseToExplain": "{{i18n:event/HaleyHouse/choseToExplain@swap-Emil |default={{i18n:event/HaleyHouse/choseToExplain}}}}",
+        "lifestyleChoice": "{{i18n:event/HaleyHouse/lifestyleChoice@swap-Emil |default={{i18n:event/HaleyHouse/lifestyleChoice}}}}"
       }
     },
     {
@@ -146,39 +146,39 @@
       "Target": "Data/Events/Saloon",
       "Priority": "Late",
       "Entries": {
-        "97/f Clint 750/t 1900 2300/d Tue Wed Thu Fri Sat Sun": "{{i18n:Data/Events/Saloon..97/f+Clint+750/t+1900+2300/d+Tue+Wed+Thu+Fri+Sat+Sun..Late.Emil |default={{i18n:Data/Events/Saloon..97/f+Clint+750/t+1900+2300/d+Tue+Wed+Thu+Fri+Sat+Sun..Late |Shane={{Shane}} |Shane={{Shane}}}} |Shane={{Shane}} |Shane={{Shane}}}}"
+        "97/f Clint 750/t 1900 2300/d Tue Wed Thu Fri Sat Sun": "{{i18n:event/Saloon/97@swap-Emil |default={{i18n:event/Saloon/97 |Shane={{Shane}}}} |Shane={{Shane}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Town",
       "Entries": {
-        "831125/f Shane 1750/f Clint 500/f Emily 500/t 1000 1600/w sunny": "{{i18n:Data/Events/Town..831125/f+Shane+1750/f+Clint+500/f+Emily+500/t+1000+1600/w+sunny...Emil |default={{i18n:Data/Events/Town..831125/f+Shane+1750/f+Clint+500/f+Emily+500/t+1000+1600/w+sunny..}}}}",
-        "101/f Clint 1500/e 97/k 2123243/k 2123343/o Emily/t 900 1830/a 0 90/!D Emily": "{{i18n:Data/Events/Town..101/f+Clint+1500/e+97/k+2123243/k+2123343/o+Emily/t+900+1830/a+0+90/!D+Emily...Emil |default={{i18n:Data/Events/Town..101/f+Clint+1500/e+97/k+2123243/k+2123343/o+Emily/t+900+1830/a+0+90/!D+Emily.. |Emily={{Emily}} |Emily={{Emily}}}} |Emily={{Emily}} |Emily={{Emily}}}}",
-        "191393/Hn ccFishTank/Hn ccBulletin/Hn ccPantry/Hn ccVault/Hn ccBoilerRoom/Hn ccCraftsRoom/Hl jojaFishTank/Hl jojaPantry/Hl jojaVault/Hl jojaBoilerRoom/Hl jojaCraftsRoom/Hl JojaMember/w sunny/H": "{{i18n:Data/Events/Town..191393/Hn+ccFishTank/Hn+ccBulletin/Hn+ccPantry/Hn+ccVault/Hn+ccBoilerRoom/Hn+ccCraftsRoom/Hl+jojaFishTank/Hl+jojaPantry/Hl+jojaVault/Hl+jojaBoilerRoom/Hl+jojaCraftsRoom/Hl+JojaMember/w+sunny/H...Emil |default={{i18n:Data/Events/Town..191393/Hn+ccFishTank/Hn+ccBulletin/Hn+ccPantry/Hn+ccVault/Hn+ccBoilerRoom/Hn+ccCraftsRoom/Hl+jojaFishTank/Hl+jojaPantry/Hl+jojaVault/Hl+jojaBoilerRoom/Hl+jojaCraftsRoom/Hl+JojaMember/w+sunny/H.. |Emily={{Emily}}}} |Emily={{Emily}}}}",
-        "463391/f Emily 1000/e 471942/w sunny/z winter/t 600 1700": "{{i18n:Data/Events/Town..463391/f+Emily+1000/e+471942/w+sunny/z+winter/t+600+1700...Emil |default={{i18n:Data/Events/Town..463391/f+Emily+1000/e+471942/w+sunny/z+winter/t+600+1700.. |Emily={{Emily}}}} |Emily={{Emily}}}}",
-        "6184644/e 8675611/O Haley/A haleyCakewalk2/t 600 1500/w sunny/i 220": "{{i18n:Data/Events/Town..6184644/e+8675611/O+Haley/A+haleyCakewalk2/t+600+1500/w+sunny/i+220...Emil |default={{i18n:Data/Events/Town..6184644/e+8675611/O+Haley/A+haleyCakewalk2/t+600+1500/w+sunny/i+220.. |Haley={{Haley}} |Emily={{Emily}} |Emily={{Emily}} |Penny={{Penny}} |Penny={{Penny}}}} |Haley={{Haley}} |Emily={{Emily}} |Emily={{Emily}} |Penny={{Penny}} |Penny={{Penny}}}}"
+        "831125/f Shane 1750/f Clint 500/f Emily 500/t 1000 1600/w sunny": "{{i18n:event/Town/831125@swap-Emil |default={{i18n:event/Town/831125}}}}",
+        "101/f Clint 1500/e 97/k 2123243/k 2123343/o Emily/t 900 1830/a 0 90/!D Emily": "{{i18n:event/Town/101@swap-Emil |default={{i18n:event/Town/101 |Emily={{Emily}}}} |Emily={{Emily}}}}",
+        "191393/Hn ccFishTank/Hn ccBulletin/Hn ccPantry/Hn ccVault/Hn ccBoilerRoom/Hn ccCraftsRoom/Hl jojaFishTank/Hl jojaPantry/Hl jojaVault/Hl jojaBoilerRoom/Hl jojaCraftsRoom/Hl JojaMember/w sunny/H": "{{i18n:event/Town/191393@swap-Emil |default={{i18n:event/Town/191393 |Emily={{Emily}}}} |Emily={{Emily}}}}",
+        "463391/f Emily 1000/e 471942/w sunny/z winter/t 600 1700": "{{i18n:event/Town/463391@swap-Emil |default={{i18n:event/Town/463391 |Emily={{Emily}}}} |Emily={{Emily}}}}",
+        "6184644/e 8675611/O Haley/A haleyCakewalk2/t 600 1500/w sunny/i 220": "{{i18n:event/Town/6184644@swap-Emil |default={{i18n:event/Town/6184644 |Haley={{Haley}} |Emily={{Emily}} |Penny={{Penny}}}} |Haley={{Haley}} |Emily={{Emily}} |Penny={{Penny}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/spring24",
       "Entries": {
-        "Clint": "{{i18n:Data/Festivals/spring24..Clint...Emil |default={{i18n:Data/Festivals/spring24..Clint..}}}}"
+        "Clint": "{{i18n:data/spring24/Clint@swap-Emil |default={{i18n:data/spring24/Clint}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/summer11",
       "Entries": {
-        "Emily": "{{i18n:Data/Festivals/summer11..Emily...Emil |default={{i18n:Data/Festivals/summer11..Emily..}}}}"
+        "Emily": "{{i18n:data/summer11/Emily@swap-Emil |default={{i18n:data/summer11/Emily}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/winter8",
       "Entries": {
-        "Clint": "{{i18n:Data/Festivals/winter8..Clint...Emil |default={{i18n:Data/Festivals/winter8..Clint..}}}}"
+        "Clint": "{{i18n:data/winter8/Clint@swap-Emil |default={{i18n:data/winter8/Clint}}}}"
       }
     },
     {
@@ -188,129 +188,125 @@
       "Action": "EditData",
       "Target": "Data/Festivals/fall16",
       "Entries": {
-        "Emily_y2": "{{i18n:Data/Festivals/fall16..Emily_y2.Flavor..Emil |default={{i18n:Data/Festivals/fall16..Emily_y2.Flavor.}}}}"
+        "Emily_y2": "{{i18n:data/fall16/Emily_y2@swap-Emil+flavor |default={{i18n:data/fall16/Emily_y2}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Quests",
       "Entries": {
-        "110": "{{i18n:Data/Quests..110...Emil |default={{i18n:Data/Quests..110..}}}}",
-        "115": "{{i18n:Data/Quests..115...Emil |default={{i18n:Data/Quests..115..}}}}",
-        "126": "{{i18n:Data/Quests..126...Emil |default={{i18n:Data/Quests..126..}}}}"
+        "110": "{{i18n:data/Quests/110@swap-Emil |default={{i18n:data/Quests/110}}}}",
+        "115": "{{i18n:data/Quests/115@swap-Emil |default={{i18n:data/Quests/115}}}}",
+        "126": "{{i18n:data/Quests/126@swap-Emil |default={{i18n:data/Quests/126}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/SecretNotes",
       "Entries": {
-        "8": "{{i18n:Data/SecretNotes..8...Emil |default={{i18n:Data/SecretNotes..8.. |Haley={{Haley}} |Emily={{Emily}} |Haley={{Haley}} |Emily={{Emily}}}} |Haley={{Haley}} |Emily={{Emily}} |Haley={{Haley}} |Emily={{Emily}}}}"
+        "8": "{{i18n:data/SecretNotes/8@swap-Emil |default={{i18n:data/SecretNotes/8 |Haley={{Haley}} |Emily={{Emily}}}} |Haley={{Haley}} |Emily={{Emily}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/mail",
       "Entries": {
-        "Emily": "{{i18n:Data/mail..Emily...Emil |default={{i18n:Data/mail..Emily..}}}}",
-        "EmilyCooking": "{{i18n:Data/mail..EmilyCooking...Emil |default={{i18n:Data/mail..EmilyCooking.. |Emily={{Emily}} |Emily={{Emily}}}} |Emily={{Emily}} |Emily={{Emily}}}}",
-        "EmilyClothingTherapy": "{{i18n:Data/mail..EmilyClothingTherapy...Emil |default={{i18n:Data/mail..EmilyClothingTherapy.. |Emily={{Emily}} |Emily={{Emily}}}} |Emily={{Emily}} |Emily={{Emily}}}}",
-        "EmilyCamping": "{{i18n:Data/mail..EmilyCamping...Emil |default={{i18n:Data/mail..EmilyCamping.. |Emily={{Emily}} |Emily={{Emily}}}} |Emily={{Emily}} |Emily={{Emily}}}}",
-        "EmilyDoneCamping": "{{i18n:Data/mail..EmilyDoneCamping...Emil |default={{i18n:Data/mail..EmilyDoneCamping.. |Emily={{Emily}} |Emily={{Emily}}}} |Emily={{Emily}} |Emily={{Emily}}}}",
-        "winter_6_1": "{{i18n:Data/mail..winter_6_1...Emil |default={{i18n:Data/mail..winter_6_1.. |Emily={{Emily}}}} |Emily={{Emily}}}}",
-        "spring_6_2": "{{i18n:Data/mail..spring_6_2...Emil |default={{i18n:Data/mail..spring_6_2.. |Emily={{Emily}} |Emily={{Emily}}}} |Emily={{Emily}} |Emily={{Emily}}}}",
-        "emilyStones": "{{i18n:Data/mail..emilyStones...Emil |default={{i18n:Data/mail..emilyStones.. |Emily={{Emily}} |Emily={{Emily}}}} |Emily={{Emily}} |Emily={{Emily}}}}"
+        "Emily": "{{i18n:data/mail/Emily@swap-Emil |default={{i18n:data/mail/Emily}}}}",
+        "EmilyCooking": "{{i18n:data/mail/EmilyCooking@swap-Emil |default={{i18n:data/mail/EmilyCooking |Emily={{Emily}}}} |Emily={{Emily}}}}",
+        "EmilyClothingTherapy": "{{i18n:data/mail/EmilyClothingTherapy@swap-Emil |default={{i18n:data/mail/EmilyClothingTherapy |Emily={{Emily}}}} |Emily={{Emily}}}}",
+        "EmilyCamping": "{{i18n:data/mail/EmilyCamping@swap-Emil |default={{i18n:data/mail/EmilyCamping |Emily={{Emily}}}} |Emily={{Emily}}}}",
+        "EmilyDoneCamping": "{{i18n:data/mail/EmilyDoneCamping@swap-Emil |default={{i18n:data/mail/EmilyDoneCamping |Emily={{Emily}}}} |Emily={{Emily}}}}",
+        "winter_6_1": "{{i18n:data/mail/winter_6_1@swap-Emil |default={{i18n:data/mail/winter_6_1 |Emily={{Emily}}}} |Emily={{Emily}}}}",
+        "spring_6_2": "{{i18n:data/mail/spring_6_2@swap-Emil |default={{i18n:data/mail/spring_6_2 |Emily={{Emily}}}} |Emily={{Emily}}}}",
+        "emilyStones": "{{i18n:data/mail/emilyStones@swap-Emil |default={{i18n:data/mail/emilyStones |Emily={{Emily}}}} |Emily={{Emily}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Furniture",
       "Entries": {
-        "EmilyPortrait": "{{i18n:Strings/Furniture..EmilyPortrait...Emil |default={{i18n:Strings/Furniture..EmilyPortrait..}}}}"
+        "EmilyPortrait": "{{i18n:strings/Furniture/EmilyPortrait@swap-Emil |default={{i18n:strings/Furniture/EmilyPortrait}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/StringsFromCSFiles",
       "Entries": {
-        "Utility.cs.5864_5": "{{i18n:Strings/StringsFromCSFiles..Utility=cs=5864_5...Emil |default={{i18n:Strings/StringsFromCSFiles..Utility=cs=5864_5..}}}}",
-        "MapPage.cs.11074": "{{i18n:Strings/StringsFromCSFiles..MapPage=cs=11074...Emil |default={{i18n:Strings/StringsFromCSFiles..MapPage=cs=11074.. |Emily={{Emily}} |Haley={{Haley}}}} |Emily={{Emily}} |Haley={{Haley}}}}",
-        "ItemDeliveryQuest.cs.13473": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13473...Emil |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13473..}}}}",
-        "ItemDeliveryQuest.cs.13476": "{{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13476...Emil |default={{i18n:Strings/StringsFromCSFiles..ItemDeliveryQuest=cs=13476..}}}}",
-        "SocializeQuest.cs.13786": "{{i18n:Strings/StringsFromCSFiles..SocializeQuest=cs=13786...Emil |default={{i18n:Strings/StringsFromCSFiles..SocializeQuest=cs=13786..}}}}",
-        "Utility.cs.5371": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and... well, husband!$h",
-        "Utility.cs.5373": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and... well, husband!$h",
-        "Utility.cs.5375": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and... well, husband!$h",
-        "Utility.cs.5377": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and... well, husband!$h"
+        "Utility.cs.5864_5": "{{i18n:strings/StringsFromCSFiles/Utility.cs.5864_5@swap-Emil |default={{i18n:strings/StringsFromCSFiles/Utility.cs.5864_5}}}}",
+        "MapPage.cs.11074": "{{i18n:strings/StringsFromCSFiles/MapPage.cs.11074@swap-Emil |default={{i18n:strings/StringsFromCSFiles/MapPage.cs.11074 |Emily={{Emily}} |Haley={{Haley}}}} |Emily={{Emily}} |Haley={{Haley}}}}",
+        "ItemDeliveryQuest.cs.13473": "{{i18n:strings/StringsFromCSFiles/ItemDeliveryQuest.cs.13473@swap-Emil |default={{i18n:strings/StringsFromCSFiles/ItemDeliveryQuest.cs.13473}}}}",
+        "ItemDeliveryQuest.cs.13476": "{{i18n:strings/StringsFromCSFiles/ItemDeliveryQuest.cs.13476@swap-Emil |default={{i18n:strings/StringsFromCSFiles/ItemDeliveryQuest.cs.13476}}}}",
+        "SocializeQuest.cs.13786": "{{i18n:strings/StringsFromCSFiles/SocializeQuest.cs.13786@swap-Emil |default={{i18n:strings/StringsFromCSFiles/SocializeQuest.cs.13786}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/StringsFromMaps",
       "Entries": {
-        "Blacksmith.4": "{{i18n:Strings/StringsFromMaps..Blacksmith=4...Emil |default={{i18n:Strings/StringsFromMaps..Blacksmith=4..}}}}",
-        "HaleyHouse.8": "{{i18n:Strings/StringsFromMaps..HaleyHouse=8...Emil |default={{i18n:Strings/StringsFromMaps..HaleyHouse=8..}}}}",
-        "Blacksmith.2": "{{i18n:Strings/StringsFromMaps..Blacksmith=2...Emil |default={{i18n:Strings/StringsFromMaps..Blacksmith=2..}}}}",
-        "Blacksmith.3": "{{i18n:Strings/StringsFromMaps..Blacksmith=3...Emil |default={{i18n:Strings/StringsFromMaps..Blacksmith=3..}}}}"
+        "Blacksmith.4": "{{i18n:strings/StringsFromMaps/Blacksmith.4@swap-Emil |default={{i18n:strings/StringsFromMaps/Blacksmith.4}}}}",
+        "HaleyHouse.8": "{{i18n:strings/StringsFromMaps/HaleyHouse.8@swap-Emil |default={{i18n:strings/StringsFromMaps/HaleyHouse.8}}}}",
+        "Blacksmith.2": "{{i18n:strings/StringsFromMaps/Blacksmith.2@swap-Emil |default={{i18n:strings/StringsFromMaps/Blacksmith.2}}}}",
+        "Blacksmith.3": "{{i18n:strings/StringsFromMaps/Blacksmith.3@swap-Emil |default={{i18n:strings/StringsFromMaps/Blacksmith.3}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/schedules/Haley",
       "Entries": {
-        "marriage_Mon.000": "{{i18n:Strings/schedules/Haley..marriage_Mon=000...Emil |default={{i18n:Strings/schedules/Haley..marriage_Mon=000..}}}}"
+        "marriage_Mon.000": "{{i18n:strings/schedules/Haley/marriage_Mon.000@swap-Emil |default={{i18n:strings/schedules/Haley/marriage_Mon.000}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/hats",
       "Entries": {
-        "41": "{{i18n:Data/hats..41...Emil |default={{i18n:Data/hats..41.. |Emily={{Emily}} |Emily={{Emily}} |Emily={{Emily}}}} |Emily={{Emily}} |Emily={{Emily}} |Emily={{Emily}}}}"
+        "41": "{{i18n:data/hats/41@swap-Emil |default={{i18n:data/hats/41 |Emily={{Emily}}}} |Emily={{Emily}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/ExtraDialogue",
       "Entries": {
-        "PurchasedItem_Haley": "{{i18n:Data/ExtraDialogue..PurchasedItem_Haley...Emil |default={{i18n:Data/ExtraDialogue..PurchasedItem_Haley.. |Emily={{Emily}}}} |Emily={{Emily}}}}"
+        "PurchasedItem_Haley": "{{i18n:data/ExtraDialogue/PurchasedItem_Haley@swap-Emil |default={{i18n:data/ExtraDialogue/PurchasedItem_Haley |Emily={{Emily}}}} |Emily={{Emily}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/SandyHouse",
       "Entries": {
-        "67/m 10": "{{i18n:Data/Events/SandyHouse..67/m+10...Emil |default={{i18n:Data/Events/SandyHouse..67/m+10.. |Emily={{Emily}}}} |Emily={{Emily}}}}"
+        "67/m 10": "{{i18n:event/SandyHouse/67@swap-Emil |default={{i18n:event/SandyHouse/67 |Emily={{Emily}}}} |Emily={{Emily}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/ManorHouse",
       "Entries": {
-        "2123243/e 2111194": "{{i18n:Data/Events/ManorHouse..2123243/e+2111194...Emil |default={{i18n:Data/Events/ManorHouse..2123243/e+2111194.. |Shane={{Shane}} |Shane={{Shane}} |Emily={{Emily}}}} |Shane={{Shane}} |Shane={{Shane}} |Emily={{Emily}}}}"
+        "2123243/e 2111194": "{{i18n:event/ManorHouse/2123243@swap-Emil |default={{i18n:event/ManorHouse/2123243 |Shane={{Shane}} |Emily={{Emily}}}} |Shane={{Shane}} |Emily={{Emily}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/fall27",
       "Entries": {
-        "Haley_y2": "{{i18n:Data/Festivals/fall27..Haley_y2...Emil |default={{i18n:Data/Festivals/fall27..Haley_y2.. |Emily={{Emily}}}} |Emily={{Emily}}}}"
+        "Haley_y2": "{{i18n:data/fall27/Haley_y2@swap-Emil |default={{i18n:data/fall27/Haley_y2 |Emily={{Emily}}}} |Emily={{Emily}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Shirts",
       "Entries": {
-        "EmilysMagicShirt_Name": "{{i18n:Strings/Shirts..EmilysMagicShirt_Name...Emil |default={{i18n:Strings/Shirts..EmilysMagicShirt_Name.. |Emily={{Emily}}}} |Emily={{Emily}}}}",
-        "EmilysMagicShirt_Description": "{{i18n:Strings/Shirts..EmilysMagicShirt_Description...Emil |default={{i18n:Strings/Shirts..EmilysMagicShirt_Description.. |Emily={{Emily}}}} |Emily={{Emily}}}}"
+        "EmilysMagicShirt_Name": "{{i18n:strings/Shirts/EmilysMagicShirt_Name@swap-Emil |default={{i18n:strings/Shirts/EmilysMagicShirt_Name |Emily={{Emily}}}} |Emily={{Emily}}}}",
+        "EmilysMagicShirt_Description": "{{i18n:strings/Shirts/EmilysMagicShirt_Description@swap-Emil |default={{i18n:strings/Shirts/EmilysMagicShirt_Description |Emily={{Emily}}}} |Emily={{Emily}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/MovieReactions",
       "Entries": {
-        "Emily_dislike_DuringMovie_2": "{{i18n:Strings/MovieReactions..Emily_dislike_DuringMovie_2...Emil |default={{i18n:Strings/MovieReactions..Emily_dislike_DuringMovie_2.. |Emily={{Emily}}}} |Emily={{Emily}}}}",
-        "Clint_winter_movie_1_DuringMovie": "{{i18n:Strings/MovieReactions..Clint_winter_movie_1_DuringMovie...Emil |default={{i18n:Strings/MovieReactions..Clint_winter_movie_1_DuringMovie..}}}}",
-        "Clint_like_BeforeMovie": "{{i18n:Strings/MovieReactions..Clint_like_BeforeMovie...Emil |default={{i18n:Strings/MovieReactions..Clint_like_BeforeMovie..}}}}",
-        "Clint_like_DuringMovie": "{{i18n:Strings/MovieReactions..Clint_like_DuringMovie...Emil |default={{i18n:Strings/MovieReactions..Clint_like_DuringMovie..}}}}"
+        "Emily_dislike_DuringMovie_2": "{{i18n:strings/MovieReactions/Emily_dislike_DuringMovie_2@swap-Emil |default={{i18n:strings/MovieReactions/Emily_dislike_DuringMovie_2 |Emily={{Emily}}}} |Emily={{Emily}}}}",
+        "Clint_winter_movie_1_DuringMovie": "{{i18n:strings/MovieReactions/Clint_winter_movie_1_DuringMovie@swap-Emil |default={{i18n:strings/MovieReactions/Clint_winter_movie_1_DuringMovie}}}}",
+        "Clint_like_BeforeMovie": "{{i18n:strings/MovieReactions/Clint_like_BeforeMovie@swap-Emil |default={{i18n:strings/MovieReactions/Clint_like_BeforeMovie}}}}",
+        "Clint_like_DuringMovie": "{{i18n:strings/MovieReactions/Clint_like_DuringMovie@swap-Emil |default={{i18n:strings/MovieReactions/Clint_like_DuringMovie}}}}"
       }
     },
     {
@@ -320,25 +316,25 @@
       "Action": "EditData",
       "Target": "Strings/MovieReactions",
       "Entries": {
-        "Emily_spring_movie_1_BeforeMovie": "{{i18n:Strings/MovieReactions..Emily_spring_movie_1_BeforeMovie.Flavor..Emil |default={{i18n:Strings/MovieReactions..Emily_spring_movie_1_BeforeMovie.Flavor.}}}}"
+        "Emily_spring_movie_1_BeforeMovie": "{{i18n:strings/MovieReactions/Emily_spring_movie_1_BeforeMovie@swap-Emil+flavor |default={{i18n:strings/MovieReactions/Emily_spring_movie_1_BeforeMovie}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/SpecialOrderStrings",
       "Entries": {
-        "Emily_Objective_0_Text": "{{i18n:Strings/SpecialOrderStrings..Emily_Objective_0_Text...Emil |default={{i18n:Strings/SpecialOrderStrings..Emily_Objective_0_Text.. |Emily={{Emily}}}} |Emily={{Emily}}}}",
-        "Emily_Objective_1_Text": "{{i18n:Strings/SpecialOrderStrings..Emily_Objective_1_Text...Emil |default={{i18n:Strings/SpecialOrderStrings..Emily_Objective_1_Text.. |Emily={{Emily}}}} |Emily={{Emily}}}}",
-        "Emily_Objective_2_Text": "{{i18n:Strings/SpecialOrderStrings..Emily_Objective_2_Text...Emil |default={{i18n:Strings/SpecialOrderStrings..Emily_Objective_2_Text.. |Emily={{Emily}}}} |Emily={{Emily}}}}",
-        "Emily_Objective_3_Text": "{{i18n:Strings/SpecialOrderStrings..Emily_Objective_3_Text...Emil |default={{i18n:Strings/SpecialOrderStrings..Emily_Objective_3_Text.. |Emily={{Emily}}}} |Emily={{Emily}}}}",
-        "Emily_Objective_4_Text": "{{i18n:Strings/SpecialOrderStrings..Emily_Objective_4_Text...Emil |default={{i18n:Strings/SpecialOrderStrings..Emily_Objective_4_Text.. |Emily={{Emily}}}} |Emily={{Emily}}}}"
+        "Emily_Objective_0_Text": "{{i18n:strings/SpecialOrderStrings/Emily_Objective_0_Text@swap-Emil |default={{i18n:strings/SpecialOrderStrings/Emily_Objective_0_Text |Emily={{Emily}}}} |Emily={{Emily}}}}",
+        "Emily_Objective_1_Text": "{{i18n:strings/SpecialOrderStrings/Emily_Objective_1_Text@swap-Emil |default={{i18n:strings/SpecialOrderStrings/Emily_Objective_1_Text |Emily={{Emily}}}} |Emily={{Emily}}}}",
+        "Emily_Objective_2_Text": "{{i18n:strings/SpecialOrderStrings/Emily_Objective_2_Text@swap-Emil |default={{i18n:strings/SpecialOrderStrings/Emily_Objective_2_Text |Emily={{Emily}}}} |Emily={{Emily}}}}",
+        "Emily_Objective_3_Text": "{{i18n:strings/SpecialOrderStrings/Emily_Objective_3_Text@swap-Emil |default={{i18n:strings/SpecialOrderStrings/Emily_Objective_3_Text |Emily={{Emily}}}} |Emily={{Emily}}}}",
+        "Emily_Objective_4_Text": "{{i18n:strings/SpecialOrderStrings/Emily_Objective_4_Text@swap-Emil |default={{i18n:strings/SpecialOrderStrings/Emily_Objective_4_Text |Emily={{Emily}}}} |Emily={{Emily}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Jodi",
       "Entries": {
-        "eventSeen_101": "{{i18n:Characters/Dialogue/Jodi..eventSeen_101...Emil |default={{i18n:Characters/Dialogue/Jodi..eventSeen_101.. |Emily={{Emily}} |Emily={{Emily}}}} |Emily={{Emily}} |Emily={{Emily}}}}"
+        "eventSeen_101": "{{i18n:dialogue/Jodi/eventSeen_101@swap-Emil |default={{i18n:dialogue/Jodi/eventSeen_101 |Emily={{Emily}}}} |Emily={{Emily}}}}"
       }
     },
     {
@@ -348,11 +344,11 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueEmily",
       "Entries": {
-        "TwoKids_1": "{{i18n:Characters/Dialogue/MarriageDialogueEmily..TwoKids_1.Flavor..Emil |default={{i18n:Characters/Dialogue/MarriageDialogueEmily..TwoKids_1.Flavor.}}}}",
-        "OneKid_1": "{{i18n:Characters/Dialogue/MarriageDialogueEmily..OneKid_1.Flavor..Emil |default={{i18n:Characters/Dialogue/MarriageDialogueEmily..OneKid_1.Flavor.}}}}",
-        "TwoKids_3": "{{i18n:Characters/Dialogue/MarriageDialogueEmily..TwoKids_3.Flavor..Emil |default={{i18n:Characters/Dialogue/MarriageDialogueEmily..TwoKids_3.Flavor.}}}}",
-        "Neutral_0": "{{i18n:Characters/Dialogue/MarriageDialogueEmily..Neutral_0.Flavor..Emil |default={{i18n:Characters/Dialogue/MarriageDialogueEmily..Neutral_0.Flavor.}}}}",
-        "winter_Emily": "{{i18n:Characters/Dialogue/MarriageDialogueEmily..winter_Emily.Flavor..Emil |default={{i18n:Characters/Dialogue/MarriageDialogueEmily..winter_Emily.Flavor.}}}}"
+        "TwoKids_1": "{{i18n:dialogue/MarriageDialogueEmily/TwoKids_1@swap-Emil+flavor |default={{i18n:dialogue/MarriageDialogueEmily/TwoKids_1}}}}",
+        "OneKid_1": "{{i18n:dialogue/MarriageDialogueEmily/OneKid_1@swap-Emil+flavor |default={{i18n:dialogue/MarriageDialogueEmily/OneKid_1}}}}",
+        "TwoKids_3": "{{i18n:dialogue/MarriageDialogueEmily/TwoKids_3@swap-Emil+flavor |default={{i18n:dialogue/MarriageDialogueEmily/TwoKids_3}}}}",
+        "Neutral_0": "{{i18n:dialogue/MarriageDialogueEmily/Neutral_0@swap-Emil+flavor |default={{i18n:dialogue/MarriageDialogueEmily/Neutral_0}}}}",
+        "winter_Emily": "{{i18n:dialogue/MarriageDialogueEmily/winter_Emily@swap-Emil+flavor |default={{i18n:dialogue/MarriageDialogueEmily/winter_Emily}}}}"
       }
     },
     {
@@ -362,21 +358,21 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogue",
       "Entries": {
-        "winter_Emily": "{{i18n:Characters/Dialogue/MarriageDialogue..winter_Emily.Flavor..Emil |default={{i18n:Characters/Dialogue/MarriageDialogue..winter_Emily.Flavor.}}}}"
+        "winter_Emily": "{{i18n:dialogue/MarriageDialogue/winter_Emily@swap-Emil+flavor |default={{i18n:dialogue/MarriageDialogue/winter_Emily}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueHaley",
       "Entries": {
-        "Rainy_Night_2": "{{i18n:Characters/Dialogue/MarriageDialogueHaley..Rainy_Night_2...Emil |default={{i18n:Characters/Dialogue/MarriageDialogueHaley..Rainy_Night_2.. |Emily={{Emily}}}} |Emily={{Emily}}}}"
+        "Rainy_Night_2": "{{i18n:dialogue/MarriageDialogueHaley/Rainy_Night_2@swap-Emil |default={{i18n:dialogue/MarriageDialogueHaley/Rainy_Night_2 |Emily={{Emily}}}} |Emily={{Emily}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/schedules/Sandy",
       "Entries": {
-        "Sandy_Birthday_Greeting": "{{i18n:Strings/schedules/Sandy..Sandy_Birthday_Greeting...Emil |default={{i18n:Strings/schedules/Sandy..Sandy_Birthday_Greeting.. |Emily={{Emily}}}} |Emily={{Emily}}}}"
+        "Sandy_Birthday_Greeting": "{{i18n:strings/schedules/Sandy/Sandy_Birthday_Greeting@swap-Emil |default={{i18n:strings/schedules/Sandy/Sandy_Birthday_Greeting |Emily={{Emily}}}} |Emily={{Emily}}}}"
       }
     }
   ]

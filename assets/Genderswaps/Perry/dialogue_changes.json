@@ -19,225 +19,221 @@
       "Action": "EditData",
       "Target": "Strings/NPCNames",
       "Entries": {
-        "Penny": "{{i18n:Strings/NPCNames..Penny...Perry |default={{i18n:Strings/NPCNames..Penny..}}}}"
+        "Penny": "{{i18n:name/Penny/Penny@swap-Perry |default={{i18n:name/Penny/Penny}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Jas",
       "Entries": {
-        "Thu2": "{{i18n:Characters/Dialogue/Jas..Thu2...Perry |default={{i18n:Characters/Dialogue/Jas..Thu2..}}}}"
+        "Thu2": "{{i18n:dialogue/Jas/Thu2@swap-Perry |default={{i18n:dialogue/Jas/Thu2}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Maru",
       "Entries": {
-        "summer_Wed4": "{{i18n:Characters/Dialogue/Maru..summer_Wed4...Perry |default={{i18n:Characters/Dialogue/Maru..summer_Wed4..}}}}",
-        "married_Penny": "{{i18n:Characters/Dialogue/Maru..married_Penny...Perry |default={{i18n:Characters/Dialogue/Maru..married_Penny..}}}}"
+        "summer_Wed4": "{{i18n:dialogue/Maru/summer_Wed4@swap-Perry |default={{i18n:dialogue/Maru/summer_Wed4}}}}",
+        "married_Penny": "{{i18n:dialogue/Maru/married_Penny@swap-Perry |default={{i18n:dialogue/Maru/married_Penny}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/LeoMainland",
       "Entries": {
-        "Wed": "{{i18n:Characters/Dialogue/LeoMainland..Wed...Perry |default={{i18n:Characters/Dialogue/LeoMainland..Wed..}}}}",
-        "Tue": "{{i18n:Characters/Dialogue/LeoMainland..Tue...Perry |default={{i18n:Characters/Dialogue/LeoMainland..Tue.. |Penny={{Penny}} |Penny={{Penny}}}} |Penny={{Penny}} |Penny={{Penny}}}}"
+        "Wed": "{{i18n:dialogue/LeoMainland/Wed@swap-Perry |default={{i18n:dialogue/LeoMainland/Wed}}}}",
+        "Tue": "{{i18n:dialogue/LeoMainland/Tue@swap-Perry |default={{i18n:dialogue/LeoMainland/Tue |Penny={{Penny}}}} |Penny={{Penny}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Lewis",
       "Entries": {
-        "pamHouseUpgrade": "{{i18n:Characters/Dialogue/Lewis..pamHouseUpgrade...Perry |default={{i18n:Characters/Dialogue/Lewis..pamHouseUpgrade..}}}}",
-        "pamHouseUpgradeAnonymous": "{{i18n:Characters/Dialogue/Lewis..pamHouseUpgradeAnonymous...Perry |default={{i18n:Characters/Dialogue/Lewis..pamHouseUpgradeAnonymous..}}}}"
+        "pamHouseUpgrade": "{{i18n:dialogue/Lewis/pamHouseUpgrade@swap-Perry |default={{i18n:dialogue/Lewis/pamHouseUpgrade}}}}",
+        "pamHouseUpgradeAnonymous": "{{i18n:dialogue/Lewis/pamHouseUpgradeAnonymous@swap-Perry |default={{i18n:dialogue/Lewis/pamHouseUpgradeAnonymous}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Pam",
       "Entries": {
-        "married_Penny": "{{i18n:Characters/Dialogue/Pam..married_Penny...Perry |default={{i18n:Characters/Dialogue/Pam..married_Penny..}}}}",
-        "divorced_Penny": "{{i18n:Characters/Dialogue/Pam..divorced_Penny...Perry |default={{i18n:Characters/Dialogue/Pam..divorced_Penny..}}}}",
-        "Trailer_Entry": "{{i18n:Characters/Dialogue/Pam..Trailer_Entry...Perry |default={{i18n:Characters/Dialogue/Pam..Trailer_Entry..}}}}",
-        "Thu": "{{i18n:Characters/Dialogue/Pam..Thu...Perry |default={{i18n:Characters/Dialogue/Pam..Thu..}}}}",
-        "Thu4": "{{i18n:Characters/Dialogue/Pam..Thu4...Perry |default={{i18n:Characters/Dialogue/Pam..Thu4..}}}}",
-        "fall_Thu": "{{i18n:Characters/Dialogue/Pam..fall_Thu...Perry |default={{i18n:Characters/Dialogue/Pam..fall_Thu..}}}}",
-        "winter_Tue4": "{{i18n:Characters/Dialogue/Pam..winter_Tue4...Perry |default={{i18n:Characters/Dialogue/Pam..winter_Tue4..}}}}",
-        "winter_Tue4_inlaw_Penny": "{{i18n:Characters/Dialogue/Pam..winter_Tue4_inlaw_Penny...Perry |default={{i18n:Characters/Dialogue/Pam..winter_Tue4_inlaw_Penny..}}}}",
-        "winter_Fri": "{{i18n:Characters/Dialogue/Pam..winter_Fri...Perry |default={{i18n:Characters/Dialogue/Pam..winter_Fri..}}}}"
+        "married_Penny": "{{i18n:dialogue/Pam/married_Penny@swap-Perry |default={{i18n:dialogue/Pam/married_Penny}}}}",
+        "divorced_Penny": "{{i18n:dialogue/Pam/divorced_Penny@swap-Perry |default={{i18n:dialogue/Pam/divorced_Penny}}}}",
+        "Trailer_Entry": "{{i18n:dialogue/Pam/Trailer_Entry@swap-Perry |default={{i18n:dialogue/Pam/Trailer_Entry}}}}",
+        "Thu": "{{i18n:dialogue/Pam/Thu@swap-Perry |default={{i18n:dialogue/Pam/Thu}}}}",
+        "Thu4": "{{i18n:dialogue/Pam/Thu4@swap-Perry |default={{i18n:dialogue/Pam/Thu4}}}}",
+        "fall_Thu": "{{i18n:dialogue/Pam/fall_Thu@swap-Perry |default={{i18n:dialogue/Pam/fall_Thu}}}}",
+        "winter_Tue4": "{{i18n:dialogue/Pam/winter_Tue4@swap-Perry |default={{i18n:dialogue/Pam/winter_Tue4}}}}",
+        "winter_Tue4_inlaw_Penny": "{{i18n:dialogue/Pam/winter_Tue4_inlaw_Penny@swap-Perry |default={{i18n:dialogue/Pam/winter_Tue4_inlaw_Penny}}}}",
+        "winter_Fri": "{{i18n:dialogue/Pam/winter_Fri@swap-Perry |default={{i18n:dialogue/Pam/winter_Fri}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Robin",
       "Entries": {
-        "pamHouseUpgrade": "{{i18n:Characters/Dialogue/Robin..pamHouseUpgrade...Perry |default={{i18n:Characters/Dialogue/Robin..pamHouseUpgrade..}}}}",
-        "pamHouseUpgradeAnonymous": "{{i18n:Characters/Dialogue/Robin..pamHouseUpgradeAnonymous...Perry |default={{i18n:Characters/Dialogue/Robin..pamHouseUpgradeAnonymous..}}}}",
-        "fall_Mon": "{{i18n:Characters/Dialogue/Robin..fall_Mon...Perry |default={{i18n:Characters/Dialogue/Robin..fall_Mon..}}}}"
+        "pamHouseUpgrade": "{{i18n:dialogue/Robin/pamHouseUpgrade@swap-Perry |default={{i18n:dialogue/Robin/pamHouseUpgrade}}}}",
+        "pamHouseUpgradeAnonymous": "{{i18n:dialogue/Robin/pamHouseUpgradeAnonymous@swap-Perry |default={{i18n:dialogue/Robin/pamHouseUpgradeAnonymous}}}}",
+        "fall_Mon": "{{i18n:dialogue/Robin/fall_Mon@swap-Perry |default={{i18n:dialogue/Robin/fall_Mon}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Penny",
       "Entries": {
-        "Introduction": "{{i18n:Characters/Dialogue/Penny..Introduction...Perry |default={{i18n:Characters/Dialogue/Penny..Introduction..}}}}",
-        "Thu6": "{{i18n:Characters/Dialogue/Penny..Thu6...Perry |default={{i18n:Characters/Dialogue/Penny..Thu6..}}}}",
-        "summer_Fri": "{{i18n:Characters/Dialogue/Penny..summer_Fri...Perry |default={{i18n:Characters/Dialogue/Penny..summer_Fri..}}}}",
-        "fall_Fri6": "{{i18n:Characters/Dialogue/Penny..fall_Fri6...Perry |default={{i18n:Characters/Dialogue/Penny..fall_Fri6..}}}}"
+        "Introduction": "{{i18n:dialogue/Penny/Introduction@swap-Perry |default={{i18n:dialogue/Penny/Introduction}}}}",
+        "Thu6": "{{i18n:dialogue/Penny/Thu6@swap-Perry |default={{i18n:dialogue/Penny/Thu6}}}}",
+        "summer_Fri": "{{i18n:dialogue/Penny/summer_Fri@swap-Perry |default={{i18n:dialogue/Penny/summer_Fri}}}}",
+        "fall_Fri6": "{{i18n:dialogue/Penny/fall_Fri6@swap-Perry |default={{i18n:dialogue/Penny/fall_Fri6}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Vincent",
       "Entries": {
-        "Tue6": "{{i18n:Characters/Dialogue/Vincent..Tue6...Perry |default={{i18n:Characters/Dialogue/Vincent..Tue6..}}}}",
-        "Sat": "{{i18n:Characters/Dialogue/Vincent..Sat...Perry |default={{i18n:Characters/Dialogue/Vincent..Sat..}}}}"
+        "Tue6": "{{i18n:dialogue/Vincent/Tue6@swap-Perry |default={{i18n:dialogue/Vincent/Tue6}}}}",
+        "Sat": "{{i18n:dialogue/Vincent/Sat@swap-Perry |default={{i18n:dialogue/Vincent/Sat}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/FarmHouse",
       "Entries": {
-        "4324303/e 4325434/O Penny/A pennyRedecorating/l noQuilt/B": "{{i18n:Data/Events/FarmHouse..4324303/e+4325434/O+Penny/A+pennyRedecorating/l+noQuilt/B...Perry |default={{i18n:Data/Events/FarmHouse..4324303/e+4325434/O+Penny/A+pennyRedecorating/l+noQuilt/B..}}}}"
+        "4324303/e 4325434/O Penny/A pennyRedecorating/l noQuilt/B": "{{i18n:event/FarmHouse/4324303@swap-Perry |default={{i18n:event/FarmHouse/4324303}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Forest",
       "Entries": {
-        "choseFarming": "{{i18n:Data/Events/Forest..choseFarming...Perry |default={{i18n:Data/Events/Forest..choseFarming.. |Sam_brother={{Sam_brother}} |Sam={{Sam}} |Sam_He_Uppercase={{Sam_He_Uppercase}} |Sam_him={{Sam_him}} |Penny_Miss={{Penny_Miss}} |Penny={{Penny}}}} |Sam_brother={{Sam_brother}} |Sam={{Sam}} |Sam_He_Uppercase={{Sam_He_Uppercase}} |Sam_him={{Sam_him}} |Penny_Miss={{Penny_Miss}} |Penny={{Penny}}}}",
-        "181928/f Penny 2000/t 900 1600/w sunny/G !IS_PASSIVE_FESTIVAL_TODAY TroutDerby, !SEASON_DAY summer 17 summer 18 summer 19": "{{i18n:Data/Events/Forest..181928/f+Penny+2000/t+900+1600/w+sunny/G+!IS_PASSIVE_FESTIVAL_TODAY+TroutDerby,+!SEASON_DAY+summer+17+summer+18+summer+19...Perry |default={{i18n:Data/Events/Forest..181928/f+Penny+2000/t+900+1600/w+sunny/G+!IS_PASSIVE_FESTIVAL_TODAY+TroutDerby,+!SEASON_DAY+summer+17+summer+18+summer+19.. |Penny={{Penny}}}} |Penny={{Penny}}}}"
+        "choseFarming": "{{i18n:event/Forest/choseFarming@swap-Perry |default={{i18n:event/Forest/choseFarming |Sam_brother={{Sam_brother}} |Sam={{Sam}} |Sam_He_Uppercase={{Sam_He_Uppercase}} |Sam_him={{Sam_him}} |Penny_Miss={{Penny_Miss}} |Penny={{Penny}}}} |Sam_brother={{Sam_brother}} |Sam={{Sam}} |Sam_He_Uppercase={{Sam_He_Uppercase}} |Sam_him={{Sam_him}} |Penny_Miss={{Penny_Miss}} |Penny={{Penny}}}}",
+        "181928/f Penny 2000/t 900 1600/w sunny/G !IS_PASSIVE_FESTIVAL_TODAY TroutDerby, !SEASON_DAY summer 17 summer 18 summer 19": "{{i18n:event/Forest/181928@swap-Perry |default={{i18n:event/Forest/181928 |Penny={{Penny}}}} |Penny={{Penny}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/HaleyHouse",
       "Entries": {
-        "195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019": "{{i18n:Data/Events/HaleyHouse..195012/f+Haley+2500/f+Emily+2500/f+Penny+2500/f+Abigail+2500/f+Leah+2500/f+Maru+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+38/e+2123343/e+10/e+901756/e+54/e+15/k+195019...Perry |default={{i18n:Data/Events/HaleyHouse..195012/f+Haley+2500/f+Emily+2500/f+Penny+2500/f+Abigail+2500/f+Leah+2500/f+Maru+2500/o+Abigail/o+Penny/o+Leah/o+Emily/o+Maru/o+Haley/o+Shane/o+Harvey/o+Sebastian/o+Sam/o+Elliott/o+Alex/e+38/e+2123343/e+10/e+901756/e+54/e+15/k+195019..}}}}",
-        "choseToExplain": "{{i18n:Data/Events/HaleyHouse..choseToExplain...Perry |default={{i18n:Data/Events/HaleyHouse..choseToExplain..}}}}",
-        "lifestyleChoice": "{{i18n:Data/Events/HaleyHouse..lifestyleChoice...Perry |default={{i18n:Data/Events/HaleyHouse..lifestyleChoice..}}}}"
+        "195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019": "{{i18n:event/HaleyHouse/195012@swap-Perry |default={{i18n:event/HaleyHouse/195012}}}}",
+        "choseToExplain": "{{i18n:event/HaleyHouse/choseToExplain@swap-Perry |default={{i18n:event/HaleyHouse/choseToExplain}}}}",
+        "lifestyleChoice": "{{i18n:event/HaleyHouse/lifestyleChoice@swap-Perry |default={{i18n:event/HaleyHouse/lifestyleChoice}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Events/Town",
       "Entries": {
-        "34/f Penny 500/t 900 1400/w sunny": "{{i18n:Data/Events/Town..34/f+Penny+500/t+900+1400/w+sunny...Perry |default={{i18n:Data/Events/Town..34/f+Penny+500/t+900+1400/w+sunny..}}}}",
-        "611173/Hn pamHouseUpgrade/o Penny": "{{i18n:Data/Events/Town..611173/Hn+pamHouseUpgrade/o+Penny...Perry |default={{i18n:Data/Events/Town..611173/Hn+pamHouseUpgrade/o+Penny.. |Penny={{Penny}}}} |Penny={{Penny}}}}",
-        "choseToBeKnown": "{{i18n:Data/Events/Town..choseToBeKnown...Perry |default={{i18n:Data/Events/Town..choseToBeKnown.. |Penny={{Penny}}}} |Penny={{Penny}}}}",
-        "611173/Hn pamHouseUpgrade": "{{i18n:Data/Events/Town..611173/Hn+pamHouseUpgrade...Perry |default={{i18n:Data/Events/Town..611173/Hn+pamHouseUpgrade.. |Penny={{Penny}}}} |Penny={{Penny}}}}",
-        "choseToBeKnown_pennySpouse": "{{i18n:Data/Events/Town..choseToBeKnown_pennySpouse...Perry |default={{i18n:Data/Events/Town..choseToBeKnown_pennySpouse..}}}}",
-        "6184643/f Haley 3500/O Haley/t 800 1500/w sunny": "{{i18n:Data/Events/Town..6184643/f+Haley+3500/O+Haley/t+800+1500/w+sunny...Perry |default={{i18n:Data/Events/Town..6184643/f+Haley+3500/O+Haley/t+800+1500/w+sunny..}}}}",
-        "6184644/e 8675611/O Haley/A haleyCakewalk2/t 600 1500/w sunny/i 220": "{{i18n:Data/Events/Town..6184644/e+8675611/O+Haley/A+haleyCakewalk2/t+600+1500/w+sunny/i+220...Perry |default={{i18n:Data/Events/Town..6184644/e+8675611/O+Haley/A+haleyCakewalk2/t+600+1500/w+sunny/i+220.. |Haley={{Haley}} |Emily={{Emily}} |Emily={{Emily}} |Penny={{Penny}} |Penny={{Penny}}}} |Haley={{Haley}} |Emily={{Emily}} |Emily={{Emily}} |Penny={{Penny}} |Penny={{Penny}}}}"
+        "34/f Penny 500/t 900 1400/w sunny": "{{i18n:event/Town/34@swap-Perry |default={{i18n:event/Town/34}}}}",
+        "611173/Hn pamHouseUpgrade/o Penny": "{{i18n:event/Town/611173-c326@swap-Perry |default={{i18n:event/Town/611173-c326 |Penny={{Penny}}}} |Penny={{Penny}}}}",
+        "choseToBeKnown": "{{i18n:event/Town/choseToBeKnown@swap-Perry |default={{i18n:event/Town/choseToBeKnown |Penny={{Penny}}}} |Penny={{Penny}}}}",
+        "611173/Hn pamHouseUpgrade": "{{i18n:event/Town/611173-3554@swap-Perry |default={{i18n:event/Town/611173-3554 |Penny={{Penny}}}} |Penny={{Penny}}}}",
+        "choseToBeKnown_pennySpouse": "{{i18n:event/Town/choseToBeKnown_pennySpouse@swap-Perry |default={{i18n:event/Town/choseToBeKnown_pennySpouse}}}}",
+        "6184643/f Haley 3500/O Haley/t 800 1500/w sunny": "{{i18n:event/Town/6184643@swap-Perry |default={{i18n:event/Town/6184643}}}}",
+        "6184644/e 8675611/O Haley/A haleyCakewalk2/t 600 1500/w sunny/i 220": "{{i18n:event/Town/6184644@swap-Perry |default={{i18n:event/Town/6184644 |Haley={{Haley}} |Emily={{Emily}} |Penny={{Penny}}}} |Haley={{Haley}} |Emily={{Emily}} |Penny={{Penny}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/spring13",
       "Entries": {
-        "Maru_spouse": "{{i18n:Data/Festivals/spring13..Maru_spouse...Perry |default={{i18n:Data/Festivals/spring13..Maru_spouse..}}}}"
+        "Maru_spouse": "{{i18n:data/spring13/Maru_spouse@swap-Perry |default={{i18n:data/spring13/Maru_spouse}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/SecretNotes",
       "Entries": {
-        "2": "{{i18n:Data/SecretNotes..2...Perry |default={{i18n:Data/SecretNotes..2.. |Sam={{Sam}} |Sebastian={{Sebastian}} |Penny={{Penny}}}} |Sam={{Sam}} |Sebastian={{Sebastian}} |Penny={{Penny}}}}",
-        "5": "{{i18n:Data/SecretNotes..5...Perry |default={{i18n:Data/SecretNotes..5..}}}}"
+        "2": "{{i18n:data/SecretNotes/2@swap-Perry |default={{i18n:data/SecretNotes/2 |Sam={{Sam}} |Sebastian={{Sebastian}} |Penny={{Penny}}}} |Sam={{Sam}} |Sebastian={{Sebastian}} |Penny={{Penny}}}}",
+        "5": "{{i18n:data/SecretNotes/5@swap-Perry |default={{i18n:data/SecretNotes/5}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/mail",
       "Entries": {
-        "PennyCleanTrailer": "{{i18n:Data/mail..PennyCleanTrailer...Perry |default={{i18n:Data/mail..PennyCleanTrailer..}}}}",
-        "pennySpa": "{{i18n:Data/mail..pennySpa...Perry |default={{i18n:Data/mail..pennySpa..}}}}"
+        "PennyCleanTrailer": "{{i18n:data/mail/PennyCleanTrailer@swap-Perry |default={{i18n:data/mail/PennyCleanTrailer}}}}",
+        "pennySpa": "{{i18n:data/mail/pennySpa@swap-Perry |default={{i18n:data/mail/pennySpa}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Characters",
       "Entries": {
-        "Relative_LittleBabyGirl": "{{i18n:Strings/Characters..Relative_LittleBabyGirl...Perry |default={{i18n:Strings/Characters..Relative_LittleBabyGirl..}}}}"
+        "Relative_LittleBabyGirl": "{{i18n:strings/Characters/Relative_LittleBabyGirl@swap-Perry |default={{i18n:strings/Characters/Relative_LittleBabyGirl}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Furniture",
       "Entries": {
-        "PennyPortrait": "{{i18n:Strings/Furniture..PennyPortrait...Perry |default={{i18n:Strings/Furniture..PennyPortrait..}}}}"
+        "PennyPortrait": "{{i18n:strings/Furniture/PennyPortrait@swap-Perry |default={{i18n:strings/Furniture/PennyPortrait}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/StringsFromCSFiles",
       "Entries": {
-        "MapPage.PamHouseHomeOf": "{{i18n:Strings/StringsFromCSFiles..MapPage=PamHouseHomeOf...Perry |default={{i18n:Strings/StringsFromCSFiles..MapPage=PamHouseHomeOf..}}}}",
-        "Utility.cs.5371": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and... well, husband!$h",
-        "Utility.cs.5373": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and... well, husband!$h",
-        "Utility.cs.5375": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and... well, husband!$h",
-        "Utility.cs.5377": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and... well, husband!$h"
+        "MapPage.PamHouseHomeOf": "{{i18n:strings/StringsFromCSFiles/MapPage.PamHouseHomeOf@swap-Perry |default={{i18n:strings/StringsFromCSFiles/MapPage.PamHouseHomeOf}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/StringsFromMaps",
       "Entries": {
-        "BathHouse_WomensLocker.2": "{{i18n:Strings/StringsFromMaps..BathHouse_WomensLocker=2...Perry |default={{i18n:Strings/StringsFromMaps..BathHouse_WomensLocker=2..}}}}",
-        "SamHouse.10": "{{i18n:Strings/StringsFromMaps..SamHouse=10...Perry |default={{i18n:Strings/StringsFromMaps..SamHouse=10..}}}}"
+        "BathHouse_WomensLocker.2": "{{i18n:strings/StringsFromMaps/BathHouse_WomensLocker.2@swap-Perry |default={{i18n:strings/StringsFromMaps/BathHouse_WomensLocker.2}}}}",
+        "SamHouse.10": "{{i18n:strings/StringsFromMaps/SamHouse.10@swap-Perry |default={{i18n:strings/StringsFromMaps/SamHouse.10}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/animationDescriptions",
       "Entries": {
-        "vincent_read_right": "{{i18n:Strings/animationDescriptions..vincent_read_right...Perry |default={{i18n:Strings/animationDescriptions..vincent_read_right..}}}}"
+        "vincent_read_right": "{{i18n:strings/animationDescriptions/vincent_read_right@swap-Perry |default={{i18n:strings/animationDescriptions/vincent_read_right}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/schedules/Maru",
       "Entries": {
-        "marriage_Mon.002": "{{i18n:Strings/schedules/Maru..marriage_Mon=002...Perry |default={{i18n:Strings/schedules/Maru..marriage_Mon=002..}}}}"
+        "marriage_Mon.002": "{{i18n:strings/schedules/Maru/marriage_Mon.002@swap-Perry |default={{i18n:strings/schedules/Maru/marriage_Mon.002}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/Weapons",
       "Entries": {
-        "PennysFryer_Name": "{{i18n:Strings/Weapons..PennysFryer_Name...Perry |default={{i18n:Strings/Weapons..PennysFryer_Name..}}}}",
-        "PennysFryer_Description": "{{i18n:Strings/Weapons..PennysFryer_Description...Perry |default={{i18n:Strings/Weapons..PennysFryer_Description..}}}}"
+        "PennysFryer_Name": "{{i18n:strings/Weapons/PennysFryer_Name@swap-Perry |default={{i18n:strings/Weapons/PennysFryer_Name}}}}",
+        "PennysFryer_Description": "{{i18n:strings/Weapons/PennysFryer_Description@swap-Perry |default={{i18n:strings/Weapons/PennysFryer_Description}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Strings/MovieReactions",
       "Entries": {
-        "Penny_*_DuringMovie": "{{i18n:Strings/MovieReactions..Penny_*_DuringMovie...Perry |default={{i18n:Strings/MovieReactions..Penny_*_DuringMovie.. |Penny={{Penny}}}} |Penny={{Penny}}}}",
-        "Penny_spring_movie_0_DuringMovie_2": "{{i18n:Strings/MovieReactions..Penny_spring_movie_0_DuringMovie_2...Perry |default={{i18n:Strings/MovieReactions..Penny_spring_movie_0_DuringMovie_2.. |Penny={{Penny}}}} |Penny={{Penny}}}}",
-        "Penny_family_DuringMovie": "{{i18n:Strings/MovieReactions..Penny_family_DuringMovie...Perry |default={{i18n:Strings/MovieReactions..Penny_family_DuringMovie.. |Penny={{Penny}}}} |Penny={{Penny}}}}"
+        "Penny_*_DuringMovie": "{{i18n:strings/MovieReactions/Penny_*_DuringMovie@swap-Perry |default={{i18n:strings/MovieReactions/Penny_*_DuringMovie |Penny={{Penny}}}} |Penny={{Penny}}}}",
+        "Penny_spring_movie_0_DuringMovie_2": "{{i18n:strings/MovieReactions/Penny_spring_movie_0_DuringMovie_2@swap-Perry |default={{i18n:strings/MovieReactions/Penny_spring_movie_0_DuringMovie_2 |Penny={{Penny}}}} |Penny={{Penny}}}}",
+        "Penny_family_DuringMovie": "{{i18n:strings/MovieReactions/Penny_family_DuringMovie@swap-Perry |default={{i18n:strings/MovieReactions/Penny_family_DuringMovie |Penny={{Penny}}}} |Penny={{Penny}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Jodi",
       "Entries": {
-        "eventSeen_3102768": "{{i18n:Characters/Dialogue/Jodi..eventSeen_3102768...Perry |default={{i18n:Characters/Dialogue/Jodi..eventSeen_3102768.. |Penny={{Penny}}}} |Penny={{Penny}}}}"
+        "eventSeen_3102768": "{{i18n:dialogue/Jodi/eventSeen_3102768@swap-Perry |default={{i18n:dialogue/Jodi/eventSeen_3102768 |Penny={{Penny}}}} |Penny={{Penny}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueMaru",
       "Entries": {
-        "Rainy_Day_0": "{{i18n:Characters/Dialogue/MarriageDialogueMaru..Rainy_Day_0...Perry |default={{i18n:Characters/Dialogue/MarriageDialogueMaru..Rainy_Day_0.. |Penny={{Penny}}}} |Penny={{Penny}}}}"
+        "Rainy_Day_0": "{{i18n:dialogue/MarriageDialogueMaru/Rainy_Day_0@swap-Perry |default={{i18n:dialogue/MarriageDialogueMaru/Rainy_Day_0 |Penny={{Penny}}}} |Penny={{Penny}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialoguePenny",
       "Entries": {
-        "Indoor_Night_1": "{{i18n:Characters/Dialogue/MarriageDialoguePenny..Indoor_Night_1...Perry |default={{i18n:Characters/Dialogue/MarriageDialoguePenny..Indoor_Night_1..}}}}"
+        "Indoor_Night_1": "{{i18n:dialogue/MarriageDialoguePenny/Indoor_Night_1@swap-Perry |default={{i18n:dialogue/MarriageDialoguePenny/Indoor_Night_1}}}}"
       }
     }
   ]
