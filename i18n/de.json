@@ -1089,5 +1089,14 @@
   "strings/StringsFromMaps/ElliottHouse.6@swap-Ellen": "Scheint, als würde Elliott versuchen, einen Bonsai-Baum wachsen zu lassen. Sieht bisher cool aus!",
   "dialogue/Alex/event_box3@swap-Alexis": "... Danke, @.#$b#Du... du bist anders als die anderen Typen. Einfühlsamer.$l^Du bist meine beste Freundin in ganz Pelikan...#$b#Ich bin froh.^Ist es peinlich, das zu sagen?$l",
   "dialogue/Clint/Fri8@swap-Emil+flavor": "Ich sollte sparen und mir einen Computer kaufen...#$e#Vielleicht kann ich im 'Internet' eine Freundin finden...$s#$e#Was? Verurteile mich nicht! Nicht jeder ist ein cooler, attraktiver, gesellschaftsfähiger Bauer, weißt du!$u#$e#Was soll ein Typ wie ich tun? *stöhn*$s",
-  "dialogue/Clint/Sun8@flavor": "Ich weiß nicht, ob die Leute das wissen oder ob es sie interessiert, aber ich bin sehr stolz auf meine Arbeit...#$e#Als ich ein Junge war, habe ich nicht davon geträumt, Schmied zu werden. Aber das bin ich nun mal. Und ich will der beste Schmied sein, der ich sein kann."
+  "dialogue/Clint/Sun8@flavor": "Ich weiß nicht, ob die Leute das wissen oder ob es sie interessiert, aber ich bin sehr stolz auf meine Arbeit...#$e#Als ich ein Junge war, habe ich nicht davon geträumt, Schmied zu werden. Aber das bin ich nun mal. Und ich will der beste Schmied sein, der ich sein kann.",
+  "dialogue/Elliott/Fri4@flavor": "Ah... Komm mit der Fackel meinen Haaren nicht zu nahe...$8",
+  "dialogue/Elliott/Resort_2@flavor": "Oje! Etwas Seetang hat sich in meinem Haar verheddert.#$e#Das ist das Problem beim Entspannen am Strand.",
+  "dialogue/MarriageDialogueElliott/Outdoor_4@flavor": "Ich habe zu viel Kaffee getrunken... Mein Mund ist ungefähr so trocken wie die Calico-Wüste.$s#$e#Oh... entschuldige meinen Kaffee-Atem.$7",
+  "dialogue/Elliott/AcceptBirthdayGift_Negative@flavor": "Ein weiteres Jahr ist vergangen, ein weiteres graues Haar... Ich nehme an, dieses Geschenk kann an meinen Verfall erinnern.$s",
+  "dialogue/MarriageDialogueElliott/Indoor_Day_3@swap-Ellen+flavor": "Heute wird ein fantastischer Tag... Ich kann es fühlen!$h#$e#Ich habe dieses spezielle Gefühl in meiner Nase...",
+  "dialogue/Elliott/fall_Wed8@swap-Ellen+flavor": "Ich hätte nichts dagegen, mal das Arbeiten auf dem Hof auszuprobieren.#$e#Die ruhige Atmosphäre könnte eine gute Quelle für literarische Inspirationen sein, findest du nicht?$h",
+  "dialogue/MarriageDialogueElliott/OneKid_0@swap-Ellen+flavor": "Hattest du heute etwas Zeit, mit Klein-%kid1 zu spielen? Vielleicht würde ein zweites Kind die Dinge für uns beide etwas einfacher machen.",
+  "data/winter25/Elliott_spouse_y2@swap-Ellen+flavor": "Mein Schatz, ich brauche an diesem Tag gar nichts... Du bist bereits das größte Geschenk, das sich ein Mann wünschen kann.$h",
+  "dialogue/MarriageDialogue/summer_Elliott@swap-Ellen": "Eine der Dinge, die ich vom Meer vermisse, sind die frischen Fische."
 }

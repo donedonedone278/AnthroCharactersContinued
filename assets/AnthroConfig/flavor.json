@@ -87,7 +87,10 @@
         "fall_Fri4": "{{i18n:dialogue/Elliott/fall_Fri4@flavor |default={{i18n:dialogue/Elliott/fall_Fri4}}}}",
         "fall_Fri": "{{i18n:dialogue/Elliott/fall_Fri@flavor |default={{i18n:dialogue/Elliott/fall_Fri}}}}",
         "winter_Fri": "{{i18n:dialogue/Elliott/winter_Fri@flavor |default={{i18n:dialogue/Elliott/winter_Fri}}}}",
-        "summer_Sat": "{{i18n:dialogue/Elliott/summer_Sat@flavor |default={{i18n:dialogue/Elliott/summer_Sat}}}}"
+        "summer_Sat": "{{i18n:dialogue/Elliott/summer_Sat@flavor |default={{i18n:dialogue/Elliott/summer_Sat}}}}",
+        "Fri4": "{{i18n:dialogue/Elliott/Fri4@flavor |default={{i18n:dialogue/Elliott/Fri4}}}}",
+        "Resort_2": "{{i18n:dialogue/Elliott/Resort_2@flavor |default={{i18n:dialogue/Elliott/Resort_2}}}}",
+        "AcceptBirthdayGift_Negative": "{{i18n:dialogue/Elliott/AcceptBirthdayGift_Negative@flavor |default={{i18n:dialogue/Elliott/AcceptBirthdayGift_Negative}}}}"
       }
     },
     {
@@ -236,7 +239,8 @@
         "Outdoor_1": "{{i18n:dialogue/MarriageDialogueElliott/Outdoor_1@flavor |default={{i18n:dialogue/MarriageDialogueElliott/Outdoor_1}}}}",
         "Outdoor_3": "{{i18n:dialogue/MarriageDialogueElliott/Outdoor_3@flavor |default={{i18n:dialogue/MarriageDialogueElliott/Outdoor_3}}}}",
         "fall_15": "{{i18n:dialogue/MarriageDialogueElliott/fall_15@flavor |default={{i18n:dialogue/MarriageDialogueElliott/fall_15}}}}",
-        "OneKid_0": "{{i18n:dialogue/MarriageDialogueElliott/OneKid_0@flavor |default={{i18n:dialogue/MarriageDialogueElliott/OneKid_0}}}}"
+        "OneKid_0": "{{i18n:dialogue/MarriageDialogueElliott/OneKid_0@flavor |default={{i18n:dialogue/MarriageDialogueElliott/OneKid_0}}}}",
+        "Outdoor_4": "{{i18n:dialogue/MarriageDialogueElliott/Outdoor_4@flavor |default={{i18n:dialogue/MarriageDialogueElliott/Outdoor_4}}}}"
       }
     },
     {

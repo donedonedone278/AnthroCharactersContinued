@@ -1091,5 +1091,14 @@
   "strings/StringsFromMaps/ElliottHouse.6@swap-Ellen": "看起来，{{Elliott}}打算种植一个盆栽。它看起来酷呆了！",
   "dialogue/Alex/event_box3@swap-Alexis": "……谢谢你，@。#$b#你和别人不一样。你的心思更加细腻。$l^你是我在整个镇上最好的朋友……#$b#我很高兴。^这种话很难启齿吗？$l",
   "dialogue/Clint/Fri8@swap-Emil+flavor": "我应该攒钱买台电脑……#$e#在“互联网”上说不定能找到女朋友……$s#$e#什么？你别看不起我！又不是所有人都长得帅，有魅力，善于社交，还有自己的农场的！$u#$e#我这种人到底要咋办啊？哎哟……$s",
-  "dialogue/Clint/Sun8@flavor": "我其实对自己的工作很自豪，不过可能没人意识到，也没人在意。#$e#我跟你说……我小时候的梦想不是当铁匠，可是现在我成为铁匠了，而且我想当最好的铁匠。"
+  "dialogue/Clint/Sun8@flavor": "我其实对自己的工作很自豪，不过可能没人意识到，也没人在意。#$e#我跟你说……我小时候的梦想不是当铁匠，可是现在我成为铁匠了，而且我想当最好的铁匠。",
+  "dialogue/Elliott/Fri4@flavor": "嘿……别拿着个火把离我头发这么近……$8",
+  "dialogue/Elliott/Resort_2@flavor": "啊，我的天！有海藻缠在我的头发上了。#$e#在海滩上度假就是会碰到这种麻烦。",
+  "dialogue/MarriageDialogueElliott/Outdoor_4@flavor": "我喝太多咖啡了……我嘴巴干得像卡利科沙漠一样。$s#$e#噢……抱歉我的嘴里都是咖啡味。$7",
+  "dialogue/Elliott/AcceptBirthdayGift_Negative@flavor": "又过了一年，又一根白发……这个礼物也许可以作为我衰老的纪念。$s",
+  "dialogue/MarriageDialogueElliott/Indoor_Day_3@swap-Ellen+flavor": "我有种预感……今天将会是美妙的一天！$h#$e#我鼻子感受到了这特别的气息……",
+  "dialogue/Elliott/fall_Wed8@swap-Ellen+flavor": "我试试做农活也不是不可以。#$e#你不觉得农场那种安静的氛围很有助于发掘写作灵感吗？$h",
+  "dialogue/MarriageDialogueElliott/OneKid_0@swap-Ellen+flavor": "你今天有花一点儿时间照顾小%kid1玩耍吗？可能生两个孩子会让我们更轻松些。",
+  "data/winter25/Elliott_spouse_y2@swap-Ellen+flavor": "亲爱的，今天我什么都不需要……你已经是我能得到的最好的礼物了。$h",
+  "dialogue/MarriageDialogue/summer_Elliott@swap-Ellen": "说起大海，我最想念的是那里新鲜的鱼。"
 }

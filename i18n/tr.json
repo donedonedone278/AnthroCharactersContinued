@@ -1089,5 +1089,14 @@
   "strings/StringsFromMaps/ElliottHouse.6@swap-Ellen": "Görünüşe göre Elliott bonzai ağacı yetiştirmeye çalışıyormuş. Şu ana kadar her şey harika gitmiş!",
   "dialogue/Alex/event_box3@swap-Alexis": "...Teşekkürler, @.#$b#Sen... sen diğerlerinden farklısın. Daha duyarlısın.$l^Tüm kasabadaki en yakın arkadaşım oldun... #$b#Çok hoşnutum.^Bunu söylemesi utanç verici mi?$l",
   "dialogue/Clint/Fri8@swap-Emil+flavor": "Para biriktirip bilgisayar almalıyım...#$e#Belki 'internetten' kız arkadaş bulabilirim...$s#$e#Ne? Beni yargılama! Herkes havalı, çekici ve sosyal bir çiftçi olamayabiliyor!$u#$e#Benim gibileri ne yapacak? *iç çeker*$s",
-  "dialogue/Clint/Sun8@flavor": "İnsanlar duyuyor veya umursuyor mu bilmiyorum ama yaptığım işle gurur duyuyorum.#$e#Demek istediğim... Çocukken pek de demirci olmak istemiyordum. Ama oldum. Şimdi de olabileceğim en iyi demirci olmak istiyorum."
+  "dialogue/Clint/Sun8@flavor": "İnsanlar duyuyor veya umursuyor mu bilmiyorum ama yaptığım işle gurur duyuyorum.#$e#Demek istediğim... Çocukken pek de demirci olmak istemiyordum. Ama oldum. Şimdi de olabileceğim en iyi demirci olmak istiyorum.",
+  "dialogue/Elliott/Fri4@flavor": "Ah... elinde meşale varken saçlarıma fazla yanaşma...$8",
+  "dialogue/Elliott/Resort_2@flavor": "Amanın! Saçıma yosun yapışmış.#$e#İşte sahilde fazla yayılınca böyle oluyor.",
+  "dialogue/MarriageDialogueElliott/Outdoor_4@flavor": "Çok fazla kahve içtim... ağzım Patisko Çölü gibi kurudu.$s#$e#Ah... ağzımdaki kahve kokusu için üzgünüm.$7",
+  "dialogue/Elliott/AcceptBirthdayGift_Negative@flavor": "Bir yıl daha geçti, saçlarım biraz daha ağardı... Sanırım bu hediye, yaşlanmamın bir anısı olarak kalabilir.$s",
+  "dialogue/MarriageDialogueElliott/Indoor_Day_3@swap-Ellen+flavor": "Bugün harika bir gün olacak... hissedebiliyorum!$h#$e#Bu özel his burnuma geliyor...",
+  "dialogue/Elliott/fall_Wed8@swap-Ellen+flavor": "Çiftçilik ile uğraşmayı denerdim aslında.#$e#Sessiz atmosfer edebiyat için harika bir ilham kaynağı olabilir. Sence de öyle değil mi?$h",
+  "dialogue/MarriageDialogueElliott/OneKid_0@swap-Ellen+flavor": "Bugün %kid1 ile vakit geçirdin mi, eğlendiniz mi? Belki de ikinci bir çocuk her şeyi yoluna koyar.",
+  "data/winter25/Elliott_spouse_y2@swap-Ellen+flavor": "Sevgilim, benim hiçbir şeye ihtiyacım yok... Sen zaten bir erkeğin isteyebileceği en mükemmel hediyesin.$h",
+  "dialogue/MarriageDialogue/summer_Elliott@swap-Ellen": "Deniz ile ilgili en çok özlediğim şeylerden biri de taze balıklar."
 }

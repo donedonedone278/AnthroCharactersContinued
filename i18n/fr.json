@@ -1089,5 +1089,14 @@
   "strings/StringsFromMaps/ElliottHouse.6@swap-Ellen": "On dirait que Elliott essaie de faire pousser un bonsaï. C’est une réussite jusqu’ici !",
   "dialogue/Alex/event_box3@swap-Alexis": "... Merci, @.#$b#Tu... tu es différent des autres gars. Tu es plus sensible.$l^Tu es devenue ma meilleure amie dans tout le village... #$b#Je suis content.^Est-ce que c’est gênant de le dire ?$l",
   "dialogue/Clint/Fri8@swap-Emil+flavor": "Je devrais économiser et m’acheter un ordinateur...#$e#Peut-être que je pourrais trouver une petite amie sur Internet...$s#$e#Quoi ? Ne me juge pas ! Tout le monde n’est pas un agriculteur cool, et doué pour les relations sociales, tu sais !$u#$e#Qu’est-ce qu’un gars comme moi est censé faire ? *marmonne*$s",
-  "dialogue/Clint/Sun8@flavor": "Je ne sais pas si les gens s’en rendent compte ou s’ils s’en soucient, mais je suis très fier de mon travail.#$e#Quand j’étais petit, je ne rêvais pas vraiment de devenir forgeron. Mais c’est ce que je suis devenu. Et je veux être le meilleur forgeron qu’il soit."
+  "dialogue/Clint/Sun8@flavor": "Je ne sais pas si les gens s’en rendent compte ou s’ils s’en soucient, mais je suis très fier de mon travail.#$e#Quand j’étais petit, je ne rêvais pas vraiment de devenir forgeron. Mais c’est ce que je suis devenu. Et je veux être le meilleur forgeron qu’il soit.",
+  "dialogue/Elliott/Fri4@flavor": "Ah... ne t’approche pas de mes cheveux avec une torche...$8",
+  "dialogue/Elliott/Resort_2@flavor": "Oh, mon Dieu ! Des algues se sont emmêlées dans mes cheveux...#$e#Voilà le problème de se détendre sur la plage.",
+  "dialogue/MarriageDialogueElliott/Outdoor_4@flavor": "J’ai bu trop de café... ma bouche est presque aussi sèche que le Désert de Calico.$s#$e#Oh... désolé pour mon haleine de café.$7",
+  "dialogue/Elliott/AcceptBirthdayGift_Negative@flavor": "Une année de plus, un cheveu gris de plus... J’imagine que ce cadeau est pour commémorer mon déclin.$s",
+  "dialogue/MarriageDialogueElliott/Indoor_Day_3@swap-Ellen+flavor": "Ça va être une journée fantastique aujourd'hui... je le sens !$h#$e#J’ai cette sensation spéciale dans mon nez...",
+  "dialogue/Elliott/fall_Wed8@swap-Ellen+flavor": "Ça ne me dérangerait pas de m’essayer à l’agriculture.#$e#L’atmosphère calme d’une ferme pourrait être une bonne source d’inspiration littéraire, tu ne penses pas ?$h",
+  "dialogue/MarriageDialogueElliott/OneKid_0@swap-Ellen+flavor": "As-tu eu le temps de jouer avec %kid1 aujourd’hui ? Peut-être qu’un deuxième enfant nous faciliterait la vie.",
+  "data/winter25/Elliott_spouse_y2@swap-Ellen+flavor": "Mon amour, je n'ai besoin de rien... tu es déjà le plus beau cadeau qu'un homme puisse espérer d'avoir dans sa vie.$h",
+  "dialogue/MarriageDialogue/summer_Elliott@swap-Ellen": "Les poissons frais de la mer me manquent tellement."
 }

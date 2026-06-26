@@ -1089,5 +1089,14 @@
   "strings/StringsFromMaps/ElliottHouse.6@swap-Ellen": "Parece que o Elliott está tentando cultivar um bonsai. Até agora, está lindo!",
   "dialogue/Alex/event_box3@swap-Alexis": "... Obrigado, @.#$b#Você é diferente dos outros caras. Mais sensível.$l^Você é minha melhor amiga nesta cidade...#$b#Fico feliz.^Não dá vergonha de dizer isso?$l",
   "dialogue/Clint/Fri8@swap-Emil+flavor": "Eu devia guardar dinheiro e comprar um computador...#$e#Talvez eu consiga achar uma namorada na 'internet'...$s#$e#O quê? Não me julgue! Nem todo mundo é legal, atraente, e bom de conversa, sabia?!$u#$e#O que um cara como eu precisa fazer? *Suspira*$s",
-  "dialogue/Clint/Sun8@flavor": "Eu não sei se as pessoas reparam nisso, ou se não se importam, mas eu tenho muito orgulho no meu trabalho.#$e#Quer dizer... Quando eu era pequeno meu sonho não era se tornar um ferreiro. Mas é isso que eu sou hoje. E eu quero ser o melhor ferreiro possível."
+  "dialogue/Clint/Sun8@flavor": "Eu não sei se as pessoas reparam nisso, ou se não se importam, mas eu tenho muito orgulho no meu trabalho.#$e#Quer dizer... Quando eu era pequeno meu sonho não era se tornar um ferreiro. Mas é isso que eu sou hoje. E eu quero ser o melhor ferreiro possível.",
+  "dialogue/Elliott/Fri4@flavor": "Ah... não chegue perto do meu cabelo com uma tocha...$8",
+  "dialogue/Elliott/Resort_2@flavor": "Oh não! Uma alga se enrolou no meu cabelo.#$e#Esse é o problema de relaxar na praia.",
+  "dialogue/MarriageDialogueElliott/Outdoor_4@flavor": "Bebi café demais... minha boca está tão seca quanto o Deserto de Calico.$s#$e#Ah... desculpe pelo bafo de café.$7",
+  "dialogue/Elliott/AcceptBirthdayGift_Negative@flavor": "Mais um ano que passou, mais um fio de cabelo branco... Suponho que este presente pode comemorar esse declínio.$s",
+  "dialogue/MarriageDialogueElliott/Indoor_Day_3@swap-Ellen+flavor": "Hoje vai ser um dia fantástico... Eu consigo sentir!$h#$e#Tem uma sensação diferente no meu nariz...",
+  "dialogue/Elliott/fall_Wed8@swap-Ellen+flavor": "Eu não me importaria em viver da terra.#$e#A atmosfera calma de uma fazenda pode ser uma ótima fonte de inspiração literária, não acha?$h",
+  "dialogue/MarriageDialogueElliott/OneKid_0@swap-Ellen+flavor": "Você tirou um tempo para divertir %kid1 hoje? Talvez uma segunda criança facilite as coisas para nós dois.",
+  "data/winter25/Elliott_spouse_y2@swap-Ellen+flavor": "Meu amor, eu não preciso de nada no dia de hoje... você já é o maior presente que um homem pode desejar.$h",
+  "dialogue/MarriageDialogue/summer_Elliott@swap-Ellen": "Uma das coisas que mais sinto falta no oceano é de peixe fresco."
 }

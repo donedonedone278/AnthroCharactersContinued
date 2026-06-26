@@ -1089,5 +1089,14 @@
   "strings/StringsFromMaps/ElliottHouse.6@swap-Ellen": "Pare che Elliott cerchi di coltivare un bonsai. Per ora sembra andargli bene!",
   "dialogue/Alex/event_box3@swap-Alexis": "...Grazie, @.#$b#Sei... sei diverso dagli altri ragazzi. Più sensibile.$l^Sei diventata l'amica migliore che ho in tutto il paese... #$b#Ne sono felice.^È una cosa imbarazzante da dire?$l",
   "dialogue/Clint/Fri8@swap-Emil+flavor": "Dovrei mettere da parte dei soldi per comprare un computer...#$e#Magari mi trovo una ragazza su 'internet'...$s#$e#Che c'è? Non mi giudicare! Non siamo tutti agricoltori attraenti, simpatici e socialmente capaci, sai!$u#$e#Cosa dovrebbe fare uno come me? *geme*$s",
-  "dialogue/Clint/Sun8@flavor": "Non so se la gente se ne rende conto, o se gliene importa, ma vado enormemente fiero del mio lavoro.#$e#Cioè... Da bambino, in realtà, non mi sognavo di diventare un fabbro. Ma è quello che sono. E voglio essere il fabbro migliore che posso."
+  "dialogue/Clint/Sun8@flavor": "Non so se la gente se ne rende conto, o se gliene importa, ma vado enormemente fiero del mio lavoro.#$e#Cioè... Da bambino, in realtà, non mi sognavo di diventare un fabbro. Ma è quello che sono. E voglio essere il fabbro migliore che posso.",
+  "dialogue/Elliott/Fri4@flavor": "Ah... non avvicinarti troppo ai miei capelli con una torcia...$8",
+  "dialogue/Elliott/Resort_2@flavor": "Diamine! Alcune alghe si sono abbarbicate ai miei capelli.#$e#È il problema di rilassarsi sul bagnasciuga.",
+  "dialogue/MarriageDialogueElliott/Outdoor_4@flavor": "Ho sorbito troppo caffè... Ho la bocca arida come il deserto di Calico.$s#$e#Oh... chiedo venia per l'alito caffeico.$7",
+  "dialogue/Elliott/AcceptBirthdayGift_Negative@flavor": "Un altro anno trascorso, un altro capello grigio... Suppongo che questo dono possa commemorare il mio declino.$s",
+  "dialogue/MarriageDialogueElliott/Indoor_Day_3@swap-Ellen+flavor": "Oggi sarà un giorno favoloso... Lo percepisco!$h#$e#Mi coglie questa sensazione insolita nel naso...",
+  "dialogue/Elliott/fall_Wed8@swap-Ellen+flavor": "Non mi dispiacerebbe cimentarmi nel lavoro dei campi.#$e#La quieta atmosfera di una fattoria potrebbe essere una buona fonte d'ispirazione letteraria, non trovi?$h",
+  "dialogue/MarriageDialogueElliott/OneKid_0@swap-Ellen+flavor": "Hai avuto del tempo, oggi, per intrattenere %kid1? Può darsi che un secondo figlio semplifichi le cose ad entrambi.",
+  "data/winter25/Elliott_spouse_y2@swap-Ellen+flavor": "Amore mio, non necessito di alcunché in questo giorno... Il dono più bello che un uomo possa desiderare sei tu.$h",
+  "dialogue/MarriageDialogue/summer_Elliott@swap-Ellen": "Una cosa che mi manca dell'oceano è il pesce fresco."
 }

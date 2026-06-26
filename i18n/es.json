@@ -1089,5 +1089,14 @@
   "strings/StringsFromMaps/ElliottHouse.6@swap-Ellen": "Parece que {{Elliott}} intenta cultivar un bonsai. ¡De momento está genial!",
   "dialogue/Alex/event_box3@swap-Alexis": "...Gracias, @.#$b#Eres... Eres distinto a los demás tíos. Más sensible.$l^Eres la persona con la que mejor me llevo en este pueblo...#$b#Me alegro.^¿Tanta vergüenza da decirlo?$l",
   "dialogue/Clint/Fri8@swap-Emil+flavor": "Debería ahorrar y comprar un ordenador...#$e#Quizás pueda encontrar una novia en el « internet »...$s#$e#¿Qué? ¡No me juzgues! No todo el mundo puede ser guay, de buen ver, sociable y granjero, ¡sabes!$u#$e#¿Qué se supone que haga un tipo como yo? *Ugh*$s",
-  "dialogue/Clint/Sun8@flavor": "No sé si la gente se da cuenta de esto, o le importa, pero de verdad que me enorgullezco mucho de mi trabajo.#$e#Quiero decir... Cuando era un chiquillo enrealidad no soñaba con ser un herrero. Pero eso es lo que soy. Y quiero ser el mejor herrero que pueda ser."
+  "dialogue/Clint/Sun8@flavor": "No sé si la gente se da cuenta de esto, o le importa, pero de verdad que me enorgullezco mucho de mi trabajo.#$e#Quiero decir... Cuando era un chiquillo enrealidad no soñaba con ser un herrero. Pero eso es lo que soy. Y quiero ser el mejor herrero que pueda ser.",
+  "dialogue/Elliott/Fri4@flavor": "Ah... no te acerques tanto a mi pelo con una antorcha...$8",
+  "dialogue/Elliott/Resort_2@flavor": "¡Oh no! Se me han enredado unas algas en el pelo.#$e#Ese es el problema de relajarse en la playa.",
+  "dialogue/MarriageDialogueElliott/Outdoor_4@flavor": "He tomado demasiado café... Tengo la boca tan seca como el desierto de Calico.$s#$e#Oh... Disculpa el aliento a café.$7",
+  "dialogue/Elliott/AcceptBirthdayGift_Negative@flavor": "Otro año que pasa, otra cana... Supongo que este regalo puede conmemorar mi deterioro.$s",
+  "dialogue/MarriageDialogueElliott/Indoor_Day_3@swap-Ellen+flavor": "Va a ser un día fantástico... ¡Lo noto!$h#$e#Siento un «no se qué» especial en la nariz...",
+  "dialogue/Elliott/fall_Wed8@swap-Ellen+flavor": "No me importaría probar suerte en la agricultura.#$e#La atmósfera tranquila de una noche en la granja puede ser una buena fuente de inspiración literaria, ¿no crees?$h",
+  "dialogue/MarriageDialogueElliott/OneKid_0@swap-Ellen+flavor": "¿Has tenido tiempo para jugar con %kid1 hoy? Quizá un segundo hijo haría que las cosas fueran más fáciles para ambos.",
+  "data/winter25/Elliott_spouse_y2@swap-Ellen+flavor": "Mi amor, no necesitaba nada especial este día... eres el mayor regalo que un hombre podría desear.$h",
+  "dialogue/MarriageDialogue/summer_Elliott@swap-Ellen": "Una de las cosas que echo de menos del mar es el pescado fresco."
 }

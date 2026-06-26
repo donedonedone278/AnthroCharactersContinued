@@ -1089,5 +1089,14 @@
   "strings/StringsFromMaps/ElliottHouse.6@swap-Ellen": "엘리엇이 분재 나무를 키우는 중인가 봅니다. 잘 자라고 있네요!",
   "dialogue/Alex/event_box3@swap-Alexis": "...고마워, @.#$b#너... 너 다른 남자애들이랑 좀 다르다. 좀 더 세심해.$l^이 동네에서 너랑 제일 사이가 가까워진거 같아... #$b#기뻐.^말로 하긴 좀 쑥스러운 건가?$l",
   "dialogue/Clint/Fri8@swap-Emil+flavor": "돈을 모아서 컴퓨터를 사야겠어...#$e#그 '인터넷'에서 여자친구를 찾을 수 있을지도...$s#$e#왜? 날 그런 눈으로 보지 마! 모두가 멋지고 매력적이고 사교성 넘치는 농부인 게 아니라고!$u#$e#나 같은 사람은 어떻게 해야 하는데? *끙*$s",
-  "dialogue/Clint/Sun8@flavor": "사람들이 아는지, 또 상관할지도 모르지만, 난 내 일에 많은 자부심을 느껴.#$e#사실... 어렸을 땐 대장장이가 꿈이거나 그러진 않았어. 하지만 이게 나야. 그리고 가능한 한 최고의 대장장이가 되고 싶어."
+  "dialogue/Clint/Sun8@flavor": "사람들이 아는지, 또 상관할지도 모르지만, 난 내 일에 많은 자부심을 느껴.#$e#사실... 어렸을 땐 대장장이가 꿈이거나 그러진 않았어. 하지만 이게 나야. 그리고 가능한 한 최고의 대장장이가 되고 싶어.",
+  "dialogue/Elliott/Fri4@flavor": "아... 횃불 들고 너무 내 머리 가까이 오진 말아줘...$8",
+  "dialogue/Elliott/Resort_2@flavor": "아이고 이런! 머리에 미역이 감겼네.#$e#해변에서 지내다 보면 이런 일이 있곤 하지.",
+  "dialogue/MarriageDialogueElliott/Outdoor_4@flavor": "커피 너무 많이 마셨어... 입안에 칼리코 사막이 생겼는걸.$s#$e#오... 커피 때문에 입 냄새나지? 미안해.$7",
+  "dialogue/Elliott/AcceptBirthdayGift_Negative@flavor": "또 한 해가 가고, 흰머리는 늘고... 내 쇠퇴를 기념하는 선물로 생각할게.$s",
+  "dialogue/MarriageDialogueElliott/Indoor_Day_3@swap-Ellen+flavor": "오늘 환상적인 날이 될 거야... 느껴져!$h#$e#코 안에 특별한 느낌을 받고 있어...",
+  "dialogue/Elliott/fall_Wed8@swap-Ellen+flavor": "농장 일을 해보는 것도 괜찮을 것 같아.#$e#농장의 조용한 분위기가 문학적인 영감의 좋은 근원이 될 수 있을 수도 있지, 안 그래?$h",
+  "dialogue/MarriageDialogueElliott/OneKid_0@swap-Ellen+flavor": "오늘 %kid1(이)랑은 놀았어? 아이를 하나 더 가지면 일이 더 쉬워질 수도 있어.",
+  "data/winter25/Elliott_spouse_y2@swap-Ellen+flavor": "내 사랑, 오늘 난 더 필요한게 아무것도 없어... 당신이야말로 한 남자가 받을 수 있는 가장 위대한 선물이니까.$h",
+  "dialogue/MarriageDialogue/summer_Elliott@swap-Ellen": "바다가 그리운 거 하나는 신선한 생선이야."
 }

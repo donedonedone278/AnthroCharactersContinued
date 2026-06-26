@@ -1089,5 +1089,14 @@
   "strings/StringsFromMaps/ElliottHouse.6@swap-Ellen": "Úgy tűnik Elliott egy bonsai fát akar termeszteni. Eddig nagyon menőn néz ki!",
   "dialogue/Alex/event_box3@swap-Alexis": "...Kösz, @.#$b#Te... te más vagy mint a többiek. Megértőbb.$l^Te lettél a legjobb barátom a városból... #$b#Örülök.^Kínos ilyet mondani?$l",
   "dialogue/Clint/Fri8@swap-Emil+flavor": "Spórolnom kellene és venni magamnak egy számítógépet...#$e#Talán az 'interneten' találhatnék magamnak barátnőt...$s#$e#Mi az? Ne ítélkezz! Tudod nem mindenki lehet menő, jó vágású, mindenkivel barátkozó gazda!$u#$e#Mégis mihez kezdhet egy magamféle fickó? *morog*$s",
-  "dialogue/Clint/Sun8@flavor": "Nem tudom, hogy az emberek észrevették-e ezt, vagy érdekli őket egyáltalán, de én nagyon büszke vagyok a munkámra.#$e#Úgy értem... Kisfiú koromban nem arról álmodoztam, hogy kovács leszek. Mégis az vagyok. És én akarok lenni a lehető legjobb kovács."
+  "dialogue/Clint/Sun8@flavor": "Nem tudom, hogy az emberek észrevették-e ezt, vagy érdekli őket egyáltalán, de én nagyon büszke vagyok a munkámra.#$e#Úgy értem... Kisfiú koromban nem arról álmodoztam, hogy kovács leszek. Mégis az vagyok. És én akarok lenni a lehető legjobb kovács.",
+  "dialogue/Elliott/Fri4@flavor": "Áh... ne gyere túl közel a hajamhoz fáklyával...$8",
+  "dialogue/Elliott/Resort_2@flavor": "Ó egek! Hínár került a hajamba.#$e#Ez a baj azzal, ha a strandon pihensz.",
+  "dialogue/MarriageDialogueElliott/Outdoor_4@flavor": "Túl sok kávét ittam... olyan száraz lehet a szám, mint a Calico-sivatag.$s#$e#Óh... elnézést kérek a kávés leheletemért.$7",
+  "dialogue/Elliott/AcceptBirthdayGift_Negative@flavor": "Egy újabb év telt el, egy újabb őszhajszál érkezett... Gondolom ez az ajándék majd a hanyatlásomra fog emlékeztetni.$s",
+  "dialogue/MarriageDialogueElliott/Indoor_Day_3@swap-Ellen+flavor": "Ma fantasztikus napunk lesz... érzem!$h#$e#Ilyen különös érzés van az orromban...",
+  "dialogue/Elliott/fall_Wed8@swap-Ellen+flavor": "Nem bánnám, ha kipróbálhatnám a gazdalétet.#$e#Egy farm csendes légköre jó irodalmi inspirációs forrás lehet, nem gondolod?$h",
+  "dialogue/MarriageDialogueElliott/OneKid_0@swap-Ellen+flavor": "Volt ma időd szórakoztatni a kis %kid1-t? Talán egy második gyerek megkönnyítené mindkettőnk dolgát.",
+  "data/winter25/Elliott_spouse_y2@swap-Ellen+flavor": "Kedvesem, nekem semmi más nem kell ezen a napon... mert te vagy a legnagyobb ajándék amire egy férfi vágyhat.$h",
+  "dialogue/MarriageDialogue/summer_Elliott@swap-Ellen": "Az egyik legfőbb dolog, amit az óceánból hiányolok, az a friss hal."
 }

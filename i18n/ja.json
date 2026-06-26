@@ -1089,5 +1089,14 @@
   "strings/StringsFromMaps/ElliottHouse.6@swap-Ellen": "エリオットは盆栽を仕立てている途中らしい。なかなかかっこいい！",
   "dialogue/Alex/event_box3@swap-Alexis": "…ありがとな、@。#$b#お前は… 他の男達とは違って、親切なんだな。$l^お前は この町で 一番の友達だ…#$b#本当に 感謝してるぜ。^聞いて 恥ずかしくなったか？$l",
   "dialogue/Clint/Fri8@swap-Emil+flavor": "お金をためてパソコンを買わないと…#$e#インターネットで恋人を見つけられるかも知れない…$s#$e#なんだって？別におかしいことじゃないだろ！みんながみんな、カッコよくて社交的な牧場主ってわけじゃないんだ！$u#$e#おれみたいな男はいったいどうしたらいいんだ？ うーん…$s",
-  "dialogue/Clint/Sun8@flavor": "みんなが知っているか、気にしているかどうかは分からないけど、おれは自分の仕事に誇りを持っているんだ。#$e#つまり…子供の頃は、自分が鍛冶屋になるなんて思ってなかった。でも、今のおれがいる。そして、おれは最高の鍛冶屋になりたいんだ。"
+  "dialogue/Clint/Sun8@flavor": "みんなが知っているか、気にしているかどうかは分からないけど、おれは自分の仕事に誇りを持っているんだ。#$e#つまり…子供の頃は、自分が鍛冶屋になるなんて思ってなかった。でも、今のおれがいる。そして、おれは最高の鍛冶屋になりたいんだ。",
+  "dialogue/Elliott/Fri4@flavor": "あぁ…、髪にあんまり触れないで…$8",
+  "dialogue/Elliott/Resort_2@flavor": "なんてことだ！海藻が髪にからまってしまったよ。#$e#ビーチでのんびりするのも考え物だね。",
+  "dialogue/MarriageDialogueElliott/Outdoor_4@flavor": "コーヒーを 飲みすぎた… 口が まるで カリコ砂漠 みたいに 乾いた 気分だよ…$s#$e#ああ… 息が コーヒー臭かったら すまない。$7",
+  "dialogue/Elliott/AcceptBirthdayGift_Negative@flavor": "また一年が過ぎて、また白髪が増えた…このプレゼントは僕の老化を記念しているようだね。$s",
+  "dialogue/MarriageDialogueElliott/Indoor_Day_3@swap-Ellen+flavor": "今日は すばらしい 一日になりそうだ…間違いない！$h#$e#ただ、 そんな気が するんだ…",
+  "dialogue/Elliott/fall_Wed8@swap-Ellen+flavor": "この手で 農作業を するのは 悪くないね。#$e#牧場の 穏やかな雰囲気なら 文学的な インスピレーションが 出やすいだろう。そう思わないかい？$h",
+  "dialogue/MarriageDialogueElliott/OneKid_0@swap-Ellen+flavor": "今日は %kid1を 楽しませる 時間、 ちゃんと 作れた かな？二人目の 子どもが できれば、 僕達 二人とも 生活 しやすく なるかも。",
+  "data/winter25/Elliott_spouse_y2@swap-Ellen+flavor": "ああ愛しい人よ、今日の私に必要なものなんてないんだ… きみこそが私が望む最高の贈り物なのだから。$h",
+  "dialogue/MarriageDialogue/summer_Elliott@swap-Ellen": "海から 離れて 恋しくなった ことと いえば 新鮮な 魚 かな。"
 }

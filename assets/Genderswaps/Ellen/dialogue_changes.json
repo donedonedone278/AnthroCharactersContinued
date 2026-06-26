@@ -145,6 +145,44 @@
         "TwoKids_1": "{{i18n:dialogue/MarriageDialogueElliott/TwoKids_1@swap-Ellen |default={{i18n:dialogue/MarriageDialogueElliott/TwoKids_1}}}}",
         "fall_26": "{{i18n:dialogue/MarriageDialogueElliott/fall_26@swap-Ellen |default={{i18n:dialogue/MarriageDialogueElliott/fall_26}}}}"
       }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogue",
+      "Entries": {
+        "summer_Elliott": "{{i18n:dialogue/MarriageDialogue/summer_Elliott@swap-Ellen |default={{i18n:dialogue/MarriageDialogue/summer_Elliott}}}}"
+      }
+    },
+    {
+      "When": {
+        "Flavor": true
+      },
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Elliott",
+      "Entries": {
+        "fall_Wed8": "{{i18n:dialogue/Elliott/fall_Wed8@swap-Ellen+flavor |default={{i18n:dialogue/Elliott/fall_Wed8@flavor}}}}"
+      }
+    },
+    {
+      "When": {
+        "Flavor": true
+      },
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueElliott",
+      "Entries": {
+        "Indoor_Day_3": "{{i18n:dialogue/MarriageDialogueElliott/Indoor_Day_3@swap-Ellen+flavor |default={{i18n:dialogue/MarriageDialogueElliott/Indoor_Day_3@flavor}}}}",
+        "OneKid_0": "{{i18n:dialogue/MarriageDialogueElliott/OneKid_0@swap-Ellen+flavor |default={{i18n:dialogue/MarriageDialogueElliott/OneKid_0@flavor}}}}"
+      }
+    },
+    {
+      "When": {
+        "Flavor": true
+      },
+      "Action": "EditData",
+      "Target": "Data/Festivals/winter25",
+      "Entries": {
+        "Elliott_spouse_y2": "{{i18n:data/winter25/Elliott_spouse_y2@swap-Ellen+flavor |default={{i18n:data/winter25/Elliott_spouse_y2@swap-Ellen}}}}"
+      }
     }
   ]
 }
