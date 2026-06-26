@@ -1087,5 +1087,7 @@
   "strings/StringsFromMaps/ElliottHouse.2@swap-Ellen": "Elliott'ın çalışma masası. Notlar ve buruşturulmuş kağıtlarla dolu.",
   "strings/StringsFromMaps/ElliottHouse.4@swap-Ellen": "Görünüşe göre Elliott bonzai ağacı yetiştirmeye çalışıyormuş. Şu ana değin harika gidiyor!",
   "strings/StringsFromMaps/ElliottHouse.6@swap-Ellen": "Görünüşe göre Elliott bonzai ağacı yetiştirmeye çalışıyormuş. Şu ana kadar her şey harika gitmiş!",
-  "dialogue/Alex/event_box3@swap-Alexis": "...Teşekkürler, @.#$b#Sen... sen diğerlerinden farklısın. Daha duyarlısın.$l^Tüm kasabadaki en yakın arkadaşım oldun... #$b#Çok hoşnutum.^Bunu söylemesi utanç verici mi?$l"
+  "dialogue/Alex/event_box3@swap-Alexis": "...Teşekkürler, @.#$b#Sen... sen diğerlerinden farklısın. Daha duyarlısın.$l^Tüm kasabadaki en yakın arkadaşım oldun... #$b#Çok hoşnutum.^Bunu söylemesi utanç verici mi?$l",
+  "dialogue/Clint/Fri8@swap-Emil+flavor": "Para biriktirip bilgisayar almalıyım...#$e#Belki 'internetten' kız arkadaş bulabilirim...$s#$e#Ne? Beni yargılama! Herkes havalı, çekici ve sosyal bir çiftçi olamayabiliyor!$u#$e#Benim gibileri ne yapacak? *iç çeker*$s",
+  "dialogue/Clint/Sun8@flavor": "İnsanlar duyuyor veya umursuyor mu bilmiyorum ama yaptığım işle gurur duyuyorum.#$e#Demek istediğim... Çocukken pek de demirci olmak istemiyordum. Ama oldum. Şimdi de olabileceğim en iyi demirci olmak istiyorum."
 }

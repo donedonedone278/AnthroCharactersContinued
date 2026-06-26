@@ -1087,5 +1087,7 @@
   "strings/StringsFromMaps/ElliottHouse.2@swap-Ellen": "El escritorio de {{Elliott}}. Está cubierto de notas y papeles arrugados.",
   "strings/StringsFromMaps/ElliottHouse.4@swap-Ellen": "Parece que {{Elliott}} intenta cultivar un bonsai. ¡De momento está genial!",
   "strings/StringsFromMaps/ElliottHouse.6@swap-Ellen": "Parece que {{Elliott}} intenta cultivar un bonsai. ¡De momento está genial!",
-  "dialogue/Alex/event_box3@swap-Alexis": "...Gracias, @.#$b#Eres... Eres distinto a los demás tíos. Más sensible.$l^Eres la persona con la que mejor me llevo en este pueblo...#$b#Me alegro.^¿Tanta vergüenza da decirlo?$l"
+  "dialogue/Alex/event_box3@swap-Alexis": "...Gracias, @.#$b#Eres... Eres distinto a los demás tíos. Más sensible.$l^Eres la persona con la que mejor me llevo en este pueblo...#$b#Me alegro.^¿Tanta vergüenza da decirlo?$l",
+  "dialogue/Clint/Fri8@swap-Emil+flavor": "Debería ahorrar y comprar un ordenador...#$e#Quizás pueda encontrar una novia en el « internet »...$s#$e#¿Qué? ¡No me juzgues! No todo el mundo puede ser guay, de buen ver, sociable y granjero, ¡sabes!$u#$e#¿Qué se supone que haga un tipo como yo? *Ugh*$s",
+  "dialogue/Clint/Sun8@flavor": "No sé si la gente se da cuenta de esto, o le importa, pero de verdad que me enorgullezco mucho de mi trabajo.#$e#Quiero decir... Cuando era un chiquillo enrealidad no soñaba con ser un herrero. Pero eso es lo que soy. Y quiero ser el mejor herrero que pueda ser."
 }

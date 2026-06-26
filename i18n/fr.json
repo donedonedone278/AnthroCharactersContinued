@@ -1087,5 +1087,7 @@
   "strings/StringsFromMaps/ElliottHouse.2@swap-Ellen": "Le bureau d’Elliott. Il est recouvert de notes et de papiers froissés.",
   "strings/StringsFromMaps/ElliottHouse.4@swap-Ellen": "On dirait que Elliott essaie de faire pousser un bonsaï. C’est une réussite jusqu’ici !",
   "strings/StringsFromMaps/ElliottHouse.6@swap-Ellen": "On dirait que Elliott essaie de faire pousser un bonsaï. C’est une réussite jusqu’ici !",
-  "dialogue/Alex/event_box3@swap-Alexis": "... Merci, @.#$b#Tu... tu es différent des autres gars. Tu es plus sensible.$l^Tu es devenue ma meilleure amie dans tout le village... #$b#Je suis content.^Est-ce que c’est gênant de le dire ?$l"
+  "dialogue/Alex/event_box3@swap-Alexis": "... Merci, @.#$b#Tu... tu es différent des autres gars. Tu es plus sensible.$l^Tu es devenue ma meilleure amie dans tout le village... #$b#Je suis content.^Est-ce que c’est gênant de le dire ?$l",
+  "dialogue/Clint/Fri8@swap-Emil+flavor": "Je devrais économiser et m’acheter un ordinateur...#$e#Peut-être que je pourrais trouver une petite amie sur Internet...$s#$e#Quoi ? Ne me juge pas ! Tout le monde n’est pas un agriculteur cool, et doué pour les relations sociales, tu sais !$u#$e#Qu’est-ce qu’un gars comme moi est censé faire ? *marmonne*$s",
+  "dialogue/Clint/Sun8@flavor": "Je ne sais pas si les gens s’en rendent compte ou s’ils s’en soucient, mais je suis très fier de mon travail.#$e#Quand j’étais petit, je ne rêvais pas vraiment de devenir forgeron. Mais c’est ce que je suis devenu. Et je veux être le meilleur forgeron qu’il soit."
 }

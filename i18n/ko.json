@@ -1087,5 +1087,7 @@
   "strings/StringsFromMaps/ElliottHouse.2@swap-Ellen": "엘리엇의 책상입니다. 메모와 구겨진 종이로 덮여있습니다.",
   "strings/StringsFromMaps/ElliottHouse.4@swap-Ellen": "엘리엇이 분재 나무를 키우는 중인가 봅니다. 잘 자라고 있네요!",
   "strings/StringsFromMaps/ElliottHouse.6@swap-Ellen": "엘리엇이 분재 나무를 키우는 중인가 봅니다. 잘 자라고 있네요!",
-  "dialogue/Alex/event_box3@swap-Alexis": "...고마워, @.#$b#너... 너 다른 남자애들이랑 좀 다르다. 좀 더 세심해.$l^이 동네에서 너랑 제일 사이가 가까워진거 같아... #$b#기뻐.^말로 하긴 좀 쑥스러운 건가?$l"
+  "dialogue/Alex/event_box3@swap-Alexis": "...고마워, @.#$b#너... 너 다른 남자애들이랑 좀 다르다. 좀 더 세심해.$l^이 동네에서 너랑 제일 사이가 가까워진거 같아... #$b#기뻐.^말로 하긴 좀 쑥스러운 건가?$l",
+  "dialogue/Clint/Fri8@swap-Emil+flavor": "돈을 모아서 컴퓨터를 사야겠어...#$e#그 '인터넷'에서 여자친구를 찾을 수 있을지도...$s#$e#왜? 날 그런 눈으로 보지 마! 모두가 멋지고 매력적이고 사교성 넘치는 농부인 게 아니라고!$u#$e#나 같은 사람은 어떻게 해야 하는데? *끙*$s",
+  "dialogue/Clint/Sun8@flavor": "사람들이 아는지, 또 상관할지도 모르지만, 난 내 일에 많은 자부심을 느껴.#$e#사실... 어렸을 땐 대장장이가 꿈이거나 그러진 않았어. 하지만 이게 나야. 그리고 가능한 한 최고의 대장장이가 되고 싶어."
 }

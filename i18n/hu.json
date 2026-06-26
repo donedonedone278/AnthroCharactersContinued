@@ -1087,5 +1087,7 @@
   "strings/StringsFromMaps/ElliottHouse.2@swap-Ellen": "Elliott munkaasztala. Tele van jegyzetekkel és gyűrött papírokkal.",
   "strings/StringsFromMaps/ElliottHouse.4@swap-Ellen": "Úgy tűnik Elliott egy bonsai fát akar termeszteni. Eddig nagyon menőn néz ki!",
   "strings/StringsFromMaps/ElliottHouse.6@swap-Ellen": "Úgy tűnik Elliott egy bonsai fát akar termeszteni. Eddig nagyon menőn néz ki!",
-  "dialogue/Alex/event_box3@swap-Alexis": "...Kösz, @.#$b#Te... te más vagy mint a többiek. Megértőbb.$l^Te lettél a legjobb barátom a városból... #$b#Örülök.^Kínos ilyet mondani?$l"
+  "dialogue/Alex/event_box3@swap-Alexis": "...Kösz, @.#$b#Te... te más vagy mint a többiek. Megértőbb.$l^Te lettél a legjobb barátom a városból... #$b#Örülök.^Kínos ilyet mondani?$l",
+  "dialogue/Clint/Fri8@swap-Emil+flavor": "Spórolnom kellene és venni magamnak egy számítógépet...#$e#Talán az 'interneten' találhatnék magamnak barátnőt...$s#$e#Mi az? Ne ítélkezz! Tudod nem mindenki lehet menő, jó vágású, mindenkivel barátkozó gazda!$u#$e#Mégis mihez kezdhet egy magamféle fickó? *morog*$s",
+  "dialogue/Clint/Sun8@flavor": "Nem tudom, hogy az emberek észrevették-e ezt, vagy érdekli őket egyáltalán, de én nagyon büszke vagyok a munkámra.#$e#Úgy értem... Kisfiú koromban nem arról álmodoztam, hogy kovács leszek. Mégis az vagyok. És én akarok lenni a lehető legjobb kovács."
 }

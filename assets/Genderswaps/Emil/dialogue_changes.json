@@ -44,6 +44,16 @@
       }
     },
     {
+      "When": {
+        "Flavor": true
+      },
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Clint",
+      "Entries": {
+        "Fri8": "{{i18n:dialogue/Clint/Fri8@swap-Emil+flavor |default={{i18n:dialogue/Clint/Fri8@swap-Emil}}}}"
+      }
+    },
+    {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Emily",
       "Entries": {

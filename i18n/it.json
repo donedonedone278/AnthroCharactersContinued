@@ -1087,5 +1087,7 @@
   "strings/StringsFromMaps/ElliottHouse.2@swap-Ellen": "La scrivania di Elliott. È coperta di appunti e fogli accartocciati.",
   "strings/StringsFromMaps/ElliottHouse.4@swap-Ellen": "Pare che Elliott cerchi di coltivare un bonsai. Per ora sembra andargli bene!",
   "strings/StringsFromMaps/ElliottHouse.6@swap-Ellen": "Pare che Elliott cerchi di coltivare un bonsai. Per ora sembra andargli bene!",
-  "dialogue/Alex/event_box3@swap-Alexis": "...Grazie, @.#$b#Sei... sei diverso dagli altri ragazzi. Più sensibile.$l^Sei diventata l'amica migliore che ho in tutto il paese... #$b#Ne sono felice.^È una cosa imbarazzante da dire?$l"
+  "dialogue/Alex/event_box3@swap-Alexis": "...Grazie, @.#$b#Sei... sei diverso dagli altri ragazzi. Più sensibile.$l^Sei diventata l'amica migliore che ho in tutto il paese... #$b#Ne sono felice.^È una cosa imbarazzante da dire?$l",
+  "dialogue/Clint/Fri8@swap-Emil+flavor": "Dovrei mettere da parte dei soldi per comprare un computer...#$e#Magari mi trovo una ragazza su 'internet'...$s#$e#Che c'è? Non mi giudicare! Non siamo tutti agricoltori attraenti, simpatici e socialmente capaci, sai!$u#$e#Cosa dovrebbe fare uno come me? *geme*$s",
+  "dialogue/Clint/Sun8@flavor": "Non so se la gente se ne rende conto, o se gliene importa, ma vado enormemente fiero del mio lavoro.#$e#Cioè... Da bambino, in realtà, non mi sognavo di diventare un fabbro. Ma è quello che sono. E voglio essere il fabbro migliore che posso."
 }

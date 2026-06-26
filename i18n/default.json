@@ -1103,5 +1103,7 @@
   "strings/StringsFromCSFiles/Utility.cs.5373@marriage-neutral": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you partners for life!$h",
   "strings/StringsFromCSFiles/Utility.cs.5375@marriage-neutral": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you partners for life!$h",
   "strings/StringsFromCSFiles/Utility.cs.5377@marriage-neutral": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you partners for life!$h",
-  "dialogue/Alex/event_box3@swap-Alexis": "...Thanks, @.#$b#You... you're different than everyone else. More sensitive.$l^You've become my best friend in the whole town... #$b#I'm glad.^Is that embarrassing to say?$l"
+  "dialogue/Alex/event_box3@swap-Alexis": "...Thanks, @.#$b#You... you're different than everyone else. More sensitive.$l^You've become my best friend in the whole town... #$b#I'm glad.^Is that embarrassing to say?$l",
+  "dialogue/Clint/Fri8@swap-Emil+flavor": "I should save up and buy a computer...#$e#Maybe I can find a boyfriend on the 'internet'...$s#$e#What? Don't judge me! Not everyone is a cool, attractive, socially-adept farmer, you know!$u#$e#What's a panda like me supposed to do? *Groan*$s",
+  "dialogue/Clint/Sun8@flavor": "I don't know if people realize this, or care, but I do take a lot of pride in my work.#$e#I mean... When I was a cub I didn't really dream of becoming a blacksmith. But that's what I am. And I want to be the best blacksmith I can be."
 }

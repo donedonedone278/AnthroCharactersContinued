@@ -50,7 +50,8 @@
         "Wed6": "{{i18n:dialogue/Clint/Wed6@flavor |default={{i18n:dialogue/Clint/Wed6}}}}",
         "Fri8": "{{i18n:dialogue/Clint/Fri8@flavor |default={{i18n:dialogue/Clint/Fri8}}}}",
         "Resort_Shore": "{{i18n:dialogue/Clint/Resort_Shore@flavor |default={{i18n:dialogue/Clint/Resort_Shore}}}}",
-        "Resort_Shore_2": "{{i18n:dialogue/Clint/Resort_Shore_2@flavor |default={{i18n:dialogue/Clint/Resort_Shore_2}}}}"
+        "Resort_Shore_2": "{{i18n:dialogue/Clint/Resort_Shore_2@flavor |default={{i18n:dialogue/Clint/Resort_Shore_2}}}}",
+        "Sun8": "{{i18n:dialogue/Clint/Sun8@flavor |default={{i18n:dialogue/Clint/Sun8}}}}"
       }
     },
     {

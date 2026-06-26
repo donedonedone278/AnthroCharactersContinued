@@ -1087,5 +1087,7 @@
   "strings/StringsFromMaps/ElliottHouse.2@swap-Ellen": "Escrivaninha do Elliott. Está coberta de notas e papéis amassados.",
   "strings/StringsFromMaps/ElliottHouse.4@swap-Ellen": "Parece que o Elliott está tentando cultivar um bonsai. Até agora, está lindo!",
   "strings/StringsFromMaps/ElliottHouse.6@swap-Ellen": "Parece que o Elliott está tentando cultivar um bonsai. Até agora, está lindo!",
-  "dialogue/Alex/event_box3@swap-Alexis": "... Obrigado, @.#$b#Você é diferente dos outros caras. Mais sensível.$l^Você é minha melhor amiga nesta cidade...#$b#Fico feliz.^Não dá vergonha de dizer isso?$l"
+  "dialogue/Alex/event_box3@swap-Alexis": "... Obrigado, @.#$b#Você é diferente dos outros caras. Mais sensível.$l^Você é minha melhor amiga nesta cidade...#$b#Fico feliz.^Não dá vergonha de dizer isso?$l",
+  "dialogue/Clint/Fri8@swap-Emil+flavor": "Eu devia guardar dinheiro e comprar um computador...#$e#Talvez eu consiga achar uma namorada na 'internet'...$s#$e#O quê? Não me julgue! Nem todo mundo é legal, atraente, e bom de conversa, sabia?!$u#$e#O que um cara como eu precisa fazer? *Suspira*$s",
+  "dialogue/Clint/Sun8@flavor": "Eu não sei se as pessoas reparam nisso, ou se não se importam, mas eu tenho muito orgulho no meu trabalho.#$e#Quer dizer... Quando eu era pequeno meu sonho não era se tornar um ferreiro. Mas é isso que eu sou hoje. E eu quero ser o melhor ferreiro possível."
 }

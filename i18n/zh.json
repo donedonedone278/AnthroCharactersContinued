@@ -1089,5 +1089,7 @@
   "strings/StringsFromMaps/ElliottHouse.2@swap-Ellen": "{{Elliott}}的办公桌。上面堆满了笔记和揉皱的纸团。",
   "strings/StringsFromMaps/ElliottHouse.4@swap-Ellen": "看起来，{{Elliott}}打算种植一个盆栽。它看起来酷呆了！",
   "strings/StringsFromMaps/ElliottHouse.6@swap-Ellen": "看起来，{{Elliott}}打算种植一个盆栽。它看起来酷呆了！",
-  "dialogue/Alex/event_box3@swap-Alexis": "……谢谢你，@。#$b#你和别人不一样。你的心思更加细腻。$l^你是我在整个镇上最好的朋友……#$b#我很高兴。^这种话很难启齿吗？$l"
+  "dialogue/Alex/event_box3@swap-Alexis": "……谢谢你，@。#$b#你和别人不一样。你的心思更加细腻。$l^你是我在整个镇上最好的朋友……#$b#我很高兴。^这种话很难启齿吗？$l",
+  "dialogue/Clint/Fri8@swap-Emil+flavor": "我应该攒钱买台电脑……#$e#在“互联网”上说不定能找到女朋友……$s#$e#什么？你别看不起我！又不是所有人都长得帅，有魅力，善于社交，还有自己的农场的！$u#$e#我这种人到底要咋办啊？哎哟……$s",
+  "dialogue/Clint/Sun8@flavor": "我其实对自己的工作很自豪，不过可能没人意识到，也没人在意。#$e#我跟你说……我小时候的梦想不是当铁匠，可是现在我成为铁匠了，而且我想当最好的铁匠。"
 }

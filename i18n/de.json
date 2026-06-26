@@ -1087,5 +1087,7 @@
   "strings/StringsFromMaps/ElliottHouse.2@swap-Ellen": "Elliotts Schreibtisch. Voller Notizen und zerknülltem Papier.",
   "strings/StringsFromMaps/ElliottHouse.4@swap-Ellen": "Scheint, als würde Elliott versuchen, einen Bonsai-Baum wachsen zu lassen. Sieht bisher cool aus!",
   "strings/StringsFromMaps/ElliottHouse.6@swap-Ellen": "Scheint, als würde Elliott versuchen, einen Bonsai-Baum wachsen zu lassen. Sieht bisher cool aus!",
-  "dialogue/Alex/event_box3@swap-Alexis": "... Danke, @.#$b#Du... du bist anders als die anderen Typen. Einfühlsamer.$l^Du bist meine beste Freundin in ganz Pelikan...#$b#Ich bin froh.^Ist es peinlich, das zu sagen?$l"
+  "dialogue/Alex/event_box3@swap-Alexis": "... Danke, @.#$b#Du... du bist anders als die anderen Typen. Einfühlsamer.$l^Du bist meine beste Freundin in ganz Pelikan...#$b#Ich bin froh.^Ist es peinlich, das zu sagen?$l",
+  "dialogue/Clint/Fri8@swap-Emil+flavor": "Ich sollte sparen und mir einen Computer kaufen...#$e#Vielleicht kann ich im 'Internet' eine Freundin finden...$s#$e#Was? Verurteile mich nicht! Nicht jeder ist ein cooler, attraktiver, gesellschaftsfähiger Bauer, weißt du!$u#$e#Was soll ein Typ wie ich tun? *stöhn*$s",
+  "dialogue/Clint/Sun8@flavor": "Ich weiß nicht, ob die Leute das wissen oder ob es sie interessiert, aber ich bin sehr stolz auf meine Arbeit...#$e#Als ich ein Junge war, habe ich nicht davon geträumt, Schmied zu werden. Aber das bin ich nun mal. Und ich will der beste Schmied sein, der ich sein kann."
 }
