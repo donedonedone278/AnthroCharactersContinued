@@ -1098,5 +1098,10 @@
   "dialogue/Elliott/fall_Wed8@swap-Ellen+flavor": "농장 일을 해보는 것도 괜찮을 것 같아.#$e#농장의 조용한 분위기가 문학적인 영감의 좋은 근원이 될 수 있을 수도 있지, 안 그래?$h",
   "dialogue/MarriageDialogueElliott/OneKid_0@swap-Ellen+flavor": "오늘 %kid1(이)랑은 놀았어? 아이를 하나 더 가지면 일이 더 쉬워질 수도 있어.",
   "data/winter25/Elliott_spouse_y2@swap-Ellen+flavor": "내 사랑, 오늘 난 더 필요한게 아무것도 없어... 당신이야말로 한 남자가 받을 수 있는 가장 위대한 선물이니까.$h",
-  "dialogue/MarriageDialogue/summer_Elliott@swap-Ellen": "바다가 그리운 거 하나는 신선한 생선이야."
+  "dialogue/MarriageDialogue/summer_Elliott@swap-Ellen": "바다가 그리운 거 하나는 신선한 생선이야.",
+  "strings/StringsFromMaps/HaleyHouse.17@swap-Emil": "우리 어여쁜 딸들에게:^너희 둘이 무척 보고 싶구나. 잘 지내고 있지? 우리는 어제 페른 섬을 떠났단다, 두 달 동안 거기에 있었지.^정말 멋진 경험이었어... 적극 추천해.^꼭 건강하게 잘 챙겨 먹고, 전기세 내는 것도 잊지 말거라!^^사랑을 담아, 엄마 & 아빠",
+  "dialogue/Haley/Wed8@swap-Hayden": "이 마을에서 맘에 드는 건 딱 두 가지야.#$b#하나는 해변이고.#$e#나머지 하나는 비밀이야! *히히*$h",
+  "dialogue/Haley/AcceptGift_(O)StardropTea@flavor": "날 위해서? 오오오... 이걸 마실지 샴푸로 쓸지 못 정하겠어...",
+  "strings/StringsFromMaps/HaleyHouse.10@flavor": "디럭스 화장대입니다. 별의별 크림, 페인트, 그리고 가루가 묻어있습니다.",
+  "dialogue/Haley/eventSeen_11_memory_oneweek@swap-Hayden+flavor": "저번에 언니가 '다람쥐 빵'이라고 부르는 걸 구웠어...$u#$e#맛이 어땠냐고? 음... 글쎄, 내가 복실한 꼬리가 있었다면 맛있어했을 거야.$h"
 }

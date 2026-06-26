@@ -1100,5 +1100,10 @@
   "dialogue/Elliott/fall_Wed8@swap-Ellen+flavor": "我试试做农活也不是不可以。#$e#你不觉得农场那种安静的氛围很有助于发掘写作灵感吗？$h",
   "dialogue/MarriageDialogueElliott/OneKid_0@swap-Ellen+flavor": "你今天有花一点儿时间照顾小%kid1玩耍吗？可能生两个孩子会让我们更轻松些。",
   "data/winter25/Elliott_spouse_y2@swap-Ellen+flavor": "亲爱的，今天我什么都不需要……你已经是我能得到的最好的礼物了。$h",
-  "dialogue/MarriageDialogue/summer_Elliott@swap-Ellen": "说起大海，我最想念的是那里新鲜的鱼。"
+  "dialogue/MarriageDialogue/summer_Elliott@swap-Ellen": "说起大海，我最想念的是那里新鲜的鱼。",
+  "strings/StringsFromMaps/HaleyHouse.17@swap-Emil": "致我们心爱的女孩们：^我们很想念你们，也希望你们过的很好。我们在芬群岛待了两个月，昨晚刚刚离开。^那是段很奇妙的经历……强烈推荐你们也去那里看看。^一定要健康饮食，还有不要忘记交电费！^^爱你们的爸爸妈妈",
+  "dialogue/Haley/Wed8@swap-Hayden": "这个小镇，有两点是我喜欢的。#$b#一个是海滩。#$e#另一个保密！* 咯咯笑 *$h",
+  "dialogue/Haley/AcceptGift_(O)StardropTea@flavor": "送我的？欸……不知道是应该喝了，还是用来洗头发……",
+  "strings/StringsFromMaps/HaleyHouse.10@flavor": "这是一个豪华的化妆台。有各种各样的膏状物、腮红和粉末摆在桌面上。",
+  "dialogue/Haley/eventSeen_11_memory_oneweek@swap-Hayden+flavor": "前几天，艾米丽烤了一个东西，她说叫“松鼠面包”……$u#$e#味道么，呃……如果我真有毛茸茸的尾巴，或许会喜欢吧。$h"
 }

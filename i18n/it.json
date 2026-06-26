@@ -1098,5 +1098,10 @@
   "dialogue/Elliott/fall_Wed8@swap-Ellen+flavor": "Non mi dispiacerebbe cimentarmi nel lavoro dei campi.#$e#La quieta atmosfera di una fattoria potrebbe essere una buona fonte d'ispirazione letteraria, non trovi?$h",
   "dialogue/MarriageDialogueElliott/OneKid_0@swap-Ellen+flavor": "Hai avuto del tempo, oggi, per intrattenere %kid1? Può darsi che un secondo figlio semplifichi le cose ad entrambi.",
   "data/winter25/Elliott_spouse_y2@swap-Ellen+flavor": "Amore mio, non necessito di alcunché in questo giorno... Il dono più bello che un uomo possa desiderare sei tu.$h",
-  "dialogue/MarriageDialogue/summer_Elliott@swap-Ellen": "Una cosa che mi manca dell'oceano è il pesce fresco."
+  "dialogue/MarriageDialogue/summer_Elliott@swap-Ellen": "Una cosa che mi manca dell'oceano è il pesce fresco.",
+  "strings/StringsFromMaps/HaleyHouse.17@swap-Emil": "Alle nostre amate figliole:^Ci mancate e speriamo che ve la passiate bene da sole. Abbiamo lasciato le isole Felce stanotte, dopo una permanenza di due mesi.^È stata un'esperienza stupenda... davvero da raccomandare.^Vedete di mangiare sano e non scordatevi di pagare la bolletta della luce!^^Baci, Mamma & Papà",
+  "dialogue/Haley/Wed8@swap-Hayden": "Di questo paese mi piacciono solo due cose.#$b#Una è la spiaggia.#$e#L'altra è un segreto! *risatina*$h",
+  "dialogue/Haley/AcceptGift_(O)StardropTea@flavor": "Per me? Ooooh... Non riesco a decidere se berlo, o usarlo come shampoo...",
+  "strings/StringsFromMaps/HaleyHouse.10@flavor": "Una toeletta deluxe. La superficie è cosparsa di ogni tipo di creme, trucchi e ciprie.",
+  "dialogue/Haley/eventSeen_11_memory_oneweek@swap-Hayden+flavor": "L'altro giorno, Emily ha preparato un piatto chiamato 'pasticcio dello scoiattolo'...$u#$e#Che sapore aveva? Ehm... Beh, se avessi avuto una coda più pelosa, probabilmente l'avrei adorato.$h"
 }

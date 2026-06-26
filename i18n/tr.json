@@ -1098,5 +1098,10 @@
   "dialogue/Elliott/fall_Wed8@swap-Ellen+flavor": "Çiftçilik ile uğraşmayı denerdim aslında.#$e#Sessiz atmosfer edebiyat için harika bir ilham kaynağı olabilir. Sence de öyle değil mi?$h",
   "dialogue/MarriageDialogueElliott/OneKid_0@swap-Ellen+flavor": "Bugün %kid1 ile vakit geçirdin mi, eğlendiniz mi? Belki de ikinci bir çocuk her şeyi yoluna koyar.",
   "data/winter25/Elliott_spouse_y2@swap-Ellen+flavor": "Sevgilim, benim hiçbir şeye ihtiyacım yok... Sen zaten bir erkeğin isteyebileceği en mükemmel hediyesin.$h",
-  "dialogue/MarriageDialogue/summer_Elliott@swap-Ellen": "Deniz ile ilgili en çok özlediğim şeylerden biri de taze balıklar."
+  "dialogue/MarriageDialogue/summer_Elliott@swap-Ellen": "Deniz ile ilgili en çok özlediğim şeylerden biri de taze balıklar.",
+  "strings/StringsFromMaps/HaleyHouse.17@swap-Emil": "Biricik kızlarımıza,^Sizi özledik. Umarız bir başınıza iyisinizdir. İki aylık seyahatin ardından dün gece Eğrelti Otu Adaları'ndan ayrıldık.^Harika bir deneyimdi... Size de şiddetle öneriyoruz.^Sağlıklı beslendiğinizden emin olun ve elektrik faturasını ödemeyi unutmayın!^^Sevgilerle, Anneniz & Babanız",
+  "dialogue/Haley/Wed8@swap-Hayden": "Bu kasaba hakkında sevdiğim sadece iki şey var.#$b#Bunlardan biri kumsal.#$e#Diğeri ise sır! *kıkırdar*$h",
+  "dialogue/Haley/AcceptGift_(O)StardropTea@flavor": "Benim için mi? Uuu... İçsem mi, şampuan olarak mı kullansam emin olamadım...",
+  "strings/StringsFromMaps/HaleyHouse.10@flavor": "Lüks bir makyaj masası. Üstünde her türlü krem, boya ve pudra var.",
+  "dialogue/Haley/eventSeen_11_memory_oneweek@swap-Hayden+flavor": "Geçen gün Emily, 'sincap ekmeği' adında bir şey pişirdi...$u#$e#Tadı nasıl mıydı? Şey... Eğer kuyruğum biraz daha kabarık olsaydı muhtemelen bayılırdım.$h"
 }

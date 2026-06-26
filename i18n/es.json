@@ -1098,5 +1098,10 @@
   "dialogue/Elliott/fall_Wed8@swap-Ellen+flavor": "No me importaría probar suerte en la agricultura.#$e#La atmósfera tranquila de una noche en la granja puede ser una buena fuente de inspiración literaria, ¿no crees?$h",
   "dialogue/MarriageDialogueElliott/OneKid_0@swap-Ellen+flavor": "¿Has tenido tiempo para jugar con %kid1 hoy? Quizá un segundo hijo haría que las cosas fueran más fáciles para ambos.",
   "data/winter25/Elliott_spouse_y2@swap-Ellen+flavor": "Mi amor, no necesitaba nada especial este día... eres el mayor regalo que un hombre podría desear.$h",
-  "dialogue/MarriageDialogue/summer_Elliott@swap-Ellen": "Una de las cosas que echo de menos del mar es el pescado fresco."
+  "dialogue/MarriageDialogue/summer_Elliott@swap-Ellen": "Una de las cosas que echo de menos del mar es el pescado fresco.",
+  "strings/StringsFromMaps/HaleyHouse.17@swap-Emil": "A nuestras queridas hijas:^^Os echamos de menos y esperamos que estéis bien solas. Anoche nos fuimos de las islas Helecho, tras pasar allí dos meses. Ha sido una experiencia maravillosa... Muy recomendable.^¡Aseguraos de comer sano y que no se os olvide pagar la factura de la luz!^^Con cariño,^Mamá y papá",
+  "dialogue/Haley/Wed8@swap-Hayden": "Solo hay dos cosas que me gustan en este pueblo.#$b#Una de ellas es la playa.#$e#¡La otra es un secreto! *Ji, ji*$h",
+  "dialogue/Haley/AcceptGift_(O)StardropTea@flavor": "¿Para mí? Ooooh... No me decido si debería bebérmelo, o usarlo de champú...",
+  "strings/StringsFromMaps/HaleyHouse.10@flavor": "Un tocador lujoso. Está cubierto de todo tipo de cremas y maquillaje.",
+  "dialogue/Haley/eventSeen_11_memory_oneweek@swap-Hayden+flavor": "El otro día, Emily horneó algo llamado 'hogaza de ardilla'...$u#$e#¿Que cómo sabía? Ehm... bueno, si mi pompi fuera un poco más peludo probablemente me hubiera encantado.$h"
 }

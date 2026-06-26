@@ -1098,5 +1098,10 @@
   "dialogue/Elliott/fall_Wed8@swap-Ellen+flavor": "Ich hätte nichts dagegen, mal das Arbeiten auf dem Hof auszuprobieren.#$e#Die ruhige Atmosphäre könnte eine gute Quelle für literarische Inspirationen sein, findest du nicht?$h",
   "dialogue/MarriageDialogueElliott/OneKid_0@swap-Ellen+flavor": "Hattest du heute etwas Zeit, mit Klein-%kid1 zu spielen? Vielleicht würde ein zweites Kind die Dinge für uns beide etwas einfacher machen.",
   "data/winter25/Elliott_spouse_y2@swap-Ellen+flavor": "Mein Schatz, ich brauche an diesem Tag gar nichts... Du bist bereits das größte Geschenk, das sich ein Mann wünschen kann.$h",
-  "dialogue/MarriageDialogue/summer_Elliott@swap-Ellen": "Eine der Dinge, die ich vom Meer vermisse, sind die frischen Fische."
+  "dialogue/MarriageDialogue/summer_Elliott@swap-Ellen": "Eine der Dinge, die ich vom Meer vermisse, sind die frischen Fische.",
+  "strings/StringsFromMaps/HaleyHouse.17@swap-Emil": "An unsere geliebten Mädchen:^Wir vermissen euch und hoffen, dass ihr alleine zurechtkommt. Wir haben letzte Nacht die Fern-Inseln verlassen, nachdem wir zwei Monate dort waren.^Es war eine wundervolle Erfahrung... höchst empfehlenswert.^Esst immer gesund und vergesst nicht, die Rechnung für den Strom zu zahlen!^^In Liebe, Mama und Papa",
+  "dialogue/Haley/Wed8@swap-Hayden": "Es gibt genau zwei Dinge, die ich an dieser Stadt mag.#$b#Das eine ist der Strand.#$e#Das andere ist ein Geheimnis! *kicher*$h",
+  "dialogue/Haley/AcceptGift_(O)StardropTea@flavor": "Für mich? Ooooh... Ich kann mich nicht entscheiden, ob ich es trinken oder als Shampoo benutzen soll....",
+  "strings/StringsFromMaps/HaleyHouse.10@flavor": "Eine Deluxe-Kosmetiktasche. Alle möglichen Cremes, Farben und Puder sind zu sehen.",
+  "dialogue/Haley/eventSeen_11_memory_oneweek@swap-Hayden+flavor": "Neulich hat Emily etwas gebacken, das man 'Eichhörnchenbrot' nennt... $u#$e#Wie hat es geschmeckt? Nun, wenn mein Schweif etwas buschiger gewesen wäre, hätte ich es wahrscheinlich mehr genossen.$h"
 }

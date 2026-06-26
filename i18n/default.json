@@ -826,7 +826,7 @@
   "dialogue/MarriageDialogueHaley/OneKid_3@swap-Hayden": "Isn't it strange? I'm not used to being a father.",
   "dialogue/MarriageDialogueHaley/Rainy_Day_3@swap-Hayden+flavor": "I can't go outside today... my feathers will go limp. Forgive me, dear.$s#$e#I want to look my best for you.",
   "dialogue/MarriageDialogueHaley/Outdoor_Haley@swap-Hayden+flavor": "Looks like a good day to feel the breeze through my feathers, don't you think, sweetheart?$h",
-  "dialogue/MarriageDialogueHaley/TwoKids_2@swap-Hayden+flavor": "Isn't %kid2 a very good-looking nestling?",
+  "dialogue/MarriageDialogueHaley/TwoKids_2@swap-Hayden+flavor": "Isn't %kid2 a very good-looking hatchling?",
   "dialogue/MarriageDialogueHaley/TwoKids_3@swap-Hayden+flavor": "A big house, two hatchlings, and a beautiful plot of land. I'm not sure what else I could ask for.",
   "dialogue/MarriageDialogueHaley/summer_3@swap-Hayden+flavor": "Sorry if I don't look my best... the air is just so humid that my feathers don't hold up too well.",
   "dialogue/MarriageDialogueHaley/winter_14@swap-Hayden+flavor": "My feathers feel so stiff in this weather.",
@@ -1114,5 +1114,10 @@
   "dialogue/Elliott/fall_Wed8@swap-Ellen+flavor": "I wouldn't mind trying my hoof at farming.#$e#The quiet atmosphere of a farm might be a good source of literary inspiration, don't you think?$h",
   "dialogue/MarriageDialogueElliott/OneKid_0@swap-Ellen+flavor": "Have you had any time to entertain little %kid1 today? Maybe a second foal will make things easier for both of us.",
   "data/winter25/Elliott_spouse_y2@swap-Ellen+flavor": "My dear, I require nothing at all on this day... you are already the greatest gift a mare could hope for.$h",
-  "dialogue/MarriageDialogue/summer_Elliott@swap-Ellen": "One of the main things I miss about the ocean is the sea air."
+  "dialogue/MarriageDialogue/summer_Elliott@swap-Ellen": "One of the main things I miss about the ocean is the sea air.",
+  "strings/StringsFromMaps/HaleyHouse.17@swap-Emil": "To our beloved children:^We miss you and hope that you are doing okay on your own. We just left the Fern Islands last night, after staying for two months.^It was a wonderful experience... highly recommended.^Make sure you eat healthy and don't forget to pay the electricity bill!^^Love, Mom & Dad",
+  "dialogue/Haley/Wed8@swap-Hayden": "There are only two things I like about this town.#$b#One of them is the beach.#$e#The other one is a secret! *grin*$h",
+  "dialogue/Haley/AcceptGift_(O)StardropTea@flavor": "For me? Ooooh... I can't decide if I should drink it, or work it into my fur...",
+  "strings/StringsFromMaps/HaleyHouse.10@flavor": "It's a deluxe vanity. There's all kinds of grooming and beauty products dotting the surface.",
+  "dialogue/Haley/eventSeen_11_memory_oneweek@swap-Hayden+flavor": "The other day, {{Emily}} baked something called a 'squirrel loaf'...$u#$e#How'd it taste? Um... well, if my talons were a little sharper I probably would've loved it.$h"
 }

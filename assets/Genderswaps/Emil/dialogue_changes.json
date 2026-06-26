@@ -255,6 +255,7 @@
       "Entries": {
         "Blacksmith.4": "{{i18n:strings/StringsFromMaps/Blacksmith.4@swap-Emil |default={{i18n:strings/StringsFromMaps/Blacksmith.4}}}}",
         "HaleyHouse.8": "{{i18n:strings/StringsFromMaps/HaleyHouse.8@swap-Emil |default={{i18n:strings/StringsFromMaps/HaleyHouse.8}}}}",
+        "HaleyHouse.17": "{{i18n:strings/StringsFromMaps/HaleyHouse.17@swap-Emil |default={{i18n:strings/StringsFromMaps/HaleyHouse.17}}}}",
         "Blacksmith.2": "{{i18n:strings/StringsFromMaps/Blacksmith.2@swap-Emil |default={{i18n:strings/StringsFromMaps/Blacksmith.2}}}}",
         "Blacksmith.3": "{{i18n:strings/StringsFromMaps/Blacksmith.3@swap-Emil |default={{i18n:strings/StringsFromMaps/Blacksmith.3}}}}"
       }

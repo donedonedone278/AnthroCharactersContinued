@@ -74,7 +74,8 @@
         "eventSeen_12_memory_oneweek": "{{i18n:dialogue/Haley/eventSeen_12_memory_oneweek@swap-Hayden |default={{i18n:dialogue/Haley/eventSeen_12_memory_oneweek}}}}",
         "winter_Thu6": "{{i18n:dialogue/Haley/winter_Thu6@swap-Hayden |default={{i18n:dialogue/Haley/winter_Thu6}}}}",
         "AcceptBirthdayGift_Loved": "{{i18n:dialogue/Haley/AcceptBirthdayGift_Loved@swap-Hayden |default={{i18n:dialogue/Haley/AcceptBirthdayGift_Loved}}}}",
-        "Sun6": "{{i18n:dialogue/Haley/Sun6@swap-Hayden |default={{i18n:dialogue/Haley/Sun6}}}}"
+        "Sun6": "{{i18n:dialogue/Haley/Sun6@swap-Hayden |default={{i18n:dialogue/Haley/Sun6}}}}",
+        "Wed8": "{{i18n:dialogue/Haley/Wed8@swap-Hayden |default={{i18n:dialogue/Haley/Wed8}}}}"
       }
     },
     {
@@ -89,7 +90,8 @@
         "summer_Mon": "{{i18n:dialogue/Haley/summer_Mon@swap-Hayden+flavor |default={{i18n:dialogue/Haley/summer_Mon}}}}",
         "summer_Thu": "{{i18n:dialogue/Haley/summer_Thu@swap-Hayden+flavor |default={{i18n:dialogue/Haley/summer_Thu}}}}",
         "summer_Thu6": "{{i18n:dialogue/Haley/summer_Thu6@swap-Hayden+flavor |default={{i18n:dialogue/Haley/summer_Thu6}}}}",
-        "fall_Sun": "{{i18n:dialogue/Haley/fall_Sun@swap-Hayden+flavor |default={{i18n:dialogue/Haley/fall_Sun}}}}"
+        "fall_Sun": "{{i18n:dialogue/Haley/fall_Sun@swap-Hayden+flavor |default={{i18n:dialogue/Haley/fall_Sun}}}}",
+        "eventSeen_11_memory_oneweek": "{{i18n:dialogue/Haley/eventSeen_11_memory_oneweek@swap-Hayden+flavor |default={{i18n:dialogue/Haley/eventSeen_11_memory_oneweek}} |Emily={{Emily}}}}"
       }
     },
     {

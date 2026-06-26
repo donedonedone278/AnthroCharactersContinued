@@ -111,7 +111,8 @@
         "summer_Thu": "{{i18n:dialogue/Haley/summer_Thu@flavor |default={{i18n:dialogue/Haley/summer_Thu}}}}",
         "summer_Thu6": "{{i18n:dialogue/Haley/summer_Thu6@flavor |default={{i18n:dialogue/Haley/summer_Thu6}}}}",
         "fall_Sun": "{{i18n:dialogue/Haley/fall_Sun@flavor |default={{i18n:dialogue/Haley/fall_Sun}}}}",
-        "Resort_Towel": "{{i18n:dialogue/Haley/Resort_Towel@flavor |default={{i18n:dialogue/Haley/Resort_Towel}}}}"
+        "Resort_Towel": "{{i18n:dialogue/Haley/Resort_Towel@flavor |default={{i18n:dialogue/Haley/Resort_Towel}}}}",
+        "AcceptGift_(O)StardropTea": "{{i18n:dialogue/Haley/AcceptGift_(O)StardropTea@flavor |default={{i18n:dialogue/Haley/AcceptGift_(O)StardropTea}}}}"
       }
     },
     {
@@ -986,7 +987,8 @@
         "JojaMart.67": "{{i18n:strings/StringsFromMaps/JojaMart.67@flavor |default={{i18n:strings/StringsFromMaps/JojaMart.67}}}}",
         "JojaMart.80": "{{i18n:strings/StringsFromMaps/JojaMart.80@flavor |default={{i18n:strings/StringsFromMaps/JojaMart.80}}}}",
         "Pirates5": "{{i18n:strings/StringsFromMaps/Pirates5@flavor |default={{i18n:strings/StringsFromMaps/Pirates5}}}}",
-        "SamHouse.3": "{{i18n:strings/StringsFromMaps/SamHouse.3@flavor |default={{i18n:strings/StringsFromMaps/SamHouse.3}}}}"
+        "SamHouse.3": "{{i18n:strings/StringsFromMaps/SamHouse.3@flavor |default={{i18n:strings/StringsFromMaps/SamHouse.3}}}}",
+        "HaleyHouse.10": "{{i18n:strings/StringsFromMaps/HaleyHouse.10@flavor |default={{i18n:strings/StringsFromMaps/HaleyHouse.10}}}}"
       }
     },
     {

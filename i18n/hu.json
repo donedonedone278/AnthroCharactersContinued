@@ -1098,5 +1098,10 @@
   "dialogue/Elliott/fall_Wed8@swap-Ellen+flavor": "Nem bánnám, ha kipróbálhatnám a gazdalétet.#$e#Egy farm csendes légköre jó irodalmi inspirációs forrás lehet, nem gondolod?$h",
   "dialogue/MarriageDialogueElliott/OneKid_0@swap-Ellen+flavor": "Volt ma időd szórakoztatni a kis %kid1-t? Talán egy második gyerek megkönnyítené mindkettőnk dolgát.",
   "data/winter25/Elliott_spouse_y2@swap-Ellen+flavor": "Kedvesem, nekem semmi más nem kell ezen a napon... mert te vagy a legnagyobb ajándék amire egy férfi vágyhat.$h",
-  "dialogue/MarriageDialogue/summer_Elliott@swap-Ellen": "Az egyik legfőbb dolog, amit az óceánból hiányolok, az a friss hal."
+  "dialogue/MarriageDialogue/summer_Elliott@swap-Ellen": "Az egyik legfőbb dolog, amit az óceánból hiányolok, az a friss hal.",
+  "strings/StringsFromMaps/HaleyHouse.17@swap-Emil": "Szeretett lányainknak:^Hiányoztok nekünk, és reméljük, hogy jól boldogultok egyedül. Tegnap este hagytuk el a Páfrány-szigeteket, miután két hónapot itt töltöttünk.^Csodálatos élmény volt... feltétlenül ajánljuk nektek.^Egyetek egészségesen, és ne felejtsétek el kifizetni a villanyszámlát!^^Szeretettel, Anyu és Apu",
+  "dialogue/Haley/Wed8@swap-Hayden": "Csak két dolgot bírok ebben a városban.#$b#Az egyik a tengerpart.#$e#A másik titok! *kuncog*$h",
+  "dialogue/Haley/AcceptGift_(O)StardropTea@flavor": "Ez az enyém? Óóóóh... Nem tudom eldönteni, hogy megigyam, vagy samponként használjam...",
+  "strings/StringsFromMaps/HaleyHouse.10@flavor": "Ez egy luxus piperetáska. Mindenféle krém, festék és púder borítja a felszínét.",
+  "dialogue/Haley/eventSeen_11_memory_oneweek@swap-Hayden+flavor": "A minap Emily sütött egy úgynevezett 'mókus kenyeret'...$u#$e#Hogy milyen volt az íze? Öhm... nos, ha a farkam kissé bozontosabb volna, akkor lehet élveztem volna.$h"
 }

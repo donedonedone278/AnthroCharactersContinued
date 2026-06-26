@@ -1098,5 +1098,10 @@
   "dialogue/Elliott/fall_Wed8@swap-Ellen+flavor": "Eu não me importaria em viver da terra.#$e#A atmosfera calma de uma fazenda pode ser uma ótima fonte de inspiração literária, não acha?$h",
   "dialogue/MarriageDialogueElliott/OneKid_0@swap-Ellen+flavor": "Você tirou um tempo para divertir %kid1 hoje? Talvez uma segunda criança facilite as coisas para nós dois.",
   "data/winter25/Elliott_spouse_y2@swap-Ellen+flavor": "Meu amor, eu não preciso de nada no dia de hoje... você já é o maior presente que um homem pode desejar.$h",
-  "dialogue/MarriageDialogue/summer_Elliott@swap-Ellen": "Uma das coisas que mais sinto falta no oceano é de peixe fresco."
+  "dialogue/MarriageDialogue/summer_Elliott@swap-Ellen": "Uma das coisas que mais sinto falta no oceano é de peixe fresco.",
+  "strings/StringsFromMaps/HaleyHouse.17@swap-Emil": "Para nossas amadas meninas: ^sentimos saudades e esperamos que vocês estejam se saindo bem sozinhas. Deixamos as Ilhas Samambaia noite passada, após uma estadia de dois meses.^Foi uma experiência maravilhosa... altamente recomendada.^Sempre comam suas verduras e não se esqueçam de pagar a conta de energia!^^Com amor, papai e mamãe.",
+  "dialogue/Haley/Wed8@swap-Hayden": "Só há duas coisas que gosto nesta cidade.#$b#Uma delas é a praia.#$e#A outra é segredo! Hi, hi...$h",
+  "dialogue/Haley/AcceptGift_(O)StardropTea@flavor": "Para mim? Ooooh... não consigo decidir se devo beber, ou usar como xampu...",
+  "strings/StringsFromMaps/HaleyHouse.10@flavor": "O luxo do luxo. Há todos os tipos de cremes e pinturas; pós para o rosto cobrem a superfície.",
+  "dialogue/Haley/eventSeen_11_memory_oneweek@swap-Hayden+flavor": "Um dia desses, a Emily assou algo chamado 'pão de esquilo'...$u#$e#Como era o gosto? Hm... bem, se minha cauda fosse mais peluda eu provavelmente iria amar.$h"
 }

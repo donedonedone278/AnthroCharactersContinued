@@ -1098,5 +1098,10 @@
   "dialogue/Elliott/fall_Wed8@swap-Ellen+flavor": "この手で 農作業を するのは 悪くないね。#$e#牧場の 穏やかな雰囲気なら 文学的な インスピレーションが 出やすいだろう。そう思わないかい？$h",
   "dialogue/MarriageDialogueElliott/OneKid_0@swap-Ellen+flavor": "今日は %kid1を 楽しませる 時間、 ちゃんと 作れた かな？二人目の 子どもが できれば、 僕達 二人とも 生活 しやすく なるかも。",
   "data/winter25/Elliott_spouse_y2@swap-Ellen+flavor": "ああ愛しい人よ、今日の私に必要なものなんてないんだ… きみこそが私が望む最高の贈り物なのだから。$h",
-  "dialogue/MarriageDialogue/summer_Elliott@swap-Ellen": "海から 離れて 恋しくなった ことと いえば 新鮮な 魚 かな。"
+  "dialogue/MarriageDialogue/summer_Elliott@swap-Ellen": "海から 離れて 恋しくなった ことと いえば 新鮮な 魚 かな。",
+  "strings/StringsFromMaps/HaleyHouse.17@swap-Emil": "愛しい娘たちへ^2人とも元気ですか。会えなくてさびしいです。2か月の滞在のあと、わたしたちはフェーン諸島を離れました。^すばらしいひとときでした…あなたたちも行ってみてはどうでしょうか。^健康的な食事と、電気料金の支払いを忘れないようにね！^^愛をこめて、母さんと父さんより",
+  "dialogue/Haley/Wed8@swap-Hayden": "この町で 好きなところは 2つ あるのよ。#$b#そのうちの 1つは ビーチ。#$e#もうひとつは… 内緒よ！ フフッ。$h",
+  "dialogue/Haley/AcceptGift_(O)StardropTea@flavor": "私に？わあ…飲んだ方がいいのかしら、それともシャンプーにしようかな…",
+  "strings/StringsFromMaps/HaleyHouse.10@flavor": "豪華な化粧台だ。あらゆるクリームや化粧品、各種パウダーがところせましと並んでいる。",
+  "dialogue/Haley/eventSeen_11_memory_oneweek@swap-Hayden+flavor": "このあいだ、姉さんが「リスのミートローフ」っていうのを作ってくれたのよ…$u#$e#味はどうだったかって？うーん… そうね、もう少し尻尾がふさふさしていたら気に入ったでしょうね。$h"
 }

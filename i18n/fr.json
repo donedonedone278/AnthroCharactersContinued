@@ -1098,5 +1098,10 @@
   "dialogue/Elliott/fall_Wed8@swap-Ellen+flavor": "Ça ne me dérangerait pas de m’essayer à l’agriculture.#$e#L’atmosphère calme d’une ferme pourrait être une bonne source d’inspiration littéraire, tu ne penses pas ?$h",
   "dialogue/MarriageDialogueElliott/OneKid_0@swap-Ellen+flavor": "As-tu eu le temps de jouer avec %kid1 aujourd’hui ? Peut-être qu’un deuxième enfant nous faciliterait la vie.",
   "data/winter25/Elliott_spouse_y2@swap-Ellen+flavor": "Mon amour, je n'ai besoin de rien... tu es déjà le plus beau cadeau qu'un homme puisse espérer d'avoir dans sa vie.$h",
-  "dialogue/MarriageDialogue/summer_Elliott@swap-Ellen": "Les poissons frais de la mer me manquent tellement."
+  "dialogue/MarriageDialogue/summer_Elliott@swap-Ellen": "Les poissons frais de la mer me manquent tellement.",
+  "strings/StringsFromMaps/HaleyHouse.17@swap-Emil": "À nos filles bien-aimées :^Vous nous manquez et j’espère que vous allez bien vous débrouiller toutes seules. Hier soir, nous avons quitté les îles Fern, après un séjour de deux mois.^C’était une expérience merveilleuse... On recommande vivement.^Assurez-vous de manger sainement et n’oubliez pas de payer la facture d’électricité !^^Bisous, Maman & Papa",
+  "dialogue/Haley/Wed8@swap-Hayden": "Il n’y a que deux choses que j’aime dans ce village.#$b#L’une d’elles est la plage.#$e#L’autre est un secret ! *Glousse*$h",
+  "dialogue/Haley/AcceptGift_(O)StardropTea@flavor": "C’est pour moi ? Hoooo... Je n’arrive pas à décider si je dois le boire ou l’utiliser comme shampoing...",
+  "strings/StringsFromMaps/HaleyHouse.10@flavor": "C’est une coiffeuse de luxe. Il y a toutes sortes de crèmes, de maquillages et de poudres dessus.",
+  "dialogue/Haley/eventSeen_11_memory_oneweek@swap-Hayden+flavor": "L’autre jour, Emily a préparé ce qu’on appelle un \"pain d’écureuil\"...$u#$e#Si j’ai aimé ? Euh... Disons que si j’avais une queue et qu’elle était un peu plus touffue, j’aurais probablement adoré.$h"
 }
