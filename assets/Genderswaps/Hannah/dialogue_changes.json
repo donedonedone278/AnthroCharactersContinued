@@ -100,8 +100,7 @@
       "Action": "EditData",
       "Target": "Strings/StringsFromMaps",
       "Entries": {
-        "Hospital.3": "{{i18n:strings/StringsFromMaps/Hospital.3@swap-Hannah+furry |default={{i18n:strings/StringsFromMaps/Hospital.3 |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}",
-        "Hospital=3": "{{i18n:strings/StringsFromMaps/Hospital=3@swap-Hannah+furry |default={{i18n:strings/StringsFromMaps/Hospital=3 |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
+        "Hospital.3": "{{i18n:strings/StringsFromMaps/Hospital.3@swap-Hannah+furry |default={{i18n:strings/StringsFromMaps/Hospital.3 |Harvey={{Harvey}}}} |Harvey={{Harvey}}}}"
       }
     },
     {

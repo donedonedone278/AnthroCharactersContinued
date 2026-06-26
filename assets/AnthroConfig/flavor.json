@@ -516,7 +516,6 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Sam",
       "Entries": {
-        "Sat8": "{{i18n:dialogue/Sam/Sat8@flavor |default={{i18n:dialogue/Sam/Sat8}}}}",
         "Mon2": "{{i18n:dialogue/Sam/Mon2@flavor |default={{i18n:dialogue/Sam/Mon2}}}}",
         "summer_Wed2": "{{i18n:dialogue/Sam/summer_Wed2@flavor |default={{i18n:dialogue/Sam/summer_Wed2}}}}",
         "fall_Tue": "{{i18n:dialogue/Sam/fall_Tue@flavor |default={{i18n:dialogue/Sam/fall_Tue}}}}",
