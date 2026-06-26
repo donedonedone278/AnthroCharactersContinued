@@ -1120,5 +1120,6 @@
   "dialogue/Haley/AcceptGift_(O)StardropTea@flavor": "For me? Ooooh... I can't decide if I should drink it, or work it into my fur...",
   "strings/StringsFromMaps/HaleyHouse.10@flavor": "It's a deluxe vanity. There's all kinds of grooming and beauty products dotting the surface.",
   "dialogue/Haley/eventSeen_11_memory_oneweek@swap-Hayden+flavor": "The other day, {{Emily}} baked something called a 'squirrel loaf'...$u#$e#How'd it taste? Um... well, if my talons were a little sharper I probably would've loved it.$h",
-  "dialogue/MarriageDialogueHarvey/TwoKids_3@swap-Hannah+flavor": "My life is devoted to you and the fawns now, and I'm very happy about it. I always dreamed of having a wonderful family.$l#$e#I had nightmares of being a bachelorette forever.... I love you so much.$l"
+  "dialogue/MarriageDialogueHarvey/TwoKids_3@swap-Hannah+flavor": "My life is devoted to you and the fawns now, and I'm very happy about it. I always dreamed of having a wonderful family.$l#$e#I had nightmares of being a bachelorette forever.... I love you so much.$l",
+  "data/NPCGiftTastes/Kent@flavor": "Oh...! Mom used to give me this when I was a young cub. It brings back wonderful memories. Thank you./607 649/Hey, now this is a really great gift. Thanks./-5 -79 18 402 418 Book_Bombs/Ah... It's a... what is this, exactly? Hmm.../80 330 416 873/This... They gave this to me in Gotoro prison camp. I've been trying to forget about that. *shudder*/-6 227 229 456/That's kind of you. The family will like this.//"
 }

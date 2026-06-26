@@ -1106,5 +1106,6 @@
   "dialogue/Haley/AcceptGift_(O)StardropTea@flavor": "送我的？欸……不知道是应该喝了，还是用来洗头发……",
   "strings/StringsFromMaps/HaleyHouse.10@flavor": "这是一个豪华的化妆台。有各种各样的膏状物、腮红和粉末摆在桌面上。",
   "dialogue/Haley/eventSeen_11_memory_oneweek@swap-Hayden+flavor": "前几天，艾米丽烤了一个东西，她说叫“松鼠面包”……$u#$e#味道么，呃……如果我真有毛茸茸的尾巴，或许会喜欢吧。$h",
-  "dialogue/MarriageDialogueHarvey/TwoKids_3@swap-Hannah+flavor": "现在我深爱着你和孩子们，并且我很幸福。我一直梦想着有个美满的家庭。$l#$e#我害怕一直单身……我好爱你。$l"
+  "dialogue/MarriageDialogueHarvey/TwoKids_3@swap-Hannah+flavor": "现在我深爱着你和孩子们，并且我很幸福。我一直梦想着有个美满的家庭。$l#$e#我害怕一直单身……我好爱你。$l",
+  "data/NPCGiftTastes/Kent@flavor": "噢……！我小时候妈妈经常给我这个。这让我回想起那段美好的时光。谢谢。/607 649/嘿，这真是个不错的礼物。谢谢你啊。/-5 -79 18 402 418 Book_Bombs/啊……啊……这是个……这到底是什么？嗯……唔……/80 330 416 873/这个……在戈特洛集中营他们给过我这个。我一直试图忘了这件事。*发抖*/-6 227 229 456/你人真好。家里人会喜欢的。//"
 }

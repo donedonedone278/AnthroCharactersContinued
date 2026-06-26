@@ -1104,5 +1104,6 @@
   "dialogue/Haley/AcceptGift_(O)StardropTea@flavor": "날 위해서? 오오오... 이걸 마실지 샴푸로 쓸지 못 정하겠어...",
   "strings/StringsFromMaps/HaleyHouse.10@flavor": "디럭스 화장대입니다. 별의별 크림, 페인트, 그리고 가루가 묻어있습니다.",
   "dialogue/Haley/eventSeen_11_memory_oneweek@swap-Hayden+flavor": "저번에 언니가 '다람쥐 빵'이라고 부르는 걸 구웠어...$u#$e#맛이 어땠냐고? 음... 글쎄, 내가 복실한 꼬리가 있었다면 맛있어했을 거야.$h",
-  "dialogue/MarriageDialogueHarvey/TwoKids_3@swap-Hannah+flavor": "내 인생은 여보랑 아이들에게 헌신하면 되는 거니까, 난 행복해. 항상 멋진 가족과 함께하는 것이 꿈이었어.$l#$e#평생 혼자일까 악몽도 꿨고.... 정말이지, 많이 사랑해.$l"
+  "dialogue/MarriageDialogueHarvey/TwoKids_3@swap-Hannah+flavor": "내 인생은 여보랑 아이들에게 헌신하면 되는 거니까, 난 행복해. 항상 멋진 가족과 함께하는 것이 꿈이었어.$l#$e#평생 혼자일까 악몽도 꿨고.... 정말이지, 많이 사랑해.$l",
+  "data/NPCGiftTastes/Kent@flavor": "오...! 어렸을 때 어머니께서 이걸 해주시곤 하셨지. 추억이 떠오르네. 고마워./607 649/이야, 이거 정말 괜찮은 선물이네. 고마워./-5 -79 18 402 418 Book_Bombs/아... 이건... 이거 뭐야, 정확히? 흠.../80 330 416 873/이거... 고토로 포로수용소에서 이걸 자주 줬었어. 잊으려고 애쓰고 있었는데. *몸서리*/-6 227 229 456/고마워. 가족들도 좋아할 거야.//"
 }

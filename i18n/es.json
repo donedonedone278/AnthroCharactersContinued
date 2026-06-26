@@ -1104,5 +1104,6 @@
   "dialogue/Haley/AcceptGift_(O)StardropTea@flavor": "¿Para mí? Ooooh... No me decido si debería bebérmelo, o usarlo de champú...",
   "strings/StringsFromMaps/HaleyHouse.10@flavor": "Un tocador lujoso. Está cubierto de todo tipo de cremas y maquillaje.",
   "dialogue/Haley/eventSeen_11_memory_oneweek@swap-Hayden+flavor": "El otro día, Emily horneó algo llamado 'hogaza de ardilla'...$u#$e#¿Que cómo sabía? Ehm... bueno, si mi pompi fuera un poco más peludo probablemente me hubiera encantado.$h",
-  "dialogue/MarriageDialogueHarvey/TwoKids_3@swap-Hannah+flavor": "Ahora mi vida está dedicada a ti y los niños, y eso me hace muy feliz. Siempre he soñado con formar una hermosa familia.$l#$e#Tenía pesadillas sobre quedarme soltero para siempre.... Te quiero tanto...$l"
+  "dialogue/MarriageDialogueHarvey/TwoKids_3@swap-Hannah+flavor": "Ahora mi vida está dedicada a ti y los niños, y eso me hace muy feliz. Siempre he soñado con formar una hermosa familia.$l#$e#Tenía pesadillas sobre quedarme soltero para siempre.... Te quiero tanto...$l",
+  "data/NPCGiftTastes/Kent@flavor": "¡Oh...! Mi madre me daba de esto cuando era pequeño. Me trae unos recuerdos maravillosos. Gracias./607 649/Ey, esto sí que es un regalo de verdad. Gracias./-5 -79 18 402 418 Book_Bombs/Ah... Es un... ¿Qué es esto, exactamente? Hmm.../80 330 416 873/Esto... solían dármelo en el campo de prisioneros del Imperio Gotoro. Prefiero olvidar todo lo relacionado con aquella época... *Brrr*/-6 227 229 456/Muy amable. A mi familia le gustará.//"
 }

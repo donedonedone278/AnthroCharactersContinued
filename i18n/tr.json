@@ -1104,5 +1104,6 @@
   "dialogue/Haley/AcceptGift_(O)StardropTea@flavor": "Benim için mi? Uuu... İçsem mi, şampuan olarak mı kullansam emin olamadım...",
   "strings/StringsFromMaps/HaleyHouse.10@flavor": "Lüks bir makyaj masası. Üstünde her türlü krem, boya ve pudra var.",
   "dialogue/Haley/eventSeen_11_memory_oneweek@swap-Hayden+flavor": "Geçen gün Emily, 'sincap ekmeği' adında bir şey pişirdi...$u#$e#Tadı nasıl mıydı? Şey... Eğer kuyruğum biraz daha kabarık olsaydı muhtemelen bayılırdım.$h",
-  "dialogue/MarriageDialogueHarvey/TwoKids_3@swap-Hannah+flavor": "Şu an hayatım sana ve çocuklara bağlı ve bundan oldukça mutluyum. Her zaman harika bir aileye sahip olmayı hayal ettim.$l#$e#Sonsuza kadar bekâr kalmaktan çok korkuyordum... Seni çok seviyorum.$l"
+  "dialogue/MarriageDialogueHarvey/TwoKids_3@swap-Hannah+flavor": "Şu an hayatım sana ve çocuklara bağlı ve bundan oldukça mutluyum. Her zaman harika bir aileye sahip olmayı hayal ettim.$l#$e#Sonsuza kadar bekâr kalmaktan çok korkuyordum... Seni çok seviyorum.$l",
+  "data/NPCGiftTastes/Kent@flavor": "Ah...! Küçükken annem de bana bundan verirdi. Bana o güzel günleri anımsatıyor. Çok sağ ol./607 649/Hey, bu gerçekten harika bir hediye. Teşekkürler./-5 -79 18 402 418 Book_Bombs/Ah... Bu... bu tam olarak ne? Hım.../80 330 416 873/Bundan... Bundan bana Gotoro esir kampında da vermişlerdi. Hiç hatırlamak istemediğim bir şey dolayısıyla. *titrer*/-6 227 229 456/Çok naziksin. Ailem buna bayılacak.//"
 }

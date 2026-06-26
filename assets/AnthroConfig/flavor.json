@@ -587,7 +587,8 @@
       "Target": "Data/NPCGiftTastes",
       "Entries": {
         "Dwarf": "{{i18n:data/NPCGiftTastes/Dwarf@flavor |default={{i18n:data/NPCGiftTastes/Dwarf}}}}",
-        "Krobus": "{{i18n:data/NPCGiftTastes/Krobus@flavor |default={{i18n:data/NPCGiftTastes/Krobus}}}}"
+        "Krobus": "{{i18n:data/NPCGiftTastes/Krobus@flavor |default={{i18n:data/NPCGiftTastes/Krobus}}}}",
+        "Kent": "{{i18n:data/NPCGiftTastes/Kent@flavor |default={{i18n:data/NPCGiftTastes/Kent}}}}"
       }
     },
     {
