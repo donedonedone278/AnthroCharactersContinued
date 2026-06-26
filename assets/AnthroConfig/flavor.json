@@ -354,7 +354,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueMaru",
       "Entries": {
-        "TwoKids_3": "{{i18n:dialogue/MarriageDialogueMaru/TwoKids_3@flavor |default={{i18n:dialogue/MarriageDialogueMaru/TwoKids_3}}}}"
+        "TwoKids_3": "{{i18n:dialogue/MarriageDialogueMaru/TwoKids_3@flavor |default={{i18n:dialogue/MarriageDialogueMaru/TwoKids_3}}}}",
+        "OneKid_3": "{{i18n:dialogue/MarriageDialogueMaru/OneKid_3@flavor |default={{i18n:dialogue/MarriageDialogueMaru/OneKid_3}}}}"
       }
     },
     {
@@ -692,7 +693,8 @@
       "Action": "EditData",
       "Target": "Data/Events/Mountain",
       "Entries": {
-        "BadAnswer": "{{i18n:event/Mountain/BadAnswer@flavor |default={{i18n:event/Mountain/BadAnswer}}}}"
+        "BadAnswer": "{{i18n:event/Mountain/BadAnswer@flavor |default={{i18n:event/Mountain/BadAnswer}}}}",
+        "8/f Maru 1500/w sunny/t 2100 2340": "{{i18n:event/Mountain/8@flavor |default={{i18n:event/Mountain/8}}}}"
       }
     },
     {
