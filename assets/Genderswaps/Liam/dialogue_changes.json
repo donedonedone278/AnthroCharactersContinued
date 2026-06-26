@@ -125,6 +125,16 @@
         "LeahsWhittler_Name": "{{i18n:strings/Weapons/LeahsWhittler_Name@swap-Liam |default={{i18n:strings/Weapons/LeahsWhittler_Name}}}}",
         "LeahsWhittler_Description": "{{i18n:strings/Weapons/LeahsWhittler_Description@swap-Liam |default={{i18n:strings/Weapons/LeahsWhittler_Description}}}}"
       }
+    },
+    {
+      "When": {
+        "Flavor": true
+      },
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Leah",
+      "Entries": {
+        "fall_Mon": "{{i18n:dialogue/Leah/fall_Mon@swap-Liam+flavor |default={{i18n:dialogue/Leah/fall_Mon@flavor}}}}"
+      }
     }
   ]
 }
