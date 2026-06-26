@@ -1111,5 +1111,8 @@
   "dialogue/MarriageDialogueMaru/OneKid_3@flavor": "Ich habe große Hoffnungen für unser Kind. Ich habe alle möglichen wissenschaftlichen Daten darüber herangezogen, wie man Kinder am besten aufzieht.",
   "strings/Characters/Relative_EldestSon@swap-Samantha": "ältester Sohn",
   "data/fall16/Kent_y2@swap-Samantha": "*kicher* Mein Sohn hat ein Gespür für Genauigkeit. Ich frage mich, ob er das von mir hat.$1",
-  "data/winter25/Kent_y2@swap-Samantha": "Ich bin dankbar dafür, dass mein kleiner Junge glücklich und gesund ist.$h"
+  "data/winter25/Kent_y2@swap-Samantha": "Ich bin dankbar dafür, dass mein kleiner Junge glücklich und gesund ist.$h",
+  "dialogue/Shane/dating_Shane_memory_oneday": "Ich glaube, ich bin der glücklichste Mensch der Welt... $h",
+  "dialogue/Shane/dating_Shane_memory_oneday@swap-Shauna": "Ich glaube, ich bin der glücklichste Mensch der Welt... $h",
+  "dialogue/MarriageDialogueShane/Good_6@swap-Shauna": "Ah... das ist das Leben. Keine Verantwortung, ein Tunnelbauer-Spiel heute Abend, Kühlschrank voll mit jeglichen Leckereien, die ein Mann brauchen könnte.$h"
 }

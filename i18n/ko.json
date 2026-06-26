@@ -1111,5 +1111,8 @@
   "dialogue/MarriageDialogueMaru/OneKid_3@flavor": "나 우리 아이한테 기대가 커. 요즘 육아 관련된 연구를 찾아보고 있어.",
   "strings/Characters/Relative_EldestSon@swap-Samantha": "맏아들",
   "data/fall16/Kent_y2@swap-Samantha": "*헤헤* 우리 아들 명중률이 좋네. 나 닮아서 그런가.$1",
-  "data/winter25/Kent_y2@swap-Samantha": "우리 애들이 행복하고 건강한 게 감사하지 난.$h"
+  "data/winter25/Kent_y2@swap-Samantha": "우리 애들이 행복하고 건강한 게 감사하지 난.$h",
+  "dialogue/Shane/dating_Shane_memory_oneday": "어쩌면 세상에서 가장 운이 좋은 사람은 나일지도... $h",
+  "dialogue/Shane/dating_Shane_memory_oneday@swap-Shauna": "어쩌면 세상에서 가장 운이 좋은 사람은 나일지도... $h",
+  "dialogue/MarriageDialogueShane/Good_6@swap-Shauna": "아... 이게 인생이지. 의무도 없고, 터널러 경기가 있고, 냉장고엔 남자라면 필요한 모든 게 들어있고.$h"
 }

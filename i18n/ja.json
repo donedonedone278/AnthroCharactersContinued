@@ -1111,5 +1111,8 @@
   "dialogue/MarriageDialogueMaru/OneKid_3@flavor": "私達の 子には 大変 期待してるの。子育ての 最良な 方法を 記した、 科学データを 最近 よみあさってるのよ。",
   "strings/Characters/Relative_EldestSon@swap-Samantha": "長男",
   "data/fall16/Kent_y2@swap-Samantha": "ふふ… 息子はこういうのが得意なんだ。オレから受け継いだのかもな。$1",
-  "data/winter25/Kent_y2@swap-Samantha": "オレは、息子が健康でしあわせそうにしている姿をこの目で見られることに感謝しているよ。$h"
+  "data/winter25/Kent_y2@swap-Samantha": "オレは、息子が健康でしあわせそうにしている姿をこの目で見られることに感謝しているよ。$h",
+  "dialogue/Shane/dating_Shane_memory_oneday": "オレは世界でいちばん幸運な男なのかもしれない… $h",
+  "dialogue/Shane/dating_Shane_memory_oneday@swap-Shauna": "オレは世界でいちばん幸運な男なのかもしれない… $h",
+  "dialogue/MarriageDialogueShane/Good_6@swap-Shauna": "ああ…これが人生ってやつだ。やらなきゃいけない仕事はなし、夜にはトンネラーズの試合、必要なものは冷蔵庫にぜんぶそろってるときた。$h"
 }

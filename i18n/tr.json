@@ -1111,5 +1111,8 @@
   "dialogue/MarriageDialogueMaru/OneKid_3@flavor": "Çocuğumuzdan umutluyum. En iyi çocuk yetiştirme yöntemleri hakkındaki tüm bilimsel verileri okudum.",
   "strings/Characters/Relative_EldestSon@swap-Samantha": "büyük oğlu",
   "data/fall16/Kent_y2@swap-Samantha": "*güler* Oğlum isabet ettirmede yetenekli. Bunu benden mi almış merak ediyorum.$1",
-  "data/winter25/Kent_y2@swap-Samantha": "Küçük oğlumu mutlu ve sağlıklı görebildiğim için şükrediyorum.$h"
+  "data/winter25/Kent_y2@swap-Samantha": "Küçük oğlumu mutlu ve sağlıklı görebildiğim için şükrediyorum.$h",
+  "dialogue/Shane/dating_Shane_memory_oneday": "Dünyanın en şanslı insanı olabilirim... $h",
+  "dialogue/Shane/dating_Shane_memory_oneday@swap-Shauna": "Dünyanın en şanslı insanı olabilirim... $h",
+  "dialogue/MarriageDialogueShane/Good_6@swap-Shauna": "Ah... Hayat bu be. Hiçbir sorumluluğum yok, akşam Tünelciler'in maçı var, dolap bir erkeğin ihtiyacı olan bütün malzemeler ile dolu.$h"
 }

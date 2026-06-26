@@ -1111,5 +1111,8 @@
   "dialogue/MarriageDialogueMaru/OneKid_3@flavor": "У меня большие надежды на будущее нашего ребенка. Я все читаю все доступные научные данные о том, как лучше воспитывать детей.",
   "strings/Characters/Relative_EldestSon@swap-Samantha": "старший сын",
   "data/fall16/Kent_y2@swap-Samantha": "*хихикает* Мой сын так метко стреляет. Уж не в меня ли он пошел?$1",
-  "data/winter25/Kent_y2@swap-Samantha": "Я благодарен за то, что мой мальчик счастлив и здоров.$h"
+  "data/winter25/Kent_y2@swap-Samantha": "Я благодарен за то, что мой мальчик счастлив и здоров.$h",
+  "dialogue/Shane/dating_Shane_memory_oneday": "Мне кажется, что счастливее меня в мире нет... $h",
+  "dialogue/Shane/dating_Shane_memory_oneday@swap-Shauna": "Мне кажется, что счастливее меня в мире нет... $h",
+  "dialogue/MarriageDialogueShane/Good_6@swap-Shauna": "Ах... Вот это жизнь. Никаких обязанностей, вечером играют «Туннелеры», а в холодильнике все, что может понадобиться мужчине.$h"
 }

@@ -1111,5 +1111,8 @@
   "dialogue/MarriageDialogueMaru/OneKid_3@flavor": "J’ai de grands espoirs pour notre enfant. J’ai lu toutes les données scientifiques sur les meilleures façons d’élever des enfants.",
   "strings/Characters/Relative_EldestSon@swap-Samantha": "mon fils ainé",
   "data/fall16/Kent_y2@swap-Samantha": "*Glousse*. Mon fils a un don pour tout ce qui touche l'art de la précision. Je me demande s'il tient ça de moi.$1",
-  "data/winter25/Kent_y2@swap-Samantha": "Je suis reconnaissant que mon petit garçon soit heureux et en bonne santé.$h"
+  "data/winter25/Kent_y2@swap-Samantha": "Je suis reconnaissant que mon petit garçon soit heureux et en bonne santé.$h",
+  "dialogue/Shane/dating_Shane_memory_oneday": "Je pense que je suis l’homme le plus chanceux du monde...$h",
+  "dialogue/Shane/dating_Shane_memory_oneday@swap-Shauna": "Je pense que je suis l’homme le plus chanceux du monde...$h",
+  "dialogue/MarriageDialogueShane/Good_6@swap-Shauna": "Ah... la vie est belle. Aucune responsabilité, les Tunneliers jouent ce soir et le frigo est plein de bonnes choses que j'adore.$h"
 }

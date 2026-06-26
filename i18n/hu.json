@@ -1111,5 +1111,8 @@
   "dialogue/MarriageDialogueMaru/OneKid_3@flavor": "Nagy reményeket fűzök a gyerekünkhöz. Mindenféle tudományos adatot olvastam, hogy hogyan a legjobb gyereket nevelni.",
   "strings/Characters/Relative_EldestSon@swap-Samantha": "idősebb fiam",
   "data/fall16/Kent_y2@swap-Samantha": "*kacag* A fiam egész pontos tud lenni. Lehet, hogy tőlem örökölte.$1",
-  "data/winter25/Kent_y2@swap-Samantha": "Én azért vagyok hálás, mert a kicsi fiam boldog és egészséges.$h"
+  "data/winter25/Kent_y2@swap-Samantha": "Én azért vagyok hálás, mert a kicsi fiam boldog és egészséges.$h",
+  "dialogue/Shane/dating_Shane_memory_oneday": "Azt hiszem én vagyok a világ legszerencsésebb fickója... $h",
+  "dialogue/Shane/dating_Shane_memory_oneday@swap-Shauna": "Azt hiszem én vagyok a világ legszerencsésebb fickója... $h",
+  "dialogue/MarriageDialogueShane/Good_6@swap-Shauna": "Áh... ez ám az élet. Nincsenek felelősségek, a Tunnelers tegnap este győzött, és a hűtő tele van minden finomsággal, amire egy fickónak szüksége lehet.$h"
 }

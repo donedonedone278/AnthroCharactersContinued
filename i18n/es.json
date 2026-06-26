@@ -1111,5 +1111,8 @@
   "dialogue/MarriageDialogueMaru/OneKid_3@flavor": "Tengo grandes esperanzas puestas en el bebé. He estado leyendo datos científicos sobre los mejores métodos de crianza.",
   "strings/Characters/Relative_EldestSon@swap-Samantha": "hijo mayor",
   "data/fall16/Kent_y2@swap-Samantha": "*risita* Mi hijo tiene buenas habilidades de precisión. Me pregunto si lo habrá heredado de mí.$1",
-  "data/winter25/Kent_y2@swap-Samantha": "Ver a mi pequeño sano y feliz es por lo que estoy agradecido.$h"
+  "data/winter25/Kent_y2@swap-Samantha": "Ver a mi pequeño sano y feliz es por lo que estoy agradecido.$h",
+  "dialogue/Shane/dating_Shane_memory_oneday": "Creo que soy el hombre más afortunado del mundo... $h",
+  "dialogue/Shane/dating_Shane_memory_oneday@swap-Shauna": "Creo que soy el hombre más afortunado del mundo... $h",
+  "dialogue/MarriageDialogueShane/Good_6@swap-Shauna": "Ah... Esto es vida. Cero responsabilidades, partido de los Excavadores de Ciudad Zuzu esta noche, nevera llena con todo lo que un tío necesita...$h"
 }

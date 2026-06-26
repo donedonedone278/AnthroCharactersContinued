@@ -174,7 +174,8 @@
         "OneKid_3": "{{i18n:dialogue/MarriageDialogueShane/OneKid_3@swap-Shauna |default={{i18n:dialogue/MarriageDialogueShane/OneKid_3 |Shane={{Shane}}}} |Shane={{Shane}}}}",
         "Good_2": "{{i18n:dialogue/MarriageDialogueShane/Good_2@swap-Shauna |default={{i18n:dialogue/MarriageDialogueShane/Good_2 |Shane={{Shane}}}} |Shane={{Shane}}}}",
         "Indoor_Day_4": "{{i18n:dialogue/MarriageDialogueShane/Indoor_Day_4@swap-Shauna |default={{i18n:dialogue/MarriageDialogueShane/Indoor_Day_4}}}}",
-        "Indoor_Night_1": "{{i18n:dialogue/MarriageDialogueShane/Indoor_Night_1@swap-Shauna |default={{i18n:dialogue/MarriageDialogueShane/Indoor_Night_1}}}}"
+        "Indoor_Night_1": "{{i18n:dialogue/MarriageDialogueShane/Indoor_Night_1@swap-Shauna |default={{i18n:dialogue/MarriageDialogueShane/Indoor_Night_1}}}}",
+        "Good_6": "{{i18n:dialogue/MarriageDialogueShane/Good_6@swap-Shauna |default={{i18n:dialogue/MarriageDialogueShane/Good_6}}}}"
       }
     },
     {

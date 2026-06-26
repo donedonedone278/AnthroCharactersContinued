@@ -1113,5 +1113,8 @@
   "dialogue/MarriageDialogueMaru/OneKid_3@flavor": "我对我们的孩子寄予厚望。我一直在看关于抚养小孩最佳方法的科学资料。",
   "strings/Characters/Relative_EldestSon@swap-Samantha": "长子",
   "data/fall16/Kent_y2@swap-Samantha": "呵呵，我儿子的准头很好，不知道是不是遗传我的。$1",
-  "data/winter25/Kent_y2@swap-Samantha": "能看到儿子健康快乐，我很感激。$h"
+  "data/winter25/Kent_y2@swap-Samantha": "能看到儿子健康快乐，我很感激。$h",
+  "dialogue/Shane/dating_Shane_memory_oneday": "我可能是世界上最幸运的人了……$h",
+  "dialogue/Shane/dating_Shane_memory_oneday@swap-Shauna": "我可能是世界上最幸运的人了……$h",
+  "dialogue/MarriageDialogueShane/Good_6@swap-Shauna": "啊……这简直就是完美的生活。不需要负责任，晚上有隧道掘进队的比赛，冰箱里塞满了我想要的一切。$h"
 }

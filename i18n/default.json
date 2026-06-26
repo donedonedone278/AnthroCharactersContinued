@@ -723,7 +723,7 @@
   "dialogue/Pierre/Sat@flavor+furry": "If you find any wild produce, I'll take it off your paws for a reasonable price.",
   "dialogue/Robin/AcceptGift_(O)SkillBook_2@flavor": "Ah, 'Woodcutter's Weekly'... I was hoping to get my paws on the newest issue! They've got all the latest techniques in here!#$b#From one woodcutter to another... Thank you.$h",
   "dialogue/Robin/GreenRain@flavor": "That rabbit is insane! Why does he have to go out there? We have no idea if this rain is dangerous!$u%noturn",
-  "dialogue/Shane/Sat8@flavor": "I've really grown attached to Marnie's chickens.$h||A chicken will never let you down. People, on the other paw...",
+  "dialogue/Shane/Sat8@flavor": "I've really grown attached to Marnie's chickens.$h||A chicken will never let you down. People, on the other claw...",
   "dialogue/Wizard/Introduction@flavor+furry": "Ah, yes. I have predicted your arrival a long time ago, young @.#$e#However, your fate is ultimately in your own paws.",
   "data/mail/SeaAmulet@flavor": "@,^I'm going to give you this advice because I like you and I want you to stay in Pelican Town. If there comes a day that you want to ask for someone's paw in marriage, you'll need to give them a 'Mermaid's Pendant'. Don't worry, everyone in Pelican Town understands the significance of the amulet. It's an ancient tradition in this region. Good luck! ^   -Lewis[#]About Mermaid's Pendants",
   "data/mail/quest10@flavor+furry": "@,^I've heard you've been lending some people your paws around town! Everyone seems really thankful. I'm awarding you this month's \"Best Neighbor\" award (with a small cash prize). Keep it up! ^   -Mayor%item money 500 501 %%[#]Best Neighbor",
@@ -1127,5 +1127,8 @@
   "dialogue/MarriageDialogueMaru/OneKid_3@flavor": "I have high hopes for our child. I've been reading all the scientific data on the best ways to raise kits.",
   "strings/Characters/Relative_EldestSon@swap-Samantha": "eldest daughter",
   "data/fall16/Kent_y2@swap-Samantha": "*chuckle* My daughter has a knack for accuracy. I wonder if she got it from me.$1",
-  "data/winter25/Kent_y2@swap-Samantha": "Seeing my little girl happy and healthy is what I'm thankful for.$h"
+  "data/winter25/Kent_y2@swap-Samantha": "Seeing my little girl happy and healthy is what I'm thankful for.$h",
+  "dialogue/Shane/dating_Shane_memory_oneday": "I think I might be the luckiest guy in the world... $h",
+  "dialogue/Shane/dating_Shane_memory_oneday@swap-Shauna": "I think I might be the luckiest gal in the world... $h",
+  "dialogue/MarriageDialogueShane/Good_6@swap-Shauna": "Ah... this is the life. No responsibilities, Tunnelers game tonight, fridge stocked with all the goodies a gal could need.$h"
 }

@@ -1111,5 +1111,8 @@
   "dialogue/MarriageDialogueMaru/OneKid_3@flavor": "Ho grandi speranze per la nostra creatura. Ho letto tutti i dati scientifici sui modi migliori per crescere i figli.",
   "strings/Characters/Relative_EldestSon@swap-Samantha": "figlio maggiore",
   "data/fall16/Kent_y2@swap-Samantha": "*ridacchia* Mio figlio ha una mira niente male. Può darsi che l'abbia presa da me.$1",
-  "data/winter25/Kent_y2@swap-Samantha": "Vedere mio figlio sano e felice è la cosa per cui sono grato.$h"
+  "data/winter25/Kent_y2@swap-Samantha": "Vedere mio figlio sano e felice è la cosa per cui sono grato.$h",
+  "dialogue/Shane/dating_Shane_memory_oneday": "Penso di essere l'uomo più fortunato del mondo... $h",
+  "dialogue/Shane/dating_Shane_memory_oneday@swap-Shauna": "Penso di essere l'uomo più fortunato del mondo... $h",
+  "dialogue/MarriageDialogueShane/Good_6@swap-Shauna": "Ah... questa sì che è vita. Niente responsabilità, stasera la partita dei Tunnelers, e il frigo zeppo di tutte le bontà che si possono desiderare.$h"
 }

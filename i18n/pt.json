@@ -1111,5 +1111,8 @@
   "dialogue/MarriageDialogueMaru/OneKid_3@flavor": "Tenho muitas esperanças pra nossa criança. Estive lendo todos os dados científicos sobre a melhor forma de criar os filhos.",
   "strings/Characters/Relative_EldestSon@swap-Samantha": "filho mais velho",
   "data/fall16/Kent_y2@swap-Samantha": "*risada* Meu filho tem o dom da pontaria. Acho que ele puxou isso de mim.$1",
-  "data/winter25/Kent_y2@swap-Samantha": "Eu sou grato por ver meu filho feliz e saudável.$h"
+  "data/winter25/Kent_y2@swap-Samantha": "Eu sou grato por ver meu filho feliz e saudável.$h",
+  "dialogue/Shane/dating_Shane_memory_oneday": "Eu acho que sou o cara mais sortudo do mundo... $h",
+  "dialogue/Shane/dating_Shane_memory_oneday@swap-Shauna": "Eu acho que sou o cara mais sortudo do mundo... $h",
+  "dialogue/MarriageDialogueShane/Good_6@swap-Shauna": "Ah... que vida! Nenhuma responsabilidade, jogo dos Tuneladores hoje, e o congelador cheio das coisas que um cara ama.$h"
 }
