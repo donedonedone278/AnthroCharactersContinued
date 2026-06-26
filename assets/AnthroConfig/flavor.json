@@ -771,7 +771,30 @@
       "Entries": {
         "Demetrius_y2": "{{i18n:data/summer11/Demetrius_y2@flavor |default={{i18n:data/summer11/Demetrius_y2}}}}",
         "Haley_y2": "{{i18n:data/summer11/Haley_y2@flavor |default={{i18n:data/summer11/Haley_y2}}}}",
-        "Sam": "{{i18n:data/summer11/Sam@flavor |default={{i18n:data/summer11/Sam}}}}"
+        "Sam": "{{i18n:data/summer11/Sam@flavor |default={{i18n:data/summer11/Sam}}}}",
+        "Robin": "{{i18n:data/summer11/Robin@flavor |default={{i18n:data/summer11/Robin}}}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Evelyn",
+      "Entries": {
+        "Sun": "{{i18n:dialogue/Evelyn/Sun@flavor |default={{i18n:dialogue/Evelyn/Sun}}}}",
+        "fall_Sun": "{{i18n:dialogue/Evelyn/fall_Sun@flavor |default={{i18n:dialogue/Evelyn/fall_Sun}}}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Jas",
+      "Entries": {
+        "Resort": "{{i18n:dialogue/Jas/Resort@flavor |default={{i18n:dialogue/Jas/Resort}}}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Pam",
+      "Entries": {
+        "winter_Tue4": "{{i18n:dialogue/Pam/winter_Tue4@flavor |default={{i18n:dialogue/Pam/winter_Tue4}}}}"
       }
     },
     {

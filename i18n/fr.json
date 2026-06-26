@@ -1114,5 +1114,11 @@
   "data/winter25/Kent_y2@swap-Samantha": "Je suis reconnaissant que mon petit garçon soit heureux et en bonne santé.$h",
   "dialogue/Shane/dating_Shane_memory_oneday": "Je pense que je suis l’homme le plus chanceux du monde...$h",
   "dialogue/Shane/dating_Shane_memory_oneday@swap-Shauna": "Je pense que je suis l’homme le plus chanceux du monde...$h",
-  "dialogue/MarriageDialogueShane/Good_6@swap-Shauna": "Ah... la vie est belle. Aucune responsabilité, les Tunneliers jouent ce soir et le frigo est plein de bonnes choses que j'adore.$h"
+  "dialogue/MarriageDialogueShane/Good_6@swap-Shauna": "Ah... la vie est belle. Aucune responsabilité, les Tunneliers jouent ce soir et le frigo est plein de bonnes choses que j'adore.$h",
+  "data/summer11/Robin@flavor": "Aie... tu as marché sur mon pied.",
+  "dialogue/Evelyn/Sun@flavor": "J’aime être proche de la mer. Le bruit des vagues m’aide à m’endormir.#$e#Quand j’étais enfant, nous cherchions les coquillages à la marée basse. C’était le bon vieux temps...",
+  "dialogue/Evelyn/fall_Sun@flavor": "Ma vue est peut-être mauvaise, mais mon nez ne m’a jamais failli jusqu’à présent !#$e#Je sens les feuilles mortes et les champignons. Ça me rappelle les forêts dans lesquelles j’avais l’habitude de jouer quand j’étais petite.",
+  "dialogue/Jas/Resort@flavor": "Tante Marnie m’a dit de ne pas attraper des coups de soleil... Mais quand je marche vite, ça se rafraîchit... Je pense que ça ira. $h",
+  "dialogue/Pam/winter_Tue4@flavor": "J’espère que Penny aura une belle vie. Si jamais tu as des enfants un jour, tu comprendras ce que je ressens.#$e#... Il fait si froid en hiver. Ma peau ressemble à du vieux parchemin.",
+  "dialogue/Demetrius/married_Maru@swap-Marcus+flavor": "*soupir*... @, je peux enfin accepter que ma « petite fille » est une femme maintenant. Tu as ma bénédiction.$s"
 }

@@ -1114,5 +1114,11 @@
   "data/winter25/Kent_y2@swap-Samantha": "Én azért vagyok hálás, mert a kicsi fiam boldog és egészséges.$h",
   "dialogue/Shane/dating_Shane_memory_oneday": "Azt hiszem én vagyok a világ legszerencsésebb fickója... $h",
   "dialogue/Shane/dating_Shane_memory_oneday@swap-Shauna": "Azt hiszem én vagyok a világ legszerencsésebb fickója... $h",
-  "dialogue/MarriageDialogueShane/Good_6@swap-Shauna": "Áh... ez ám az élet. Nincsenek felelősségek, a Tunnelers tegnap este győzött, és a hűtő tele van minden finomsággal, amire egy fickónak szüksége lehet.$h"
+  "dialogue/MarriageDialogueShane/Good_6@swap-Shauna": "Áh... ez ám az élet. Nincsenek felelősségek, a Tunnelers tegnap este győzött, és a hűtő tele van minden finomsággal, amire egy fickónak szüksége lehet.$h",
+  "data/summer11/Robin@flavor": "Aú... drágám, ráléptél a lábamra!",
+  "dialogue/Evelyn/Sun@flavor": "Jó, hogy ilyen közel vagyunk a tengerhez. A hangja megkönnyíti az elalvást.#$e#Gyerekként mindig kagylóhéjra vadásztunk ahogy visszavonult az ár. Szép napok voltak...",
+  "dialogue/Evelyn/fall_Sun@flavor": "A látásom megcsalhat, de az orrom még sosem hagyott cserben!#$e#Hulló faleveleket és gombát érzek. Arra az erdőre emlékeztet, melyben kislánykoromban játszadoztam.",
+  "dialogue/Jas/Resort@flavor": "Marnie néni mondta, hogy ne égjek le... De mikor gyorsan sétálok, akkor az jó érzés, szóval szerintem jól leszek.$h",
+  "dialogue/Pam/winter_Tue4@flavor": "Csak remélni tudom, hogy Pennynek jó élete lesz. Ha lesznek gyerekeid, majd megérted, hogy hogyan is érzek.#$e#...Olyan száraz a tél. A bőröm olyan, mint egy régi pergamen.",
+  "dialogue/Demetrius/married_Maru@swap-Marcus+flavor": "*sóhaj*... @, elfogadtam a tényt, hogy itt az ideje, hogy az én 'kicsi lányom' nővé váljon. Áldásom adom rátok.$s"
 }

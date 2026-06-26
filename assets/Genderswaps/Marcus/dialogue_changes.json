@@ -153,6 +153,16 @@
       }
     },
     {
+      "When": {
+        "Flavor": true
+      },
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Demetrius",
+      "Entries": {
+        "married_Maru": "{{i18n:dialogue/Demetrius/married_Maru@swap-Marcus+flavor |default={{i18n:dialogue/Demetrius/married_Maru@swap-Marcus}}}}"
+      }
+    },
+    {
       "Action": "EditData",
       "Target": "Data/SecretNotes",
       "Entries": {

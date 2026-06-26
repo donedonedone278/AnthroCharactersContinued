@@ -1114,5 +1114,11 @@
   "data/winter25/Kent_y2@swap-Samantha": "우리 애들이 행복하고 건강한 게 감사하지 난.$h",
   "dialogue/Shane/dating_Shane_memory_oneday": "어쩌면 세상에서 가장 운이 좋은 사람은 나일지도... $h",
   "dialogue/Shane/dating_Shane_memory_oneday@swap-Shauna": "어쩌면 세상에서 가장 운이 좋은 사람은 나일지도... $h",
-  "dialogue/MarriageDialogueShane/Good_6@swap-Shauna": "아... 이게 인생이지. 의무도 없고, 터널러 경기가 있고, 냉장고엔 남자라면 필요한 모든 게 들어있고.$h"
+  "dialogue/MarriageDialogueShane/Good_6@swap-Shauna": "아... 이게 인생이지. 의무도 없고, 터널러 경기가 있고, 냉장고엔 남자라면 필요한 모든 게 들어있고.$h",
+  "data/summer11/Robin@flavor": "아야... 내 발을 밟았어, 여보.",
+  "dialogue/Evelyn/Sun@flavor": "바다 근처에 있어서 참 좋은 일이야. 바다 소리 덕분에 잠에 푹 든단다.#$e#어렸을 땐 썰물이 빠지면 조가비를 찾으러 다니곤 했지. 그리운 추억이야...",
+  "dialogue/Evelyn/fall_Sun@flavor": "내 시력이 예전 같진 않지만, 후각은 아직 뛰어나단다!#$e#낙엽과 버섯 향기를 맡으면, 내가 소녀 때 놀던 숲이 기억나.",
+  "dialogue/Jas/Resort@flavor": "마니 고모가 햇볕에 타는 거 조심하라고 했어요... 근데 빨리 걸어 다니면 시원하니까 괜찮을 것 같아요.$h",
+  "dialogue/Pam/winter_Tue4@flavor": "페니가 앞으로 살아갈 길이 편했으면 좋겠어. 네가 언젠가 아이가 생긴다면 내가 어떤 기분인지 알 거야.#$e#...겨울 참 건조해. 피부가 말린 양피지 같구먼.",
+  "dialogue/Demetrius/married_Maru@swap-Marcus+flavor": "*한숨*... @, 내 딸이 이젠 다 자랐다는 사실을 받아들이기로 했어. 결혼 축하한다.$s"
 }

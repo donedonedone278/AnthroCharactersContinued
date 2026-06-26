@@ -1114,5 +1114,11 @@
   "data/winter25/Kent_y2@swap-Samantha": "Küçük oğlumu mutlu ve sağlıklı görebildiğim için şükrediyorum.$h",
   "dialogue/Shane/dating_Shane_memory_oneday": "Dünyanın en şanslı insanı olabilirim... $h",
   "dialogue/Shane/dating_Shane_memory_oneday@swap-Shauna": "Dünyanın en şanslı insanı olabilirim... $h",
-  "dialogue/MarriageDialogueShane/Good_6@swap-Shauna": "Ah... Hayat bu be. Hiçbir sorumluluğum yok, akşam Tünelciler'in maçı var, dolap bir erkeğin ihtiyacı olan bütün malzemeler ile dolu.$h"
+  "dialogue/MarriageDialogueShane/Good_6@swap-Shauna": "Ah... Hayat bu be. Hiçbir sorumluluğum yok, akşam Tünelciler'in maçı var, dolap bir erkeğin ihtiyacı olan bütün malzemeler ile dolu.$h",
+  "data/summer11/Robin@flavor": "Ah... Ayağıma bastın canımın içi.",
+  "dialogue/Evelyn/Sun@flavor": "Denize bu kadar yakın olmamız çok iyi. Denizin sesi uykuya dalmamı kolaylaştırıyor.#$e#Çocukken gelgit bittiğinde deniz kabukları toplardık, ah eski günler...",
+  "dialogue/Evelyn/fall_Sun@flavor": "Görüşüm kötü olabilir ama burnum hâlâ sapasağlam!#$e#Mantar ve çürük yaprakların kokusunu alabiliyorum. Bana küçük bir kızken oynadığım ormanları hatırlatıyor.",
+  "dialogue/Jas/Resort@flavor": "Marnie teyzem güneşin altında kalmamamı söyledi... Hızlı yürüdüğümde serinlik hissediyorum. Bence sorun olmaz.$h",
+  "dialogue/Pam/winter_Tue4@flavor": "Umarım Penny gelecekte mutlu olur. Çocukların olduğunda beni anlayacaksın.#$e#...Kışın hava aşırı kuru oluyor. Cildim parşömene dönüyor resmen.",
+  "dialogue/Demetrius/married_Maru@swap-Marcus+flavor": "*iç çeker*... @, sanırım artık 'küçük kızımın' bir kadın olduğunu kabul etmeliyim. Benim onayımı aldın.$s"
 }

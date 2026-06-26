@@ -1114,5 +1114,11 @@
   "data/winter25/Kent_y2@swap-Samantha": "オレは、息子が健康でしあわせそうにしている姿をこの目で見られることに感謝しているよ。$h",
   "dialogue/Shane/dating_Shane_memory_oneday": "オレは世界でいちばん幸運な男なのかもしれない… $h",
   "dialogue/Shane/dating_Shane_memory_oneday@swap-Shauna": "オレは世界でいちばん幸運な男なのかもしれない… $h",
-  "dialogue/MarriageDialogueShane/Good_6@swap-Shauna": "ああ…これが人生ってやつだ。やらなきゃいけない仕事はなし、夜にはトンネラーズの試合、必要なものは冷蔵庫にぜんぶそろってるときた。$h"
+  "dialogue/MarriageDialogueShane/Good_6@swap-Shauna": "ああ…これが人生ってやつだ。やらなきゃいけない仕事はなし、夜にはトンネラーズの試合、必要なものは冷蔵庫にぜんぶそろってるときた。$h",
+  "data/summer11/Robin@flavor": "わっ…ねえあなた、足を踏まないでよ。",
+  "dialogue/Evelyn/Sun@flavor": "海の近くに 住むのって ステキね。波打つ音で、 心地よく 眠れるのよ。#$e#子どもの 頃は、 潮が引いた時に 貝殻を 探しに行ってたわ。あの頃はよかった…",
+  "dialogue/Evelyn/fall_Sun@flavor": "私の視力は 落ちてるでしょうけど、 鼻はまだまだ しっかりしてるわ！#$e#落ち葉と キノコの 匂いを嗅ぐと、若い頃に 遊んだ 森のことを 思い出すわ。",
+  "dialogue/Jas/Resort@flavor": "マーニーおばさんが日焼けしちゃダメって言うの…でも早歩きすると涼しいから、わたしはきっと大丈夫。$h",
+  "dialogue/Pam/winter_Tue4@flavor": "ペニーが これから 幸せに なってくれれば いいわね。子どもが できたら、 その 気持ちが わかるはずよ。#$e#…冬の 空気は 乾燥しきってるわね。肌も カサカサに なってきたわ。",
+  "dialogue/Demetrius/married_Maru@swap-Marcus+flavor": "はぁ… @、私の「小さな女の子」が立派な女性に育ったのだと、やっと受け入れられるようになったよ。心から祝福するよ。$s"
 }

@@ -1060,7 +1060,7 @@
   "strings/1_6_Strings/DesertFestival_Haley@flavor+furry": "If you smell something good, it's the coconut oil I used.#$b#I'm going 'all in' with the desert feeling!$h",
   "strings/BigCraftables/AutoPetter_Description@flavor": "Joja Co. patented technology for coops and barns. Keeps your animals content, but can't replace the full benefit of a farmer's touch. Hand-petting can be provided to supplement.",
   "strings/Characters/Henchman1@flavor+furry": "Gweee-ah!! Surface-dweller!#$b#...You want to pass? I'm sorry, this is private property.$s",
-  "strings/Characters/MovieInvite_Invited_Krobus@flavor+furry": "Oh? I normally hide myself from humans...#$b#But I have an idea... I'll meet you at the theater later.",
+  "strings/Characters/MovieInvite_Invited_Krobus@flavor+furry": "Oh? I normally hide myself from others...#$b#But I have an idea... I'll meet you at the theater later.",
   "strings/MovieReactions/Demetrius_like_AfterMovie@flavor": "Hmm... I wonder what aspect of biological motivation is satisfied by the narrative of this film?$3",
   "strings/Notes/19@flavor": "Goblins^by M. Jasper^^The species commonly known as \"Goblin\" seems to have originated in the forests of the far northeast, beyond the Bluemire Hills. Characterized by their green skin, bright red eyes, and foul smell, initial encounters with Goblins can be frightening for unexperienced travelers.^^Despite their unsettling appearance, Goblins possess an intellectual and emotional capacity akin to us, and have no trouble learning our customs and languages. The goblins I've met have been rather friendly and amiable, once I've shown that I mean no harm. Unfortunately, centuries of distrust and ill-treatment from other species has led many Goblins to pursue careers in the employ of witches, warlocks, necromancers, and other unsavory types.^^A traditional Goblin diet largely consists of grub meat, typically from the large and juicy grub varieties native to the Goblin home-forest. On special occasions, Goblins will indulge in an item called 'void mayonnaise'... considered perhaps the finest delicacy in all Goblin cuisine.",
   "strings/Objects/Fluorapatite_Description@flavor": "Small amounts are found in teeth.",
@@ -1082,7 +1082,7 @@
   "strings/1_6_Strings/MakeOver_Emily_Reaction8@flavor": "Here, let me smudge this a bit...",
   "strings/1_6_Strings/MakeOver_Emily_Reaction3@flavor": "Whoa, that's way too much gel...",
   "strings/StringsFromCSFiles/NPC.cs.4427@flavor": "*sigh*... my fur looks horrible today.$s#$b#It does... I can tell by the way you're looking at me.$a",
-  "strings/StringsFromCSFiles/NPC.cs.4429@flavor": "*sigh*... my hair looks horrible today.$s#$b#It does... I can tell by the way you're looking at me.$a",
+  "strings/StringsFromCSFiles/NPC.cs.4429@flavor": "*sigh*... my fur looks horrible today.$s#$b#It does... I can tell by the way you're looking at me.$a",
   "strings/StringsFromCSFiles/Buff.cs.475@flavor+furry": "Your fur exudes a pungent aroma",
   "strings/StringsFromMaps/SamHouse.3@flavor": "Jodi-^Since I'll be coming home soon I want to tell you a few things.^I might not be the same tiger you remember. I've seen some things out here that have really shaken me up. I've been having a real hard time relaxing.^I don't want to scare you or make you upset. I just don't want you to be shocked when I get back.^Remember, no matter how I act, you and the kids mean everything to me.^I'll see you soon.^-Kent",
   "strings/StringsFromMaps/ElliottHouse.1@swap-Liam": "It's a painting by Liam.",
@@ -1130,5 +1130,11 @@
   "data/winter25/Kent_y2@swap-Samantha": "Seeing my little girl happy and healthy is what I'm thankful for.$h",
   "dialogue/Shane/dating_Shane_memory_oneday": "I think I might be the luckiest guy in the world... $h",
   "dialogue/Shane/dating_Shane_memory_oneday@swap-Shauna": "I think I might be the luckiest gal in the world... $h",
-  "dialogue/MarriageDialogueShane/Good_6@swap-Shauna": "Ah... this is the life. No responsibilities, Tunnelers game tonight, fridge stocked with all the goodies a gal could need.$h"
+  "dialogue/MarriageDialogueShane/Good_6@swap-Shauna": "Ah... this is the life. No responsibilities, Tunnelers game tonight, fridge stocked with all the goodies a gal could need.$h",
+  "data/summer11/Robin@flavor": "Ow... you stepped on my paw, dear.",
+  "dialogue/Evelyn/Sun@flavor": "It's nice to be so close to the ocean. The sound of the sea makes going to sleep a lot easier.#$e#As pups we hunted for seashells after the tide went out. Those were the days...",
+  "dialogue/Evelyn/fall_Sun@flavor": "My eyesight may be poor, but my nose hasn't failed me yet!#$e#I can smell fallen leaves and mushrooms. It reminds me of the forests I used to play in as a pup.",
+  "dialogue/Jas/Resort@flavor": "Aunt Marnie told me not to overheat in my fur... But when I walk fast, it feels cool, so I think I'll be okay.$h",
+  "dialogue/Pam/winter_Tue4@flavor": "I just hope Penny has a good life ahead of her. If you ever have kids you'll know how I feel.#$e#...It's so dry in winter. My fleece feels like old parchment.",
+  "dialogue/Demetrius/married_Maru@swap-Marcus+flavor": "*sigh*... @, I've come to accept that it's time for my 'kit' to become a grown buck. You have my blessing.$s"
 }
