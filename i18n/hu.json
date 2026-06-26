@@ -1086,5 +1086,6 @@
   "strings/StringsFromMaps/ElliottHouse.1@swap-Liam": "Ez Leah egyik festménye.",
   "strings/StringsFromMaps/ElliottHouse.2@swap-Ellen": "Elliott munkaasztala. Tele van jegyzetekkel és gyűrött papírokkal.",
   "strings/StringsFromMaps/ElliottHouse.4@swap-Ellen": "Úgy tűnik Elliott egy bonsai fát akar termeszteni. Eddig nagyon menőn néz ki!",
-  "strings/StringsFromMaps/ElliottHouse.6@swap-Ellen": "Úgy tűnik Elliott egy bonsai fát akar termeszteni. Eddig nagyon menőn néz ki!"
+  "strings/StringsFromMaps/ElliottHouse.6@swap-Ellen": "Úgy tűnik Elliott egy bonsai fát akar termeszteni. Eddig nagyon menőn néz ki!",
+  "dialogue/Alex/event_box3@swap-Alexis": "...Kösz, @.#$b#Te... te más vagy mint a többiek. Megértőbb.$l^Te lettél a legjobb barátom a városból... #$b#Örülök.^Kínos ilyet mondani?$l"
 }

@@ -1088,5 +1088,6 @@
   "strings/StringsFromMaps/ElliottHouse.1@swap-Liam": "这是利亚姆的一幅画。",
   "strings/StringsFromMaps/ElliottHouse.2@swap-Ellen": "{{Elliott}}的办公桌。上面堆满了笔记和揉皱的纸团。",
   "strings/StringsFromMaps/ElliottHouse.4@swap-Ellen": "看起来，{{Elliott}}打算种植一个盆栽。它看起来酷呆了！",
-  "strings/StringsFromMaps/ElliottHouse.6@swap-Ellen": "看起来，{{Elliott}}打算种植一个盆栽。它看起来酷呆了！"
+  "strings/StringsFromMaps/ElliottHouse.6@swap-Ellen": "看起来，{{Elliott}}打算种植一个盆栽。它看起来酷呆了！",
+  "dialogue/Alex/event_box3@swap-Alexis": "……谢谢你，@。#$b#你和别人不一样。你的心思更加细腻。$l^你是我在整个镇上最好的朋友……#$b#我很高兴。^这种话很难启齿吗？$l"
 }

@@ -1086,5 +1086,6 @@
   "strings/StringsFromMaps/ElliottHouse.1@swap-Liam": "C’est une peinture de Leah.",
   "strings/StringsFromMaps/ElliottHouse.2@swap-Ellen": "Le bureau d’Elliott. Il est recouvert de notes et de papiers froissés.",
   "strings/StringsFromMaps/ElliottHouse.4@swap-Ellen": "On dirait que Elliott essaie de faire pousser un bonsaï. C’est une réussite jusqu’ici !",
-  "strings/StringsFromMaps/ElliottHouse.6@swap-Ellen": "On dirait que Elliott essaie de faire pousser un bonsaï. C’est une réussite jusqu’ici !"
+  "strings/StringsFromMaps/ElliottHouse.6@swap-Ellen": "On dirait que Elliott essaie de faire pousser un bonsaï. C’est une réussite jusqu’ici !",
+  "dialogue/Alex/event_box3@swap-Alexis": "... Merci, @.#$b#Tu... tu es différent des autres gars. Tu es plus sensible.$l^Tu es devenue ma meilleure amie dans tout le village... #$b#Je suis content.^Est-ce que c’est gênant de le dire ?$l"
 }

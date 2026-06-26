@@ -182,7 +182,8 @@
         "dating_Alex": "{{i18n:dialogue/Alex/dating_Alex@swap-Alexis |default={{i18n:dialogue/Alex/dating_Alex |Alex={{Alex}}}} |Alex={{Alex}}}}",
         "Wed": "{{i18n:dialogue/Alex/Wed@swap-Alexis |default={{i18n:dialogue/Alex/Wed}}}}",
         "Wed_01_old": "{{i18n:dialogue/Alex/Wed_01_old@swap-Alexis |default={{i18n:dialogue/Alex/Wed_01_old}}}}",
-        "Mon": "{{i18n:dialogue/Alex/Mon@swap-Alexis |default={{i18n:dialogue/Alex/Mon}}}}"
+        "Mon": "{{i18n:dialogue/Alex/Mon@swap-Alexis |default={{i18n:dialogue/Alex/Mon}}}}",
+        "event_box3": "{{i18n:dialogue/Alex/event_box3@swap-Alexis |default={{i18n:dialogue/Alex/event_box3}}}}"
       }
     },
     {

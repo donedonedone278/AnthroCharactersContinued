@@ -1086,5 +1086,6 @@
   "strings/StringsFromMaps/ElliottHouse.1@swap-Liam": "레아가 그린 그림입니다.",
   "strings/StringsFromMaps/ElliottHouse.2@swap-Ellen": "엘리엇의 책상입니다. 메모와 구겨진 종이로 덮여있습니다.",
   "strings/StringsFromMaps/ElliottHouse.4@swap-Ellen": "엘리엇이 분재 나무를 키우는 중인가 봅니다. 잘 자라고 있네요!",
-  "strings/StringsFromMaps/ElliottHouse.6@swap-Ellen": "엘리엇이 분재 나무를 키우는 중인가 봅니다. 잘 자라고 있네요!"
+  "strings/StringsFromMaps/ElliottHouse.6@swap-Ellen": "엘리엇이 분재 나무를 키우는 중인가 봅니다. 잘 자라고 있네요!",
+  "dialogue/Alex/event_box3@swap-Alexis": "...고마워, @.#$b#너... 너 다른 남자애들이랑 좀 다르다. 좀 더 세심해.$l^이 동네에서 너랑 제일 사이가 가까워진거 같아... #$b#기뻐.^말로 하긴 좀 쑥스러운 건가?$l"
 }

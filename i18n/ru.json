@@ -1086,5 +1086,6 @@
   "strings/StringsFromMaps/ElliottHouse.1@swap-Liam": "Это картина Лиам.",
   "strings/StringsFromMaps/ElliottHouse.2@swap-Ellen": "Письменный стол Эллен. На нем полно записей и скомканных бумажек.",
   "strings/StringsFromMaps/ElliottHouse.4@swap-Ellen": "Кажется, {{Elliott}} выращивает бонсай. Выглядит круто!",
-  "strings/StringsFromMaps/ElliottHouse.6@swap-Ellen": "Кажется, {{Elliott}} выращивает бонсай. Выглядит круто!"
+  "strings/StringsFromMaps/ElliottHouse.6@swap-Ellen": "Кажется, {{Elliott}} выращивает бонсай. Выглядит круто!",
+  "dialogue/Alex/event_box3@swap-Alexis": "... Спасибо, @.#$b#Ты... Ты не такой, как остальные парни. Ты более чуткий.$l^Ты теперь мой лучший друг во всем городе...#$b#Я рад.^Разве стыдно такое сказать?$l"
 }

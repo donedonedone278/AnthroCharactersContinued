@@ -542,8 +542,8 @@
   "strings/StringsFromMaps/HarveyRoom.4@swap-Hannah": "It's {{Harvey}}'s model airplane collection.",
   "strings/StringsFromMaps/Hospital.3@swap-Hannah": "It's probably not a good idea to stick your hands in there. It's full of used syringes, dirty swabs, and little nozzles that {{Harvey}} stuck into people's ears.",
   "strings/StringsFromMaps/JoshHouse.1@swap-Alexis": "Momma-^If you're reading this, it means I've passed on. I'm so sorry you had to go through this. Know that I love you both.^Don't be too upset, I'm with Yoba now. ^My final request: take care of {{Alex}}. She needs a family, something stable. She's a good kid.^ Love, ^Clara",
-  "strings/StringsFromMaps/JoshHouse.7@swap-Alexis": "You peek into {{Alex}}' drawer. There's clothes, hair gel, and a box of gridball trading cards.",
-  "strings/StringsFromMaps/JoshHouse.8@swap-Alexis": "You peek into {{Alex}}' drawer. There's clothes, hair gel, and a box of gridball trading cards.",
+  "strings/StringsFromMaps/JoshHouse.7@swap-Alexis": "You peek into {{Alex}}' drawer. There's clothes, hair gel, and a box of hoopball trading cards.",
+  "strings/StringsFromMaps/JoshHouse.8@swap-Alexis": "You peek into {{Alex}}' drawer. There's clothes, hair gel, and a box of hoopball trading cards.",
   "strings/StringsFromMaps/JoshHouse.9@swap-Alexis": "It's Alexis' hoopball jersey. Looks like she keeps it clean.",
   "strings/StringsFromMaps/LeahHouse.2@swap-Liam": "It's a stack of Liam's paintings. It's mostly landscapes and studies of nature.",
   "strings/StringsFromMaps/LeahHouse.5@swap-Liam": "It's a wooden sculpture Liam's working on. It has a wonderful cedar smell.",
@@ -1102,5 +1102,6 @@
   "strings/StringsFromCSFiles/Utility.cs.5371@marriage-neutral": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you partners for life!$h",
   "strings/StringsFromCSFiles/Utility.cs.5373@marriage-neutral": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you partners for life!$h",
   "strings/StringsFromCSFiles/Utility.cs.5375@marriage-neutral": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you partners for life!$h",
-  "strings/StringsFromCSFiles/Utility.cs.5377@marriage-neutral": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you partners for life!$h"
+  "strings/StringsFromCSFiles/Utility.cs.5377@marriage-neutral": "@... %spouse... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you partners for life!$h",
+  "dialogue/Alex/event_box3@swap-Alexis": "...Thanks, @.#$b#You... you're different than everyone else. More sensitive.$l^You've become my best friend in the whole town... #$b#I'm glad.^Is that embarrassing to say?$l"
 }

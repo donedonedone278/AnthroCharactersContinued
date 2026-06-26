@@ -1086,5 +1086,6 @@
   "strings/StringsFromMaps/ElliottHouse.1@swap-Liam": "Es un cuadro de Liam.",
   "strings/StringsFromMaps/ElliottHouse.2@swap-Ellen": "El escritorio de {{Elliott}}. Está cubierto de notas y papeles arrugados.",
   "strings/StringsFromMaps/ElliottHouse.4@swap-Ellen": "Parece que {{Elliott}} intenta cultivar un bonsai. ¡De momento está genial!",
-  "strings/StringsFromMaps/ElliottHouse.6@swap-Ellen": "Parece que {{Elliott}} intenta cultivar un bonsai. ¡De momento está genial!"
+  "strings/StringsFromMaps/ElliottHouse.6@swap-Ellen": "Parece que {{Elliott}} intenta cultivar un bonsai. ¡De momento está genial!",
+  "dialogue/Alex/event_box3@swap-Alexis": "...Gracias, @.#$b#Eres... Eres distinto a los demás tíos. Más sensible.$l^Eres la persona con la que mejor me llevo en este pueblo...#$b#Me alegro.^¿Tanta vergüenza da decirlo?$l"
 }
