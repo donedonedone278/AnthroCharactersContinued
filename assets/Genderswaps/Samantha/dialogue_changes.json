@@ -128,7 +128,15 @@
       "Action": "EditData",
       "Target": "Data/Festivals/fall16",
       "Entries": {
-        "Sebastian_spouse": "{{i18n:data/fall16/Sebastian_spouse@swap-Samantha |default={{i18n:data/fall16/Sebastian_spouse |Sam={{Sam}}}} |Sam={{Sam}}}}"
+        "Sebastian_spouse": "{{i18n:data/fall16/Sebastian_spouse@swap-Samantha |default={{i18n:data/fall16/Sebastian_spouse |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "Kent_y2": "{{i18n:data/fall16/Kent_y2@swap-Samantha |default={{i18n:data/fall16/Kent_y2}}}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/winter25",
+      "Entries": {
+        "Kent_y2": "{{i18n:data/winter25/Kent_y2@swap-Samantha |default={{i18n:data/winter25/Kent_y2}}}}"
       }
     },
     {
@@ -151,6 +159,13 @@
       "Target": "Data/Festivals/summer11",
       "Entries": {
         "Sebastian": "{{i18n:data/summer11/Sebastian@swap-Samantha |default={{i18n:data/summer11/Sebastian |Sam={{Sam}}}} |Sam={{Sam}}}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/Characters",
+      "Entries": {
+        "Relative_EldestSon": "{{i18n:strings/Characters/Relative_EldestSon@swap-Samantha |default={{i18n:strings/Characters/Relative_EldestSon}}}}"
       }
     },
     {
