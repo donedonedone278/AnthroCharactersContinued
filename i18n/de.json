@@ -1120,5 +1120,9 @@
   "dialogue/Evelyn/fall_Sun@flavor": "Meine Sicht mag schwach sein, aber meine Nase hat mich noch nicht im Stich gelassen!#$e#Ich kann die Herbstblätter und Pilze riechen. Es erinnert mich an den Wald, in dem ich als Kind immer gespielt habe.",
   "dialogue/Jas/Resort@flavor": "Tante Marnie sagte, ich solle mir keinen Sonnenbrand holen... Aber wenn ich schnell laufe, fühlt es sich kühl an, also denke ich, dass das passen sollte.$h",
   "dialogue/Pam/winter_Tue4@flavor": "Ich hoffe nur, dass Penny ein gutes Leben vor sich hat. Wenn du jemals Kinder hast, wirst du das verstehen.#$e#... Es ist so trocken im Winter. Meine Haut fühlt sich wie altes Pergament an.",
-  "dialogue/Demetrius/married_Maru@swap-Marcus+flavor": "*seufz*... @, ich habe mich damit abgefunden, dass es für mein 'kleines Mädchen' an der Zeit ist, eine Frau zu werden. Du hast meinen Segen.$s"
+  "dialogue/Demetrius/married_Maru@swap-Marcus+flavor": "*seufz*... @, ich habe mich damit abgefunden, dass es für mein 'kleines Mädchen' an der Zeit ist, eine Frau zu werden. Du hast meinen Segen.$s",
+  "data/winter25/Sebastian_spouse_y2@flavor": "Hey... keine Sorge, du brauchst mir nichts zu schenken.$h#$e#Ich bin einfach nur glücklich, jeden Morgen neben dir aufzuwachen... was will man mehr?$l",
+  "data/winter25/Sebastian_spouse_y2@swap-Sabrina+flavor": "Hey... keine Sorge, du brauchst mir nichts zu schenken.$h#$e#Ich bin einfach nur glücklich, jeden Morgen neben dir aufzuwachen... was will man mehr?$l",
+  "dialogue/Abigail/summer_Thu4@flavor": "Igitt, hoffentlich werde ich diesen Sommer nicht braun.$s",
+  "dialogue/Abigail/summer_Thu4@swap-Albert+flavor": "Igitt, hoffentlich werde ich diesen Sommer nicht braun.$s"
 }

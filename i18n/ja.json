@@ -1120,5 +1120,9 @@
   "dialogue/Evelyn/fall_Sun@flavor": "私の視力は 落ちてるでしょうけど、 鼻はまだまだ しっかりしてるわ！#$e#落ち葉と キノコの 匂いを嗅ぐと、若い頃に 遊んだ 森のことを 思い出すわ。",
   "dialogue/Jas/Resort@flavor": "マーニーおばさんが日焼けしちゃダメって言うの…でも早歩きすると涼しいから、わたしはきっと大丈夫。$h",
   "dialogue/Pam/winter_Tue4@flavor": "ペニーが これから 幸せに なってくれれば いいわね。子どもが できたら、 その 気持ちが わかるはずよ。#$e#…冬の 空気は 乾燥しきってるわね。肌も カサカサに なってきたわ。",
-  "dialogue/Demetrius/married_Maru@swap-Marcus+flavor": "はぁ… @、私の「小さな女の子」が立派な女性に育ったのだと、やっと受け入れられるようになったよ。心から祝福するよ。$s"
+  "dialogue/Demetrius/married_Maru@swap-Marcus+flavor": "はぁ… @、私の「小さな女の子」が立派な女性に育ったのだと、やっと受け入れられるようになったよ。心から祝福するよ。$s",
+  "data/winter25/Sebastian_spouse_y2@flavor": "なあ… 心配しなくていいぜ、なにも用意しなくていいんだ。$h#$e#オレは毎朝おまえの隣で目覚められるだけで幸せさ… 男が他になにを求めるって言うんだ？$l",
+  "data/winter25/Sebastian_spouse_y2@swap-Sabrina+flavor": "なあ… 心配しなくていいぜ、なにも用意しなくていいんだ。$h#$e#オレは毎朝おまえの隣で目覚められるだけで幸せさ… 男が他になにを求めるって言うんだ？$l",
+  "dialogue/Abigail/summer_Thu4@flavor": "うえっ、今年の夏は 日焼けしたくないな。$s",
+  "dialogue/Abigail/summer_Thu4@swap-Albert+flavor": "うえっ、今年の夏は 日焼けしたくないな。$s"
 }

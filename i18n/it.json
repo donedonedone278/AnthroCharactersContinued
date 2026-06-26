@@ -1120,5 +1120,9 @@
   "dialogue/Evelyn/fall_Sun@flavor": "La mia vista sarà da buttare, ma il mio naso funziona ancora benone!#$e#Sento l'odore dei funghi e delle foglie cadute. Mi ricorda le foreste dove giocavo da bambina.",
   "dialogue/Jas/Resort@flavor": "Zia Marnie mi ha detto di non scottarmi... Ma quando cammino in fretta sento fresco, credo di essere a posto.$h",
   "dialogue/Pam/winter_Tue4@flavor": "Spero solo che Penny abbia una vita decente davanti a sé. Se mai avrai dei figli, saprai come mi sento.#$e#...Che aria secca, d'inverno. Mi sento la pelle come una pergamena.",
-  "dialogue/Demetrius/married_Maru@swap-Marcus+flavor": "*sospira*... @, ho accettato che è ora che la mia 'bambina' diventi una donna. Avete la mia benedizione.$s"
+  "dialogue/Demetrius/married_Maru@swap-Marcus+flavor": "*sospira*... @, ho accettato che è ora che la mia 'bambina' diventi una donna. Avete la mia benedizione.$s",
+  "data/winter25/Sebastian_spouse_y2@flavor": "Ehi... non preoccuparti, non mi devi fare un regalo.$h#$e#Sono felice di svegliarmi ogni giorno accanto a te... Cosa si può chiedere di più?$l",
+  "data/winter25/Sebastian_spouse_y2@swap-Sabrina+flavor": "Ehi... non preoccuparti, non mi devi fare un regalo.$h#$e#Sono felice di svegliarmi ogni giorno accanto a te... Cosa si può chiedere di più?$l",
+  "dialogue/Abigail/summer_Thu4@flavor": "Ooh, spero di non abbronzarmi, quest'estate.$s",
+  "dialogue/Abigail/summer_Thu4@swap-Albert+flavor": "Ooh, spero di non abbronzarmi, quest'estate.$s"
 }

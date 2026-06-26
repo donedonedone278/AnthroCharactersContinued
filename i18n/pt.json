@@ -1120,5 +1120,9 @@
   "dialogue/Evelyn/fall_Sun@flavor": "Meus olhos podem não estar bons, mas meu nariz funciona muito bem!#$e#Sinto o cheiro de folhas caídas e cogumelos. Fico lembrando da floresta na qual brincava quando era menina.",
   "dialogue/Jas/Resort@flavor": "A Tia Marnie falou pra eu não me queimar... Mas quando eu ando rápido, fica fresco, então acho que vou ficar bem.$h",
   "dialogue/Pam/winter_Tue4@flavor": "Espero que a Pepê tenha uma boa vida pela frente. Quando você tiver filhos, vai saber como me sinto.#$e#É tão seco no inverno... A minha pele parece uma uva-passa.",
-  "dialogue/Demetrius/married_Maru@swap-Marcus+flavor": "*suspira*... @, eu aceitei o fato de que minha 'garotinha' se tornou uma mulher. Você tem a minha bênção.$s"
+  "dialogue/Demetrius/married_Maru@swap-Marcus+flavor": "*suspira*... @, eu aceitei o fato de que minha 'garotinha' se tornou uma mulher. Você tem a minha bênção.$s",
+  "data/winter25/Sebastian_spouse_y2@flavor": "Ei... não se preocupe, não precisa me dar nada.$h#$e#Já sou feliz acordando ao seu lado todo dia... o que mais eu poderia pedir?$l",
+  "data/winter25/Sebastian_spouse_y2@swap-Sabrina+flavor": "Ei... não se preocupe, não precisa me dar nada.$h#$e#Já sou feliz acordando ao seu lado todo dia... o que mais eu poderia pedir?$l",
+  "dialogue/Abigail/summer_Thu4@flavor": "Ai! Espero não pegar um bronze neste verão.$s",
+  "dialogue/Abigail/summer_Thu4@swap-Albert+flavor": "Ai! Espero não pegar um bronze neste verão.$s"
 }

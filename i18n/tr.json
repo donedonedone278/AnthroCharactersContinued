@@ -1120,5 +1120,9 @@
   "dialogue/Evelyn/fall_Sun@flavor": "Görüşüm kötü olabilir ama burnum hâlâ sapasağlam!#$e#Mantar ve çürük yaprakların kokusunu alabiliyorum. Bana küçük bir kızken oynadığım ormanları hatırlatıyor.",
   "dialogue/Jas/Resort@flavor": "Marnie teyzem güneşin altında kalmamamı söyledi... Hızlı yürüdüğümde serinlik hissediyorum. Bence sorun olmaz.$h",
   "dialogue/Pam/winter_Tue4@flavor": "Umarım Penny gelecekte mutlu olur. Çocukların olduğunda beni anlayacaksın.#$e#...Kışın hava aşırı kuru oluyor. Cildim parşömene dönüyor resmen.",
-  "dialogue/Demetrius/married_Maru@swap-Marcus+flavor": "*iç çeker*... @, sanırım artık 'küçük kızımın' bir kadın olduğunu kabul etmeliyim. Benim onayımı aldın.$s"
+  "dialogue/Demetrius/married_Maru@swap-Marcus+flavor": "*iç çeker*... @, sanırım artık 'küçük kızımın' bir kadın olduğunu kabul etmeliyim. Benim onayımı aldın.$s",
+  "data/winter25/Sebastian_spouse_y2@flavor": "Ya... Endişelenme, bana bir şey almak zorunda değilsin.$h#$e#Her gün yanında uyandığım için mutluyum... Başka ne isteyebilirim ki?$l",
+  "data/winter25/Sebastian_spouse_y2@swap-Sabrina+flavor": "Ya... Endişelenme, bana bir şey almak zorunda değilsin.$h#$e#Her gün yanında uyandığım için mutluyum... Başka ne isteyebilirim ki?$l",
+  "dialogue/Abigail/summer_Thu4@flavor": "Iy, umarım bu yaz bronzlaşmam.$s",
+  "dialogue/Abigail/summer_Thu4@swap-Albert+flavor": "Iy, umarım bu yaz bronzlaşmam.$s"
 }

@@ -1136,5 +1136,9 @@
   "dialogue/Evelyn/fall_Sun@flavor": "My eyesight may be poor, but my nose hasn't failed me yet!#$e#I can smell fallen leaves and mushrooms. It reminds me of the forests I used to play in as a pup.",
   "dialogue/Jas/Resort@flavor": "Aunt Marnie told me not to overheat in my fur... But when I walk fast, it feels cool, so I think I'll be okay.$h",
   "dialogue/Pam/winter_Tue4@flavor": "I just hope Penny has a good life ahead of her. If you ever have kids you'll know how I feel.#$e#...It's so dry in winter. My fleece feels like old parchment.",
-  "dialogue/Demetrius/married_Maru@swap-Marcus+flavor": "*sigh*... @, I've come to accept that it's time for my 'kit' to become a grown buck. You have my blessing.$s"
+  "dialogue/Demetrius/married_Maru@swap-Marcus+flavor": "*sigh*... @, I've come to accept that it's time for my 'kit' to become a grown buck. You have my blessing.$s",
+  "data/winter25/Sebastian_spouse_y2@flavor": "Hey... don't worry, you don't need to get me anything.$h#$e#I'm just happy to wake up next to you every morning... what else could a guy ask for?$l",
+  "data/winter25/Sebastian_spouse_y2@swap-Sabrina+flavor": "Hey... don't worry, you don't need to get me anything.$h#$e#I'm just happy to wake up next to you every morning... what else could a girl ask for?$l",
+  "dialogue/Abigail/summer_Thu4@flavor": "Ew, I hope I don't get a tan this summer.$s",
+  "dialogue/Abigail/summer_Thu4@swap-Albert+flavor": "Ew, I hope I don't get a tan this summer.$s"
 }

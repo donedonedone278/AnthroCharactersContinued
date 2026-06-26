@@ -1120,5 +1120,9 @@
   "dialogue/Evelyn/fall_Sun@flavor": "Mi vista no es muy buena, ¡pero la nariz aún no me falla!#$e#Huele a hojas caídas y setas. Me recuerda a los bosques en los que jugaba de niña.",
   "dialogue/Jas/Resort@flavor": "La tía Marnie me dijo que no me quemase... Pero cuando ando rápido hace fresquito, así que estaré bien.$h",
   "dialogue/Pam/winter_Tue4@flavor": "Espero que Penny tenga una buena vida por delante. Cuando tengas hijos, entenderás cómo me siento.#$e#... Qué seco es el invierno. Mi piel parece un pergamino.",
-  "dialogue/Demetrius/married_Maru@swap-Marcus+flavor": "*suspiro*... @, he aceptado que es hora de que mi « pequeña » se convierta en una mujer. Tienes mi beneplácito.$s"
+  "dialogue/Demetrius/married_Maru@swap-Marcus+flavor": "*suspiro*... @, he aceptado que es hora de que mi « pequeña » se convierta en una mujer. Tienes mi beneplácito.$s",
+  "data/winter25/Sebastian_spouse_y2@flavor": "Hey... no te preocupes, no tienes por qué regalarme nada.$h#$e#Estoy contento de despertarme junto a ti cada mañana... ¿Qué más podría pedir un chico?$l",
+  "data/winter25/Sebastian_spouse_y2@swap-Sabrina+flavor": "Hey... no te preocupes, no tienes por qué regalarme nada.$h#$e#Estoy contento de despertarme junto a ti cada mañana... ¿Qué más podría pedir un chico?$l",
+  "dialogue/Abigail/summer_Thu4@flavor": "¡Oh, no! Espero no ponerme morena este verano.$s",
+  "dialogue/Abigail/summer_Thu4@swap-Albert+flavor": "¡Oh, no! Espero no ponerme morena este verano.$s"
 }

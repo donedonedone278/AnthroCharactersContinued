@@ -1120,5 +1120,9 @@
   "dialogue/Evelyn/fall_Sun@flavor": "A látásom megcsalhat, de az orrom még sosem hagyott cserben!#$e#Hulló faleveleket és gombát érzek. Arra az erdőre emlékeztet, melyben kislánykoromban játszadoztam.",
   "dialogue/Jas/Resort@flavor": "Marnie néni mondta, hogy ne égjek le... De mikor gyorsan sétálok, akkor az jó érzés, szóval szerintem jól leszek.$h",
   "dialogue/Pam/winter_Tue4@flavor": "Csak remélni tudom, hogy Pennynek jó élete lesz. Ha lesznek gyerekeid, majd megérted, hogy hogyan is érzek.#$e#...Olyan száraz a tél. A bőröm olyan, mint egy régi pergamen.",
-  "dialogue/Demetrius/married_Maru@swap-Marcus+flavor": "*sóhaj*... @, elfogadtam a tényt, hogy itt az ideje, hogy az én 'kicsi lányom' nővé váljon. Áldásom adom rátok.$s"
+  "dialogue/Demetrius/married_Maru@swap-Marcus+flavor": "*sóhaj*... @, elfogadtam a tényt, hogy itt az ideje, hogy az én 'kicsi lányom' nővé váljon. Áldásom adom rátok.$s",
+  "data/winter25/Sebastian_spouse_y2@flavor": "Hé... Ne aggódj, semmit se kell szerezned nekem.$h#$e#Én már annak örülök, hogy minden reggel melletted ébredek... mégis mi mást kérhet egy srác?$l",
+  "data/winter25/Sebastian_spouse_y2@swap-Sabrina+flavor": "Hé... Ne aggódj, semmit se kell szerezned nekem.$h#$e#Én már annak örülök, hogy minden reggel melletted ébredek... mégis mi mást kérhet egy srác?$l",
+  "dialogue/Abigail/summer_Thu4@flavor": "Ehh, remélem idén nem barnulok le.$s",
+  "dialogue/Abigail/summer_Thu4@swap-Albert+flavor": "Ehh, remélem idén nem barnulok le.$s"
 }

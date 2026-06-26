@@ -1120,5 +1120,9 @@
   "dialogue/Evelyn/fall_Sun@flavor": "Ma vue est peut-être mauvaise, mais mon nez ne m’a jamais failli jusqu’à présent !#$e#Je sens les feuilles mortes et les champignons. Ça me rappelle les forêts dans lesquelles j’avais l’habitude de jouer quand j’étais petite.",
   "dialogue/Jas/Resort@flavor": "Tante Marnie m’a dit de ne pas attraper des coups de soleil... Mais quand je marche vite, ça se rafraîchit... Je pense que ça ira. $h",
   "dialogue/Pam/winter_Tue4@flavor": "J’espère que Penny aura une belle vie. Si jamais tu as des enfants un jour, tu comprendras ce que je ressens.#$e#... Il fait si froid en hiver. Ma peau ressemble à du vieux parchemin.",
-  "dialogue/Demetrius/married_Maru@swap-Marcus+flavor": "*soupir*... @, je peux enfin accepter que ma « petite fille » est une femme maintenant. Tu as ma bénédiction.$s"
+  "dialogue/Demetrius/married_Maru@swap-Marcus+flavor": "*soupir*... @, je peux enfin accepter que ma « petite fille » est une femme maintenant. Tu as ma bénédiction.$s",
+  "data/winter25/Sebastian_spouse_y2@flavor": "Hé... ne t'inquiète pas, tu n'as pas besoin de m'offrir quoi que ce soit.$h#$e#Je suis heureux de me réveiller à tes côtés tous les matins... qu'est-ce qu'un homme pourrait demander de plus ?$l",
+  "data/winter25/Sebastian_spouse_y2@swap-Sabrina+flavor": "Hé... ne t'inquiète pas, tu n'as pas besoin de m'offrir quoi que ce soit.$h#$e#Je suis heureux de me réveiller à tes côtés tous les matins... qu'est-ce qu'un homme pourrait demander de plus ?$l",
+  "dialogue/Abigail/summer_Thu4@flavor": "J’espère ne pas bronzer cet été.$s",
+  "dialogue/Abigail/summer_Thu4@swap-Albert+flavor": "J’espère ne pas bronzer cet été.$s"
 }
