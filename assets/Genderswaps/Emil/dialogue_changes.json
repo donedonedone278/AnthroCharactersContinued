@@ -359,7 +359,8 @@
         "OneKid_1": "{{i18n:dialogue/MarriageDialogueEmily/OneKid_1@swap-Emil+flavor |default={{i18n:dialogue/MarriageDialogueEmily/OneKid_1}}}}",
         "TwoKids_3": "{{i18n:dialogue/MarriageDialogueEmily/TwoKids_3@swap-Emil+flavor |default={{i18n:dialogue/MarriageDialogueEmily/TwoKids_3}}}}",
         "Neutral_0": "{{i18n:dialogue/MarriageDialogueEmily/Neutral_0@swap-Emil+flavor |default={{i18n:dialogue/MarriageDialogueEmily/Neutral_0}}}}",
-        "winter_Emily": "{{i18n:dialogue/MarriageDialogueEmily/winter_Emily@swap-Emil+flavor |default={{i18n:dialogue/MarriageDialogueEmily/winter_Emily}}}}"
+        "winter_Emily": "{{i18n:dialogue/MarriageDialogueEmily/winter_Emily@swap-Emil+flavor |default={{i18n:dialogue/MarriageDialogueEmily/winter_Emily}}}}",
+        "Indoor_Night_0": "{{i18n:dialogue/MarriageDialogueEmily/Indoor_Night_0@swap-Emil+flavor |default={{i18n:dialogue/MarriageDialogueEmily/Indoor_Night_0}}}}"
       }
     },
     {

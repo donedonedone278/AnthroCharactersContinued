@@ -133,7 +133,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Leah",
       "Entries": {
-        "fall_Mon": "{{i18n:dialogue/Leah/fall_Mon@swap-Liam+flavor |default={{i18n:dialogue/Leah/fall_Mon@flavor}}}}"
+        "fall_Mon": "{{i18n:dialogue/Leah/fall_Mon@swap-Liam+flavor |default={{i18n:dialogue/Leah/fall_Mon@flavor}}}}",
+        "winter_Mon": "{{i18n:dialogue/Leah/winter_Mon@swap-Liam+flavor |default={{i18n:dialogue/Leah/winter_Mon}}}}"
       }
     }
   ]

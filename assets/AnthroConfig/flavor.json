@@ -483,7 +483,9 @@
         "Wed2": "{{i18n:dialogue/Penny/Wed2@flavor |default={{i18n:dialogue/Penny/Wed2}}}}",
         "GreenRain_2": "{{i18n:dialogue/Penny/GreenRain_2@flavor |default={{i18n:dialogue/Penny/GreenRain_2}}}}",
         "event_speaker_kids5": "{{i18n:dialogue/Penny/event_speaker_kids5@flavor |default={{i18n:dialogue/Penny/event_speaker_kids5}}}}",
-        "event_speaker_yes": "{{i18n:dialogue/Penny/event_speaker_yes@flavor |default={{i18n:dialogue/Penny/event_speaker_yes}}}}"
+        "event_speaker_yes": "{{i18n:dialogue/Penny/event_speaker_yes@flavor |default={{i18n:dialogue/Penny/event_speaker_yes}}}}",
+        "winter_Tue": "{{i18n:dialogue/Penny/winter_Tue@flavor |default={{i18n:dialogue/Penny/winter_Tue}}}}",
+        "Resort_Shore": "{{i18n:dialogue/Penny/Resort_Shore@flavor |default={{i18n:dialogue/Penny/Resort_Shore}}}}"
       }
     },
     {
@@ -516,7 +518,9 @@
       "Target": "Characters/Dialogue/Shane",
       "Entries": {
         "Sat8": "{{i18n:dialogue/Shane/Sat8@flavor |default={{i18n:dialogue/Shane/Sat8}}}}",
-        "Wed8": "{{i18n:dialogue/Shane/Wed8@flavor |default={{i18n:dialogue/Shane/Wed8}}}}"
+        "Wed8": "{{i18n:dialogue/Shane/Wed8@flavor |default={{i18n:dialogue/Shane/Wed8}}}}",
+        "Resort": "{{i18n:dialogue/Shane/Resort@flavor |default={{i18n:dialogue/Shane/Resort}}}}",
+        "Resort_Leaving": "{{i18n:dialogue/Shane/Resort_Leaving@flavor |default={{i18n:dialogue/Shane/Resort_Leaving}}}}"
       }
     },
     {
