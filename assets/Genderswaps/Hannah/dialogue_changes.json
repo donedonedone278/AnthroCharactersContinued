@@ -185,7 +185,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueHarvey",
       "Entries": {
-        "summer_1": "{{i18n:dialogue/MarriageDialogueHarvey/summer_1@swap-Hannah+flavor |default={{i18n:dialogue/MarriageDialogueHarvey/summer_1}}}}"
+        "summer_1": "{{i18n:dialogue/MarriageDialogueHarvey/summer_1@swap-Hannah+flavor |default={{i18n:dialogue/MarriageDialogueHarvey/summer_1}}}}",
+        "TwoKids_3": "{{i18n:dialogue/MarriageDialogueHarvey/TwoKids_3@swap-Hannah+flavor |default={{i18n:dialogue/MarriageDialogueHarvey/TwoKids_3@swap-Hannah}}}}"
       }
     },
     {
