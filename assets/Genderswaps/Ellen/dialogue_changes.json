@@ -47,6 +47,7 @@
       "Action": "EditData",
       "Target": "Data/Events/Saloon",
       "Entries": {
+        "40/f Elliott 1000/p Gus/t 1500 2200": "{{i18n:event/Saloon/40@swap-Ellen |default={{i18n:event/Saloon/40}}}}",
         "195013/f Shane 2500/f Sebastian 2500/f Sam 2500/f Harvey 2500/f Alex 2500/f Elliott 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 911526/e 528052/e 9581348/e 43/e 384882/e 233104/k 195099": "{{i18n:event/Saloon/195013@finale |default={{i18n:event/Saloon/195013}}}}",
         "choseToExplain": "{{i18n:event/Saloon/choseToExplain@finale |default={{i18n:event/Saloon/choseToExplain}}}}",
         "crying": "{{i18n:event/Saloon/crying@finale |default={{i18n:event/Saloon/crying}}}}"
