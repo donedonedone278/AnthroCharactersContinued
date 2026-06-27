@@ -163,6 +163,13 @@
     },
     {
       "Action": "EditData",
+      "Target": "Characters/Dialogue/Jodi",
+      "Entries": {
+        "eventSeen_58": "{{i18n:dialogue/Jodi/eventSeen_58@swap-Hannah |default={{i18n:dialogue/Jodi/eventSeen_58}}}}"
+      }
+    },
+    {
+      "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialoguePenny",
       "Entries": {
         "Rainy_Day_1": "{{i18n:dialogue/MarriageDialoguePenny/Rainy_Day_1@swap-Hannah |default={{i18n:dialogue/MarriageDialoguePenny/Rainy_Day_1 |Maru={{Maru}} |Harvey={{Harvey}} |Maru_her_him={{Maru_her_him}}}} |Maru={{Maru}} |Harvey={{Harvey}} |Maru_her_him={{Maru_her_him}}}}"
