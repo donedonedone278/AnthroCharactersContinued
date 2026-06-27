@@ -75,9 +75,9 @@
       "Action": "EditData",
       "Target": "Data/Events/Saloon",
       "Entries": {
-        "195013/f Shane 2500/f Sebastian 2500/f Sam 2500/f Harvey 2500/f Alex 2500/f Elliott 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 911526/e 528052/e 9581348/e 43/e 384882/e 233104/k 195099": "{{i18n:event/Saloon/195013@swap-Samantha |default={{i18n:event/Saloon/195013}}}}",
-        "choseToExplain": "{{i18n:event/Saloon/choseToExplain@swap-Samantha |default={{i18n:event/Saloon/choseToExplain}}}}",
-        "crying": "{{i18n:event/Saloon/crying@swap-Samantha |default={{i18n:event/Saloon/crying}}}}"
+        "195013/f Shane 2500/f Sebastian 2500/f Sam 2500/f Harvey 2500/f Alex 2500/f Elliott 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 911526/e 528052/e 9581348/e 43/e 384882/e 233104/k 195099": "{{i18n:event/Saloon/195013@finale |default={{i18n:event/Saloon/195013}}}}",
+        "choseToExplain": "{{i18n:event/Saloon/choseToExplain@finale |default={{i18n:event/Saloon/choseToExplain}}}}",
+        "crying": "{{i18n:event/Saloon/crying@finale |default={{i18n:event/Saloon/crying}}}}"
       }
     },
     {
@@ -128,7 +128,15 @@
       "Action": "EditData",
       "Target": "Data/Festivals/fall16",
       "Entries": {
-        "Sebastian_spouse": "{{i18n:data/fall16/Sebastian_spouse@swap-Samantha |default={{i18n:data/fall16/Sebastian_spouse |Sam={{Sam}}}} |Sam={{Sam}}}}"
+        "Sebastian_spouse": "{{i18n:data/fall16/Sebastian_spouse@swap-Samantha |default={{i18n:data/fall16/Sebastian_spouse |Sam={{Sam}}}} |Sam={{Sam}}}}",
+        "Kent_y2": "{{i18n:data/fall16/Kent_y2@swap-Samantha |default={{i18n:data/fall16/Kent_y2}}}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/winter25",
+      "Entries": {
+        "Kent_y2": "{{i18n:data/winter25/Kent_y2@swap-Samantha |default={{i18n:data/winter25/Kent_y2}}}}"
       }
     },
     {
@@ -151,6 +159,13 @@
       "Target": "Data/Festivals/summer11",
       "Entries": {
         "Sebastian": "{{i18n:data/summer11/Sebastian@swap-Samantha |default={{i18n:data/summer11/Sebastian |Sam={{Sam}}}} |Sam={{Sam}}}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/Characters",
+      "Entries": {
+        "Relative_EldestSon": "{{i18n:strings/Characters/Relative_EldestSon@swap-Samantha |default={{i18n:strings/Characters/Relative_EldestSon}}}}"
       }
     },
     {

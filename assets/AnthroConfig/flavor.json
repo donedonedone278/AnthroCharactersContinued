@@ -50,7 +50,8 @@
         "Wed6": "{{i18n:dialogue/Clint/Wed6@flavor |default={{i18n:dialogue/Clint/Wed6}}}}",
         "Fri8": "{{i18n:dialogue/Clint/Fri8@flavor |default={{i18n:dialogue/Clint/Fri8}}}}",
         "Resort_Shore": "{{i18n:dialogue/Clint/Resort_Shore@flavor |default={{i18n:dialogue/Clint/Resort_Shore}}}}",
-        "Resort_Shore_2": "{{i18n:dialogue/Clint/Resort_Shore_2@flavor |default={{i18n:dialogue/Clint/Resort_Shore_2}}}}"
+        "Resort_Shore_2": "{{i18n:dialogue/Clint/Resort_Shore_2@flavor |default={{i18n:dialogue/Clint/Resort_Shore_2}}}}",
+        "Sun8": "{{i18n:dialogue/Clint/Sun8@flavor |default={{i18n:dialogue/Clint/Sun8}}}}"
       }
     },
     {
@@ -86,7 +87,10 @@
         "fall_Fri4": "{{i18n:dialogue/Elliott/fall_Fri4@flavor |default={{i18n:dialogue/Elliott/fall_Fri4}}}}",
         "fall_Fri": "{{i18n:dialogue/Elliott/fall_Fri@flavor |default={{i18n:dialogue/Elliott/fall_Fri}}}}",
         "winter_Fri": "{{i18n:dialogue/Elliott/winter_Fri@flavor |default={{i18n:dialogue/Elliott/winter_Fri}}}}",
-        "summer_Sat": "{{i18n:dialogue/Elliott/summer_Sat@flavor |default={{i18n:dialogue/Elliott/summer_Sat}}}}"
+        "summer_Sat": "{{i18n:dialogue/Elliott/summer_Sat@flavor |default={{i18n:dialogue/Elliott/summer_Sat}}}}",
+        "Fri4": "{{i18n:dialogue/Elliott/Fri4@flavor |default={{i18n:dialogue/Elliott/Fri4}}}}",
+        "Resort_2": "{{i18n:dialogue/Elliott/Resort_2@flavor |default={{i18n:dialogue/Elliott/Resort_2}}}}",
+        "AcceptBirthdayGift_Negative": "{{i18n:dialogue/Elliott/AcceptBirthdayGift_Negative@flavor |default={{i18n:dialogue/Elliott/AcceptBirthdayGift_Negative}}}}"
       }
     },
     {
@@ -107,7 +111,8 @@
         "summer_Thu": "{{i18n:dialogue/Haley/summer_Thu@flavor |default={{i18n:dialogue/Haley/summer_Thu}}}}",
         "summer_Thu6": "{{i18n:dialogue/Haley/summer_Thu6@flavor |default={{i18n:dialogue/Haley/summer_Thu6}}}}",
         "fall_Sun": "{{i18n:dialogue/Haley/fall_Sun@flavor |default={{i18n:dialogue/Haley/fall_Sun}}}}",
-        "Resort_Towel": "{{i18n:dialogue/Haley/Resort_Towel@flavor |default={{i18n:dialogue/Haley/Resort_Towel}}}}"
+        "Resort_Towel": "{{i18n:dialogue/Haley/Resort_Towel@flavor |default={{i18n:dialogue/Haley/Resort_Towel}}}}",
+        "AcceptGift_(O)StardropTea": "{{i18n:dialogue/Haley/AcceptGift_(O)StardropTea@flavor |default={{i18n:dialogue/Haley/AcceptGift_(O)StardropTea}}}}"
       }
     },
     {
@@ -235,7 +240,8 @@
         "Outdoor_1": "{{i18n:dialogue/MarriageDialogueElliott/Outdoor_1@flavor |default={{i18n:dialogue/MarriageDialogueElliott/Outdoor_1}}}}",
         "Outdoor_3": "{{i18n:dialogue/MarriageDialogueElliott/Outdoor_3@flavor |default={{i18n:dialogue/MarriageDialogueElliott/Outdoor_3}}}}",
         "fall_15": "{{i18n:dialogue/MarriageDialogueElliott/fall_15@flavor |default={{i18n:dialogue/MarriageDialogueElliott/fall_15}}}}",
-        "OneKid_0": "{{i18n:dialogue/MarriageDialogueElliott/OneKid_0@flavor |default={{i18n:dialogue/MarriageDialogueElliott/OneKid_0}}}}"
+        "OneKid_0": "{{i18n:dialogue/MarriageDialogueElliott/OneKid_0@flavor |default={{i18n:dialogue/MarriageDialogueElliott/OneKid_0}}}}",
+        "Outdoor_4": "{{i18n:dialogue/MarriageDialogueElliott/Outdoor_4@flavor |default={{i18n:dialogue/MarriageDialogueElliott/Outdoor_4}}}}"
       }
     },
     {
@@ -348,7 +354,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueMaru",
       "Entries": {
-        "TwoKids_3": "{{i18n:dialogue/MarriageDialogueMaru/TwoKids_3@flavor |default={{i18n:dialogue/MarriageDialogueMaru/TwoKids_3}}}}"
+        "TwoKids_3": "{{i18n:dialogue/MarriageDialogueMaru/TwoKids_3@flavor |default={{i18n:dialogue/MarriageDialogueMaru/TwoKids_3}}}}",
+        "OneKid_3": "{{i18n:dialogue/MarriageDialogueMaru/OneKid_3@flavor |default={{i18n:dialogue/MarriageDialogueMaru/OneKid_3}}}}"
       }
     },
     {
@@ -476,7 +483,9 @@
         "Wed2": "{{i18n:dialogue/Penny/Wed2@flavor |default={{i18n:dialogue/Penny/Wed2}}}}",
         "GreenRain_2": "{{i18n:dialogue/Penny/GreenRain_2@flavor |default={{i18n:dialogue/Penny/GreenRain_2}}}}",
         "event_speaker_kids5": "{{i18n:dialogue/Penny/event_speaker_kids5@flavor |default={{i18n:dialogue/Penny/event_speaker_kids5}}}}",
-        "event_speaker_yes": "{{i18n:dialogue/Penny/event_speaker_yes@flavor |default={{i18n:dialogue/Penny/event_speaker_yes}}}}"
+        "event_speaker_yes": "{{i18n:dialogue/Penny/event_speaker_yes@flavor |default={{i18n:dialogue/Penny/event_speaker_yes}}}}",
+        "winter_Tue": "{{i18n:dialogue/Penny/winter_Tue@flavor |default={{i18n:dialogue/Penny/winter_Tue}}}}",
+        "Resort_Shore": "{{i18n:dialogue/Penny/Resort_Shore@flavor |default={{i18n:dialogue/Penny/Resort_Shore}}}}"
       }
     },
     {
@@ -509,14 +518,15 @@
       "Target": "Characters/Dialogue/Shane",
       "Entries": {
         "Sat8": "{{i18n:dialogue/Shane/Sat8@flavor |default={{i18n:dialogue/Shane/Sat8}}}}",
-        "Wed8": "{{i18n:dialogue/Shane/Wed8@flavor |default={{i18n:dialogue/Shane/Wed8}}}}"
+        "Wed8": "{{i18n:dialogue/Shane/Wed8@flavor |default={{i18n:dialogue/Shane/Wed8}}}}",
+        "Resort": "{{i18n:dialogue/Shane/Resort@flavor |default={{i18n:dialogue/Shane/Resort}}}}",
+        "Resort_Leaving": "{{i18n:dialogue/Shane/Resort_Leaving@flavor |default={{i18n:dialogue/Shane/Resort_Leaving}}}}"
       }
     },
     {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Sam",
       "Entries": {
-        "Sat8": "{{i18n:dialogue/Sam/Sat8@flavor |default={{i18n:dialogue/Sam/Sat8}}}}",
         "Mon2": "{{i18n:dialogue/Sam/Mon2@flavor |default={{i18n:dialogue/Sam/Mon2}}}}",
         "summer_Wed2": "{{i18n:dialogue/Sam/summer_Wed2@flavor |default={{i18n:dialogue/Sam/summer_Wed2}}}}",
         "fall_Tue": "{{i18n:dialogue/Sam/fall_Tue@flavor |default={{i18n:dialogue/Sam/fall_Tue}}}}",
@@ -582,7 +592,8 @@
       "Target": "Data/NPCGiftTastes",
       "Entries": {
         "Dwarf": "{{i18n:data/NPCGiftTastes/Dwarf@flavor |default={{i18n:data/NPCGiftTastes/Dwarf}}}}",
-        "Krobus": "{{i18n:data/NPCGiftTastes/Krobus@flavor |default={{i18n:data/NPCGiftTastes/Krobus}}}}"
+        "Krobus": "{{i18n:data/NPCGiftTastes/Krobus@flavor |default={{i18n:data/NPCGiftTastes/Krobus}}}}",
+        "Kent": "{{i18n:data/NPCGiftTastes/Kent@flavor |default={{i18n:data/NPCGiftTastes/Kent}}}}"
       }
     },
     {
@@ -686,7 +697,8 @@
       "Action": "EditData",
       "Target": "Data/Events/Mountain",
       "Entries": {
-        "BadAnswer": "{{i18n:event/Mountain/BadAnswer@flavor |default={{i18n:event/Mountain/BadAnswer}}}}"
+        "BadAnswer": "{{i18n:event/Mountain/BadAnswer@flavor |default={{i18n:event/Mountain/BadAnswer}}}}",
+        "8/f Maru 1500/w sunny/t 2100 2340": "{{i18n:event/Mountain/8@flavor |default={{i18n:event/Mountain/8}}}}"
       }
     },
     {
@@ -763,7 +775,30 @@
       "Entries": {
         "Demetrius_y2": "{{i18n:data/summer11/Demetrius_y2@flavor |default={{i18n:data/summer11/Demetrius_y2}}}}",
         "Haley_y2": "{{i18n:data/summer11/Haley_y2@flavor |default={{i18n:data/summer11/Haley_y2}}}}",
-        "Sam": "{{i18n:data/summer11/Sam@flavor |default={{i18n:data/summer11/Sam}}}}"
+        "Sam": "{{i18n:data/summer11/Sam@flavor |default={{i18n:data/summer11/Sam}}}}",
+        "Robin": "{{i18n:data/summer11/Robin@flavor |default={{i18n:data/summer11/Robin}}}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Evelyn",
+      "Entries": {
+        "Sun": "{{i18n:dialogue/Evelyn/Sun@flavor |default={{i18n:dialogue/Evelyn/Sun}}}}",
+        "fall_Sun": "{{i18n:dialogue/Evelyn/fall_Sun@flavor |default={{i18n:dialogue/Evelyn/fall_Sun}}}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Jas",
+      "Entries": {
+        "Resort": "{{i18n:dialogue/Jas/Resort@flavor |default={{i18n:dialogue/Jas/Resort}}}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Pam",
+      "Entries": {
+        "winter_Tue4": "{{i18n:dialogue/Pam/winter_Tue4@flavor |default={{i18n:dialogue/Pam/winter_Tue4}}}}"
       }
     },
     {
@@ -982,7 +1017,8 @@
         "JojaMart.67": "{{i18n:strings/StringsFromMaps/JojaMart.67@flavor |default={{i18n:strings/StringsFromMaps/JojaMart.67}}}}",
         "JojaMart.80": "{{i18n:strings/StringsFromMaps/JojaMart.80@flavor |default={{i18n:strings/StringsFromMaps/JojaMart.80}}}}",
         "Pirates5": "{{i18n:strings/StringsFromMaps/Pirates5@flavor |default={{i18n:strings/StringsFromMaps/Pirates5}}}}",
-        "SamHouse.3": "{{i18n:strings/StringsFromMaps/SamHouse.3@flavor |default={{i18n:strings/StringsFromMaps/SamHouse.3}}}}"
+        "SamHouse.3": "{{i18n:strings/StringsFromMaps/SamHouse.3@flavor |default={{i18n:strings/StringsFromMaps/SamHouse.3}}}}",
+        "HaleyHouse.10": "{{i18n:strings/StringsFromMaps/HaleyHouse.10@flavor |default={{i18n:strings/StringsFromMaps/HaleyHouse.10}}}}"
       }
     },
     {

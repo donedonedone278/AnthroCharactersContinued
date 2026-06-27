@@ -43,9 +43,9 @@
       "Action": "EditData",
       "Target": "Data/Events/HaleyHouse",
       "Entries": {
-        "195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019": "{{i18n:event/HaleyHouse/195012@swap-Liam |default={{i18n:event/HaleyHouse/195012}}}}",
-        "choseToExplain": "{{i18n:event/HaleyHouse/choseToExplain@swap-Liam |default={{i18n:event/HaleyHouse/choseToExplain}}}}",
-        "lifestyleChoice": "{{i18n:event/HaleyHouse/lifestyleChoice@swap-Liam |default={{i18n:event/HaleyHouse/lifestyleChoice}}}}"
+        "195012/f Haley 2500/f Emily 2500/f Penny 2500/f Abigail 2500/f Leah 2500/f Maru 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 38/e 2123343/e 10/e 901756/e 54/e 15/k 195019": "{{i18n:event/HaleyHouse/195012@finale |default={{i18n:event/HaleyHouse/195012}}}}",
+        "choseToExplain": "{{i18n:event/HaleyHouse/choseToExplain@finale |default={{i18n:event/HaleyHouse/choseToExplain}}}}",
+        "lifestyleChoice": "{{i18n:event/HaleyHouse/lifestyleChoice@finale |default={{i18n:event/HaleyHouse/lifestyleChoice}}}}"
       }
     },
     {
@@ -124,6 +124,17 @@
       "Entries": {
         "LeahsWhittler_Name": "{{i18n:strings/Weapons/LeahsWhittler_Name@swap-Liam |default={{i18n:strings/Weapons/LeahsWhittler_Name}}}}",
         "LeahsWhittler_Description": "{{i18n:strings/Weapons/LeahsWhittler_Description@swap-Liam |default={{i18n:strings/Weapons/LeahsWhittler_Description}}}}"
+      }
+    },
+    {
+      "When": {
+        "Flavor": true
+      },
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Leah",
+      "Entries": {
+        "fall_Mon": "{{i18n:dialogue/Leah/fall_Mon@swap-Liam+flavor |default={{i18n:dialogue/Leah/fall_Mon@flavor}}}}",
+        "winter_Mon": "{{i18n:dialogue/Leah/winter_Mon@swap-Liam+flavor |default={{i18n:dialogue/Leah/winter_Mon}}}}"
       }
     }
   ]

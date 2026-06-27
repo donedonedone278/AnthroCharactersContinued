@@ -88,9 +88,9 @@
       "Entries": {
         "911526/f Alex 2500/t 1900 2200/n joshMessage": "{{i18n:event/Saloon/911526@swap-Alexis |default={{i18n:event/Saloon/911526 |Alex={{Alex}}}} |Alex={{Alex}}}}",
         "3917590/n saloonSportsRoom/O Alex": "{{i18n:event/Saloon/3917590@swap-Alexis |default={{i18n:event/Saloon/3917590 |Shane={{Shane}}}} |Shane={{Shane}}}}",
-        "195013/f Shane 2500/f Sebastian 2500/f Sam 2500/f Harvey 2500/f Alex 2500/f Elliott 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 911526/e 528052/e 9581348/e 43/e 384882/e 233104/k 195099": "{{i18n:event/Saloon/195013@swap-Alexis |default={{i18n:event/Saloon/195013}}}}",
-        "choseToExplain": "{{i18n:event/Saloon/choseToExplain@swap-Alexis |default={{i18n:event/Saloon/choseToExplain}}}}",
-        "crying": "{{i18n:event/Saloon/crying@swap-Alexis |default={{i18n:event/Saloon/crying}}}}"
+        "195013/f Shane 2500/f Sebastian 2500/f Sam 2500/f Harvey 2500/f Alex 2500/f Elliott 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 911526/e 528052/e 9581348/e 43/e 384882/e 233104/k 195099": "{{i18n:event/Saloon/195013@finale |default={{i18n:event/Saloon/195013}}}}",
+        "choseToExplain": "{{i18n:event/Saloon/choseToExplain@finale |default={{i18n:event/Saloon/choseToExplain}}}}",
+        "crying": "{{i18n:event/Saloon/crying@finale |default={{i18n:event/Saloon/crying}}}}"
       }
     },
     {
@@ -182,7 +182,8 @@
         "dating_Alex": "{{i18n:dialogue/Alex/dating_Alex@swap-Alexis |default={{i18n:dialogue/Alex/dating_Alex |Alex={{Alex}}}} |Alex={{Alex}}}}",
         "Wed": "{{i18n:dialogue/Alex/Wed@swap-Alexis |default={{i18n:dialogue/Alex/Wed}}}}",
         "Wed_01_old": "{{i18n:dialogue/Alex/Wed_01_old@swap-Alexis |default={{i18n:dialogue/Alex/Wed_01_old}}}}",
-        "Mon": "{{i18n:dialogue/Alex/Mon@swap-Alexis |default={{i18n:dialogue/Alex/Mon}}}}"
+        "Mon": "{{i18n:dialogue/Alex/Mon@swap-Alexis |default={{i18n:dialogue/Alex/Mon}}}}",
+        "event_box3": "{{i18n:dialogue/Alex/event_box3@swap-Alexis |default={{i18n:dialogue/Alex/event_box3}}}}"
       }
     },
     {

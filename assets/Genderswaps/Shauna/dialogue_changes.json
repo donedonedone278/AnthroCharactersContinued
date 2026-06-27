@@ -78,9 +78,9 @@
       "Entries": {
         "97/f Clint 750/t 1900 2300/d Tue Wed Thu Fri Sat Sun": "{{i18n:event/Saloon/97@swap-Shauna |default={{i18n:event/Saloon/97 |Emily={{Emily}} |Shane={{Shane}}}} |Emily={{Emily}} |Shane={{Shane}}}}",
         "3917590/n saloonSportsRoom/O Alex": "{{i18n:event/Saloon/3917590@swap-Shauna |default={{i18n:event/Saloon/3917590 |Shane={{Shane}}}} |Shane={{Shane}}}}",
-        "195013/f Shane 2500/f Sebastian 2500/f Sam 2500/f Harvey 2500/f Alex 2500/f Elliott 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 911526/e 528052/e 9581348/e 43/e 384882/e 233104/k 195099": "{{i18n:event/Saloon/195013@swap-Shauna |default={{i18n:event/Saloon/195013}}}}",
-        "choseToExplain": "{{i18n:event/Saloon/choseToExplain@swap-Shauna |default={{i18n:event/Saloon/choseToExplain}}}}",
-        "crying": "{{i18n:event/Saloon/crying@swap-Shauna |default={{i18n:event/Saloon/crying}}}}",
+        "195013/f Shane 2500/f Sebastian 2500/f Sam 2500/f Harvey 2500/f Alex 2500/f Elliott 2500/o Abigail/o Penny/o Leah/o Emily/o Maru/o Haley/o Shane/o Harvey/o Sebastian/o Sam/o Elliott/o Alex/e 911526/e 528052/e 9581348/e 43/e 384882/e 233104/k 195099": "{{i18n:event/Saloon/195013@finale |default={{i18n:event/Saloon/195013}}}}",
+        "choseToExplain": "{{i18n:event/Saloon/choseToExplain@finale |default={{i18n:event/Saloon/choseToExplain}}}}",
+        "crying": "{{i18n:event/Saloon/crying@finale |default={{i18n:event/Saloon/crying}}}}",
         "wewereworried": "{{i18n:event/Saloon/wewereworried@swap-Shauna |default={{i18n:event/Saloon/wewereworried}}}}"
       }
     },
@@ -174,7 +174,8 @@
         "OneKid_3": "{{i18n:dialogue/MarriageDialogueShane/OneKid_3@swap-Shauna |default={{i18n:dialogue/MarriageDialogueShane/OneKid_3 |Shane={{Shane}}}} |Shane={{Shane}}}}",
         "Good_2": "{{i18n:dialogue/MarriageDialogueShane/Good_2@swap-Shauna |default={{i18n:dialogue/MarriageDialogueShane/Good_2 |Shane={{Shane}}}} |Shane={{Shane}}}}",
         "Indoor_Day_4": "{{i18n:dialogue/MarriageDialogueShane/Indoor_Day_4@swap-Shauna |default={{i18n:dialogue/MarriageDialogueShane/Indoor_Day_4}}}}",
-        "Indoor_Night_1": "{{i18n:dialogue/MarriageDialogueShane/Indoor_Night_1@swap-Shauna |default={{i18n:dialogue/MarriageDialogueShane/Indoor_Night_1}}}}"
+        "Indoor_Night_1": "{{i18n:dialogue/MarriageDialogueShane/Indoor_Night_1@swap-Shauna |default={{i18n:dialogue/MarriageDialogueShane/Indoor_Night_1}}}}",
+        "Good_6": "{{i18n:dialogue/MarriageDialogueShane/Good_6@swap-Shauna |default={{i18n:dialogue/MarriageDialogueShane/Good_6}}}}"
       }
     },
     {
