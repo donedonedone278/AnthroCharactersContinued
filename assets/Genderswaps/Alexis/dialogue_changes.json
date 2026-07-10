@@ -70,9 +70,7 @@
       "Target": "Data/Events/Beach",
       "Entries": {
         "20/f Alex 500/z winter/p Alex/w sunny": "{{i18n:event/Beach/20-b101@swap-Alexis |default={{i18n:event/Beach/20-b101}}}}",
-        "288847/f Alex 2000/p Alex/w sunny/G !IS_PASSIVE_FESTIVAL_TODAY SquidFest": "{{i18n:event/Beach/288847-e3ce@swap-Alexis |default={{i18n:event/Beach/288847-e3ce}}}}",
-        "20/f+Alex+500/z+winter/p+Alex/w+sunny": "{{i18n:event/Beach/20-abdd@swap-Alexis |default={{i18n:event/Beach/20-abdd}}}}",
-        "288847/f+Alex+2000/p+Alex/w+sunny/G+!IS_PASSIVE_FESTIVAL_TODAY+SquidFest": "{{i18n:event/Beach/288847-69a3@swap-Alexis |default={{i18n:event/Beach/288847-69a3}}}}"
+        "288847/f Alex 2000/p Alex/w sunny/G !IS_PASSIVE_FESTIVAL_TODAY SquidFest": "{{i18n:event/Beach/288847-e3ce@swap-Alexis |default={{i18n:event/Beach/288847-e3ce}}}}"
       }
     },
     {

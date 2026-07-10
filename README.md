@@ -37,6 +37,7 @@ If that doesn't work, make sure this is the only copy of AnthroCharactersContinu
 - EMber (Chinese)
 - isma_kenji (Spanish)
 - mgbrsk (Russian)
+- isria0709 (Korean)
 
 ## Support
 This mod has been a community effort, but without Gaveliere it would not exist. 
